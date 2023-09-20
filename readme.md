@@ -141,6 +141,19 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <td>Discove, Research and monitor any assets available online.</td>
 </tr>
 
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>FOFA</b></td>
+<td><a href="https://fofa.info/">Website</a></td>
+<td>Cyberspace Mapping</td>
+</tr>
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Quake</b></td>
+<td><a href="https://quake.360.net/quake/#/index/">Website</a></td>
+<td>Global Cyberspace Surveying and mapping system.</td>
+</tr>
 
 </tbody>
 </table>
