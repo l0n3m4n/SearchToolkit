@@ -84,8 +84,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <table>
 <thead>
 <tr>
-<th>BANNER</th>
-
+<th>IMAGE</th>
 <th>NAME</th>
 <th>LINK</th>
 <th>DESCRIPTION</th>
@@ -164,80 +163,173 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tbody>
 </table>
 
-
-## Vulnerabilities 
+## Vulnerabilities
 
 <table>
 <thead>
 <tr>
-<th>BANNER</th>
-
-<th>NAME</th>
+<th>IMAGE</th>
+<th><b>NAME</b></th>
 <th>LINK</th>
 <th>DESCRIPTION</th>
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>NIST NVD</b></td>
-<td><a href="https://nvd.nist.gov/vuln/search/">Website</a></td>
-<td>National Vulnerability Database</td>
+<td><a href="https://nvd.nist.gov/vuln/search">Website</a></td>
+<td>US National Vulnerability Database</td>
 </tr>
-
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>MITRE CVE</b></td>
 <td><a href="https://cve.mitre.org/cve/search_cve_list.html">Website</a></td>
-<td>Publicly disclose CVE vulnerabilities</td>
+<td>Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities</td>
 </tr>
-
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>GitHub Advisory Database</b></td>
 <td><a href="https://github.com/advisories">Website</a></td>
 <td>Security vulnerability database inclusive of CVEs and GitHub originated security advisories</td>
 </tr>
-
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>CloudvulnDB</b></td>
+<td><b>cloudvulndb.org</b></td>
 <td><a href="https://www.cloudvulndb.org/">Website</a></td>
 <td>The Open Cloud Vulnerability & Security Issue Database</td>
 </tr>
-
-
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>OSV</b></td>
-<td><a href="https://osv.div.list">Website</a></td>
-<td>
-<tr>Open Source Vulnerabilities</td>
+<td><b>osv.dev</b></td>
+<td><a href="https://osv.dev/list">Website</a></td>
+<td>Open Source Vulnerabilities</td>
 </tr>
-
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>Opencve</b></td>
-<td><a href="https://opencve.io/cve">Website</a></td>
+<td><b>Vulners.com</b></td>
+<td><a href="https://vulners.com/">Website</a></td>
+<td>Your Search Engine for Security Intelligence</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>opencve.io</b></td>
+<td><a href="https://www.opencve.io/cve">Website</a></td>
 <td>Easiest way to track CVE updates and be alerted about new vulnerabilities</td>
 </tr>
-
-
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>Vulners</b></td>
-<td><a href="https://vulners.com/">Website</a></td>
-<td>Search Engine for Security Intelligence and Vulnerability Database</td>
-</tr>
-
-
-<tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>Security Snyk</b></td>
+<td><b>security.snyk.io</b></td>
 <td><a href="https://security.snyk.io/">Website</a></td>
 <td>Open Source Vulnerability Database</td>
 </tr>
-
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Mend Vulnerability Database</b></td>
+<td><a href="https://www.mend.io/vulnerability-database/">Website</a></td>
+<td>The largest open source vulnerability DB</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Rapid7 - DB</b></td>
+<td><a href="https://www.rapid7.com/db/">Website</a></td>
+<td>Vulnerability & Exploit Database</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>CVEDetails</b></td>
+<td><a href="https://www.cvedetails.com/">Website</a></td>
+<td>The ultimate security vulnerability datasource</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>VulnIQ</b></td>
+<td><a href="https://vulniq.com/">Website</a></td>
+<td>Vulnerability intelligence and management solution</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>SynapsInt</b></td>
+<td><a href="https://synapsint.com/">Website</a></td>
+<td>The unified OSINT research tool</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Aqua Vulnerability Database</b></td>
+<td><a href="https://avd.aquasec.com/">Website</a></td>
+<td>Vulnerabilities and weaknesses in open source applications and cloud native infrastructure</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Vulmon</b></td>
+<td><a href="https://vulmon.com/">Website</a></td>
+<td>Vulnerability and exploit search engine</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>VulDB</b></td>
+<td><a href="https://vuldb.com/">Website</a></td>
+<td>Number one vulnerability database</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>ScanFactory</b></td>
+<td><a href="https://in.scanfactory.io/cvemon.html">Website</a></td>
+<td>Realtime Security Monitoring</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Trend Micro Zero Day Initiative</b></td>
+<td><a href="https://www.zerodayinitiative.com/advisories/published/">Website</a></td>
+<td>Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Google Project Zero</b></td>
+<td><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary">Website</a></td>
+<td>Vulnerabilities including Zero Days</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Trickest CVE Repository</b></td>
+<td><a href="https://github.com/trickest/cve">GitHub Repository</a></td>
+<td>Gather and update all available and newest CVEs with their PoC</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>cnvd.org.cn</b></td>
+<td><a href="https://www.cnvd.org.cn/">Website</a></td>
+<td>Chinese National Vulnerability Database</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>InTheWild.io</b></td>
+<td><a href="https://inthewild.io/feed">Website</a></td>
+<td>Check CVEs in our free, open source feed of exploited vulnerabilities</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Vulnerability Lab</b></td>
+<td><a href="https://www.vulnerability-lab.com/">Website</a></td>
+<td>Vulnerability research, bug bounties, and vulnerability assessments</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Red Hat Security Advisories</b></td>
+<td><a href="https://access.redhat.com/security/security-updates/">Website</a></td>
+<td>Information about security flaws that affect Red Hat products and services in the form of security advisories</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Cisco Security Advisories</b></td>
+<td><a href="https://sec.cloudapps.cisco.com/security/center/publicationListing.x">Website</a></td>
+<td>Security advisories and vulnerability information for Cisco products, including network equipment and software</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Microsoft Security Response Center</b></td>
+<td><a href="https://msrc.microsoft.com/update-guide/en-us">Website</a></td>
+<td>Reports of security vulnerabilities affecting Microsoft products and services</td>
+</tr>
 </tbody>
 </table>
