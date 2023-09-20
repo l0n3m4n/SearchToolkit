@@ -81,8 +81,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Server
 
-<!--CSS Table design-->
-<table class="steelBlueCols">
+<table>
 <thead>
 <tr>
 <th>BANNER</th>
@@ -166,4 +165,25 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 
+## Vulnerabilities 
 
+<table>
+<thead>
+<tr>
+<th>BANNER</th>
+
+<th>NAME</th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Shodan</b></td>
+<td><a href="https://shodan.io">Website</a></td>
+<td>Search Engine for the Internet of Everything.</td>
+</tr>
+
+</tbody>
+</table>
