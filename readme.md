@@ -189,7 +189,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>MITRE CVE</b></td>
-<td><a href="https://cve.mitre.org/cve/search cve list.html/">Website</a></td>
+<td><a href="https://cve.mitre.org/cve/search_cve_list.html">Website</a></td>
 <td>Publicly disclose CVE vulnerabilities</td>
 </tr>
 
