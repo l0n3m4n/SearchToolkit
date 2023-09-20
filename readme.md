@@ -59,7 +59,7 @@
 <p align="center">
   <a href="#osint"><b>OSINT</b></a> |
    <a href="#server"><b>Servers</b></a> |
-  <a href="#sulnerabilities"><b>Vulnerabilities</b></a> | 
+  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#exploits"><b>Exploits</b></a> | 
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#domains"><b>Domains</b></a> |
