@@ -164,7 +164,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tbody>
 </table>
 
-<br>
+
 ## Vulnerabilities 
 
 <table>
@@ -178,11 +178,12 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>Shodan</b></td>
-<td><a href="https://shodan.io">Website</a></td>
-<td>Search Engine for the Internet of Everything.</td>
+<td><b>NIST NVD</b></td>
+<td><a href="https://nvd.nist.gov/vuln/search/">Website</a></td>
+<td>National Vulnerability Database</td>
 </tr>
 
 </tbody>
