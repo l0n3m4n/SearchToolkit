@@ -186,5 +186,13 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <td>National Vulnerability Database</td>
 </tr>
 
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>MITRE CVE</b></td>
+<td><a href="https://cve.mitre.org/cve/search_cve_list.html/">Website</a></td>
+<td>Publicly disclose CVE vulnerabilities</td>
+</tr>
+
+
 </tbody>
 </table>
