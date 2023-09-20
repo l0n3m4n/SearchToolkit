@@ -235,7 +235,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>Security Snyk</b></td>
-<td><a href="https://security.synk.io/">Website</a></td>
+<td><a href="https://security.snyk.io/">Website</a></td>
 <td>Open Source Vulnerability Database</td>
 </tr>
 
