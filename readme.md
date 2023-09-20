@@ -202,10 +202,35 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 <tr>
 <td><img src="assets/server/shodan.png"></td>
+<td><b>CloudvulnDB</b></td>
+<td><a href="https://www.cloudvulndb.org/">Website</a></td>
+<td>The Open Cloud Vulnerability & Security Issue Database</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>OSV</b></td>
+<td><a href="https://osv.div.list">Website</a></td>
+<td>
+<tr>Open Source Vulnerabilities</td>
+</tr>
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Opencve</b></td>
+<td><a href="https://opencve.io/cve">Website</a></td>
+<td>Easiest way to track CVE updates and be alerted about new vulnerabilities</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
 <td><b>NIST NVD</b></td>
 <td><a href="https://nvd.nist.gov/vuln/search/">Website</a></td>
 <td>National Vulnerability Database</td>
 </tr>
+
 
 </tbody>
 </table>
