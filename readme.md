@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Pentest Search Engine 
+  Pentester Search Engine 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lybGJrZnI4aXJuYjBmOHVxZTR5azcyanlrNGtzbTY3b2xkODc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgFLfWUZigjoem4/giphy.gif" width="28">
 </h2>
 
@@ -23,11 +23,13 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <b>「 Author 」</b>
+<p align="center">
+    <img src="assets/logo.png">
     <br>
-    <a href="https://facebook.com/ehphofficial">「 <b>Ethical Hacker Philippines</b> 」
+     <b>「 Author 」</b>
+  <samp>
+    <br>
+    <a href="https://facebook.com/ehphofficial">「 <b>Ethical Hacker Philippines - EHPH</b> 」
     <br>
     <br>
   </samp>
