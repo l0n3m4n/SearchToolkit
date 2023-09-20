@@ -155,6 +155,13 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <td>Global Cyberspace Surveying and mapping system.</td>
 </tr>
 
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Hunter</b></td>
+<td><a href="https://hunter.how/">Website</a></td>
+<td>Internet search engine for security researchers.</td>
+</tr>
+
 </tbody>
 </table>
 
