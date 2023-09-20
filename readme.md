@@ -193,6 +193,19 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <td>Publicly disclose CVE vulnerabilities</td>
 </tr>
 
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>GitHub Advisory Database</b></td>
+<td><a href="https://github.com/advisories">Website</a></td>
+<td>Security vulnerability database inclusive of CVEs and GitHub originated security advisories</td>
+</tr>
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>NIST NVD</b></td>
+<td><a href="https://nvd.nist.gov/vuln/search/">Website</a></td>
+<td>National Vulnerability Database</td>
+</tr>
 
 </tbody>
 </table>
