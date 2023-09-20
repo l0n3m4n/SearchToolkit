@@ -18,7 +18,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Welcome!, Enjoy
-                <b><a target="_blank" href="https://en.wikipedia.org/wiki/Hacker">Hacking</a></b>
+                <b><a target="_blank" href="https://en.wikibooks.org/wiki/Hacking">Hacking</a></b>
         </samp>
 </h3>
 
