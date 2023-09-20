@@ -226,11 +226,18 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>NIST NVD</b></td>
-<td><a href="https://nvd.nist.gov/vuln/search/">Website</a></td>
-<td>National Vulnerability Database</td>
+<td><b>Vulners</b></td>
+<td><a href="https://vulners.com/">Website</a></td>
+<td>Search Engine for Security Intelligence and Vulnerability Database</td>
 </tr>
 
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Security Snyk</b></td>
+<td><a href="https://security.synk.io/">Website</a></td>
+<td>Open Source Vulnerability Database</td>
+</tr>
 
 </tbody>
 </table>
