@@ -817,31 +817,31 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>whois.domaintools.com</b></td>
+<td><b>Whois.domaintools.com</b></td>
 <td><a href="https://whois.domaintools.com/">Website</a></td>
 <td>Industry’s fastest domain discovery engine and broadest, most accurate data</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>grayhatwarfare.com - domains</b></td>
+<td><b>Grayhatwarfare.com - domains</b></td>
 <td><a href="https://shorteners.grayhatwarfare.com/domains">Website</a></td>
 <td>How to search URLs exposed by Shortener services</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>whoisology.com</b></td>
+<td><b>Whoisology.com</b></td>
 <td><a href="https://whoisology.com/">Website</a></td>
 <td>Deep Connections Between Domain Names & Their Owners</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>who.is</b></td>
+<td><b>Who.is</b></td>
 <td><a href="https://who.is/">Website</a></td>
 <td>WHOIS Search, Domain Name, Website, and IP Tools</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>pentest-tools.com</b></td>
+<td><b>Pentest-tools.com</b></td>
 <td><a href="https://pentest-tools.com/information-gathering/find-subdomains-of-domain">Website</a></td>
 <td>Discover subdomains and determine the attack surface of an organization</td>
 </tr>
@@ -859,7 +859,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>sitereport.netcraft.com</b></td>
+<td><b>Sitereport.netcraft.com</b></td>
 <td><a href="https://sitereport.netcraft.com/">Website</a></td>
 <td>Find out the infrastructure and technologies used by any site</td>
 </tr>
@@ -877,31 +877,31 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>statscrop.com</b></td>
+<td><b>Statscrop.com</b></td>
 <td><a href="https://www.statscrop.com/">Website</a></td>
 <td>Millions of amazing websites across the web are being analyzed with StatsCrop</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>securityheaders.com</b></td>
+<td><b>Securityheaders.com</b></td>
 <td><a href="https://securityheaders.com/">Website</a></td>
 <td>Scan your site now</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>visualsitemapper.com</b></td>
+<td><b>Visualsitemapper.com</b></td>
 <td><a href="http://www.visualsitemapper.com/">Website</a></td>
 <td>Create a visual map of your site</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>similarweb.com</b></td>
+<td><b>Similarweb.com</b></td>
 <td><a href="https://www.similarweb.com/">Website</a></td>
 <td>The easiest and fastest tool to find out what's really going on online</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>buckets.grayhatwarfare.com</b></td>
+<td><b>Buckets.grayhatwarfare.com</b></td>
 <td><a href="https://buckets.grayhatwarfare.com/">Website</a></td>
 <td>Public buckets</td>
 </tr>
@@ -913,13 +913,13 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>wannabe1337.xyz</b></td>
+<td><b>Wannabe1337.xyz</b></td>
 <td><a href="https://wannabe1337.xyz/">Website</a></td>
 <td>Online Tools</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>subdomainfinder.c99.nl</b></td>
+<td><b>Subdomainfinder.c99.nl</b></td>
 <td><a href="https://subdomainfinder.c99.nl/">Website</a></td>
 <td>Scanner that scans an entire domain to find as many subdomains as possible</td>
 </tr>
@@ -958,6 +958,222 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <td><b>SpyOnWeb</b></td>
 <td><a href="https://spyonweb.com/">Website</a></td>
 <td>Quick and convenient search for the websites that probably belong to the same owner</td>
+</tr>
+</tbody>
+</table>
+
+## DNS
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th><b>NAME</b></th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>DNSDumpster</b></td>
+<td><a href="https://dnsdumpster.com/">Website</a></td>
+<td>DNS recon & research, find & lookup DNS records</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Chaos</b></td>
+<td><a href="https://chaos.projectdiscovery.io/#/">Website</a></td>
+<td>Enhance research and analyze changes around DNS for better insights</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>RapidDNS</b></td>
+<td><a href="https://rapiddns.io/">Website</a></td>
+<td>DNS query tool which makes querying subdomains or sites of the same IP easy</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>DNSdb</b></td>
+<td><a href="https://docs.farsightsecurity.com/#dnsdb">Website</a></td>
+<td>Passive DNS historical database</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Omnisint</b></td>
+<td><a href="https://omnisint.io/reverse-dns-lookup">Website</a></td>
+<td>Reverse DNS lookup</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>HackerTarget</b></td>
+<td><a href="https://hackertarget.com/ip-tools/">Website</a></td>
+<td>Collect information about IP Addresses, Networks, Web Pages, and DNS records</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Passivedns.mnemonic.no</b></td>
+<td><a href="https://passivedns.mnemonic.no/">Website</a></td>
+<td>Web interface for querying passive DNS data collected in our malware lab</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Ptrarchive.com</b></td>
+<td><a href="http://ptrarchive.com/">Website</a></td>
+<td>Over 230 billion reverse DNS entries from 2008 to the present</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Dnshistory.org</b></td>
+<td><a href="http://dnshistory.org/">Website</a></td>
+<td>Domain Name System Historical Record Archive</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>DNSTwister</b></td>
+<td><a href="https://dnstwister.report/">Website</a></td>
+<td>The anti-phishing domain name search engine and DNS monitoring service</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>DNSviz</b></td>
+<td><a href="https://dnsviz.net/">Website</a></td>
+<td>Tool for visualizing the status of a DNS zone</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>C99.nl</b></td>
+<td><a href="https://api.c99.nl/">Website</a></td>
+<td>Over 57 quality APIs and growing!</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Wannabe1337.xyz</b></td>
+<td><a href="https://wannabe1337.xyz/">Website</a></td>
+<td>Online Tools</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>DNSlytics</b></td>
+<td><a href="https://dnslytics.com/">Website</a></td>
+<td>Find out everything about a domain name, IP address, or provider</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Dnsrepo.noc.org</b></td>
+<td><a href="https://dnsrepo.noc.org/">Website</a></td>
+<td>DNS Database Repository Search</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>DNSSpy</b></td>
+<td><a href="https://dnsspy.io/">Website</a></td>
+<td>Monitor, validate, and verify your DNS configurations</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>ZETAlytics</b></td>
+<td><a href="https://zetalytics.com/">Website</a></td>
+<td>We offer unrivaled geographic diversity and exclusive global network visibility in searchable datasets for use by cybersecurity analysts</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>AskDNS</b></td>
+<td><a href="https://askdns.com/">Website</a></td>
+<td>Lookup Connected Domain Names and IP Addresses</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>360 PassiveDNS.CN</b></td>
+<td><a href="https://passivedns.cn/">Website</a></td>
+<td>Biggest publicly available database in China designed for security and research purposes</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>MXtoolbox</b></td>
+<td><a href="https://mxtoolbox.com/SuperTool.aspx">Website</a></td>
+<td>All of your MX record, DNS, blacklist, and SMTP diagnostics in one integrated tool</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>NSLookup.io</b></td>
+<td><a href="https://www.nslookup.io/">Website</a></td>
+<td>Find all DNS records for a domain name using this online tool</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Robtex DNS Lookup</b></td>
+<td><a href="https://www.robtex.com/dns-lookup/">Website</a></td>
+<td>Get detailed information on the nameservers associated with a domain name</td>
+</tr>
+</tbody>
+</table>
+
+## Certificates
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th><b>NAME</b></th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Crt.sh</b></td>
+<td><a href="https://crt.sh/">Website</a></td>
+<td>Certificate Search</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>CTSearch</b></td>
+<td><a href="https://ui.ctsearch.entrust.com/ui/ctsearchui">Website</a></td>
+<td>Certificate Transparency Search Tool</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Tls.bufferover.run</b></td>
+<td><a href="https://tls.bufferover.run/">Website</a></td>
+<td>Quickly find certificates in IPv4 space</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>CertSpotter</b></td>
+<td><a href="https://sslmate.com/certspotter/">Website</a></td>
+<td>Monitors your domains for expiring, unauthorized, and invalid SSL certificates</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>SynapsInt</b></td>
+<td><a href="https://synapsint.com/">Website</a></td>
+<td>The unified OSINT research tool</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Censys Search - Certificates</b></td>
+<td><a href="https://search.censys.io/certificates">Website</a></td>
+<td>Certificates Search</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Ciphersuite.info</b></td>
+<td><a href="https://ciphersuite.info/">Website</a></td>
+<td>TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Certificatedetails</b></td>
+<td><a href="https://certificatedetails.com/">Website</a></td>
+<td>Online certificate viewer. Inspect and download certificates from your browser</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>FacebookCT</b></td>
+<td><a href="https://developers.facebook.com/tools/ct/search/">Website</a></td>
+<td>Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates</td>
 </tr>
 </tbody>
 </table>
