@@ -127,6 +127,20 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <td>The source for understanding internet noise.</td>
 </tr>
 
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Natlas</b></td>
+<td><a href="https://natlas.io/">Website</a></td>
+<td>Scaling network scanning.</td>
+</tr>
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Netlas</b></td>
+<td><a href="https://netlas.io/">Website</a></td>
+<td>Discove, Research and monitor any assets available online.</td>
+</tr>
+
 
 </tbody>
 </table>
