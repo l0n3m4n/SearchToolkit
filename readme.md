@@ -65,6 +65,7 @@
   <a href="#code-search"><b>Code Search</b></a> |
   <a href="#domains"><b>Domains</b></a> |
   <a href="#dns"><b>DNS</b></a> |
+  <a href="#url"><b>URL</b></a> |
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi Networks</b></a> |
   <a href="#credentials"><b>Credentials</b></a> |
@@ -1853,6 +1854,66 @@ A carefully gathered list of excellent tools that are highly valuable for variou
   </tbody>
 </table>
 
+
+## URL
+
+<table>
+  <thead>
+    <tr>
+      <th>NAME</th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>PhoneBook</b></td>
+      <td><a href="https://phonebook.cz/">Website</a></td>
+      <td>Lists all domains, email addresses, or URLs for the given input domain</td>
+    </tr>
+    <tr>
+      <td><b>IntelligenceX</b></td>
+      <td><a href="https://intelx.io/">Website</a></td>
+      <td>Search engine and data archive</td>
+    </tr>
+    <tr>
+      <td><b>URLScan</b></td>
+      <td><a href="https://urlscan.io/">Website</a></td>
+      <td>A sandbox for the web</td>
+    </tr>
+    <tr>
+      <td><b>HackerTarget</b></td>
+      <td><a href="https://hackertarget.com/ip-tools/">Website</a></td>
+      <td>Collect information about IP Addresses, Networks, Web Pages, and DNS records</td>
+    </tr>
+    <tr>
+      <td><b>MOZ Link Explorer</b></td>
+      <td><a href="https://moz.com/link-explorer">Website</a></td>
+      <td>The world's best backlink checker with over 40 trillion links</td>
+    </tr>
+    <tr>
+      <td><b>shorteners.grayhatwarfare.com</b></td>
+      <td><a href="https://shorteners.grayhatwarfare.com/">Website</a></td>
+      <td>Search URLs exposed by Shortener services</td>
+    </tr>
+    <tr>
+      <td><b>CommonCrawl Index</b></td>
+      <td><a href="http://index.commoncrawl.org/">Website</a></td>
+      <td>Open repository of web crawl data</td>
+    </tr>
+    <tr>
+      <td><b>URLVoid</b></td>
+      <td><a href="https://www.urlvoid.com/">Website</a></td>
+      <td>Check the online reputation/safety of a website</td>
+    </tr>
+    <tr>
+      <td><b>Norton SafeWeb</b></td>
+      <td><a href="https://safeweb.norton.com/">Website</a></td>
+      <td>Look up a site, Get our rating</td>
+    </tr>
+  </tbody>
+</table>
+
 # OSINT
 
 ## Phone Numbers 
@@ -2021,64 +2082,6 @@ A carefully gathered list of excellent tools that are highly valuable for variou
   </tbody>
 </table>
 
-### URL's
-
-<table>
-  <thead>
-    <tr>
-      <th>NAME</th>
-      <th>LINK</th>
-      <th>DESCRIPTION</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>PhoneBook</b></td>
-      <td><a href="https://phonebook.cz/">Website</a></td>
-      <td>Lists all domains, email addresses, or URLs for the given input domain</td>
-    </tr>
-    <tr>
-      <td><b>IntelligenceX</b></td>
-      <td><a href="https://intelx.io/">Website</a></td>
-      <td>Search engine and data archive</td>
-    </tr>
-    <tr>
-      <td><b>URLScan</b></td>
-      <td><a href="https://urlscan.io/">Website</a></td>
-      <td>A sandbox for the web</td>
-    </tr>
-    <tr>
-      <td><b>HackerTarget</b></td>
-      <td><a href="https://hackertarget.com/ip-tools/">Website</a></td>
-      <td>Collect information about IP Addresses, Networks, Web Pages, and DNS records</td>
-    </tr>
-    <tr>
-      <td><b>MOZ Link Explorer</b></td>
-      <td><a href="https://moz.com/link-explorer">Website</a></td>
-      <td>The world's best backlink checker with over 40 trillion links</td>
-    </tr>
-    <tr>
-      <td><b>shorteners.grayhatwarfare.com</b></td>
-      <td><a href="https://shorteners.grayhatwarfare.com/">Website</a></td>
-      <td>Search URLs exposed by Shortener services</td>
-    </tr>
-    <tr>
-      <td><b>CommonCrawl Index</b></td>
-      <td><a href="http://index.commoncrawl.org/">Website</a></td>
-      <td>Open repository of web crawl data</td>
-    </tr>
-    <tr>
-      <td><b>URLVoid</b></td>
-      <td><a href="https://www.urlvoid.com/">Website</a></td>
-      <td>Check the online reputation/safety of a website</td>
-    </tr>
-    <tr>
-      <td><b>Norton SafeWeb</b></td>
-      <td><a href="https://safeweb.norton.com/">Website</a></td>
-      <td>Look up a site, Get our rating</td>
-    </tr>
-  </tbody>
-</table>
 
 ### Mail Address
 
