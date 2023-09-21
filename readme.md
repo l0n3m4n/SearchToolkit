@@ -71,7 +71,7 @@
   <a href="#credentials"><b>Credentials</b></a> |
   <a href="#leaks"><b>Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> 
 </p>
 
 <!--about-->
