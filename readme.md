@@ -193,7 +193,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>GitHub Advisory Database</b></td>
-<td><a href="https://github.com/advisories">Website</a></td>
+<td><a href="https://github.com/advisories">Github</a></td>
 <td>Security vulnerability database inclusive of CVEs and GitHub originated security advisories</td>
 </tr>
 
@@ -312,7 +312,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>Trickest CVE Repository</b></td>
-<td><a href="https://github.com/trickest/cve">GitHub Repository</a></td>
+<td><a href="https://github.com/trickest/cve">GitHub</a></td>
 <td>Gather and update all available and newest CVEs with their PoC</td>
 </tr>
 
@@ -412,19 +412,19 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>LOLBAS</b></td>
-<td><a href="https://lolbas-project.github.io/">Website</a></td>
+<td><a href="https://lolbas-project.github.io/">Github</a></td>
 <td>Living Off The Land Binaries, Scripts and Libraries</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>GTFOBins</b></td>
-<td><a href="https://gtfobins.github.io/">Website</a></td>
+<td><a href="https://gtfobins.github.io/">Github</a></td>
 <td>Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>Payloads All The Things</b></td>
-<td><a href="https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/">Website</a></td>
+<td><a href="https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security</td>
 </tr>
 <tr>
@@ -460,7 +460,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>GTFOArgs</b></td>
-<td><a href="https://gtfoargs.github.io/">Website</a></td>
+<td><a href="https://gtfoargs.github.io/">Github</a></td>
 <td>Curated list of Unix binaries that can be manipulated for argument injection</td>
 </tr>
 <tr>
