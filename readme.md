@@ -1853,6 +1853,355 @@ A carefully gathered list of excellent tools that are highly valuable for variou
   </tbody>
 </table>
 
+# OSINT (Philippines)
+
+## Phone Numbers 
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>NumLookup</b></td>
+      <td><a href="https://www.numlookup.com/">Website</a></td>
+      <td>Free reverse phone lookup</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>SpyDialer</b></td>
+      <td><a href="https://spydialer.com/">Website</a></td>
+      <td>Free Reverse Lookup Search</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>WhitePages</b></td>
+      <td><a href="https://www.whitepages.com/">Website</a></td>
+      <td>Find people, contact info & background checks</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>National Cellular Directory</b></td>
+      <td><a href="https://www.nationalcellulardirectory.com/">Website</a></td>
+      <td>Begin your comprehensive people search now</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Phone Validator</b></td>
+      <td><a href="https://www.phonevalidator.com/">Website</a></td>
+      <td>Is it a cell phone or is it a landline or is it a fake?</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Free Carrier Lookup</b></td>
+      <td><a href="https://freecarrierlookup.com/">Website</a></td>
+      <td>Enter a phone number and we'll return the carrier name</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>RocketReach</b></td>
+      <td><a href="https://rocketreach.co/">Website</a></td>
+      <td>Your first-degree connection to any professional</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>sync.me</b></td>
+      <td><a href="https://sync.me/">Website</a></td>
+      <td>Find out who called</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>EmobileTracker</b></td>
+      <td><a href="https://www.emobiletracker.com/">Website</a></td>
+      <td>Track Mobile Owner Name, Location and Mobile Service Provider</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Reverse Phone Lookup</b></td>
+      <td><a href="https://www.reversephonelookup.com/">Website</a></td>
+      <td>Find Out The Owner Of A Phone Number</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ThatsThem</b></td>
+      <td><a href="https://thatsthem.com/reverse-phone-lookup">Website</a></td>
+      <td>Reverse phone lookup</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>thisnumber.com</b></td>
+      <td><a href="https://www.thisnumber.com/">Website</a></td>
+      <td>International Phone Directories</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>usphonebook.com</b></td>
+      <td><a href="https://www.usphonebook.com/">Website</a></td>
+      <td>Free Reverse Phone Number Lookup</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>truepeoplesearch.com</b></td>
+      <td><a href="https://www.truepeoplesearch.com/#">Website</a></td>
+      <td>Get current address, cell phone number, email address, relatives, friends and a lot more</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Tellows</b></td>
+      <td><a href="https://www.tellows.com/">Website</a></td>
+      <td>Who is calling? The phone number reverse search</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>SynapsInt</b></td>
+      <td><a href="https://synapsint.com/">Website</a></td>
+      <td>The unified OSINT research tool</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>C99.nl</b></td>
+      <td><a href="https://api.c99.nl/">Website</a></td>
+      <td>Over 57 quality API's and growing</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ValidNumber.com</b></td>
+      <td><a href="https://validnumber.com/">Website</a></td>
+      <td>Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>CellIdFinder</b></td>
+      <td><a href="https://cellidfinder.com/">Website</a></td>
+      <td>Nonprofit project which helps you to find GSM BTS by MCC, MNC, LAC and CellID</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>OldPhoneBook</b></td>
+      <td><a href="http://www.oldphonebook.com/">Website</a></td>
+      <td>Instantly search a large selection from the past 20 years of USA phone listings</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Spokeo</b></td>
+      <td><a href="https://www.spokeo.com/">Website</a></td>
+      <td>Search by name, phone, address, or email to confidentially lookup information about people you know</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Intelius Phone Lookup</b></td>
+      <td><a href="https://www.intelius.com/reverse-phone-lookup/">Website</a></td>
+      <td>Look up a phone number to find owner information, carrier details, and more</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ZabaSearch Phone Lookup</b></td>
+      <td><a href="https://www.zabasearch.com/reverse-phone-lookup/">Website</a></td>
+      <td>Reverse Phone Lookup Tool Can Uncover Personal Information, Social Media Data, Online Activity, Photos, and More</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>AnyWho Phone Lookup</b></td>
+      <td><a href="https://www.anywho.com/reverse-phone-lookup/">Website</a></td>
+      <td>Find out information associated with a phone number</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Radaris Phone Lookup</b></td>
+      <td><a href="https://radaris.com/#findPhoneH">Website</a></td>
+      <td>Look up any phone number to see its owner and identify who's calling or texting you</td>
+    </tr>
+    <!-- Previous entries... -->
+  </tbody>
+</table>
+
+### URL's
+
+<table>
+  <thead>
+    <tr>
+      <th>NAME</th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>PhoneBook</b></td>
+      <td><a href="https://phonebook.cz/">Website</a></td>
+      <td>Lists all domains, email addresses, or URLs for the given input domain</td>
+    </tr>
+    <tr>
+      <td><b>IntelligenceX</b></td>
+      <td><a href="https://intelx.io/">Website</a></td>
+      <td>Search engine and data archive</td>
+    </tr>
+    <tr>
+      <td><b>URLScan</b></td>
+      <td><a href="https://urlscan.io/">Website</a></td>
+      <td>A sandbox for the web</td>
+    </tr>
+    <tr>
+      <td><b>HackerTarget</b></td>
+      <td><a href="https://hackertarget.com/ip-tools/">Website</a></td>
+      <td>Collect information about IP Addresses, Networks, Web Pages, and DNS records</td>
+    </tr>
+    <tr>
+      <td><b>MOZ Link Explorer</b></td>
+      <td><a href="https://moz.com/link-explorer">Website</a></td>
+      <td>The world's best backlink checker with over 40 trillion links</td>
+    </tr>
+    <tr>
+      <td><b>shorteners.grayhatwarfare.com</b></td>
+      <td><a href="https://shorteners.grayhatwarfare.com/">Website</a></td>
+      <td>Search URLs exposed by Shortener services</td>
+    </tr>
+    <tr>
+      <td><b>CommonCrawl Index</b></td>
+      <td><a href="http://index.commoncrawl.org/">Website</a></td>
+      <td>Open repository of web crawl data</td>
+    </tr>
+    <tr>
+      <td><b>URLVoid</b></td>
+      <td><a href="https://www.urlvoid.com/">Website</a></td>
+      <td>Check the online reputation/safety of a website</td>
+    </tr>
+    <tr>
+      <td><b>Norton SafeWeb</b></td>
+      <td><a href="https://safeweb.norton.com/">Website</a></td>
+      <td>Look up a site, Get our rating</td>
+    </tr>
+  </tbody>
+</table>
+
+### Mail Address
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Hunter.io</b></td>
+      <td><a href="https://hunter.io/">Website</a></td>
+      <td>Find professional email addresses in seconds</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>PhoneBook</b></td>
+      <td><a href="https://phonebook.cz/">Website</a></td>
+      <td>Lists all domains, email addresses, or URLs for the given input domain</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>IntelligenceX</b></td>
+      <td><a href="https://intelx.io/">Website</a></td>
+      <td>Search engine and data archive</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Reacher.email</b></td>
+      <td><a href="https://reacher.email/">Website</a></td>
+      <td>Open-Source Email Verification</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>RocketReach</b></td>
+      <td><a href="https://rocketreach.co/">Website</a></td>
+      <td>Your first-degree connection to any professional</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>email-format.com</b></td>
+      <td><a href="https://www.email-format.com/">Website</a></td>
+      <td>Find the email address formats in use at thousands of companies</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>EmailHippo</b></td>
+      <td><a href="https://tools.emailhippo.com/">Website</a></td>
+      <td>Email address verification technology</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ThatsThem</b></td>
+      <td><a href="https://thatsthem.com/reverse-email-lookup">Website</a></td>
+      <td>Reverse email lookup</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>verify-email.org</b></td>
+      <td><a href="https://verify-email.org/">Website</a></td>
+      <td>Checks whether the mailbox exists or not</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Melissa - Emailcheck</b></td>
+      <td><a href="https://www.melissa.com/v2/lookups/emailcheck/email/">Website</a></td>
+      <td>Check email addresses and verify they are live</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>VoilaNorbert</b></td>
+      <td><a href="https://www.voilanorbert.com/">Website</a></td>
+      <td>I can find anyone's email address</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>SynapsInt</b></td>
+      <td><a href="https://synapsint.com/">Website</a></td>
+      <td>The unified OSINT research tool</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>skymem.info</b></td>
+      <td><a href="http://www.skymem.info/">Website</a></td>
+      <td>Find email addresses of companies and people</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>findemails.com</b></td>
+      <td><a href="https://www.findemails.com/">Website</a></td>
+      <td>Find Anyone's Email Address in Seconds</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Experte email finder</b></td>
+      <td><a href="https://www.experte.com/email-finder">Website</a></td>
+      <td>Find the right email address, even if you only know the name and the company</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>EmailSherlock</b></td>
+      <td><a href="https://www.emailsherlock.com/">Website</a></td>
+      <td>Search for the Person behind the Email address and find our reputation score</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Anymail Finder</b></td>
+      <td><a href="https://anymailfinder.com/">Website</a></td>
+      <td>Find verified emails</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Tomba.io</b></td>
+      <td><a href="https://tomba.io/">Website</a></td>
+      <td>With 430+ million email addresses indexed, effective search filters, and deliverability checks, Tomba's email finder is its most powerful tool</td>
+    </tr>
+  </tbody>
+</table>
 
 ---------
 
