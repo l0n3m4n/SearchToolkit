@@ -1853,7 +1853,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
   </tbody>
 </table>
 
-# OSINT (Philippines)
+# OSINT
 
 ## Phone Numbers 
 
