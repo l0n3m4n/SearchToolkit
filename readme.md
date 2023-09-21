@@ -1177,3 +1177,685 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </tr>
 </tbody>
 </table>
+
+## Wifi Networks
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Wigle.net</b></td>
+      <td><a href="https://wigle.net/">Website</a></td>
+      <td>Maps and database of 802.11 wireless networks with statistics</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>wifimap.io</b></td>
+      <td><a href="https://www.wifimap.io/">Website</a></td>
+      <td>Connect to all Free WiFi Hotspots using WiFi Map App all over the World!</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>wificafespots.com</b></td>
+      <td><a href="http://www.wificafespots.com/">Website</a></td>
+      <td>Free WiFi Cafe Spots</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>wifispc.com</b></td>
+      <td><a href="https://wifispc.com/">Website</a></td>
+      <td>Free map of Wi-Fi passwords anywhere you go!</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>openwifimap.net</b></td>
+      <td><a href="https://openwifimap.net/">Website</a></td>
+      <td>HTML5 map with OpenWiFiMap data</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>mylnikov.org</b></td>
+      <td><a href="https://www.mylnikov.org/">Website</a></td>
+      <td>Public API implementation of Wi-Fi Geo-Location database</td>
+    </tr>
+  </tbody>
+</table>
+
+## Device Information
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>MACVendorLookup.com</b></td>
+      <td><a href="https://www.macvendorlookup.com/">Website</a></td>
+      <td>Look up the vendor for a specific MAC Address</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>macvendors.com</b></td>
+      <td><a href="https://macvendors.com/">Website</a></td>
+      <td>Find MAC Address Vendors</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>macaddress.io</b></td>
+      <td><a href="https://macaddress.io/">Website</a></td>
+      <td>MAC address vendor lookup</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>maclookup.app</b></td>
+      <td><a href="https://maclookup.app/">Website</a></td>
+      <td>Find the vendor name of a device by entering an OUI or a MAC address</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>macvendors.co</b></td>
+      <td><a href="https://macvendors.co/">Website</a></td>
+      <td>Get vendor name of your network device using its MAC address</td>
+    </tr>
+  </tbody>
+</table>
+
+## Credentials
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Have I Been Pwned</b></td>
+      <td><a href="https://haveibeenpwned.com/">Website</a></td>
+      <td>Check if your email or phone is in a data breach</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Dehashed</b></td>
+      <td><a href="https://www.dehashed.com/">Website</a></td>
+      <td>Free deep-web scans and protection against credential leaks</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>LeakCheck.io</b></td>
+      <td><a href="https://leakcheck.io/">Website</a></td>
+      <td>Make sure your credentials haven't been compromised</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>crackstation.net</b></td>
+      <td><a href="https://crackstation.net/">Website</a></td>
+      <td>Massive pre-computed lookup tables to crack password hashes</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>HashKiller</b></td>
+      <td><a href="https://hashkiller.io/listmanager">Website</a></td>
+      <td>Pre-cracked Hashes, easily searchable</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>LeakedPassword</b></td>
+      <td><a href="https://leakedpassword.com/">Website</a></td>
+      <td>Search across multiple data breaches to see if your password has been compromised</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>BugMeNot</b></td>
+      <td><a href="https://bugmenot.com/">Website</a></td>
+      <td>Find and share logins</td>
+    </tr>
+  </tbody>
+</table>
+
+## Leaks
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>WikiLeaks</b></td>
+      <td><a href="https://wikileaks.org/">Website</a></td>
+      <td>News leaks and classified media provided by anonymous sources</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Leak-Lookup</b></td>
+      <td><a href="https://leak-lookup.com/">Website</a></td>
+      <td>Search across thousands of data breaches</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Snusbase</b></td>
+      <td><a href="https://snusbase.com/">Website</a></td>
+      <td>Stay on top of the latest database breaches</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>breachdirectory.org</b></td>
+      <td><a href="https://breachdirectory.org/">Website</a></td>
+      <td>Check if your information was exposed in a data breach</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>BreachForums</b></td>
+      <td><a href="https://breached.to/">Website</a></td>
+      <td>Breaches, Data leaks, databases, and more</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Siph0n Breach DB (onionsite)</b></td>
+      <td><a href="siphondkh34l5vki.onion/">Onion Site</a></td>
+      <td>Breaches, Data leaks, Exploits</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Exposed Forum</b></td>
+      <td><a href="https://exposed.vc/">Website</a></td>
+      <td>The premier Databreach discussion & leaks forum</td>
+    </tr>
+  </tbody>
+</table>
+
+## Hidden Services
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>AHMIA</b></td>
+      <td><a href="https://ahmia.fi/">Website</a></td>
+      <td>Search hidden services on the Tor network</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>thehiddenwiki.org</b></td>
+      <td><a href="https://thehiddenwiki.org/">Website</a></td>
+      <td>The darknet guide</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>tor.link</b></td>
+      <td><a href="https://tor.link/">Website</a></td>
+      <td>Free anonymous deepweb / Darknet search engine</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>deepweblinks.net</b></td>
+      <td><a href="https://deepweblinks.net/">Website</a></td>
+      <td>Onion Links</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>onionengine.com</b></td>
+      <td><a href="https://onionengine.com/">Website</a></td>
+      <td>A search engine for services accessible on the Tor network</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>OnionLand</b></td>
+      <td><a href="https://onionlandsearchengine.com/">Website</a></td>
+      <td>Discover Hidden Services and access to Tor's onion sites</td>
+    </tr>
+  </tbody>
+</table>
+
+## Threat Intelligence
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>MITRE ATT&CK</b></td>
+      <td><a href="https://attack.mitre.org/">Website</a></td>
+      <td>Globally-accessible knowledge base of adversary tactics and techniques</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>PulseDive</b></td>
+      <td><a href="https://pulsedive.com/">Website</a></td>
+      <td>Threat intelligence made easy</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ThreatCrowd</b></td>
+      <td><a href="https://threatcrowd.org/">Website</a></td>
+      <td>A Search Engine for Threats</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ThreatMiner</b></td>
+      <td><a href="https://www.threatminer.org/">Website</a></td>
+      <td>Data Mining for Threat Intelligence</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>VirusTotal</b></td>
+      <td><a href="https://www.virustotal.com/">Website</a></td>
+      <td>Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>vx-underground.org</b></td>
+      <td><a href="https://www.vx-underground.org/">Website</a></td>
+      <td>The largest collection of malware source code, samples, and papers on the internet</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>bazaar.abuse.ch</b></td>
+      <td><a href="https://bazaar.abuse.ch/browse/">Website</a></td>
+      <td>Malware sample database</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>feodotracker.abuse.ch</b></td>
+      <td><a href="https://feodotracker.abuse.ch/browse/">Website</a></td>
+      <td>List of botnet Command&Control servers</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>sslbl.abuse.ch</b></td>
+      <td><a href="https://sslbl.abuse.ch/ssl-certificates/">Website</a></td>
+      <td>All malicious SSL certificates</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>urlhaus.abuse.ch</b></td>
+      <td><a href="https://urlhaus.abuse.ch/browse/">Website</a></td>
+      <td>Propose new malware urls</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>threatfox.abuse.ch</b></td>
+      <td><a href="https://threatfox.abuse.ch/browse/">Website</a></td>
+      <td>Indicator Of Compromise (IOC) database</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>yaraify.abuse.ch</b></td>
+      <td><a href="https://yaraify.abuse.ch/">Website</a></td>
+      <td>Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Rescure</b></td>
+      <td><a href="https://rescure.me/">Website</a></td>
+      <td>Curated cyber threat intelligence for everyone</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>otx.alienvault</b></td>
+      <td><a href="https://otx.alienvault.com/">Website</a></td>
+      <td>The World's First Truly Open Threat Intelligence Community</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>urlquery.net</b></td>
+      <td><a href="https://urlquery.net/">Website</a></td>
+      <td>Service for detecting and analyzing web-based malware</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>socradar.io</b></td>
+      <td><a href="https://socradar.io/">Website</a></td>
+      <td>Extension to your SOC team</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>VirusShare</b></td>
+      <td><a href="https://virusshare.com/">Website</a></td>
+      <td>System currently contains 48 million malware samples</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>PassiveTotal</b></td>
+      <td><a href="https://www.riskiq.com/products/passivetotal/">Website</a></td>
+      <td>Security intelligence that scales security operations and response</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>malapi.io</b></td>
+      <td><a href="https://malapi.io/">Website</a></td>
+      <td>Windows APIs used for malicious purposes</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>filesec.io</b></td>
+      <td><a href="https://filesec.io/">Website</a></td>
+      <td>Latest file extensions being used by attackers</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>leakix.net</b></td>
+      <td><a href="https://leakix.net/">Website</a></td>
+      <td>Search engine indexing public information and an open reporting platform linked to the results</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>tria.ge</b></td>
+      <td><a href="https://tria.ge/s">Website</a></td>
+      <td>Fully automated solution for high-volume malware analysis using advanced sandboxing technology</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Polyswarm</b></td>
+      <td><a href="https://polyswarm.network/">Website</a></td>
+      <td>Launchpad for new technologies and innovative threat detection methods</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Cisco Talos</b></td>
+      <td><a href="https://talosintelligence.com/">Website</a></td>
+      <td>The threat intelligence organization at the center of the Cisco Security portfolio</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>scamsearch.io</b></td>
+      <td><a href="https://scamsearch.io/#anchorCeckNow">Website</a></td>
+      <td>Find your scammer online & report them</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>CyberCampaigns</b></td>
+      <td><a href="http://www.cybercampaigns.net/">Website</a></td>
+      <td>Threat Actor information and Write-Ups</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ORKL</b></td>
+      <td><a href="https://orkl.eu/">Website</a></td>
+      <td>The Community Driven Cyber Threat Intelligence Library</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Maltiverse</b></td>
+      <td><a href="https://maltiverse.com/search">Website</a></td>
+      <td>Data from more than 100 different Threat Intelligence sources</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Inquest Labs</b></td>
+      <td><a href="https://labs.inquest.net/">Website</a></td>
+      <td>Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>PhishTank</b></td>
+      <td><a href="https://phishtank.org/">Website</a></td>
+      <td>Collaborative clearing house for data and information about phishing on the Internet</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>IntelOwl</b></td>
+      <td><a href="https://github.com/intelowlproject/IntelOwl">GitHub</a></td>
+      <td>Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Lupovis</b></td>
+      <td><a href="https://prowl.lupovis.io/">Website</a></td>
+      <td>Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>AbuseIPDB</b></td>
+      <td><a href="https://www.abuseipdb.com/">Website</a></td>
+      <td>Check the report history of any IP address to see if anyone else has reported malicious activities</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Sucuri SiteCheck</b></td>
+      <td><a href="https://sitecheck.sucuri.net/">Website</a></td>
+      <td>Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Spamhaus</b></td>
+      <td><a href="https://spamhaus.com">Website</a></td>
+      <td>Protect and investigate using IP and domain reputation data</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ThreatBook</b></td>
+      <td><a href="https://threatbook.io/">Website</a></td>
+      <td>One step ahead of your adversary with high-fidelity, efficient and actionable cyber threat intelligence</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>ShadowServer</b></td>
+      <td><a href="https://www.shadowserver.org/">Website</a></td>
+      <td>Nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Team Cymru</b></td>
+      <td><a href="https://www.team-cymru.com/">Website</a></td>
+      <td>Global leader in cyber threat intelligence and attack surface management</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>BeVigil</b></td>
+      <td><a href="https://bevigil.com/">Website</a></td>
+      <td>Search engine for mobile application security testing</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>CIRCL</b></td>
+      <td><a href="https://www.circl.lu/">Website</a></td>
+      <td>The Computer Incident Response Center Luxembourg is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>MetaDefender Cloud</b></td>
+      <td><a href="https://metadefender.opswat.com/">Website</a></td>
+      <td>Advanced threat detection and prevention platform</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Cybersixgill</b></td>
+      <td><a href="https://cybersixgill.com/">Website</a></td>
+      <td>Threat intelligence platform that provides access to a wide range of cybersecurity information, including dark web monitoring and threat actor analysis</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Hybrid Analysis</b></td>
+      <td><a href="https://www.hybrid-analysis.com/">Website</a></td>
+      <td>Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>IBM X-Force Exchange</b></td>
+      <td><a href="https://exchange.xforce.ibmcloud.com/">Website</a></td>
+      <td>Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers</td>
+    </tr>
+  </tbody>
+</table>
+
+## Web History
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Web Archive</b></td>
+      <td><a href="https://web.archive.org/">Website</a></td>
+      <td>Explore more than 702 billion web pages saved over time</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Archive.ph</b></td>
+      <td><a href="https://archive.ph/">Website</a></td>
+      <td>Create a copy of a webpage that will always be up even if the original link is down</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>CachedPages</b></td>
+      <td><a href="http://www.cachedpages.com/">Website</a></td>
+      <td>Get the cached page of any URL</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>stored.website</b></td>
+      <td><a href="https://stored.website/">Website</a></td>
+      <td>View cached web pages/website</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>CommonCrawl</b></td>
+      <td><a href="https://commoncrawl.org/">Website</a></td>
+      <td>Open repository of web crawl data</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>UK Web Archive</b></td>
+      <td><a href="https://www.webarchive.org.uk/ukwa/">Website</a></td>
+      <td>Collects millions of websites each year, preserving them for future generations</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Arquivo</b></td>
+      <td><a href="https://arquivo.pt/">Website</a></td>
+      <td>Non-profit service that maintains information published on the web of interest to the Portuguese community</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Archive-It</b></td>
+      <td><a href="https://archive-it.org/">Website</a></td>
+      <td>An archive of digital government and non-government organization (NGO) documents and reports</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>HAW</b></td>
+      <td><a href="https://haw.nsk.hr/en/">Website</a></td>
+      <td>Croatian Web Archive</td>
+    </tr>
+  </tbody>
+</table>
+
+## Surveillance Cameras
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Insecam.org</b></td>
+      <td><a href="http://www.insecam.org/en/">Website</a></td>
+      <td>The world biggest directory of online surveillance security cameras</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Surveillance under Surveillance</b></td>
+      <td><a href="https://sunders.uber.space/">Website</a></td>
+      <td>Cameras and guards watching you almost everywhere</td>
+    </tr>
+  </tbody>
+</table>
+
+## Unclassified
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>NetoGraph</b></td>
+      <td><a href="https://netograph.io/">Website</a></td>
+      <td>Captures and indexes detailed, low-level snapshots of website behavior</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>DorkSearch</b></td>
+      <td><a href="https://dorksearch.com/">Website</a></td>
+      <td>Speed up your Dorking</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>usersearch.org</b></td>
+      <td><a href="https://usersearch.org/">Website</a></td>
+      <td>Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Pastebin</b></td>
+      <td><a href="https://pastebin.com/">Website</a></td>
+      <td>Website where you can store text online for a set period of time</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---------
+
+If you want to propose changes, just open an [issue](https://github.com/username/repo/issues) or a [pull request](https://github.com/username/repo/pulls).
+
+
