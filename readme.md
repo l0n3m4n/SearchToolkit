@@ -2158,7 +2158,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 
 ### Mail Address
 
-[🔙 OSINT-Menu](#OSINT-Menu)
+[🔙 Back to OSINT](#OSINT-Menu)
 
 <table>
   <thead>
