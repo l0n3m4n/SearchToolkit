@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++; Penetration+Testing+and+so+on.+Feel+free+to++;add+into+you+favorites.+"></a>
+  <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++;Penetration+Testing+and+so+on.+Feel+free+to++;add+into+you+favorites.+"></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=ehph">
