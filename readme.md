@@ -58,7 +58,7 @@
 
 <!--Search navigation-->
 <p align="center">
-  <a href="#osint"><b>OSINT</b></a> |
+  <a href="#osint-menu"><b>OSINT</b></a> |
    <a href="#server"><b>Servers</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#exploits"><b>Exploits</b></a> | 
