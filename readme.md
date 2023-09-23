@@ -73,7 +73,7 @@
   <a href="#leaks"><b>Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
-  <a href="#dfir"><b>DFIR</b></a> | 
+  <a href="#dfir-menu"><b>DFIR</b></a> | 
 </p>
 
 
@@ -87,8 +87,6 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 
 ## Server
-
-[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
