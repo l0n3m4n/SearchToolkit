@@ -2288,22 +2288,31 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 <h3 align="center">DFIR</h3>
 <!--Search navigation-->
 <p align="center">
-  <a href="#osint"><b>OSINT</b></a> |
-   <a href="#server"><b>Servers</b></a> |
-  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
-  <a href="#exploits"><b>Exploits</b></a> | 
-  <a href="#attack-surface"><b>Attack Surface</b></a> |
-  <a href="#code-search"><b>Code Search</b></a> |
-  <a href="#domains"><b>Domains</b></a> |
-  <a href="#dns"><b>DNS</b></a> |
-  <a href="#url"><b>URL</b></a> |
-  <a href="#certificates"><b>Certificates</b></a> |
-  <a href="#wifi-networks"><b>WiFi Networks</b></a> |
-  <a href="#credentials"><b>Credentials</b></a> |
-  <a href="#leaks"><b>Leaks</b></a> |
-  <a href="#hidden-services"><b>Hidden Services</b></a> |
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
-  <a href="#dfir"><b>DFIR</b></a> | 
+  <a href="#adversary-emulation"><b>Adversary Emulation</b></a> |
+   <a href="#evidence-collections-and-imaging"><b>Evidence collections and imaging</b></a> |
+  <a href="#disk-and-file-analysis"><b>Disk and file analysis</b></a> | 
+  <a href="#memory-forencics"><b>Memory Forensics</b></a> | 
+  <a href="#network-forensics"><b>Network Forensics</b></a> |
+  <a href="#sanbox-and-malware-analysis"><b>Sandbox and Malware analysis</b></a> |
+  <a href="#log-analysis"><b>Log Analysis</b></a> |
+  <a href="#registry-analysis"><b>Registry Analysis</b></a> |
+  <a href="#email-analysis"><b>Email Analysis</b></a> |
+  <a href="#mobile-device-forensics"><b>Mobile Device Forensics</b></a> |
+  <a href="#timeline-analysis"><b>Timeline Analysis</b></a> |
+  <a href="#steganography-detection"><b>Steganography Detection</b></a> |
+  <a href="#hashing-and-data-integrity"><b>Hashing and Data Integrity</b></a> |
+  <a href="#database-forensics"><b>Database Forensics</b></a> |
+  <a href="#artifact-extraction"><b>Artifact Extraction</b></a> |  
+  <a href="#file-signature-analysis"><b>File Signature Analysis</b></a> | 
+  <a href="#file-comparison-and-analysis"><b>File Comparison and Analysis</b></a> | 
+  <a href="#password-cracking-and-recovery"><b>Password Cracking and Recovery</b></a> | 
+  <a href="#evidence-collection"><b>Evidence Collection</b></a> | 
+  <a href="#file-carving"><b>File Carving</b></a> |  
+  <a href="#scanner-and-other-tools"><b>Scanner and other tools</b></a> |
+  <a href="#process-dump-analysis"><b>Process Dump Analsyis</b></a> |  
+  <a href="#windows-evidence-collections"><b>Windows Evidence Collection</b></a> |
+  <a href="#osx-evidence-collection"><b>OSX Evidence Collection</b></a> |
+  <a href="#windows-evidence-collection"><b>Windows Evidence Collection</b></a> |   
 </p>
 
 <!--about-->
@@ -2311,11 +2320,84 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 __Awesome DFIR tools__
 <br>
 __DFIR__ is the proactive and reactive approach to investigating and addressing cyber incidents and digital crimes. It encompasses the gathering, analysis, and preservation of digital evidence, revealing the who, what, when, where, and how of such incidents. DFIR experts employ specialized tools and methods to detect security breaches, malware infiltrations, data breaches, and other digital dangers.
+<br>
 
+[🔙 Back to DFIR](#DFIR)
 
+## Adversary Emulation
 
-
-
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/aptsimulator.png"></td>
+      <td><b>APTSimulator</b></td>
+      <td><a href="https://github.com/NextronSystems/APTSimulator">GitHub</a></td>
+      <td>Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/art.png"></td>
+      <td><b>Atomic Red Team (ART)</b></td>
+      <td><a href="https://github.com/redcanaryco/atomic-red-team">GitHub</a></td>
+      <td>Small and highly portable detection tests mapped to the MITRE ATT&CK Framework.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/autottp.png"></td>
+      <td><b>AutoTTP</b></td>
+      <td><a href="https://github.com/jymcheong/AutoTTP">GitHub</a></td>
+      <td>Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/bt3.png"></td>
+      <td><b>Blue Team Training Toolkit (BT3)</b></td>
+      <td><a href="https://www.bt3.no/">Website</a></td>
+      <td>Software for defensive security training, which will bring your network analysis training sessions, incident response drills, and red team engagements to a new level.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/caldera.png"></td>
+      <td><b>Caldera</b></td>
+      <td><a href="https://github.com/mitre/caldera">GitHub</a></td>
+      <td>Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/dumpsterfire.png"></td>
+      <td><b>DumpsterFire</b></td>
+      <td><a href="https://github.com/TryCatchHCF/DumpsterFire">GitHub</a></td>
+      <td>Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor/alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/metta.png"></td>
+      <td><b>Metta</b></td>
+      <td><a href="https://github.com/uber-common/metta">GitHub</a></td>
+      <td>Information security preparedness tool to do adversarial simulation.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/flightsim.png"></td>
+      <td><b>Network Flight Simulator</b></td>
+      <td><a href="https://github.com/alphasoc/flightsim">GitHub</a></td>
+      <td>Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/rta.png"></td>
+      <td><b>Red Team Automation (RTA)</b></td>
+      <td><a href="https://github.com/endgameinc/RTA">GitHub</a></td>
+      <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/redhunt-os.png"></td>
+      <td><b>RedHunt-OS</b></td>
+      <td><a href="https://github.com/redhuntlabs/RedHunt-OS">GitHub</a></td>
+      <td>Virtual machine for adversary emulation and threat hunting.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
