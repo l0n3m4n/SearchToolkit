@@ -1954,11 +1954,15 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
   </tbody>
 </table>
 
+<h3 align="center">OSINT-Menu</h3>
+
 # OSINT
 
 [🔝 Back to top](#Menu)
 
 ## Phone Numbers 
+
+[🔙 OSINT-Menu](#OSINT-Menu)
 
 <table>
   <thead>
@@ -2126,6 +2130,8 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 
 ### Mail Address
+
+[🔙 OSINT-Menu](#OSINT-Menu)
 
 <table>
   <thead>
