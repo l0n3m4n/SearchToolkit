@@ -8,8 +8,8 @@
   <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++;in+the+Philippines.+Feel+free+to++;add+into+you+favorites.+"></a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=ehph">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ehph&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -36,20 +36,20 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ <a href="https://ehph.club" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ehph" />
  </a>
- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <a href="https://dev.to/ehphofficial" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+ <a href="https://twitter.com/ehphofficial" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ <a href="https://instagram.com/ehphofficial" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://facebook.com/ehphofficial" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ehph"  />
   </a> 
 </p>
 <br />
