@@ -54,7 +54,7 @@
 </p>
 <br />
 
-<h3 align="center">Menu</h3>
+<h3 align="center">Main-Menu</h3>
 
 <!--Search navigation-->
 <p align="center">
@@ -88,7 +88,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Server
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -174,7 +174,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Vulnerabilities
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -373,7 +373,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Exploits
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -510,7 +510,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Attack Surface
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -623,7 +623,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Code Search
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -779,7 +779,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Domains
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -982,7 +982,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## DNS
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -1131,7 +1131,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Certificates
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -1202,7 +1202,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Wifi Networks
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1255,7 +1255,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Device Information
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1302,7 +1302,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Credentials
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1361,7 +1361,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Leaks
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1420,7 +1420,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Hidden Services
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1473,7 +1473,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Threat Intelligence
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1754,7 +1754,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Web History
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1825,7 +1825,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Surveillance Cameras
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1854,7 +1854,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## Unclassified
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1896,7 +1896,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 ## URL
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <table>
   <thead>
@@ -1955,12 +1955,12 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
   </tbody>
 </table>
 
-[🔝 Back to top](#Menu)
+[🔝 Back to top](#Main-Menu)
 
 <br>
 <!--OSINT Menu-->
 
-<h2 align="center">OSINT</h2>
+<h2 align="center">OSINT-Menu</h2>
 
 <!--Search navigation-->
 <p align="center">
@@ -2158,7 +2158,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 
 ### Mail Address
 
-[🔙 Back to OSINT](#OSINT)
+[🔙 Back to OSINT](#OSINT-Menu)
 
 <table>
   <thead>
@@ -2281,11 +2281,11 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   </tbody>
 </table>
 
-[🔙 Back on top](#Menu)
+[🔙 Back on top](#Main-Menu)
 
 <!--DFIR Pages-->
 <br>
-<h3 align="center">DFIR</h3>
+<h3 align="center">DFIR-Menu</h3>
 <!--Search navigation-->
 <p align="center">
   <a href="#adversary-emulation"><b>Adversary Emulation</b></a> |
@@ -2322,7 +2322,7 @@ __Awesome DFIR tools__
 __DFIR__ is the proactive and reactive approach to investigating and addressing cyber incidents and digital crimes. It encompasses the gathering, analysis, and preservation of digital evidence, revealing the who, what, when, where, and how of such incidents. DFIR experts employ specialized tools and methods to detect security breaches, malware infiltrations, data breaches, and other digital dangers.
 <br>
 
-[🔙 Back to DFIR](#DFIR)
+[🔙 Back to DFIR](#DFIR-Menu)
 
 ## Adversary Emulation
 
