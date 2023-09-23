@@ -81,6 +81,8 @@
 
 <!--about-->
 ---
+__Awesome Hacker Search Engine__
+<br>
 A carefully gathered list of all Awesome tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
 
 
@@ -1984,6 +1986,8 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 <!--about OSINT-->
 ---
+__Awesome OSINT Tools__
+<br>
 An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
 
 
@@ -2319,8 +2323,6 @@ __Awesome DFIR tools__
 <br>
 __DFIR__ is the proactive and reactive approach to investigating and addressing cyber incidents and digital crimes. It encompasses the gathering, analysis, and preservation of digital evidence, revealing the who, what, when, where, and how of such incidents. DFIR experts employ specialized tools and methods to detect security breaches, malware infiltrations, data breaches, and other digital dangers.
 <br>
-
-[🔙 Back to DFIR](#DFIR-Menu)
 
 ## Adversary Emulation
 
