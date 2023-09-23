@@ -1954,6 +1954,8 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
   </tbody>
 </table>
 
+[🔝 Back to top](#Menu)
+
 <br>
 <!--OSINT Menu-->
 
@@ -1985,9 +1987,6 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 ---
 An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
 
-### OSINT
-
-[🔝 Back to top](#Menu)
 
 ## Phone Numbers 
 
