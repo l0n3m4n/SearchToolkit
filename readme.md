@@ -80,12 +80,14 @@
 
 <!--about-->
 ---
-A carefully gathered list of excellent tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
+A carefully gathered list of all Awesome tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
 
 
 
 
 ## Server
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -170,6 +172,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Vulnerabilities
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -368,6 +372,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Exploits
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -503,6 +509,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Attack Surface
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -613,6 +621,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Code Search
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -767,6 +777,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 
 ## Domains
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -969,6 +981,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## DNS
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -1116,6 +1130,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Certificates
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -1185,6 +1201,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Wifi Networks
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1236,6 +1254,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Device Information
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1280,6 +1300,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Credentials
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
@@ -1338,6 +1360,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Leaks
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1395,6 +1419,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Hidden Services
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1445,6 +1471,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Threat Intelligence
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
@@ -1725,6 +1753,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Web History
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1794,6 +1824,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Surveillance Cameras
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1820,6 +1852,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Unclassified
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
@@ -1860,6 +1894,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 
 ## URL
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
