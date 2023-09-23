@@ -1978,14 +1978,14 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> 
 </p>
-
+<br>
 
 
 
 <!--about OSINT-->
 ---
 An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
-
+<br>
 
 ## Phone Numbers 
 
@@ -2279,7 +2279,8 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   </tbody>
 </table>
 
-[🔙 Back on top](#Main-Menu)
+[🔝 Back to top](#Main-Menu)
+
 
 <!--DFIR Pages-->
 <br>
@@ -2312,6 +2313,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   <a href="#osx-evidence-collection"><b>OSX Evidence Collection</b></a> |
   <a href="#windows-evidence-collection"><b>Windows Evidence Collection</b></a> |   
 </p>
+<br>
 
 <!--about-->
 ---
