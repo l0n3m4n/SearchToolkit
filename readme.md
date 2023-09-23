@@ -1916,6 +1916,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 # OSINT
 
+[🔝 Back to too](#osint)
+
 ## Phone Numbers 
 
 <table>
