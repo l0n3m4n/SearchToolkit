@@ -1954,7 +1954,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
   </tbody>
 </table>
 
-<br><hr>
+<br>
 <!--OSINT Menu-->
 
 <h2 align="center">OSINT-Menu</h2>
@@ -1983,8 +1983,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 <!--about OSINT-->
 ---
-A carefully gathered list of all Awesome tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
-
+An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
 
 ### OSINT
 
