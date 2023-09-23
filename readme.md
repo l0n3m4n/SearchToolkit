@@ -1960,7 +1960,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <br>
 <!--OSINT Menu-->
 
-<h2 align="center">OSINT-Menu</h2>
+<h2 align="center">OSINT</h2>
 
 <!--Search navigation-->
 <p align="center">
@@ -2158,7 +2158,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 
 ### Mail Address
 
-[🔙 Back to OSINT](#OSINT-Menu)
+[🔙 Back to OSINT](#OSINT)
 
 <table>
   <thead>
