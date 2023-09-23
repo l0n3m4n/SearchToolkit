@@ -2311,7 +2311,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   <a href="#process-dump-analysis"><b>Process Dump Analsyis</b></a> |  
   <a href="#windows-evidence-collections"><b>Windows Evidence Collection</b></a> |
   <a href="#osx-evidence-collection"><b>OSX Evidence Collection</b></a> |
-  <a href="#windows-evidence-collection"><b>Windows Evidence Collection</b></a> |   
+  <a href="#windows-evidence-collection"><b>Linux Evidence Collection</b></a> |   
 </p>
 <br>
 
