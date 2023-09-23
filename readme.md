@@ -75,7 +75,8 @@
 </p>
 
 
-<h5 align="center">osint</h5>
+<h5 align="center">OSINT-Top</h5>
+
 <!--about-->
 ---
 A carefully gathered list of excellent tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
@@ -1919,7 +1920,7 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 # OSINT
 
 <br><hr>
-[🔝 Back to top](#osint)
+[🔝 Back to top](#OSINT-Top)
 
 ## Phone Numbers 
 
