@@ -71,7 +71,8 @@
   <a href="#credentials"><b>Credentials</b></a> |
   <a href="#leaks"><b>Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> 
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
+  <a href="#dfir"><b>DFIR</b></a> | 
 </p>
 
 <!--about-->
@@ -2205,6 +2206,57 @@ A carefully gathered list of excellent tools that are highly valuable for variou
     </tr>
   </tbody>
 </table>
+
+
+<!--DFIR Pages-->
+
+<h3 align="center">DFIR</h3>
+<!--Search navigation-->
+<p align="center">
+  <a href="#osint"><b>OSINT</b></a> |
+   <a href="#server"><b>Servers</b></a> |
+  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
+  <a href="#exploits"><b>Exploits</b></a> | 
+  <a href="#attack-surface"><b>Attack Surface</b></a> |
+  <a href="#code-search"><b>Code Search</b></a> |
+  <a href="#domains"><b>Domains</b></a> |
+  <a href="#dns"><b>DNS</b></a> |
+  <a href="#url"><b>URL</b></a> |
+  <a href="#certificates"><b>Certificates</b></a> |
+  <a href="#wifi-networks"><b>WiFi Networks</b></a> |
+  <a href="#credentials"><b>Credentials</b></a> |
+  <a href="#leaks"><b>Leaks</b></a> |
+  <a href="#hidden-services"><b>Hidden Services</b></a> |
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
+  <a href="#dfir"><b>DFIR</b></a> | 
+</p>
+
+<!--about-->
+---
+__Awesome DFIR tools__
+<br>
+__DFIR__ is the proactive and reactive approach to investigating and addressing cyber incidents and digital crimes. It encompasses the gathering, analysis, and preservation of digital evidence, revealing the who, what, when, where, and how of such incidents. DFIR experts employ specialized tools and methods to detect security breaches, malware infiltrations, data breaches, and other digital dangers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---------
 
