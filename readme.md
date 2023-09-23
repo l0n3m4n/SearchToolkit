@@ -1,4 +1,4 @@
-
+https://github.com/jivoi/awesome-osinthttps://github.com/jivoi/awesome-osint
 <h2 align="center">
   Pentester Search Engine 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lybGJrZnI4aXJuYjBmOHVxZTR5azcyanlrNGtzbTY3b2xkODc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgFLfWUZigjoem4/giphy.gif" width="28">
@@ -2249,6 +2249,8 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </table>
 
 ---------
+Original Author's 
+Credit to [Awesome Hacker Search Engine](#https://github.com/edoardottt/awesome-hacker-search-engines) and [Awesome OSINT](#https://github.com/jivoi/awesome-osint) for such Awesome tools. 
 
 If you want to propose changes, just open an [issue](https://github.com/username/repo/issues) or a [pull request](https://github.com/username/repo/pulls).
 
