@@ -2249,7 +2249,8 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </table>
 
 ---------
-Original Author's 
+__Original Author's__
+<br>
 Credit to [Awesome Hacker Search Engine](https://github.com/edoardottt/awesome-hacker-search-engines) and [Awesome OSINT](https://github.com/jivoi/awesome-osint) for such Awesome tools. 
 
 If you want to propose changes, just open an [issue](https://github.com/username/repo/issues) or a [pull request](https://github.com/username/repo/pulls).
