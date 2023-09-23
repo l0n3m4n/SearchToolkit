@@ -1954,9 +1954,9 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
   </tbody>
 </table>
 
-<h3 align="center">OSINT-Menu</h3>
+<h1 align="center">OSINT-Menu</h1>
 
-# OSINT
+## OSINT
 
 [🔝 Back to top](#Menu)
 
