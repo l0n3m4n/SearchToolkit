@@ -2281,9 +2281,10 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   </tbody>
 </table>
 
+[🔙 Back on top](#Menu)
 
 <!--DFIR Pages-->
-
+<br>
 <h3 align="center">DFIR</h3>
 <!--Search navigation-->
 <p align="center">
@@ -2335,7 +2336,7 @@ __DFIR__ is the proactive and reactive approach to investigating and addressing 
 ---------
 __Original Author's__
 <br>
-Credit to [Awesome Hacker Search Engine](https://github.com/edoardottt/awesome-hacker-search-engines) and [Awesome OSINT](https://github.com/jivoi/awesome-osint) for such Awesome tools. 
+Credit to [Awesome Hacker Search Engine](https://github.com/edoardottt/awesome-hacker-search-engines), [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) and [Awesome OSINT](https://github.com/jivoi/awesome-osint) for such Awesome tools. 
 
 If you want to propose changes, just open an [issue](https://github.com/username/repo/issues) or a [pull request](https://github.com/username/repo/pulls).
 
