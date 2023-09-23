@@ -5,11 +5,11 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++;in+the+Philippines.+Feel+free+to++;add+into+you+favorites.+"></a>
+  <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++;Penetration+Testing+and+so+on.+Feel+free+to++;add+into+you+favorites.+"></a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=ehph">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ehph&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -36,28 +36,29 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ <a href="https://ehph.club" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ehph" />
  </a>
- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ <a href="https://dev.to/ehphofficial" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+ <a href="https://twitter.com/ehph" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ <a href="https://instagram.com/ehphofficial" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://facebook.com/ehphofficial" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ehph"  />
   </a> 
 </p>
 <br />
 
+<h3 align="center">Menu</h3>
 
 <!--Search navigation-->
 <p align="center">
-  <a href="#osint"><b>OSINT</b></a> |
+  <a href="#osint-menu"><b>OSINT</b></a> |
    <a href="#server"><b>Servers</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#exploits"><b>Exploits</b></a> | 
@@ -75,14 +76,19 @@
   <a href="#dfir"><b>DFIR</b></a> | 
 </p>
 
+
+
+
 <!--about-->
 ---
-A carefully gathered list of excellent tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
+A carefully gathered list of all Awesome tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
 
 
 
 
 ## Server
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -167,6 +173,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Vulnerabilities
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -365,6 +373,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Exploits
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -500,6 +510,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Attack Surface
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -610,6 +622,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Code Search
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -764,6 +778,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 
 ## Domains
+
+[🔝 Back to top](#Menu)
 
 <table>
 <thead>
@@ -966,6 +982,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## DNS
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -1113,6 +1131,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Certificates
 
+[🔝 Back to top](#Menu)
+
 <table>
 <thead>
 <tr>
@@ -1182,6 +1202,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Wifi Networks
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1233,6 +1255,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Device Information
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1277,6 +1301,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Credentials
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
@@ -1335,6 +1361,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Leaks
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1392,6 +1420,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Hidden Services
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1442,6 +1472,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Threat Intelligence
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
@@ -1722,6 +1754,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Web History
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1791,6 +1825,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 ## Surveillance Cameras
 
+[🔝 Back to top](#Menu)
+
 <table>
   <thead>
     <tr>
@@ -1817,6 +1853,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 </table>
 
 ## Unclassified
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
@@ -1857,6 +1895,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 
 ## URL
+
+[🔝 Back to top](#Menu)
 
 <table>
   <thead>
@@ -1915,7 +1955,39 @@ A carefully gathered list of excellent tools that are highly valuable for variou
   </tbody>
 </table>
 
-# OSINT
+[🔝 Back to top](#Menu)
+
+<br>
+<!--OSINT Menu-->
+
+<h2 align="center">OSINT-Menu</h2>
+
+<!--Search navigation-->
+<p align="center">
+  <a href="#osint"><b>OSINT</b></a> |
+   <a href="#server"><b>Servers</b></a> |
+  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
+  <a href="#exploits"><b>Exploits</b></a> | 
+  <a href="#attack-surface"><b>Attack Surface</b></a> |
+  <a href="#code-search"><b>Code Search</b></a> |
+  <a href="#domains"><b>Domains</b></a> |
+  <a href="#dns"><b>DNS</b></a> |
+  <a href="#url"><b>URL</b></a> |
+  <a href="#certificates"><b>Certificates</b></a> |
+  <a href="#wifi-networks"><b>WiFi Networks</b></a> |
+  <a href="#credentials"><b>Credentials</b></a> |
+  <a href="#leaks"><b>Leaks</b></a> |
+  <a href="#hidden-services"><b>Hidden Services</b></a> |
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> 
+</p>
+
+
+
+
+<!--about OSINT-->
+---
+An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
+
 
 ## Phone Numbers 
 
@@ -2085,6 +2157,8 @@ A carefully gathered list of excellent tools that are highly valuable for variou
 
 
 ### Mail Address
+
+[🔙 OSINT-Menu](#OSINT-Menu)
 
 <table>
   <thead>
@@ -2259,6 +2333,9 @@ __DFIR__ is the proactive and reactive approach to investigating and addressing 
 
 
 ---------
+__Original Author's__
+<br>
+Credit to [Awesome Hacker Search Engine](https://github.com/edoardottt/awesome-hacker-search-engines) and [Awesome OSINT](https://github.com/jivoi/awesome-osint) for such Awesome tools. 
 
 If you want to propose changes, just open an [issue](https://github.com/username/repo/issues) or a [pull request](https://github.com/username/repo/pulls).
 
