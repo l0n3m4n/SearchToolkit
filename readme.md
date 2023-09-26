@@ -2292,7 +2292,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   <a href="#darkweb-search-engine"><b>Darkweb Search Engine</b></a> |
   <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
   <a href="#scanning-onion-links"><b>Scanning Onions Links</b></a> |
-  <a href="#darkweb-data-crawling"><b>Darkweb Data Crawling</b></a> | 
+  <a href="#darkweb-data-crawling"><b>Darkweb Data Crawling</b></a> 
 
 </p>
 
