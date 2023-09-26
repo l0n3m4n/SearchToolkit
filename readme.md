@@ -2285,7 +2285,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 
 <!--OSINT Darkweb -->
 
-<h1 align="center">Darkweb</h1>
+<h1 align="center">OSINT-Darkweb</h1>
 
 <!--Search navigation-->
 <p align="center">
@@ -2344,7 +2344,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#Darkweb)
+[🔙 Back to Darkweb](#OSINT-Darkweb)
 
 
 ## Tools for Discovering Onion Links
@@ -2368,7 +2368,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#Darkweb)
+[🔙 Back to Darkweb](#OSINT-Darkweb)
 
 ## Tools for Scanning Onion Links
 
@@ -2403,7 +2403,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#Darkweb)
+[🔙 Back to Darkweb](#OSINT-Darkweb)
 
 ## Tools for Crawling Data from the Dark Web
 
@@ -2426,7 +2426,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#Darkweb)
+[🔙 Back to Darkweb](#OSINT-Darkweb)
 
 
 <!--DFIR Pages-->
