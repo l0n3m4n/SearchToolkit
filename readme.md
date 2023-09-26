@@ -59,7 +59,8 @@
 <!--Search navigation-->
 <p align="center">
   <a href="#osint-menu"><b>OSINT</b></a> |
-   <a href="#server"><b>Servers</b></a> |
+  <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
+  <a href="#server"><b>Servers</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#exploits"><b>Exploits</b></a> | 
   <a href="#attack-surface"><b>Attack Surface</b></a> |
@@ -2282,9 +2283,155 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 [🔝 Back to top](#Main-Menu)
 
 
+<!--OSINT Darkweb -->
+
+<h1 align="center">Darkweb</h1>
+
+<!--Search navigation-->
+<p align="center">
+  <a href="#darkweb-search-engine"><b>Darkweb Search Engine</b></a> |
+  <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
+  <a href="#scanning-onions-links"><b>Scanning Onions Links</b></a> |
+  <a href="#darkweb-crawling-data"><b>Darkweb Data Crawling</b></a> | 
+
+</p>
+
+
+<!--about-->
+---
+"OSINT Darkweb" is a concise, handpicked selection of tools tailored for monitoring the dark web. This compilation empowers cybersecurity experts, law enforcement, and analysts to uncover hidden activities and emerging threats within the secretive corners of the internet. Stay ahead in the battle against cybercrime with this indispensable resource.
+
+
+## Darkweb Search Engine
+
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="image_url_for_Katana"></td>
+<td><b>Katana</b></td>
+<td><a href="https://github.com/adnane-X-tebbaa/Katana">GitHub</a></td>
+<td>Katana is a powerful Dark Web search engine tool designed to help you discover hidden websites and information within the Tor network.</td>
+</tr>
+<tr>
+<td><img src="image_url_for_OnionSearch"></td>
+<td><b>OnionSearch</b></td>
+<td><a href="https://github.com/megadose/OnionSearch">GitHub</a></td>
+<td>OnionSearch is a tool for searching and indexing onion websites on the Dark Web, making it easier to find specific content.</td>
+</tr>
+
+<tr>
+<td><img src="image_url_for_Darkdump"></td>
+<td><b>Darkdump</b></td>
+<td><a href="https://github.com/josh0xA/darkdump">GitHub</a></td>
+<td>Darkdump is an open source intelligence tool that scrapes information about Tor websites, including website titles, IPs, and more, helping you gather data from the Dark Web.</td>
+</tr>
+
+<tr>
+<td><img src="image_url_for_Ahmia_Search_Engine"></td>
+<td><b>Ahmia Search Engine</b></td>
+<td><a href="http://ahmia.fi/">Website</a>, <a href="https://github.com/ahmia/ahmia-site">GitHub</a></td>
+<td>Ahmia is a privacy-focused search engine for the Tor network. It helps users find onion websites while respecting their anonymity.</td>
+</tr>
+</tbody>
+</table>
+
+[🔙 Back to Darkweb](#Darkweb)
+
+
+## Tools for Discovering Onion Links
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="image_url_for_Hunchly"></td>
+<td><b>Hunchly</b></td>
+<td><a href="https://www.hunch.ly/darkweb-osint/">Website</a></td>
+<td>Hunchly is a comprehensive OSINT platform that includes features for collecting and tracking onion links and Dark Web content.</td>
+</tr>
+</tbody>
+</table>
+
+[🔙 Back to Darkweb](#Darkweb)
+
+## Tools for Scanning Onion Links
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="image_url_for_Onionscan"></td>
+<td><b>Onionscan</b></td>
+<td><a href="https://github.com/s-rah/onionscan">GitHub</a></td>
+<td>Onionscan is a powerful tool for scanning onion websites, helping you identify potential vulnerabilities and security issues.</td>
+</tr>
+<tr>
+<td><img src="image_url_for_Onioff"></td>
+<td><b>Onioff</b></td>
+<td><a href="https://github.com/k4m4/onioff">GitHub</a></td>
+<td>Onioff is an OSINT tool designed to analyze and extract information from onion websites, providing insights into their characteristics and content.</td>
+</tr>
+<tr>
+<td><img src="image_url_for_Onion-nmap"></td>
+<td><b>Onion-nmap</b></td>
+<td><a href="https://github.com/milesrichardson/docker-onion-nmap">GitHub</a></td>
+<td>Onion-nmap is a Docker container for running Nmap scans on onion websites, helping you gather information about open ports and services.</td>
+</tr>
+</tbody>
+</table>
+
+[🔙 Back to Darkweb](#Darkweb)
+
+## Tools for Crawling Data from the Dark Web
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="image_url_for_TorBot"></td>
+<td><b>TorBot</b></td>
+<td><a href="https://github.com/DedSecInside/TorBot">GitHub</a></td>
+<td>TorBot is an OSINT tool designed for crawling and collecting data from the Dark Web.</td>
+</tr>
+</tbody>
+</table>
+
+[🔙 Back to Darkweb](#Darkweb)
+
+
 <!--DFIR Pages-->
 <br>
-<h3 align="center">DFIR-Menu</h3>
+<h1 align="center">DFIR-Menu</h1>
 <!--Search navigation-->
 <p align="center">
   <a href="#adversary-emulation"><b>Adversary Emulation</b></a> |
