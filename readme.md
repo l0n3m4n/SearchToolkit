@@ -2347,7 +2347,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 [🔙 Back to Darkweb](#OSINT-Darkweb)
 
 
-## Tools for Discovering Onion Links
+## Discovering Onion Links
 
 <table>
 <thead>
@@ -2370,7 +2370,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 
 [🔙 Back to Darkweb](#OSINT-Darkweb)
 
-## Tools for Scanning Onion Links
+## Scanning Onion Links
 
 <table>
 <thead>
@@ -2405,7 +2405,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 
 [🔙 Back to Darkweb](#OSINT-Darkweb)
 
-## Tools for Crawling Data from the Dark Web
+## Darkweb Data Crawling
 
 <table>
 <thead>
