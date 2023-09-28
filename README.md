@@ -1,4 +1,4 @@
-ok
+
 <h2 align="center">
 Awesome Tools
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lybGJrZnI4aXJuYjBmOHVxZTR5azcyanlrNGtzbTY3b2xkODc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgFLfWUZigjoem4/giphy.gif" width="28">
@@ -407,8 +407,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>Atomic Red Team</b></td>
-<td><a href="https://atomicredteam.io">Website</a></td>
-<td><a href="https://github.com/redcanaryco/atomic-red-team">Github</a> </td>
+<td><a href="https://atomicredteam.io">Website</a></td><a href="https://github.com/redcanaryco/atomic-red-team">Github</a>
 <td>Atomic Red Team is a cybersecurity testing framework for evaluating the effectiveness of defense mechanisms by simulating real-world adversary tactics and behaviors.</td>
 </tr>
 
