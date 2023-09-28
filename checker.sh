@@ -59,7 +59,7 @@ warnings="Warnings:\n"
 duplicate_links="Duplicate Links:\n"
 duplicate_count=0
 
-# Extract URLs from the file and validate them
+# Extract URL from the file and validate them
 while read -r line; do
   # Use a regex pattern to find URLs in the line
   urls=($(echo "$line" | grep -oE '(https?|ftp|mailto):\/\/[^ '"'"'"\t\n\r\f\v\[\]]+'))
@@ -71,7 +71,7 @@ while read -r line; do
   done
 done < "$url_file"
 
-# Sort the URLs, find duplicates, and count them
+# Sort the URL, find duplicates, and count them
 duplicate_links_list=$(grep -oP '(https?|ftp|mailto):\/\/[^ \t\n\r\f\v\[\]]+' "$url_file" | sort | uniq -d)
 
 # Check if any duplicates were found 
@@ -85,6 +85,6 @@ else
   duplicate_links+="${GREEN}No duplicate links found.${NC}\n" # Green color for no duplicates found
 fi
 
-# Print the Markdown-formatted output including the duplicate count
+# Print the Markdown formatted output including the duplicate count
 echo -e "${RED}$errors ${NC}\n${YELLOW}$warnings${NC}\n${GREEN}$duplicate_links ${NC}" 
 echo -e "${GREEN}Duplicate Count:$duplicate_count" 
