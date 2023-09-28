@@ -86,5 +86,5 @@ else
 fi
 
 # Print the Markdown-formatted output including the duplicate count
-echo -e "${RED} $errors\n$warnings\n$duplicate_links ${NC}" 
-echo -e "${GREEN} Duplicate Count: $duplicate_count" 
+echo -e "${RED}$errors ${NC}\n${YELLOW}$warnings${NC}\n${GREEN}$duplicate_links ${NC}" 
+echo -e "${GREEN}Duplicate Count:$duplicate_count" 
