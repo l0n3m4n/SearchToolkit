@@ -418,7 +418,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Vulnerability and exploit search engine</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/peass-ng.png"></td>
 <td><b>PEASS-ng (WinPEAS,LenPEAS,MacPEAS)</b></td>
 <td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
 <td>PEASS-ng is tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.</td>
