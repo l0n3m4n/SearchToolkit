@@ -419,6 +419,12 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
+<td><b>Vulmon</b></td>
+<td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
+<td>PEASSng (WinPEAS,LenPEAS,MacPEAS) is tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
 <td><b>packetstormsecurity.com</b></td>
 <td><a href="https://packetstormsecurity.com/">Website</a></td>
 <td>Information Security Services, News, Files, Tools, Exploits, Advisories, and Whitepapers</td>
