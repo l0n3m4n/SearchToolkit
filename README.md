@@ -425,7 +425,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 <tr>
 <td><img src="assets/exploits/villain.png"></td>
-<td><b>Villain</b></td>
+<td><b>Villain C2 Framework</b></td>
 <td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
 <td>Villain is an advanced C2 framework designed to manage multiple TCP sockets and empower HoaxShell-based reverse shells by adding extra functionalities like commands and utilities.</td>
 </tr>
