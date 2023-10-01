@@ -17,7 +17,7 @@ Cybersecurity Engine
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; My private, Search
+        <samp>&gt; Penetration, Tester
                 <b><a target="_blank" href="https://en.wikibooks.org/wiki/Hacking">Engine</a></b>
         </samp>
 </h3>
@@ -29,7 +29,7 @@ Cybersecurity Engine
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://facebook.com/L0N3M4N">「 <b>L0N3M4N</b> 」
+    <a href="https://facebook.com/L0N3M4N">「 <b>AL Drin - L0N3M4N</b> 」
     <br>
     <br>
   </samp>
