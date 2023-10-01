@@ -277,84 +277,84 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/vulmon.png"></td>
 <td><b>Vulmon</b></td>
 <td><a href="https://vulmon.com/">Website</a></td>
 <td>Vulnerability and exploit search engine</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/vuldb.png"></td>
 <td><b>VulDB</b></td>
 <td><a href="https://vuldb.com/">Website</a></td>
 <td>Number one vulnerability database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/scanfactory.png"></td>
 <td><b>ScanFactory</b></td>
 <td><a href="https://in.scanfactory.io/cvemon.html">Website</a></td>
 <td>Realtime Security Monitoring</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/trend_micro_zero_day.png"></td>
 <td><b>Trend Micro Zero Day Initiative</b></td>
 <td><a href="https://www.zerodayinitiative.com/advisories/published/">Website</a></td>
 <td>Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/google_project_zero.png"></td>
 <td><b>Google Project Zero</b></td>
 <td><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary">Website</a></td>
 <td>Vulnerabilities including Zero Days</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/trickest_cve.png"></td>
 <td><b>Trickest CVE Repository</b></td>
 <td><a href="https://github.com/trickest/cve">GitHub</a></td>
 <td>Gather and update all available and newest CVEs with their PoC</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/cnvd.png"></td>
 <td><b>Cnvd.org.cn</b></td>
 <td><a href="https://www.cnvd.org.cn/">Website</a></td>
 <td>Chinese National Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/in_The_Wild.png"></td>
 <td><b>InTheWild.io</b></td>
 <td><a href="https://inthewild.io/feed">Website</a></td>
 <td>Check CVEs in our free, open source feed of exploited vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/v"></td>
 <td><b>Vulnerability Lab</b></td>
 <td><a href="https://www.vulnerability-lab.com/">Website</a></td>
 <td>Vulnerability research, bug bounties, and vulnerability assessments</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/RedHat.png"></td>
 <td><b>Red Hat Security Advisories</b></td>
 <td><a href="https://access.redhat.com/security/security-updates/">Website</a></td>
 <td>Information about security flaws that affect Red Hat products and services in the form of security advisories</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/cisco_security.png"></td>
 <td><b>Cisco Security Advisories</b></td>
 <td><a href="https://sec.cloudapps.cisco.com/security/center/publicationListing.x">Website</a></td>
 <td>Security advisories and vulnerability information for Cisco products, including network equipment and software</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/microsoft_security .jpg"></td>
 <td><b>Microsoft Security Response Center</b></td>
 <td><a href="https://msrc.microsoft.com/update-guide/en-us">Website</a></td>
 <td>Reports of security vulnerabilities affecting Microsoft products and services</td>
