@@ -263,7 +263,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/"></td>
+<td><img src="assets/vulnerabilities/SynapsInt.jpg"></td>
 <td><b>SynapsInt</b></td>
 <td><a href="https://synapsint.com/">Website</a></td>
 <td>The unified OSINT research tool</td>
