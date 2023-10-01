@@ -18,7 +18,7 @@ Cybersecurity Engine
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Penetration, Tester
-                <b><a target="_blank" href="https://en.wikibooks.org/wiki/Hacking">Engine</a></b>
+                <b><a target="_blank" href="https://en.wikipedia.org/wiki/Penetration_test">Engine</a></b>
         </samp>
 </h3>
 
@@ -120,7 +120,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/servers/zoomeye.png"></td>
 <td><b>ZoomEye</b></td>
 <td><a href="https://zoomeye.org/">Website</a></td>
 <td>Global Cyberspace mapping.</td>
