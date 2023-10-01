@@ -135,13 +135,6 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>Natlas</b></td>
-<td><a href="https://natlas.io/">Website</a></td>
-<td>Scaling network scanning.</td>
-</tr>
-
-<tr>
-<td><img src="assets/server/shodan.png"></td>
 <td><b>Netlas</b></td>
 <td><a href="https://netlas.io/">Website</a></td>
 <td>Discove, Research and monitor any assets available online.</td>
