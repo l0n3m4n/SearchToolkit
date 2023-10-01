@@ -141,7 +141,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/servers/fofa.jpg"></td>
+<td><img src="assets/servers/fofa.png"></td>
 <td><b>FOFA</b></td>
 <td><a href="https://fofa.info/">Website</a></td>
 <td>Cyberspace Mapping</td>
