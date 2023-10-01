@@ -179,14 +179,14 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/nvd.png"></td>
 <td><b>NIST NVD</b></td>
 <td><a href="https://nvd.nist.gov/vuln/search">Website</a></td>
 <td>US National Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/mitre_cve.png"></td>
 <td><b>MITRE CVE</b></td>
 <td><a href="https://cve.mitre.org/cve/search_cve_list.html">Website</a></td>
 <td>Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities</td>
