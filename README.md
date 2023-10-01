@@ -408,7 +408,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><img src="assets/server/shodan.png"></td>
 <td><b>Atomic Red Team</b></td>
 <td><a href="https://atomicredteam.io">Website</a>,<a href="https://github.com/redcanaryco/atomic-red-team">Github</a></td>
-<td>Atomic Red Team is a cybersecurity testing framework for evaluating the effectiveness of defense mechanisms by simulating real-world adversary tactics and behaviors.</td>
+<td>Atomic Red Team is a cybersecurity testing framework.</td>
 </tr>
 
 <tr>
@@ -421,13 +421,13 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><img src="assets/exploits/peass-ng.png"></td>
 <td><b>PEASS-ng (WinPEAS,LenPEAS,MacPEAS)</b></td>
 <td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
-<td>PEASS-ng is tools search for possible local privilege escalation paths that you could exploit.</td>
+<td>PEASS-ng is tools search for local privilege escalation</td>
 </tr>
 <tr>
 <td><img src="assets/exploits/villain.png"></td>
 <td><b>Villain C2 Framework</b></td>
 <td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
-<td>Villain is an advanced C2 framework designed to manage multiple TCP sockets and empower HoaxShell-based reverse shells.</td>
+<td>Villain is an advanced C2 framework.</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
