@@ -193,77 +193,77 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/github_database.png"></td>
 <td><b>GitHub Advisory Database</b></td>
 <td><a href="https://github.com/advisories">Github</a></td>
 <td>Security vulnerability database inclusive of CVEs and GitHub originated security advisories</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/cloudvulndb.png"></td>
 <td><b>Cloudvulndb.org</b></td>
 <td><a href="https://www.cloudvulndb.org/">Website</a></td>
 <td>The Open Cloud Vulnerability & Security Issue Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/osv.png"></td>
 <td><b>Osv.dev</b></td>
 <td><a href="https://osv.dev/list">Website</a></td>
 <td>Open Source Vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/vulners.png"></td>
 <td><b>Vulners.com</b></td>
 <td><a href="https://vulners.com/">Website</a></td>
 <td>Your Search Engine for Security Intelligence</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/opencve.png"></td>
 <td><b>Opencve.io</b></td>
 <td><a href="https://www.opencve.io/cve">Website</a></td>
 <td>Easiest way to track CVE updates and be alerted about new vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/security_snyk.png"></td>
 <td><b>Security.snyk.io</b></td>
 <td><a href="https://security.snyk.io/">Website</a></td>
 <td>Open Source Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/mend_vulnerability_database.png"></td>
 <td><b>Mend Vulnerability Database</b></td>
 <td><a href="https://www.mend.io/vulnerability-database/">Website</a></td>
 <td>The largest open source vulnerability DB</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/rapid7.png"></td>
 <td><b>Rapid7 - DB</b></td>
 <td><a href="https://www.rapid7.com/db/">Website</a></td>
 <td>Vulnerability & Exploit Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/cvedetails.png"></td>
 <td><b>CVE Details</b></td>
 <td><a href="https://www.cvedetails.com/">Website</a></td>
 <td>The ultimate security vulnerability datasource</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/voliq.png"></td>
 <td><b>VulnIQ</b></td>
 <td><a href="https://vulniq.com/">Website</a></td>
 <td>Vulnerability intelligence and management solution</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/"></td>
 <td><b>SynapsInt</b></td>
 <td><a href="https://synapsint.com/">Website</a></td>
 <td>The unified OSINT research tool</td>
