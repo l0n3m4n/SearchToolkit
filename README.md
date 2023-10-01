@@ -270,7 +270,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/aqua.png"></td>
 <td><b>Aqua Vulnerability Database</b></td>
 <td><a href="https://avd.aquasec.com/">Website</a></td>
 <td>Vulnerabilities and weaknesses in open source applications and cloud native infrastructure</td>
