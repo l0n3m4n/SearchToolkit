@@ -120,7 +120,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/servers/zoomeye.png"></td>
+<td><img src="assets/servers/zoomeye.jpg"></td>
 <td><b>ZoomEye</b></td>
 <td><a href="https://zoomeye.org/">Website</a></td>
 <td>Global Cyberspace mapping.</td>
@@ -141,7 +141,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/servers/fofa.png"></td>
+<td><img src="assets/servers/fofa.jpg"></td>
 <td><b>FOFA</b></td>
 <td><a href="https://fofa.info/">Website</a></td>
 <td>Cyberspace Mapping</td>
