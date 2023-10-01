@@ -421,13 +421,13 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><img src="assets/exploits/peass-ng.png"></td>
 <td><b>PEASS-ng (WinPEAS,LenPEAS,MacPEAS)</b></td>
 <td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
-<td>PEASS-ng is tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.</td>
+<td>PEASS-ng is tools search for possible local privilege escalation paths that you could exploit.</td>
 </tr>
 <tr>
 <td><img src="assets/exploits/villain.png"></td>
 <td><b>Villain C2 Framework</b></td>
 <td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
-<td>Villain is an advanced C2 framework designed to manage multiple TCP sockets and empower HoaxShell-based reverse shells by adding extra functionalities like commands and utilities.</td>
+<td>Villain is an advanced C2 framework designed to manage multiple TCP sockets and empower HoaxShell-based reverse shells.</td>
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
