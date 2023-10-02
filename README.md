@@ -406,6 +406,13 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 <tr>
 <td><img src="assets/server/shodan.png"></td>
+<td><b>LOLDrivers</b></td>
+<td><a href="https://www.loldrivers.io/">Website</a></td>
+<td>Living Off The Land Drivers is a curated list of Windows vulnerable drivers used by adversaries to bypass security controls and carry out attacks.</td>
+</tr>
+
+<tr>
+<td><img src="assets/server/shodan.png"></td>
 <td><b>Atomic Red Team</b></td>
 <td><a href="https://atomicredteam.io">Website</a>,<a href="https://github.com/redcanaryco/atomic-red-team">Github</a></td>
 <td>Atomic Red Team is a cybersecurity testing framework.</td>
