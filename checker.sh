@@ -10,7 +10,7 @@ GREEN='\033[0;32m'
 BOLD='\033[1m'
 NC='\033[0m'
 
-# Function to check if a file exists and is readable
+# check if a file exists and is readable
 file_exists_and_readable() {
   local file="$1"
   if [ ! -f "$file" ] || [ ! -r "$file" ]; then
@@ -20,7 +20,7 @@ file_exists_and_readable() {
   fi
 }
 
-# Function to validate URLs using regex
+# validate URLs using regex
 validate_url() {
   local url="$1"
   # Only validate URLs with specific protocols: http, https, ftp, mailto
@@ -32,7 +32,7 @@ validate_url() {
   fi
 }
 
-# Function to print messages in color
+# print messages in color
 print_message() {
   local message="$1"
   local color="$2"
@@ -89,3 +89,7 @@ fi
 # Print the Markdown formatted output including the duplicate count
 echo -e "${RED}$errors ${NC}\n${YELLOW}$warnings${NC}\n${GREEN}$duplicate_links ${NC}" 
 echo -e "${GREEN}Duplicate Count:$duplicate_count" 
+
+
+# If you have any suggestions to contribute and improve these scripts don't hesitate contact me 
+# Fb: AL Drin
