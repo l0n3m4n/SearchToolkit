@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Author: EHPH
-# Checking ERRORS, EMPTY, DUPLICATES, WARNINGS etc.
+# Author: L0N3M4N 
+# Key features: Checking ERRORS, EMPTY, DUPLICATES, WARNINGS
 
 # Define colors and text styles
 RED='\033[0;31m'
