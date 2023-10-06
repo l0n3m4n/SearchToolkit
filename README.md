@@ -2351,6 +2351,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
   <a href="#scanning-onion-links"><b>Scanning Onions Links</b></a> |
   <a href="#darkweb-data-crawling"><b>Darkweb Data Crawling</b></a> 
+  <a href="#adversaries-monitoring"><b>Adversaries Monitoring</b></a>
 
 </p>
 
@@ -2483,6 +2484,31 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 </tr>
 </tbody>
 </table>
+
+[🔙 Back to Darkweb](#OSINT-Darkweb)
+
+## Adversaries Monitoring
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="image_url_for_TorBot"></td>
+<td><b>RansomLook</b></td>
+<td><a href="https://ransomlook.io">Website</a></td>
+<td>RansomLook is an open-source project aimed at assisting users in tracking ransomware-group related posts and activities across various sites, forums, and Telegram channels.</td>
+</tr>
+</tbody>
+</table>
+
+
 
 [🔙 Back to Darkweb](#OSINT-Darkweb)
 
