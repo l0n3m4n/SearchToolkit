@@ -2505,6 +2505,14 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 <td><a href="https://ransomlook.io">Website</a></td>
 <td>RansomLook is an open-source project aimed at assisting users in tracking ransomware-group related posts and activities across various sites, forums, and Telegram channels.</td>
 </tr>
+
+<tr>
+<td><img src="image_url_for_TorBot"></td>
+<td><b>Ransomwhere</b></td>
+<td><a href="https://ransomwhe.re">Website</a></td>
+<td>Ransomwhere Monitoring Cryptocurrencies, a crowdsourced ransomware payment tracker. Browse and download ransomware payment data or help build our dataset by reporting ransomware demands you have received.</td>
+</tr>
+
 </tbody>
 </table>
 
