@@ -29,26 +29,26 @@ My Private Tools
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://facebook.com/L0N3M4N">「 <b>AL Drin - L0N3M4N</b> 」
+    <a href="https://l0n3m4n.github.io">「 <b>AL Drin - L0N3M4N</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://ehph.club" target="blank">
+ <a href="https://l0n3m4n.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ehph" />
  </a>
- <a href="https://dev.to/ehphofficial" target="_blank">
+ <a href="https://dev.to/l0n3m4n" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://twitter.com/ehph" target="_blank">
+ <a href="https://twitter.com/l0n3m4n" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/ehphofficial" target="_blank">
+ <a href="https://instagram.com/l0n3m4n" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://facebook.com/ehphofficial" target="_blank">
+ <a href="https://facebook.com/l0n3m4n" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ehph"  />
   </a> 
 </p>
