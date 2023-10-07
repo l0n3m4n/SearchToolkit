@@ -2065,14 +2065,14 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/osint/HoneyBadgerV3.png"></td>
       <td><b>HoneyBadgerV3</b></td>
       <td><a href="https://adhdproject.github.io/#!Tools/Attribution/HoneyBadger.md">Website</a>
       <a href="https://github.com/adhdproject/honeybadger">Github</a></td>
       <td>HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located in realtime location. Device work (Laptop, Desktop with windows, linux destros).</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/osint/Seeker.png"></td>
       <td><b>Seeker</b></td>
       <td><a href="https://github.com/thewhiteh4t/seeker">Github</a></td>
       <td>Seeker a is host phishing pages to get credentials by hosting a fake page that requests your location like many popular location based websites it includes Device information, Geolocation information and etc.</td>
