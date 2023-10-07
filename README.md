@@ -62,7 +62,7 @@ My Private Tools
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
   <a href="#server"><b>Servers</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
-  <a href="#exploitations"><b>Exploitations</b></a> | 
+  <a href="#exploitations"><b>ations</b></a> | 
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> |
   <a href="#domains"><b>Domains</b></a> |
@@ -252,7 +252,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><img src="assets/vulnerabilities/rapid7.png"></td>
 <td><b>Rapid7 - DB</b></td>
 <td><a href="https://www.rapid7.com/db/">Website</a></td>
-<td>Vulnerability & Exploit Database</td>
+<td>Vulnerability &  Database</td>
 </tr>
 
 <tr>
