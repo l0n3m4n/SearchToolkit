@@ -2023,9 +2023,9 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 
 <!--Search navigation-->
 <p align="center">
-  <a href="#osint"><b>OSINT</b></a> |
-   <a href="#server"><b>Servers</b></a> |
-  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
+  <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> |
+   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
+  <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#exploits"><b>Exploits</b></a> | 
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> |
@@ -2047,6 +2047,38 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 ---
 An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
 <br>
+
+
+
+### Mail Address
+
+[🔙 Back to OSINT](#OSINT-Menu)
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>HoneyBadgerV3</b></td>
+      <td><a href="https://adhdproject.github.io/#!Tools/Attribution/HoneyBadger.md">Website</a>
+      <a href="https://github.com/adhdproject/honeybadger">Github</a></td>
+      <td>HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located in realtime location. Device work (Laptop, Desktop with windows, linux destros).</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Seeker</b></td>
+      <td><a href="https://github.com/thewhiteh4t/seeker">Github</a></td>
+      <td>Seeker is host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites, Device information, Geolocation information and etc.</td>
+    </tr>
+    </tbody>
+    </table>
 
 ## Phone Numbers 
 
