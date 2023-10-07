@@ -520,7 +520,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 <tr>
 <td><img src="assets/exploits/NetExec.png"></td>
-<td><b>NetExec</b></td>
+<td><b>NetExec (Network Exploitation)</b></td>
 <td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
 <a href="https://www.netexec.wiki/">Website</a></td>
 <td>NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
