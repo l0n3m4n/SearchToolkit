@@ -522,7 +522,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </table>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/NetExec.png"></td>
 <td><b>NetExec</b></td>
 <td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
 <a href="https://www.netexec.wiki/">Website</a></td>
