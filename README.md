@@ -518,9 +518,6 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><a href="https://cvexploits.io/">Website</a></td>
 <td>Your comprehensive database for CVE exploits from across the internet</td>
 </tr>
-</tbody>
-</table>
-
 <tr>
 <td><img src="assets/exploits/NetExec.png"></td>
 <td><b>NetExec</b></td>
@@ -528,6 +525,11 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <a href="https://www.netexec.wiki/">Website</a></td>
 <td>NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
 </tr>
+
+</tbody>
+</table>
+
+
 
 ## Attack Surface
 
