@@ -2050,7 +2050,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 
 
 
-### Mail Address
+### Geolocation Tracking
 
 [🔙 Back to OSINT](#OSINT-Menu)
 
@@ -2075,7 +2075,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
       <td><img src="assets/server/shodan.png"></td>
       <td><b>Seeker</b></td>
       <td><a href="https://github.com/thewhiteh4t/seeker">Github</a></td>
-      <td>Seeker is host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites, Device information, Geolocation information and etc.</td>
+      <td>Seeker a is host phishing pages to get credentials by hosting a fake page that requests your location like many popular location based websites it includes Device information, Geolocation information and etc.</td>
     </tr>
     </tbody>
     </table>
