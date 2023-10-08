@@ -2024,7 +2024,8 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <!--Search navigation-->
 <p align="center">
   <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> |
-   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
+  <a href="#special-osint-tools"><b>Special OSINT Tools</b></a> |
+  <a href="#phone-numbers"><b>Phone Numbers</b></a> |
   <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#exploits"><b>Exploits</b></a> | 
   <a href="#attack-surface"><b>Attack Surface</b></a> |
@@ -2048,7 +2049,27 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
 <br>
 
-
+### Special OSINT Tools
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th><b>NAME</b></th>
+      <th>LINK</th>
+      <th>DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/exploits/villain.png"></td>
+      <td><b>OSINT Map</b></td>
+      <td><a href="https://map.malfrats.industries/">Website</a>
+      <a href="https://github.com/Malfrats/OSINT-Map">Github</a</td>
+      <td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
+made to help you during your investigations</td>
+    </tr>
+    </tbody>
+    </table>
 
 ### Geolocation Tracking
 
@@ -2266,6 +2287,21 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
       <td><b>Hunter.io</b></td>
       <td><a href="https://hunter.io/">Website</a></td>
       <td>Find professional email addresses in seconds</td>
+    </tr>
+     <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>GHunt, OSINT Industries</b></td>
+      <td><a href="https://osint.industries/">Website</a>
+      <a href="">Github</a></td>
+      <td>GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
+It's currently focused on OSINT, but any use related with Google is possible.
+   <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>xeuledoc</b></td>
+      <td><a href="https://github.com/Malfrats/xeuledoc">Github</a></td>
+      <td>Google Account information gathering (Google Drive, Google Docs, Google Spreadsheets, Google Slide,Google Drawning, Google My Maps, Google Apps Script, Google Jamboard)</td>
+    </tr>
+</td>
     </tr>
     <tr>
       <td><img src="assets/server/shodan.png"></td>
