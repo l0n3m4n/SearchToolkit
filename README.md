@@ -2299,7 +2299,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td><img src="assets/server/shodan.png"></td>
       <td><b>xeuledoc</b></td>
       <td><a href="https://github.com/Malfrats/xeuledoc">Github</a></td>
-      <td>Google Account information gathering (Google Drive, Google Docs, Google Spreadsheets, Google Slide,Google Drawning, Google My Maps, Google Apps Script, Google Jamboard)</td>
+      <td>Google Account information gathering (Google Docs)</td>
     </tr>
 </td>
     </tr>
