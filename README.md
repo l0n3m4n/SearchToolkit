@@ -62,7 +62,7 @@ My Private Tools
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
   <a href="#server"><b>Servers</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
-  <a href="#exploitations"><b>ations</b></a> | 
+  <a href="#exploitations"><b>Exploitations</b></a> | 
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> |
   <a href="#domains"><b>Domains</b></a> |
