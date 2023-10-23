@@ -1,8 +1,6 @@
 #!/bin/bash
 
-# Author: L0N3M4N 
-# If you found errors or you want to contribute and improve this script just contact me via facebook
-# FB : https://facebook.com/l0n3m4n
+ 
 
 # Key features: Checking ERRORS, EMPTY, DUPLICATES, WARNINGS
 
