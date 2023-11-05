@@ -59,9 +59,7 @@
 <p align="center">
   <a href="#osint-menu"><b>OSINT</b></a> |
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
-  <a href="#server"><b>Servers</b></a> |
-  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
-  <a href="#exploitations"><b>Exploitations</b></a> | 
+  <a href="#server"><b>Servers</b></a> 
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> |
   <a href="#domains"><b>Domains</b></a> |
@@ -73,6 +71,19 @@
   <a href="#leaks"><b>Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
+  <a href="#enumeration"><b>Enumeration</b></a> |
+  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
+  <a href="#evasion"><b>Evasion</b></a> |
+  <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
+  <a href="#exploitations"><b>Exploitations</b></a> |
+  <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
+  <a href="#exploitations"><b>Exploitations</b></a> |
+  <a href="#credential-dumping"><b>Credentail Dumping</b></a> |
+  <a href="#persistence"><b>Persistence</b></a> |
+  <a href="#lateral-movement"><b>Lateral Movement</b></a> |
+  <a href="#data-exfiltration"><b>Data Exfiltration</b></a> |
+  <a href="#command-and-control"><b>Command and Control</b></a> |
+  <a href="#covering-tracks"><b>Covering Tracks</b></a> |
   <a href="#dfir-menu"><b>DFIR</b></a> | 
 </p>
 
