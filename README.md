@@ -59,7 +59,7 @@
 <p align="center">
   <a href="#osint-menu"><b>OSINT</b></a> |
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
-  <a href="#server"><b>Servers</b></a> 
+  <a href="#server"><b>Servers</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> |
   <a href="#domains"><b>Domains</b></a> |
