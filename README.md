@@ -77,7 +77,6 @@
   <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
   <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
-  <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#credential-dumping"><b>Credentail Dumping</b></a> |
   <a href="#persistence"><b>Persistence</b></a> |
   <a href="#lateral-movement"><b>Lateral Movement</b></a> |
