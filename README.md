@@ -2717,17 +2717,9 @@ __DFIR__ is the proactive and reactive approach to investigating and addressing 
 
 [🔝 Back to top](#Main-Menu)
 
-
-<!--DFIR Pages-->
 <br>
+<!--CTF Platform-->
 <h1 align="center">CTF-Menu</h1>
-<!--Search navigation-->
-<p align="center">
-  <a href="#penetration-testing"><b>Penetration Testing</b></a> | 
-  <a href="#bughunting"><b>Bughunting</b></a> | 
-  <a href="#forensic"><b>Forensic</b></a> 
-</p>
-<br>
 
 <!--about-->
 ---
