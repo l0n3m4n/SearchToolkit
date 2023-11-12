@@ -84,7 +84,7 @@
   <a href="#command-and-control"><b>Command and Control<b><a> |
   <a href="#covering-tracks"><b>Covering Tracks</b></a> |
   <a href="#dfir-menu"><b>DFIR</b></a> |
-  <a href="#ctf"><b>CTF</b></a> 
+  <a href="#ctf-menu"><b>CTF Platform</b></a> 
 </p>
 
 
