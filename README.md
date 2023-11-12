@@ -2737,7 +2737,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
-  <table>
+  <tbody>
     <tr>
         <td><img src="assets/server/aptsimulator.png"></td>
         <td><b>HackTheBox</b></td>
