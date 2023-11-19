@@ -53,10 +53,11 @@
 </p>
 <br />
 
-<h3 align="center">Main-Menu</h3>
+<h2 align="center">Main-Menu</h2>
 
 <!--Search navigation-->
 <p align="center">
+  <h4 align="center">Reconnaissance</h4>
   <a href="#osint-menu"><b>OSINT</b></a> |
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
   <a href="#server"><b>Servers</b></a> |
@@ -70,21 +71,25 @@
   <a href="#credentials"><b>Credentials</b></a> |
   <a href="#leaks"><b>Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
+  <a href="#dfir-menu"><b>DFIR</b></a> |
+  <a href="#ctf-menu"><b>CTF Platform</b></a>  
+  <h4 align="center">The (APT) - Attack Life Cycle</h4>
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
-  <a href="#evasion"><b>Evasion</b></a> |
   <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
   <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
+  <a href="#establish-foothold"><b>Establish Foothold</b></a> | 
+  <a href="#evasion"><b>Evasion</b></a> |
   <a href="#credential-dumping"><b>Credentail Dumping</b></a> |
   <a href="#persistence"><b>Persistence</b></a> |
   <a href="#lateral-movement"><b>Lateral Movement</b></a> |
-  <a href="#data-exfiltration"><b>Data Exfiltration</b></a> |
   <a href="#command-and-control"><b>Command and Control<b><a> |
+  <a href="#data-exfiltration"><b>Data Exfiltration</b></a> |
   <a href="#covering-tracks"><b>Covering Tracks</b></a> |
-  <a href="#dfir-menu"><b>DFIR</b></a> |
-  <a href="#ctf-menu"><b>CTF Platform</b></a> 
+  <a href="#securing-data"><b>Securing Data</b></a>
+
 </p>
 
 
