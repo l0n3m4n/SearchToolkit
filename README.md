@@ -2113,6 +2113,12 @@ made to help you during your investigations</td>
       <td><a href="https://github.com/thewhiteh4t/seeker">Github</a></td>
       <td>Seeker a is host phishing pages to get credentials by hosting a fake page that requests your location like many popular location based websites it includes Device information, Geolocation information and etc.</td>
     </tr>
+     <tr>
+      <td><img src="assets/"></td>
+      <td><b>Grabify IP Logger</b></td>
+      <td><a href="https://grabify.link">Website</a></td>
+      <td>Grabify IP logger will help you find and track the IP address of any person.</td>
+    </tr>
     </tbody>
     </table>
 
