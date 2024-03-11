@@ -28,7 +28,7 @@
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://l0n3m4n.github.io">「 <b>AL Drin - L0N3M4N</b> 」
+    <a href="https://ehph.github.io">「 <b>EHPH GROUP</b> 」
     <br>
     <br>
   </samp>
@@ -57,7 +57,6 @@
 
 <!--Search navigation-->
 <p align="center">
-  <h4 align="center">Reconnaissance</h4>
   <a href="#osint-menu"><b>OSINT</b></a> |
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
   <a href="#server"><b>Servers</b></a> |
@@ -73,7 +72,8 @@
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
   <a href="#dfir-menu"><b>DFIR</b></a> |
-  <a href="#ctf-menu"><b>CTF Platform</b></a>  
+  <a href="#ctf-menu"><b>CTF Platform</b></a> |  
+  <a href="#android"><b>Android</b></a>
   <h4 align="center">The (APT) - Attack Life Cycle</h4>
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
@@ -89,6 +89,7 @@
   <a href="#data-exfiltration"><b>Data Exfiltration</b></a> |
   <a href="#covering-tracks"><b>Covering Tracks</b></a> |
   <a href="#securing-data"><b>Securing Data</b></a>
+
 
 </p>
 
@@ -175,6 +176,14 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><a href="https://hunter.how/">Website</a></td>
 <td>Internet search engine for security researchers.</td>
 </tr>
+
+<tr>
+<td><img src="assets/servers/qualys.png"></td>
+<td><b>Qualys SSL Labs</b></td>
+<td><a href="https://www.ssllabs.com/ssltest/">Website</a></td>
+<td>This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet. </td>
+</tr>
+
 
 </tbody>
 </table>
@@ -540,6 +549,24 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <a href="https://www.netexec.wiki/">Website</a></td>
 <td>NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
 </tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>CVExploits Search</b></td>
+<td><a href="https://cvexploits.io/">Website</a></td>
+<td>Your comprehensive database for CVE exploits from across the internet</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>SploitScan</b></td>
+<td><a href="https://github.com/xaitax/SploitScan">Github</a></td>
+<td>SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
+</tr>
+<tr>
+<td><img src="assets/server/shodan.png"></td>
+<td><b>Sicat</b></td>
+<td><a href="https://github.com/justakazh/sicat">Github</a></td>
+<td>SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
+</tr>
 
 </tbody>
 </table>
@@ -656,6 +683,9 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><a href="https://detectify.com/">Website</a></td>
 <td>Complete External Attack Surface Management</td>
 </tr>
+
+
+
 </tbody>
 </table>
 
@@ -2831,6 +2861,33 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     </tr>
 </table>
 
+
+
+[🔝 Back to top](#Main-Menu)
+
+<br>
+<!--CTF Platform-->
+<h1 align="center">Android-Menu</h1>
+
+## Andriod RAT
+
+<table>
+  <thead>
+    <tr>
+      <th>LOGOS</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><img src="assets/android/"></td>
+        <td><b>Moukthar RAT</b></td>
+        <td><a href="https://github.com/Tomiwa-Ot/moukthar">Github</a></td>
+        <td>Android remote administration tool </td>
+    </tr>
+</table>
 
 ---------
 __Original Author's__
