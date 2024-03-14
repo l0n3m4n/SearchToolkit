@@ -73,7 +73,7 @@
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
   <a href="#dfir-menu"><b>DFIR</b></a> |
   <a href="#ctf-menu"><b>CTF Platform</b></a> |  
-  <a href="#android"><b>Android</b></a>
+  <a href="#android-menu"><b>Android</b></a>
   <h4 align="center">The (APT) - Attack Life Cycle</h4>
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
@@ -1466,6 +1466,12 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
     </tr>
   </thead>
   <tbody>
+  <tr>
+        <td><img src="assets/leaks/LeakSearch.png"></td>
+        <td><b>LeakSearch</b></td>
+        <td><a href="https://github.com/JoelGMSec/LeakSearch">Github</a></td>
+        <td>A tool search and parse plain text passwords using ProxyNova COMB (Combination Of Many Breaches) over the Internet.</td>
+    </tr>
     <tr>
       <td><img src="assets/server/shodan.png"></td>
       <td><b>WikiLeaks</b></td>
@@ -2869,7 +2875,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 <!--CTF Platform-->
 <h1 align="center">Android-Menu</h1>
 
-## Andriod RAT
+## Andriod
 
 <table>
   <thead>
@@ -2882,12 +2888,35 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
   </thead>
   <tbody>
     <tr>
-        <td><img src="assets/android/"></td>
+        <td><img src="assets/android/APK_default.png"></td>
         <td><b>Moukthar RAT</b></td>
         <td><a href="https://github.com/Tomiwa-Ot/moukthar">Github</a></td>
         <td>Android remote administration tool </td>
     </tr>
+    <tr>
+        <td><img src="assets/android/APK_default.png"></td>
+        <td><b>APKDeepLens</b></td>
+        <td><a href="https://github.com/d78ui98/APKDeepLens">Github</a></td>
+        <td>APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities</td>
+    </tr>
+ 
+ 
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---------
 __Original Author's__
