@@ -74,7 +74,7 @@
   <a href="#dfir-menu"><b>DFIR</b></a> |
   <a href="#ctf-menu"><b>CTF Platform</b></a> |  
   <a href="#android-menu"><b>Android</b></a>
-  <h4 align="center">The (APT) - Attack Life Cycle</h4>
+  <h4 align="center">Attack Life Cycle</h4>
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
@@ -556,7 +556,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Your comprehensive database for CVE exploits from across the internet</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/sploitscan.png"></td>
 <td><b>SploitScan</b></td>
 <td><a href="https://github.com/xaitax/SploitScan">Github</a></td>
 <td>SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
@@ -572,6 +572,29 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </table>
 
 
+## Privilege Escalation 
+
+[🔝 Back to top](#Main-Menu)
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th><b>NAME</b></th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/privilege_escalation/WLPE.png"></td>
+<td><b>WLPE</b></td>
+<td><a href="https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook">Github</a></td>
+<td>Windows Local Privilege Escalation Cookbook </td>
+</tr>
+
+</tbody>
+</table>
 
 ## Attack Surface
 
