@@ -568,6 +568,13 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
 </tr>
 
+<tr>
+<td><img src="assets/exploits/dns_tunnel.png"></td>
+<td><b>DNS Tunnel Keylogger</b></td>
+  <td><a href="https://github.com/Geeoon/DNS-Tunnel-Keylogger">Github</a></td>
+<td> Keylogging server and client that uses DNS tunneling/exfiltration to transmit keystrokes through firewalls. </td>
+</tr>
+
 </tbody>
 </table>
 
@@ -591,6 +598,12 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td><b>WLPE</b></td>
 <td><a href="https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook">Github</a></td>
 <td>Windows Local Privilege Escalation Cookbook </td>
+</tr>
+<tr>
+<td><img src="assets/privilege_escalation/activedirectory.jpg"></td>
+<td><b>LinWinPwn</b></td> 
+<td><a href="https://github.com/lefayjey/linWinPwn">Github</a></td>
+<td>Swiss-Army knife for Active Directory Pentesting using Linux</td> 
 </tr>
 
 </tbody>
