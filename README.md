@@ -1166,12 +1166,6 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>C99.nl</b></td>
-<td><a href="https://api.c99.nl/">Website</a></td>
-<td>Over 57 quality APIs and growing!</td>
-</tr>
-<tr>
-<td><img src="assets/server/shodan.png"></td>
 <td><b>Wannabe1337.xyz</b></td>
 <td><a href="https://wannabe1337.xyz/">Website</a></td>
 <td>Online Tools</td>
@@ -2301,12 +2295,6 @@ made to help you during your investigations</td>
       <td><b>SynapsInt</b></td>
       <td><a href="https://synapsint.com/">Website</a></td>
       <td>The unified OSINT research tool</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>C99.nl</b></td>
-      <td><a href="https://api.c99.nl/">Website</a></td>
-      <td>Over 57 quality API's and growing</td>
     </tr>
     <tr>
       <td><img src="assets/server/shodan.png"></td>
