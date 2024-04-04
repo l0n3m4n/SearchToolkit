@@ -1,5 +1,5 @@
 <h2 align="center">
-  SearchToolkit Engine
+  SearchToolkit 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lybGJrZnI4aXJuYjBmOHVxZTR5azcyanlrNGtzbTY3b2xkODc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgFLfWUZigjoem4/giphy.gif" width="28">
 </h2>
 
@@ -2923,24 +2923,58 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
         <td><a href="https://github.com/d78ui98/APKDeepLens">Github</a></td>
         <td>APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities</td>
     </tr>
- 
- 
+     <tr>
+        <td><img src="assets/android/apktool.png"></td>
+        <td><b>Apktool</b></td>
+        <td><a href="https://apktool.org/">Website</a></td>
+        <td>A tool for reverse engineering Android apk files.</td>
+    </tr>
+     <tr>
+        <td><img src="assets/android/APK_default.png"></td>
+        <td><b>Apk2url</b></td>
+        <td><a href="https://github.com/n0mi1k/apk2url">Github</a></td>
+        <td>An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling </td>
+    </tr>
+     <tr>
+        <td><img src="assets/android/APK_default.png"></td>
+        <td><b>DroidLysis</b></td>
+        <td><a href="https://github.com/cryptax/droidlysis"></a>Github</td>
+        <td>Property extractor for Android apps </td>
+    </tr>
+       <tr>
+        <td><img src="assets/android/drozer.png"></td>
+        <td><b>Drozer</b></td>
+        <td><a href="https://github.com/WithSecureLabs/drozer">Github</a></td>
+        <td>drozer allows you to search for security vulnerabilities in apps and devices by assuming the role of an app and interacting with the Android Runtime, other apps' IPC endpoints and the underlying OS.</td>
+    </tr>
+
 </table>
 
+[🔝 Back to top](#Main-Menu)
 
+<br>
+<!--Lateral Movement-->
+<h1 align="center">Lateral Movement "Pivoting"</h1>
 
+## Lateral Movement
 
-
-
-
-
-
-
-
-
-
-
-
+<table>
+  <thead>
+    <tr>
+      <th>LOGOS</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><img src="assets/lateral_movement/logo-ng.png"></td>
+        <td><b>Ligolo-ng </b></td>
+        <td><a href="https://github.com/nicocha30/ligolo-ng.git">Github</a></td>
+        <td>An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface. </td>
+    </tr>
+</table>
 
 ---------
 __Original Author's__
