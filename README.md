@@ -1878,6 +1878,12 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
       <td><a href="https://exchange.xforce.ibmcloud.com/">Website</a></td>
       <td>Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers</td>
     </tr>
+    <tr>
+      <td><img src="assets/threat_intelligence/threat-intelligence-removebg-pre.png"></td>
+      <td><b>C2-Trackers</b></td>
+      <td><a href="https://github.com/montysecurity/C2-Tracker">Github</a></td>
+      <td>Free to use IOC feed for various tools/malware. It started out for just C2 tools but has morphed into tracking infostealers and botnets as well. It uses Shodan searches to collect the IPs. The most recent collection is always stored in data; the IPs are broken down by tool and there is an all.txt.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -2118,8 +2124,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
   <a href="#wifi-networks"><b>WiFi Networks</b></a> |
   <a href="#credentials"><b>Credentials</b></a> |
   <a href="#leaks"><b>Leaks</b></a> |
-  <a href="#hidden-services"><b>Hidden Services</b></a> |
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> 
+  <a href="#hidden-services"><b>Hidden Services</b></a> | 
 </p>
 <br>
 
@@ -2801,6 +2806,12 @@ __DFIR__ is the proactive and reactive approach to investigating and addressing 
       <td><b>RedHunt-OS</b></td>
       <td><a href="https://github.com/redhuntlabs/RedHunt-OS">GitHub</a></td>
       <td>Virtual machine for adversary emulation and threat hunting.</td>
+    </tr>
+     <tr>
+      <td><img src="assets/dfir/adversary_emulation/attackgen"></td>
+      <td><b>AttackGen</b></td>
+      <td><a href="https://github.com/mrwadams/attackgen">GitHub</a></td>
+      <td>AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organisation's details</td>
     </tr>
   </tbody>
 </table>
