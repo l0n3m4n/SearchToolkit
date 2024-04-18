@@ -2958,6 +2958,12 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
         <td><a href="https://github.com/WithSecureLabs/drozer">Github</a></td>
         <td>drozer allows you to search for security vulnerabilities in apps and devices by assuming the role of an app and interacting with the Android Runtime, other apps' IPC endpoints and the underlying OS.</td>
     </tr>
+      <tr>
+        <td><img src="assets/android/APK_default.png"></td>
+        <td><b>apkmonk</b></td>
+        <td><a href="https://www.apkmonk.com"></a>Website</td>
+        <td>Download APK from Desktop browser</td>
+    </tr>
 
 </table>
 
