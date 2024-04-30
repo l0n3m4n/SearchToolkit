@@ -74,7 +74,7 @@
   <a href="#dfir-menu"><b>DFIR</b></a> |
   <a href="#ctf-menu"><b>CTF Platform</b></a> |  
   <a href="#android-menu"><b>Android</b></a>
-  <h4 align="center">Attack Life Cycle</h4>
+  <h4 align="center">Standard Attack Cycle</h4>
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
