@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++;Penetration+Testing+and+so+on.+Feel+free+to++;add+into+you+favorites.+"></a>
+  <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++;Penetration+Testing+and+so+on.+Feel+free+to++;add+into+your+favorites.+"></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=ehph">
@@ -16,7 +16,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Penetration, Tester
+        <samp>&gt; Penetration Testing and Ethical Hacking 
                 <b><a target="_blank" href="https://en.wikipedia.org/wiki/Penetration_test">Engine</a></b>
         </samp>
 </h3>
@@ -38,16 +38,16 @@
  <a href="https://l0n3m4n.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ehph" />
  </a>
- <a href="https://dev.to/l0n3m4n" target="_blank">
+ <a href="https://dev.to/ehphofficial" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://twitter.com/l0n3m4n" target="_blank">
+ <a href="https://twitter.com/ehphofficial" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/l0n3m4n" target="_blank">
+ <a href="https://instagram.com/ehphofficial" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://facebook.com/l0n3m4n" target="_blank">
+ <a href="https://facebook.com/ehphofficial" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ehph"  />
   </a> 
 </p>
