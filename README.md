@@ -41,7 +41,7 @@
  <a href="https://dev.to/ehphofficial" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ehph" />
  </a> 
- <a href="https://twitter.com/ehphofficial" target="_blank">
+ <a href="https://x.com/ehphofficial" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/ehphofficial" target="_blank">
@@ -89,19 +89,11 @@
   <a href="#data-exfiltration"><b>Data Exfiltration</b></a> |
   <a href="#covering-tracks"><b>Covering Tracks</b></a> |
   <a href="#securing-data"><b>Securing Data</b></a>
-
-
 </p>
-
-
-
 
 <!--about-->
 ---
 A carefully gathered list of all Awesome tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
-
-
-
 
 ## Server
 
