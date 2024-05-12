@@ -4,11 +4,11 @@ BasicAndroidRE1.apk <h2 align="center">
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ehphofficial"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=100&color=1BF786&width=435&lines=This+tool+have+been+developed+;For+enhancing+Cybersecurity++;Penetration+Testing+and+so+on.+Feel+free+to++;add+into+your+favorites.+"></a>
+  <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=420&duration=2800&pause=300&color=19FF31&random=false&width=420&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+;ethical+hacking+related.+feel+free+to+add+in+your+favorites."></a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=ehph">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ehph&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=l0n3m4n">
+  <img align="right" src="https://komarev.com/ghpvc/?username=l0n3m4n&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -28,7 +28,7 @@ BasicAndroidRE1.apk <h2 align="center">
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://ehph.github.io">「 <b>EHPH GROUP</b> 」
+    <a href="https://ehph.github.io">「 <b>L0N3M4N</b> 」
     <br>
     <br>
   </samp>
