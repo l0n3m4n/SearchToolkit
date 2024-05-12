@@ -440,19 +440,19 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Information Security Services, News, Files, Tools, Exploits, Advisories, and Whitepapers</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/odaytoday.png"></td>
 <td><b>0day.today</b></td>
 <td><a href="https://0day.today/">Website</a></td>
 <td>Ultimate database of exploits and vulnerabilities</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/LOLBAS.png"></td>
 <td><b>LOLBAS</b></td>
 <td><a href="https://lolbas-project.github.io/">Github</a></td>
 <td>Living Off The Land Binaries, Scripts and Libraries</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/LOLBIN.png"></td>
 <td><b>GTFOBins</b></td>
 <td><a href="https://gtfobins.github.io/">Github</a></td>
 <td>Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</td>
@@ -460,7 +460,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>Payloads All The Things</b></td>
-<td><a href="https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/">Github</a></td>
+<td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security</td>
 </tr>
 <tr>
