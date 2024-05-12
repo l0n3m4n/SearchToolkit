@@ -470,13 +470,13 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>The wonderland of JavaScript unexpected usages, and more</td>
 </tr> 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/villain.png"></td>
 <td><b>Exploitalert.com</b></td>
 <td><a href="https://www.exploitalert.com/search-results.html">Website</a></td>
 <td>Database of Exploits</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/revshell.png"></td>
 <td><b>Reverse Shell generator</b></td>
 <td><a href="https://www.revshells.com/">Website</a></td>
 <td>Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode</td>
