@@ -428,10 +428,10 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>PEASS-ng is tools search for local privilege escalation</td>
 </tr>
 <tr>
-<td><img src="assets/exploits/villain.png"></td>
-<td><b>Villain C2 Framework</b></td>
-<td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
-<td>Villain is an advanced C2 framework.</td>
+<td><img src="assets/exploits/default.png"></td>
+<td><b>default C2 Framework</b></td>
+<td><a href="https://github.com/t3l3machus/default">Github</a></td>
+<td>default is an advanced C2 framework.</td>
 </tr>
 <tr>
 <td><img src="assets/exploits/packetstorm.png "></td>
@@ -458,7 +458,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</td>
 </tr>
 <tr>
-<td><img src="assets/exploits/villain.png"></td>
+<td><img src="assets/exploits/default.png"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security</td>
@@ -470,7 +470,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>The wonderland of JavaScript unexpected usages, and more</td>
 </tr> 
 <tr>
-<td><img src="assets/exploits/villain.png"></td>
+<td><img src="assets/exploits/default.png"></td>
 <td><b>Exploitalert.com</b></td>
 <td><a href="https://www.exploitalert.com/search-results.html">Website</a></td>
 <td>Database of Exploits</td>
@@ -482,25 +482,25 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/h1-hactivity.png"></td>
 <td><b>HackerOne hacktivity</b></td>
 <td><a href="https://hackerone.com/hacktivity">Website</a></td>
 <td>See the latest hacker activity on HackerOne</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/bugcrowd-crowdstream.png"></td>
 <td><b>Bugcrowd Crowdstream</b></td>
 <td><a href="https://bugcrowd.com/crowdstream">Website</a></td>
 <td>Showcase of accepted and disclosed submissions on Bugcrowd programs</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/vulnerabilities/LOLBIN.png"></td>
 <td><b>GTFOArgs</b></td>
 <td><a href="https://gtfoargs.github.io/">Github</a></td>
 <td>Curated list of Unix binaries that can be manipulated for argument injection</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/default.png"></td>
 <td><b>Shell-storm.org/shellcode</b></td>
 <td><a href="https://shell-storm.org/shellcode/index.html">Website</a></td>
 <td>Shellcodes database for study cases</td>
@@ -2134,7 +2134,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/exploits/villain.png"></td>
+      <td><img src="assets/exploits/default.png"></td>
       <td><b>OSINT Map</b></td>
       <td><a href="https://map.malfrats.industries/">Website</a>
       <a href="https://github.com/Malfrats/OSINT-Map">Github</a</td>
