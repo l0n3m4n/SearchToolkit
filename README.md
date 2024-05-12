@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;ethical+hacking+related.+feel+free+;to+add+in+your+favorites."></a>
+  <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;Cyber+security+related.+feel+free+;to+add+in+your+favorites."></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=l0n3m4n">
