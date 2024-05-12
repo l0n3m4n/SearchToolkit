@@ -253,7 +253,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/security_snyk.png"></td>
+<td><img src="assets/vulnerabilities/snyk.png"></td>
 <td><b>Security.snyk.io</b></td>
 <td><a href="https://security.snyk.io/">Website</a></td>
 <td>Open Source Vulnerability Database</td>
@@ -351,7 +351,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/v"></td>
+<td><img src="assets/vulnerabilities/vulnerabilitylab.jpg"></td>
 <td><b>Vulnerability Lab</b></td>
 <td><a href="https://www.vulnerability-lab.com/">Website</a></td>
 <td>Vulnerability research, bug bounties, and vulnerability assessments</td>
