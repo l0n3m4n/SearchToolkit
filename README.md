@@ -95,7 +95,7 @@ BasicAndroidRE1.apk <h2 align="center">
 
 <!--about-->
 ---
-A carefully gathered list of all Awesome tools that are highly valuable for various cybersecurity tasks, including penetration testing, vulnerability assessments, red/blue team operations, bug bounty hunting, OSINT and other related activities.
+A carefully gathered list of all tools that are highly valuable for various cybersecurity tasks, including Penetration testing, Red/Blue Team operations, Vulnerability assessments, Bug hunting, Digital forensic, OSINT, Threat intelligence, Incident response and other related activities.
 
 ## Server
 
