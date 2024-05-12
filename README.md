@@ -434,7 +434,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Villain is an advanced C2 framework.</td>
 </tr>
 <tr>
-<td><img src="assets/exploits/packetstorm.png"></td>
+<td><img src="assets/exploits/packetstorm.png "></td>
 <td><b>packetstormsecurity.com</b></td>
 <td><a href="https://packetstormsecurity.com/">Website</a></td>
 <td>Information Security Services, News, Files, Tools, Exploits, Advisories, and Whitepapers</td>
