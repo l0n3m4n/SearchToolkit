@@ -218,7 +218,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/github_database.png"></td>
+<td><img src="assets/vulnerabilities/valhalla.png"></td>
 <td><b>Valhalla YARA Rules</b></td>
 <td><a href="https://valhalla.nextron-systems.com/">Website</a></td>
 <td>Valhalla is a Malware Detection tools based on YARA rules.</td>
