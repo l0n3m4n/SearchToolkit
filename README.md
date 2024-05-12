@@ -90,7 +90,8 @@ BasicAndroidRE1.apk <h2 align="center">
   <a href="#command-and-control"><b>Command and Control<b><a> |
   <a href="#data-exfiltration"><b>Data Exfiltration</b></a> |
   <a href="#covering-tracks"><b>Covering Tracks</b></a> |
-  <a href="#securing-data"><b>Securing Data</b></a>
+  <a href="#securing-data"><b>Securing Data</b></a> |
+  <a href="#reports"><b>Reports</b></a>
 </p>
 
 <!--about-->
