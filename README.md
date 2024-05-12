@@ -458,17 +458,17 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/villain.png"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>XSS Payloads</b></td>
-<td><a href="http://www.xss-payloads.com/">Website</a></td>
+<td><img src="assets/exploits/xss-payloads.jpg"></td>
+<td><b>XSS Payloads</b></td>  
+<td><a href="https://xss.js.org/">Website</a></td>
 <td>The wonderland of JavaScript unexpected usages, and more</td>
-</tr>
+</tr> 
 <tr>
 <td><img src="assets/server/shodan.png"></td>
 <td><b>Exploitalert.com</b></td>
