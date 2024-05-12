@@ -28,7 +28,7 @@ BasicAndroidRE1.apk <h2 align="center">
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://ehph.github.io">「 <b>L0N3M4N</b> 」
+    <a href="https://facebook.com/ehphofficial">「 <b>l0n3m4n : EHPH Group</b> 」
     <br>
     <br>
   </samp>
@@ -38,16 +38,14 @@ BasicAndroidRE1.apk <h2 align="center">
  <a href="https://l0n3m4n.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="l0n3m4n" />
  </a>
- <a href="https://dev.to/ehphofficial" target="_blank">
+ <a href="https://dev.to/l0n3m4n" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="l0n3m4n" />
  </a> 
- <a href="https://twitter.com/ehph" target="_blank">
+ <a href="https://twitter.com/l0n3m4n" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/ehphofficial" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="l0n3m4n" />
- </a> 
- <a href="https://facebook.com/ehphofficial" target="_blank">
+  
+ <a href="https://facebook.com/l0n3m4n" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="l0n3m4n"  />
   </a> 
 </p>
