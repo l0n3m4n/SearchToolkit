@@ -28,7 +28,7 @@ BasicAndroidRE1.apk <h2 align="center">
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://facebook.com/ehphofficial" target="_blank">「 <b>l0n3m4n : EHPH Member </b> 」
+    <a href="https://facebook.com/ehphofficial" onclick="window.open(this.href,'_blank');return false;">「 <b>l0n3m4n : EHPH Member </b> 」
     <br>
     <br>
   </samp>
