@@ -302,13 +302,6 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/vulmon.png"></td>
-<td><b>Vulmon</b></td>
-<td><a href="https://vulmon.com/">Website</a></td>
-<td>Vulnerability and exploit search engine</td>
-</tr>
-
-<tr>
 <td><img src="assets/vulnerabilities/vuldb.png"></td>
 <td><b>VulDB</b></td>
 <td><a href="https://vuldb.com/">Website</a></td>
@@ -403,27 +396,27 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/exploitdb.png"></td>
 <td><b>Exploit-DB</b></td>
 <td><a href="https://www.exploit-db.com/">Website</a></td>
 <td>Exploit Database</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/sploitus.png"></td>
 <td><b>Sploitus</b></td>
 <td><a href="https://sploitus.com/">Website</a></td>
 <td>Convenient central place for identifying the newest exploits</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/rapid7db.png"></td>
 <td><b>Rapid7 - DB</b></td>
 <td><a href="https://www.rapid7.com/db/">Website</a></td>
 <td>Vulnerability & Exploit Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/vulmon.jpg"></td>
 <td><b>Vulmon</b></td>
 <td><a href="https://vulmon.com/">Website</a></td>
 <td>Vulnerability and exploit search engine</td>
@@ -441,7 +434,7 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Villain is an advanced C2 framework.</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/packetstorm.png"></td>
 <td><b>packetstormsecurity.com</b></td>
 <td><a href="https://packetstormsecurity.com/">Website</a></td>
 <td>Information Security Services, News, Files, Tools, Exploits, Advisories, and Whitepapers</td>
