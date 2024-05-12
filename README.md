@@ -506,50 +506,46 @@ A carefully gathered list of all Awesome tools that are highly valuable for vari
 <td>Shellcodes database for study cases</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/hackingthecloud.png"></td>
 <td><b>Hacking the Cloud</b></td>
 <td><a href="https://hackingthe.cloud/">Website</a></td>
 <td>Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/loldrivers.png"></td>
 <td><b>LOLDrivers</b></td>
 <td><a href="https://www.loldrivers.io/">Website</a></td>
 <td>Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/default.png"></td>
 <td><b>PwnWiki</b></td>
 <td><a href="http://pwnwiki.io/">Website</a></td>
 <td>Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained</td>
 </tr>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/default.png"></td>
 <td><b>CVExploits Search</b></td>
 <td><a href="https://cvexploits.io/">Website</a></td>
 <td>Your comprehensive database for CVE exploits from across the internet</td>
 </tr>
 <tr>
-<td><img src="assets/exploits/NetExec.png"></td>
+<td><img src="assets/exploits/netexec.jpg"></td>
 <td><b>NetExec (Network Exploitation)</b></td>
 <td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
 <a href="https://www.netexec.wiki/">Website</a></td>
 <td>NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
 </tr>
-<tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>CVExploits Search</b></td>
-<td><a href="https://cvexploits.io/">Website</a></td>
-<td>Your comprehensive database for CVE exploits from across the internet</td>
-</tr>
+
 <tr>
 <td><img src="assets/exploits/sploitscan.png"></td>
 <td><b>SploitScan</b></td>
 <td><a href="https://github.com/xaitax/SploitScan">Github</a></td>
 <td>SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
 </tr>
+
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/exploits/default.png"></td>
 <td><b>Sicat</b></td>
 <td><a href="https://github.com/justakazh/sicat">Github</a></td>
 <td>SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
