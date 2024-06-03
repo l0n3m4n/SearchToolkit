@@ -2467,7 +2467,7 @@ made to help you during your investigations</td>
       <td><b>go-dork</b></td>
       <td><a href="https://github.com/dwisiswant0/go-dork">Github</a></td>
       <td>The fastest dork scanner written in Go</td>
-    </tr>
+    </tr> 
     <tr>
       <td><img src="assets/exploits/default.png"></td>
       <td><b>github-dorks</b></td>
