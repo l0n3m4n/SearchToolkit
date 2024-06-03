@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;Cyber+security+related.+feel+free+;to+add+in+your+favorites."></a>
+  <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;Cybersecurity+related.+feel+free+;to+add+in+your+favorites."></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=l0n3m4n">
@@ -2467,13 +2467,19 @@ made to help you during your investigations</td>
       <td><b>go-dork</b></td>
       <td><a href="https://github.com/dwisiswant0/go-dork">Github</a></td>
       <td>The fastest dork scanner written in Go</td>
-    </tr> 
+    </tr>   
     <tr>
       <td><img src="assets/exploits/default.png"></td>
       <td><b>github-dorks</b></td>
       <td><a href="https://github.com/techgaun/github-dorks">Github</a></td>
       <td>Github dorks can reveal sensitive personal and/or organizational information such as private keys, credentials, authentication tokens, etc.</td>
     </tr>
+    <tr>
+      <td><img src="assets/osint/goofuzz.png"></td>
+      <td><b>GooFuzz </b></td>
+      <td><a href="https://github.com/m3n0sd0n4ld/GooFuzz">Github</a></td>
+      <td>GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking). </td>
+    </tr> 
 </table>
   
 
