@@ -59,10 +59,7 @@
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
   <a href="#server"><b>Servers</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
-  <a href="#code-search"><b>Code Search</b></a> |
-  <a href="#domains"><b>Domains</b></a> |
-  <a href="#dns"><b>DNS</b></a> |
-  <a href="#url"><b>URL</b></a> |
+  <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
   <a href="#credentials"><b>Credentials</b></a> |
@@ -2218,6 +2215,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
   <a href="#domains"><b>Domains</b></a> |
   <a href="#dns"><b>DNS</b></a> |
   <a href="#url"><b>URL</b></a> |
+  <a href="#dorks"><b>Dorks</b></a> | 
   <a href="#wifi-networks"><b>WiFi Networks</b></a> |
   <a href="#credentials"><b>Credentials</b></a> |
   <a href="#leaks"><b>Leaks</b></a> |
@@ -2450,10 +2448,34 @@ made to help you during your investigations</td>
   </tbody>
 </table>
 
+[🔙 Back to OSINT](#OSINT-Menu)
 
-### Mail Address
+<!--Dorks-->
+### Dorks
+<table>
+  <thead>
+    <tr>
+      <th>LOGOS</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td><img src="assets/osint/dorks.jpg"></td>
+      <td><b>go-dork</b></td>
+      <td><a href="https://github.com/dwisiswant0/go-dork">Github</a></td>
+      <td>The fastest dork scanner written in Go</td>
+    </tr>
+</table>
+  
+
 
 [🔙 Back to OSINT](#OSINT-Menu)
+
+<!--Mail Address-->
+### Mail Address
 
 <table>
   <thead>
