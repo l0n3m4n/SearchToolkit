@@ -2468,6 +2468,12 @@ made to help you during your investigations</td>
       <td><a href="https://github.com/dwisiswant0/go-dork">Github</a></td>
       <td>The fastest dork scanner written in Go</td>
     </tr>
+    <tr>
+      <td><img src="assets/exploits/default.png"></td>
+      <td><b>github-dorks</b></td>
+      <td><a href="https://github.com/techgaun/github-dorks">Github</a></td>
+      <td>Github dorks can reveal sensitive personal and/or organizational information such as private keys, credentials, authentication tokens, etc.</td>
+    </tr>
 </table>
   
 
