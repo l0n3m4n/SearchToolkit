@@ -594,14 +594,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <tbody>
 
 <tr>
-<td><img src="assets/privilege_escalation/WLPE.png"></td>
+<td><img src="assets/privilege-escalation/WLPE.png"></td>
 <td><b>WLPE</b></td>
 <td><a href="https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook">Github</a></td>
 <td>Windows Local Privilege Escalation Cookbook </td>
 </tr>
 
 <tr>
-<td><img src="assets/privilege_escalation/activedirectory.jpg"></td>
+<td><img src="assets/privilege-escalation/activedirectory.jpg"></td>
 <td><b>LinWinPwn</b></td> 
 <td><a href="https://github.com/lefayjey/linWinPwn">Github</a></td>
 <td>Swiss-Army knife for Active Directory Pentesting using Linux</td> 
@@ -624,112 +624,112 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/fullhunt-logo.png"></td>
 <td><b>FullHunt.io</b></td>
 <td><a href="https://fullhunt.io/">Website</a></td>
 <td>Attack surface database of the entire Internet</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/binaryedge.png"></td>
 <td><b>BinaryEdge</b></td>
 <td><a href="https://www.binaryedge.io/">Website</a></td>
 <td>We scan the web and gather data for you</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/censys-asm.jpg"></td>
 <td><b>Censys ASM</b></td>
 <td><a href="https://censys.io/">Website</a></td>
 <td>Attack Surface Management Solutions</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/redhunt-labs.jpg"></td>
 <td><b>RedHunt Labs</b></td>
 <td><a href="https://redhuntlabs.com/">Website</a></td>
 <td>Discover your Attack Surface, Continuously</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/securitytrails.jpg"></td>
 <td><b>SecurityTrails</b></td>
 <td><a href="https://securitytrails.com/">Website</a></td>
 <td>The Total Internet Inventory</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/overcast-security.png"></td>
 <td><b>Overcast Security</b></td>
 <td><a href="https://overcast-security.com/">Website</a></td>
 <td>We make tracking your external attack surface easy</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/ipinfo.png" ></td>
 <td><b>IPInfo</b></td>
 <td><a href="https://ipinfo.io/">Website</a></td>
 <td>The trusted source for IP address data</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/ipdata.jpg"></td>
 <td><b>IPData</b></td>
 <td><a href="https://ipdata.co/">Website</a></td>
 <td>IP Geolocation and Threat Intelligence API</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/networksDB.png"></td>
 <td><b>NetworksDB</b></td>
 <td><a href="https://networksdb.io/">Website</a></td>
 <td>Information about the public IPv4 and IPv6 addresses, networks, and domains owned by companies and organizations across the world</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/asnlookup.png"></td>
 <td><b>ASNlookup</b></td>
 <td><a href="https://asnlookup.com/">Website</a></td>
 <td>Quickly lookup updated information about specific Autonomous System Number (ASN), Organization, CIDR, or registered IP addresses (IPv4 and IPv6) among other relevant data</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/BGPtools.png"></td>
 <td><b>BGPtools</b></td>
 <td><a href="https://bgp.tools/">Website</a></td>
 <td>Browse the Internet ecosystem</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/BGPview.jpg"></td>
 <td><b>BGPview</b></td>
 <td><a href="https://bgpview.io/">Website</a></td>
 <td>Debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes, and Domain names</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/Bigdatacloud.jpg"></td>
 <td><b>BigDataCloud</b></td>
 <td><a href="https://www.bigdatacloud.com/">Website</a></td>
 <td>The API provides comprehensive location and network data</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/radb.png"></td>
 <td><b>RADb</b></td>
 <td><a href="https://www.radb.net/query">Website</a></td>
 <td>The world's largest public routing registry</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/deepinfo.jpg"></td>
 <td><b>Deepinfo</b></td>
 <td><a href="https://www.deepinfo.com/">Website</a></td>
 <td>Empower your security with the most comprehensive Internet data</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/attack-surface/detectify.png"></td>
 <td><b>Detectify</b></td>
 <td><a href="https://detectify.com/">Website</a></td>
 <td>Complete External Attack Surface Management</td>
@@ -752,42 +752,42 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/github-search.jpg"></td>
 <td><b>GitHub Code Search</b></td>
 <td><a href="https://github.com/search?type=code">Website</a></td>
 <td>Search globally across all of GitHub, or scope your search to a particular repository or organization</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/gitlab-search.png"></td>
 <td><b>GitLab Code Search</b></td>
 <td><a href="https://gitlab.com/">Website</a></td>
 <td>Advanced search for faster, more efficient search across the entire GitLab instance</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/sourceforge.jpg"></td>
 <td><b>Sourceforge</b></td>
 <td><a href="https://sourceforge.net/">Website</a></td>
 <td>Complete Open-Source and Business Software Platform</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/grep-app.jpg"></td>
 <td><b>Grep.app</b></td>
 <td><a href="https://grep.app/">Website</a></td>
 <td>Search across a half million git repos</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/publicwww.png"></td>
 <td><b>Publicwww.com</b></td>
 <td><a href="https://publicwww.com/">Website</a></td>
 <td>Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/searchcode.png"></td>
 <td><b>SearchCode</b></td>
 <td><a href="https://searchcode.com/">Website</a></td>
 <td>Search 75 billion lines of code from 40 million projects</td>
