@@ -1,8 +1,12 @@
 #!/bin/bash
+# Duplicate Checker
 
- 
-
-# Key features: Checking ERRORS, EMPTY, DUPLICATES, WARNINGS
+############################
+# Name: SearchToolkit      #
+# Author: l0n3m4n          #
+# Version: 1.4.1           #
+# Date Created: 12/12/2022 #
+############################
 
 # Define colors and text styles
 RED='\033[0;31m'
@@ -24,8 +28,8 @@ file_exists_and_readable() {
 # validate URLs using regex
 validate_url() {
   local url="$1"
-  # Only validate URLs with specific protocols: http, https, ftp, mailto
-  local url_pattern="^(https?|ftp|mailto):\/\/[^\s/$.?#].[^\s]*$"
+  # Only vlidate URLs with speacific protocols: https
+  local url_pattern="^(https?|http):\/\/[^\s/$.?#].[^\s]*$"
   if [[ $url =~ $url_pattern ]]; then
     return 0
   else
@@ -33,7 +37,6 @@ validate_url() {
   fi
 }
 
-# print messages in color
 print_message() {
   local message="$1"
   local color="$2"
@@ -64,7 +67,7 @@ duplicate_count=0
 # Extract URL from the file and validate them
 while read -r line; do
   # Use a regex pattern to find URLs in the line
-  urls=($(echo "$line" | grep -oE '(https?|ftp|mailto):\/\/[^ '"'"'"\t\n\r\f\v\[\]]+'))
+  urls=($(echo "$line" | grep -oE '(https?|http):\/\/[^ '"'"'"\t\n\r\f\v\[\]]+'))
 
   for url in "${urls[@]}"; do
     if ! validate_url "$url"; then
@@ -74,7 +77,7 @@ while read -r line; do
 done < "$url_file"
 
 # Sort the URL, find duplicates, and count them
-duplicate_links_list=$(grep -oP '(https?):\/\/[^ \t\n\r\f\v\[\]]+' "$url_file" | sort | uniq -d)
+duplicate_links_list=$(grep -oP '(https?|http):\/\/[^ \t\n\r\f\v\[\]]+' "$url_file" | sort | uniq -d)
 
 # Check if any duplicates were found 
 if [ -n "$duplicate_links_list" ]; then
