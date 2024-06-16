@@ -23,12 +23,12 @@
 
 
 <p align="center">
-    <img src="assets/logo.png">
+    <img src="assets">
     <br>
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://facebook.com/ehphofficial" onclick="window.open(this.href,'_blank');return false;">「 <b>l0n3m4n : EHPH Member </b> 」
+    <a href="https://facebook.com/l0n3m4n" onclick="window.open(this.href,'_blank');return false;">「 <b>l0n3m4n : EHPH Member </b> 」
     <br>
     <br>
   </samp>
@@ -62,8 +62,7 @@
   <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
-  <a href="#credentials"><b>Credentials</b></a> |
-  <a href="#leaks"><b>Leaks</b></a> |
+  <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
   <a href="#dfir-menu"><b>DFIR</b></a> |
@@ -75,11 +74,11 @@
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
+  <a href="#establish-foothold"><b>Establish Foothold</b></a> | 
   <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
-  <a href="#establish-foothold"><b>Establish Foothold</b></a> | 
   <a href="#evasion"><b>Evasion</b></a> |
-  <a href="#credential-dumping"><b>Credentail Dumping</b></a> |
+  <a href="#credential-dumping"><b>Credential Dumping</b></a> |
   <a href="#persistence"><b>Persistence</b></a> |
   <a href="#lateral-movement"><b>Lateral Movement</b></a> |
   <a href="#command-and-control"><b>Command and Control<b><a> |
