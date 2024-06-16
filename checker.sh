@@ -74,7 +74,7 @@ while read -r line; do
 done < "$url_file"
 
 # Sort the URL, find duplicates, and count them
-duplicate_links_list=$(grep -oP '(https?|ftp|mailto):\/\/[^ \t\n\r\f\v\[\]]+' "$url_file" | sort | uniq -d)
+duplicate_links_list=$(grep -oP '(https?):\/\/[^ \t\n\r\f\v\[\]]+' "$url_file" | sort | uniq -d)
 
 # Check if any duplicates were found 
 if [ -n "$duplicate_links_list" ]; then
