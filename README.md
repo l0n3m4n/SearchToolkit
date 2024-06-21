@@ -7,13 +7,6 @@
   <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;Cybersecurity+related.+feel+free+;to+add+in+your+favorites."></a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=l0n3m4n">
-  <img align="right" src="https://komarev.com/ghpvc/?username=l0n3m4n&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Ethical Hacking 
@@ -34,21 +27,31 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://l0n3m4n.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="l0n3m4n" />
- </a>
- <a href="https://dev.to/l0n3m4n" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="l0n3m4n" />
- </a> 
- <a href="https://twitter.com/l0n3m4n" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
-  
- <a href="https://facebook.com/l0n3m4n" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="l0n3m4n"  />
-  </a> 
+
+<p style="text-align: center;">
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=l0n3m4n">
+        <img src="https://komarev.com/ghpvc/?username=l0n3m4n&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+    </a>
+    <a href="https://twitter.com/l0n3m4n">
+        <img src="https://img.shields.io/badge/twitter-l0n3m4n-blue">
+    </a>
+    <a href="https://www.facebook.com/l0n3m4n">
+        <img src="https://img.shields.io/badge/Facebook-l0n3m4n-blue">
+    </a>
+    <a href="https://medium.com/@l0n3m4n">
+        <img src="https://img.shields.io/badge/Medium-l0n3m4n-black">
+    </a>
+    <a href="https://github.com/l0n3m4n/searchtoolkit/wiki">
+        <img src="https://img.shields.io/badge/doc-wiki-blue.svg">
+    </a>  
+      <a href="https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg">
+        <img src="https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg">
+    </a>
 </p>
+
 <br />
 
 <h2 align="center">Main-Menu</h2>
@@ -430,7 +433,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <td><img src="default.png"></td>
 <td><b> Villain C2 Framework</b></td>
 <td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
-<td>Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells.</td>
+<td>Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells .</td>
 </tr>
 
 <tr>
