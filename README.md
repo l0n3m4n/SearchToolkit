@@ -52,7 +52,7 @@
     </a>
     <a href="https://www.buymeacoffee.com/l0n3m4n">
         <img src="https://img.shields.io/badge/Buy%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-    </a>
+    </a>  
     <a href="https://visualstudio.microsoft.com/">
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
     </a>
@@ -68,7 +68,7 @@
 </p>
 <br />
 
-<h2 align="center">Main-Menu</h2>
+<h2 align="center">Main</h2>
 
 <!--Search navigation-->
 <p align="center">
@@ -196,7 +196,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Vulnerabilities
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -395,7 +395,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Exploitations
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -597,7 +597,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Privilege Escalation 
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -628,7 +628,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Attack Surface
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -756,7 +756,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Code Search
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -934,7 +934,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Domains
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -1167,7 +1167,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## DNS
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -1331,7 +1331,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Certificates
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
 <thead>
@@ -1438,7 +1438,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Wifi Networks
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -1491,7 +1491,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Device Information
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -1538,7 +1538,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Credentials
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -1597,7 +1597,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Leaks
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -1662,7 +1662,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Hidden Services
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -1715,7 +1715,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Threat Intelligence
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -2002,7 +2002,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Web History
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -2073,7 +2073,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Surveillance Cameras
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -2102,7 +2102,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Unclassified
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -2144,7 +2144,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## URL
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <table>
   <thead>
@@ -2214,7 +2214,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </table>
 
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <br>
 <!--OSINT Menu-->
@@ -2641,7 +2641,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
   </tbody>
 </table>
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 
 <!--OSINT Darkweb -->
@@ -2819,7 +2819,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
- [🔝 Back to top](#Main-Menu)
+ [🔝 Back to top](#Main)
 
 ## Phishing Delivery
 
@@ -2842,7 +2842,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <!--DFIR Pages-->
 <br>
@@ -2964,7 +2964,7 @@ __DFIR__ is the proactive and reactive approach to investigating and addressing 
 </table>
 
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <br>
 <!--CTF Platform-->
@@ -3051,7 +3051,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <br>
 <!--CTF Platform-->
@@ -3114,7 +3114,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 </table>
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Main)
 
 <br>
 <!--Lateral Movement-->
