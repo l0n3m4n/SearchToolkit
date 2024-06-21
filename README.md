@@ -427,10 +427,10 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/exploits/default.png"></td>
-<td><b>default C2 Framework</b></td>
-<td><a href="https://github.com/t3l3machus/default">Github</a></td>
-<td>default is an advanced C2 framework.</td>
+<td><img src="default.png"></td>
+<td><b> Villain C2 Framework</b></td>
+<td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
+<td>Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells.</td>
 </tr>
 
 <tr>
@@ -462,7 +462,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/exploits/default.png"></td>
+<td><img src="default.png"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security</td>
@@ -476,7 +476,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr> 
 
 <tr>
-<td><img src="assets/exploits/default.png"></td>
+<td><img src="default.png"></td>
 <td><b>Exploitalert.com</b></td>
 <td><a href="https://www.exploitalert.com/search-results.html">Website</a></td>
 <td>Database of Exploits</td>
@@ -511,7 +511,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/exploits/default.png"></td>
+<td><img src="default.png"></td>
 <td><b>Shell-storm.org/shellcode</b></td>
 <td><a href="https://shell-storm.org/shellcode/index.html">Website</a></td>
 <td>Shellcodes database for study cases</td>
@@ -532,14 +532,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/exploits/default.png"></td>
+<td><img src="default.png"></td>
 <td><b>PwnWiki</b></td>
 <td><a href="http://pwnwiki.io/">Website</a></td>
 <td>Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/default.png"></td>
+<td><img src="default.png"></td>
 <td><b>CVExploits Search</b></td>
 <td><a href="https://cvexploits.io/">Website</a></td>
 <td>Your comprehensive database for CVE exploits from across the internet</td>
@@ -561,7 +561,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/exploits/default.png"></td>
+<td><img src="default.png"></td>
 <td><b>Sicat</b></td>
 <td><a href="https://github.com/justakazh/sicat">Github</a></td>
 <td>SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
@@ -2241,7 +2241,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/exploits/default.png"></td>
+      <td><img src="default.png"></td>
       <td><b>OSINT Map</b></td>
       <td><a href="https://map.malfrats.industries/">Website</a>
       <a href="https://github.com/Malfrats/OSINT-Map">Github</a</td>
@@ -2468,7 +2468,7 @@ made to help you during your investigations</td>
       <td>The fastest dork scanner written in Go</td>
     </tr>   
     <tr>
-      <td><img src="assets/exploits/default.png"></td>
+      <td><img src="default.png"></td>
       <td><b>github-dorks</b></td>
       <td><a href="https://github.com/techgaun/github-dorks">Github</a></td>
       <td>Github dorks can reveal sensitive personal and/or organizational information such as private keys, credentials, authentication tokens, etc.</td>
