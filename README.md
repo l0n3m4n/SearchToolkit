@@ -53,9 +53,6 @@
     <a href="https://www.buymeacoffee.com/l0n3m4n">
         <img src="https://img.shields.io/badge/Buy%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
     </a>
-    <a href="https://github.com/sponsors/l0n3m4n">
-        <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors">
-    </a>
     <a href="https://visualstudio.microsoft.com/">
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
     </a>
