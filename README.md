@@ -5,12 +5,12 @@
 </h2>
 
 <p align="left">
-    <a href="https://wakatime.com/">
+    <a href="https://wakatime.com/" style="display: inline-block;">
         <img src="https://img.shields.io/badge/WakaTime-007ACC?style=flat&logo=wakatime&logoColor=white" alt="WakaTime">
     </a>
     <span style="float: right;">
         <a href="https://komarev.com/ghpvc/?username=YourUsername">
-            <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+            <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor">
         </a>
     </span>
 </p>
