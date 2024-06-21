@@ -82,9 +82,9 @@
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
-  <a href="#dfir-menu"><b>DFIR</b></a> |
-  <a href="#ctf-menu"><b>CTF Platform</b></a> |  
-  <a href="#android-menu"><b>Android</b></a>
+  <a href="#dfir"><b>DFIR</b></a> |
+  <a href="#ctf"><b>CTF Platform</b></a> |  
+  <a href="#android"><b>Android</b></a>
 
   <h3 align="center">Attack Cycle</h3>
 
@@ -2846,7 +2846,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <br>
 <!--CTF Platform-->
-<h1 align="center">CTF-Menu</h1>
+<h1 align="center">CTF</h1>
 
 <!--about-->
 ---
@@ -2933,7 +2933,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 <br>
 <!--CTF Platform-->
-<h1 align="center">Android-Menu</h1>
+<h1 align="center">Android</h1>
 
 ## Andriod
 
