@@ -4,13 +4,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lybGJrZnI4aXJuYjBmOHVxZTR5azcyanlrNGtzbTY3b2xkODc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgFLfWUZigjoem4/giphy.gif" width="28">
 </h2>
 
- <p align="right">
-      <a href="https://komarev.com/ghpvc/?username=YourUsername">
-        <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-      </a>
+<p align="left">
+    <a href="https://wakatime.com/">
+        <img src="https://img.shields.io/badge/WakaTime-007ACC?style=flat&logo=wakatime&logoColor=white" alt="WakaTime">
+    </a>
+    <span style="float: right;">
+        <a href="https://komarev.com/ghpvc/?username=YourUsername">
+            <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+        </a>
+    </span>
 </p>
 
-
+ 
 
 <p align="center">
   <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;Cybersecurity+related.+feel+free+;to+add+in+your+favorites."></a>
