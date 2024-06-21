@@ -26,32 +26,39 @@
     <br>
   </samp>
 </p>
-
-
-<p style="text-align: center;">
+ 
+<p align="center">
     <a href="https://opensource.org/licenses/MIT">
-        <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=l0n3m4n">
-        <img src="https://komarev.com/ghpvc/?username=l0n3m4n&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-    </a>
-    <a href="https://twitter.com/l0n3m4n">
-        <img src="https://img.shields.io/badge/twitter-l0n3m4n-blue">
+        <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" alt="MIT License">
     </a>
     <a href="https://www.facebook.com/l0n3m4n">
-        <img src="https://img.shields.io/badge/Facebook-l0n3m4n-blue">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+      <a href="https://www.twitter.com/l0n3m4n">
+        <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
     </a>
     <a href="https://medium.com/@l0n3m4n">
-        <img src="https://img.shields.io/badge/Medium-l0n3m4n-black">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
     </a>
-    <a href="https://github.com/l0n3m4n/searchtoolkit/wiki">
-        <img src="https://img.shields.io/badge/doc-wiki-blue.svg">
-    </a>  
-      <a href="https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg">
-        <img src="https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg">
+    <a href="https://www.buymeacoffee.com/l0n3m4n">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+    </a>
+    <a href="https://github.com/sponsors/l0n3m4n">
+        <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors">
+    </a>
+    <a href="https://visualstudio.microsoft.com/">
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+    </a>
+    <a href="https://www.markdownguide.org/">
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+        <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+    </a>
+    <a href="https://discord.com/">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
 </p>
-
 <br />
 
 <h2 align="center">Main-Menu</h2>
