@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lybGJrZnI4aXJuYjBmOHVxZTR5azcyanlrNGtzbTY3b2xkODc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgFLfWUZigjoem4/giphy.gif" width="28">
 </h2>
 
- <p align="right  ">
-        <a href="https://komarev.com/ghpvc/?username=YourUsername">
-            <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-        </a>
+ <p align="right">
+      <a href="https://komarev.com/ghpvc/?username=YourUsername">
+        <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+      </a>
 </p>
 
 
