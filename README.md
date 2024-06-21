@@ -86,7 +86,7 @@
   <a href="#ctf-menu"><b>CTF Platform</b></a> |  
   <a href="#android-menu"><b>Android</b></a>
 
-  <h4 align="center">Attack Cycle</h4>
+  <h2 align="center">Attack Cycle</h2>
 
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
