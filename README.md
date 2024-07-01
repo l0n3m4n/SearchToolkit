@@ -92,7 +92,7 @@
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
-  <a href="#establish-foothold"><b>Establish Foothold</b></a> | 
+  <a href="#establish-foothold"><b>Initial Access</b></a> | 
   <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
