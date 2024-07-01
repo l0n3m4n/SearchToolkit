@@ -83,7 +83,7 @@
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
-  <a href="#dfir"><b>DFIR</b></a> |
+  <a href="#digital-forensic"><b>Ditigital Forensic</b></a> |
   <a href="#ctf"><b>CTF Platform</b></a> |  
   <a href="#android"><b>Android</b></a>
 
