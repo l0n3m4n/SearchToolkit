@@ -90,10 +90,10 @@
   <h3 align="center">Attack Cycle</h3>
   <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#enumeration"><b>Enumeration</b></a> |
-  <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
-  <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
+  <a href="#vulnerability-identification  "><b>Vulnerability Identification</b></a> | 
+  <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#establish-foothold"><b>Initial Access</b></a> | 
-  <a href="#exploitations"><b>Exploitations</b></a> |
+  <a href="#exploitation"><b>Exploitation</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
   <a href="#credential-dumping"><b>Credential Dumping</b></a> |
@@ -195,7 +195,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tbody>
 </table>
 
-## Vulnerabilities
+## Vulnerability Identification
 
 [🔝 Back to top](#Main)
 
