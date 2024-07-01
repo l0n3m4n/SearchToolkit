@@ -72,6 +72,7 @@
 
 <!--Search navigation-->
 <p align="center">
+  <a href="#cheatsheets"><b>Cheatsheets</b></a> |
   <a href="#osint-menu"><b>OSINT</b></a> |
   <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
   <a href="#server"><b>Servers</b></a> |
