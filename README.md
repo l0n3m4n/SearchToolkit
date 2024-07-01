@@ -87,10 +87,10 @@
   <a href="#ctf"><b>CTF Platform</b></a> |  
   <a href="#android"><b>Android</b></a>
 
-  <h3 align="center">Attack Cycle</h3>
+  <h3 align="center">Attack C ycle</h3>
   <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#enumeration"><b>Enumeration</b></a> |
-  <a href="#vulnerability-identification  "><b>Vulnerability Identification</b></a> | 
+  <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#establish-foothold"><b>Initial Access</b></a> | 
   <a href="#exploitation"><b>Exploitation</b></a> |
