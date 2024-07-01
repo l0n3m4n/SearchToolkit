@@ -756,7 +756,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 ## Code Search
 
-[🔝 Back to top](#Main)
+[🔝 Back to top](#Main-Menu)
 
 <table>
 <thead>
@@ -811,28 +811,28 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/nerdydata.jpg"></td>
 <td><b>NerdyData</b></td>
 <td><a href="https://www.nerdydata.com/">Website</a></td>
 <td>Find companies based on their website's tech stack or code</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default.png"></td>
 <td><b>RepoSearch</b></td>
 <td><a href="http://codefinder.org/">Website</a></td>
 <td>Source code search engine that helps you find implementation details, example usages or just analyze code</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/"></td>
 <td><b>SourceGraph</b></td>
 <td><a href="https://about.sourcegraph.com/">Website</a></td>
 <td>Understand and search across your entire codebase</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default.png"></td>
 <td><b>HotExamples</b></td>
 <td><a href="https://hotexamples.com/">Website</a></td>
 <td>Search code examples from over 1 million projects</td>
@@ -847,7 +847,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 <tr>
 <td><img src="assets/server/shodan.png"></td>
-<td><b>GitHub Gists</b></td>
+<td><b>Github gist</b></td>
 <td><a href="https://gist.github.com/discover">Website</a></td>
 <td>Instantly share code, notes, and snippets</td>
 </tr>
@@ -874,7 +874,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default.png"></td>
 <td><b>Repo.or.cz</b></td>
 <td><a href="https://repo.or.cz/?a=project_list">Website</a></td>
 <td>Public Git hosting site</td>
@@ -895,7 +895,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/android-repo.png"></td>
 <td><b>Android.googlesource.com</b></td>
 <td><a href="https://android.googlesource.com/">Website</a></td>
 <td>Git repositories on android</td>
