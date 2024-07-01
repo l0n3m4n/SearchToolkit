@@ -88,7 +88,7 @@
   <a href="#android"><b>Android</b></a>
 
   <h3 align="center">Attack Cycle</h3>
-
+  <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerabilities"><b>Vulnerabilities</b></a> | 
   <a href="#phishing-delivery"><b>Phishing Delivery</b></a> |
