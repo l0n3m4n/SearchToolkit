@@ -90,7 +90,7 @@
   <h3 align="center">Attack C ycle</h3>
   <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#enumeration"><b>Enumeration</b></a> |
-  <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
+  <a href="#vulnerability-identification  "><b>Vulnerability Identification</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#establish-foothold"><b>Initial Access</b></a> | 
   <a href="#exploitation"><b>Exploitation</b></a> |
