@@ -238,6 +238,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
+<td><img src="assets/vulnerabilities/attackerKB.png"></td>
+<td><b>AttackerKB</b></td>
+<td><a href="https://attackerkb.com/">Website</a></td>
+<td> AttackerKB is a technical analysis tool on which you can search vulnerabilities that are rated by the community.</td>
+</tr>
+
+
+<tr>
 <td><img src="assets/vulnerabilities/cloudvulndb.png"></td>
 <td><b>Cloudvulndb.org</b></td>
 <td><a href="https://www.cloudvulndb.org/">Website</a></td>
