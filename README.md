@@ -9,8 +9,6 @@
       <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
     </a>
 </p>
-
-
  
 
 <p align="center">
@@ -1443,7 +1441,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -1496,7 +1494,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -1543,7 +1541,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -1602,7 +1600,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -1667,7 +1665,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -1720,7 +1718,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2007,7 +2005,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2078,7 +2076,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2107,7 +2105,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2149,7 +2147,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2250,7 +2248,7 @@ An organized compilation of fantastic open-source intelligence (OSINT) tools and
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2275,7 +2273,7 @@ made to help you during your investigations</td>
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2309,7 +2307,7 @@ made to help you during your investigations</td>
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2471,7 +2469,7 @@ made to help you during your investigations</td>
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2508,7 +2506,7 @@ made to help you during your investigations</td>
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2670,7 +2668,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <table>
 <thead>
 <tr>
-<th>LOGOS</th>
+<th>IMAGE</th>
 <th>NAMES</th>
 <th>LINKS</th>
 <th>DESCRIPTIONS</th>
@@ -2714,7 +2712,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <table>
 <thead>
 <tr>
-<th>LOGOS</th>
+<th>IMAGE</th>
 <th>NAMES</th>
 <th>LINKS</th>
 <th>DESCRIPTIONS</th>
@@ -2737,7 +2735,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <table>
 <thead>
 <tr>
-<th>LOGOS</th>
+<th>IMAGE</th>
 <th>NAMES</th>
 <th>LINKS</th>
 <th>DESCRIPTIONS</th>
@@ -2772,7 +2770,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <table>
 <thead>
 <tr>
-<th>LOGOS</th>
+<th>IMAGE</th>
 <th>NAMES</th>
 <th>LINKS</th>
 <th>DESCRIPTIONS</th>
@@ -2795,7 +2793,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <table>
 <thead>
 <tr>
-<th>LOGOS</th>
+<th>IMAGE</th>
 <th>NAMES</th>
 <th>LINKS</th>
 <th>DESCRIPTIONS</th>
@@ -2826,7 +2824,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <table>
 <thead>
 <tr>
-<th>LOGOS</th>
+<th>IMAGE</th>
 <th>NAMES</th>
 <th>LINKS</th>
 <th>DESCRIPTIONS</th>
@@ -2858,7 +2856,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -2940,7 +2938,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
@@ -3003,7 +3001,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 <table>
   <thead>
     <tr>
-      <th>LOGOS</th>
+      <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKS</th>
       <th>DESCRIPTIONS</th>
