@@ -387,6 +387,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <td><a href="https://msrc.microsoft.com/update-guide/en-us">Website</a></td>
 <td>Reports of security vulnerabilities affecting Microsoft products and services</td>
 </tr>
+
+<tr>
+<td><img src="assets/vulnerabilities/cisa.png"></td>
+<td><b>CISA</b></td>
+<td><a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Website</a></td>
+<td>Known Exploited Vulnerabilities Catalog</td>
+</tr>
+
 </tbody>
 </table>
 
