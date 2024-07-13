@@ -99,6 +99,39 @@
 ---
 A carefully gathered list of all tools that are highly valuable for various cybersecurity tasks, including Penetration testing, Red/Blue Team operations, Vulnerability assessments, Bug hunting, Digital forensic, OSINT, Threat intelligence, Incident response and other related activities.
 
+
+## Cheatsheets
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>LINK</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><img src="assets/cheatsheets/redteam-cheatsheets.jpg"></td>
+<td><b>RedTeam Cheatsheets</b></td>
+<td><a href="https://github.com/wsummerhill/C2_RedTeam_CheatSheets">Github</a></td>
+<td>Useful C2 techniques and cheatsheets learned from engagements (Cobalt strike and sliver c2)</td>
+</tr>
+
+<tr>
+<td><img src="assets/cheatsheets/internal-all-the-things.png"></td>
+<td><b>Internall-all-the-things</b></td>
+<td><a href="https://swisskyrepo.github.io/InternalAllTheThings/">Github.io</a></td>
+<td>Active Directory and Internal Pentest Cheatsheets</td>
+</tr>
+
+
+</tbody>
+</table>
+
+
+
 ## Server
 
 <table>
