@@ -1422,8 +1422,10 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><a href="https://developers.facebook.com/tools/ct/search/">Website</a></td>
 <td>Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates</td>
 </tr>
+
 <tr>
 <td><img src="assets/server/ciphersuite.png"></td>
+<td><b>ciphersuite</b></td>
 <td><a href="https://ciphersuite.info/">Website</a></td>
 <td>TLS Ciphersuite Search. Search for a particular ciphersuite by using IANA, OpenSSL, or GnuTLS name format</td>
 </tr>
