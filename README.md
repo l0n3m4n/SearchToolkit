@@ -3098,6 +3098,30 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </table>
 
 
+[🔝 Back to top](#Main)
+
+
+## Command and Control
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><img src="assets/command-control/GC2.png"></td>
+        <td><b>GC2-sheet</b></td>
+        <td><a  href="https://github.com/looCiprian/GC2-sheet">Github</a></td>
+        <td>GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive. </td>
+    </tr>
+</table>
+
+
 ---------
 __Original Author's__
 <br>
