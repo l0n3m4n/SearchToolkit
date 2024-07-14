@@ -232,14 +232,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/vulnerabilities/nvd.png"></td>
+<td><img src="assets/vulnerabilities/NIST.png"></td>
 <td><b>NIST NVD</b></td>
 <td><a href="https://nvd.nist.gov/vuln/search">Website</a></td>
 <td>US National Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/mitre_cve.png"></td>
+<td><img src="assets/vulnerabilities/MITRE-CVE.jpg"></td>
 <td><b>MITRE CVE</b></td>
 <td><a href="https://cve.mitre.org/cve/search_cve_list.html">Website</a></td>
 <td>Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities</td>
@@ -253,14 +253,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/github_database.png"></td>
+<td><img src="assets/vulnerabilities/GitHub_Advisory_Database.jpg"></td>
 <td><b>GitHub Advisory Database</b></td>
 <td><a href="https://github.com/advisories">Github</a></td>
 <td>Security vulnerability database inclusive of CVEs and GitHub originated security advisories</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/valhalla.png"></td>
+<td><img src="assets/vulnerabilities/Valhalla_YARA_Rule.png"></td>
 <td><b>Valhalla YARA Rules</b></td>
 <td><a href="https://valhalla.nextron-systems.com/">Website</a></td>
 <td>Valhalla is a Malware Detection tools based on YARA rules.</td>
@@ -275,14 +275,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 
 <tr>
-<td><img src="assets/vulnerabilities/cloudvulndb.png"></td>
+<td><img src="assets/vulnerabilities/Cloudvulndb.org.jpg"></td>
 <td><b>Cloudvulndb.org</b></td>
 <td><a href="https://www.cloudvulndb.org/">Website</a></td>
 <td>The Open Cloud Vulnerability & Security Issue Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/osv.png"></td>
+<td><img src="assets/vulnerabilities/Osv.dev.png"></td>
 <td><b>Osv.dev</b></td>
 <td><a href="https://osv.dev/list">Website</a></td>
 <td>Open Source Vulnerabilities</td>
