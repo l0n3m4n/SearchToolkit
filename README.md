@@ -3053,8 +3053,6 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 [🔝 Back to top](#Main)
 
 <br>
-<!--Lateral Movement-->
-<h1 align="center">Lateral Movement "Pivoting"</h1>
 
 ## Lateral Movement
 
@@ -3075,6 +3073,30 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
         <td>An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface. </td>
     </tr>
 </table>
+
+[🔝 Back to top](#Main)
+
+
+## Covering Tracks
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><img src="assets/default.png"></td>
+        <td><b>moonwalk</b></td>
+        <td><a href="https://github.com/mufeedvh/moonwalk">Github</a></td>
+        <td>Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. </td>
+    </tr>
+</table>
+
 
 ---------
 __Original Author's__
