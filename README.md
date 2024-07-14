@@ -871,7 +871,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/code-search/"></td>
+<td><img src="assets/code-search/SourceGraph.png"></td>
 <td><b>SourceGraph</b></td>
 <td><a href="https://about.sourcegraph.com/">Website</a></td>
 <td>Understand and search across your entire codebase</td>
@@ -885,7 +885,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/wpdirectory.net.png"></td>
 <td><b>WP Directory</b></td>
 <td><a href="https://wpdirectory.net/">Website</a></td>
 <td>Lightning fast regex searching of code in the WordPress Plugin and Theme Directories</td>
