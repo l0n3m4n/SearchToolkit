@@ -246,6 +246,13 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
+<td><img src="assets/vulnerabilities/cve_search.png"></td>
+<td><b>CVE Search</b></td>
+<td><a href="https://github.com/cve-search/cve-search">Github</a></td>
+<td>The main objective of the "cve search" is to avoid doing direct and public lookups into the public CVE databases.</td>
+</tr>
+
+<tr>
 <td><img src="assets/vulnerabilities/github_database.png"></td>
 <td><b>GitHub Advisory Database</b></td>
 <td><a href="https://github.com/advisories">Github</a></td>
