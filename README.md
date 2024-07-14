@@ -289,14 +289,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/vulners.png"></td>
+<td><img src="assets/vulnerabilities/Vulners.png  "></td>
 <td><b>Vulners.com</b></td>
 <td><a href="https://vulners.com/">Website</a></td>
 <td>Your Search Engine for Security Intelligence</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/opencve.png"></td>
+<td><img src="assets/vulnerabilities/Opencve.io.png"></td>
 <td><b>Opencve.io</b></td>
 <td><a href="https://www.opencve.io/cve">Website</a></td>
 <td>Easiest way to track CVE updates and be alerted about new vulnerabilities</td>
@@ -317,7 +317,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/rapid7.png"></td>
+<td><img src="assets/vulnerabilities/Rapid7-DB.jpg"></td>
 <td><b>Rapid7 - DB</b></td>
 <td><a href="https://www.rapid7.com/db/">Website</a></td>
 <td>Vulnerability &  Database</td>
@@ -331,7 +331,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/voliq.png"></td>
+<td><img src="assets/vulnerabilities/VulnIQ.jpg"></td>
 <td><b>VulnIQ</b></td>
 <td><a href="https://vulniq.com/">Website</a></td>
 <td>Vulnerability intelligence and management solution</td>
@@ -387,14 +387,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/cnvd.png"></td>
+<td><img src="assets/vulnerabilities/Cnvd.org.cn.png"></td>
 <td><b>Cnvd.org.cn</b></td>
 <td><a href="https://www.cnvd.org.cn/">Website</a></td>
 <td>Chinese National Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/in_The_Wild.png"></td>
+<td><img src="assets/vulnerabilities/InTheWild.io.png"></td>
 <td><b>InTheWild.io</b></td>
 <td><a href="https://inthewild.io/feed">Website</a></td>
 <td>Check CVEs in our free, open source feed of exploited vulnerabilities</td>
@@ -408,21 +408,21 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/RedHat.png"></td>
+<td><img src="assets/vulnerabilities/RedHat-Security-Advisories.png"></td>
 <td><b>Red Hat Security Advisories</b></td>
 <td><a href="https://access.redhat.com/security/security-updates/">Website</a></td>
 <td>Information about security flaws that affect Red Hat products and services in the form of security advisories</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/cisco_security.png"></td>
+<td><img src="assets/vulnerabilities/Cisco-Security-Advisories.jpg"></td>
 <td><b>Cisco Security Advisories</b></td>
 <td><a href="https://sec.cloudapps.cisco.com/security/center/publicationListing.x">Website</a></td>
 <td>Security advisories and vulnerability information for Cisco products, including network equipment and software</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/microsoft_security .jpg"></td>
+<td><img src="assets/vulnerabilities/Microsoft.jpg"></td>
 <td><b>Microsoft Security Response Center</b></td>
 <td><a href="https://msrc.microsoft.com/update-guide/en-us">Website</a></td>
 <td>Reports of security vulnerabilities affecting Microsoft products and services</td>
@@ -455,7 +455,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <tbody>
 
 <tr>
-<td><img src="assets/exploits/exploitdb.png"></td>
+<td><img src="assets/exploits/Exploit-DB.png"></td>
 <td><b>Exploit-DB</b></td>
 <td><a href="https://www.exploit-db.com/">Website</a></td>
 <td>Exploit Database</td>
@@ -497,7 +497,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/exploits/packetstorm.png "></td>
+<td><img src="assets/exploits/packetstormsecurity.jpg"></td>
 <td><b>packetstormsecurity.com</b></td>
 <td><a href="https://packetstormsecurity.com/">Website</a></td>
 <td>Information Security Services, News, Files, Tools, Exploits, Advisories, and Whitepapers</td>
