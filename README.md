@@ -207,7 +207,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/servers/qualys.png"></td>
+<td><img src="assets/servers/QualysSSL.jpg"></td>
 <td><b>Qualys SSL Labs</b></td>
 <td><a href="https://www.ssllabs.com/ssltest/">Website</a></td>
 <td>This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet. </td>
