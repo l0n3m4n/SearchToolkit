@@ -151,7 +151,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <td>Search Engine for the Internet of Everything.</td>
 </tr>
 <tr>
-<td><img src="assets/servers/censys.png"></td>
+<td><img src="assets/servers/Censys Search.png"></td>
 <td><b>Censys Search</b></td>
 <td><a href="https://search.censys.io/">Website</a></td>
 <td>Search Engine for every server on the Internet to reduce exposure and improve security.</td>
@@ -165,28 +165,28 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/servers/zoomeye.jpg"></td>
+<td><img src="assets/servers/ZoomEye.jpg"></td>
 <td><b>ZoomEye</b></td>
 <td><a href="https://zoomeye.org/">Website</a></td>
 <td>Global Cyberspace mapping.</td>
 </tr>
 
 <tr>
-<td><img src="assets/servers/greynoise.png"></td>
+<td><img src="assets/servers/GreyNoise.jpg"></td>
 <td><b>GreyNoise</b></td>
 <td><a href="https://viz.greynoise.io/">Website</a></td>
 <td>The source for understanding internet noise.</td>
 </tr>
 
 <tr>
-<td><img src="assets/servers/netlas.png"></td>
+<td><img src="assets/servers/Netlas.png"></td>
 <td><b>Netlas</b></td>
 <td><a href="https://netlas.io/">Website</a></td>
 <td>Discove, Research and monitor any assets available online.</td>
 </tr>
 
 <tr>
-<td><img src="assets/servers/fofa.png"></td>
+<td><img src="assets/servers/FOFA.jpg"></td>
 <td><b>FOFA</b></td>
 <td><a href="https://fofa.info/">Website</a></td>
 <td>Cyberspace Mapping</td>
@@ -200,7 +200,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/servers/hunter.png"></td>
+<td><img src="assets/servers/Hunter.png"></td>
 <td><b>Hunter</b></td>
 <td><a href="https://hunter.how/">Website</a></td>
 <td>Internet search engine for security researchers.</td>
