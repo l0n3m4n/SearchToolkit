@@ -101,6 +101,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 
 
 ## Cheatsheets
+
 <table>
 <thead>
 <tr>
@@ -225,9 +226,10 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tbody>
 </table>
 
-## Vulnerability Identification
 
 [🔝 Back to top](#Main)
+
+## Vulnerability Identification
 
 <table>
 <thead>
