@@ -627,7 +627,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/exploits/sploitscan.png"></td>
+<td><img src="assets/default.png"></td>
 <td><b>SploitScan</b></td>
 <td><a href="https://github.com/xaitax/SploitScan">Github</a></td>
 <td>SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
