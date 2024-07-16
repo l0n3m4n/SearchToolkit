@@ -3128,11 +3128,19 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
   </thead>
   <tbody>
 
+
+<tr>
+    <td><img src="assets/command-control/Metasploit_Framework.png"></td>
+    <td><b>Metasploit Framework</b></td>
+    <td><a href="https://github.com/rapid7/metasploit-framework">Github</a></td>
+    <td>Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development (best of the best).</td>
+</tr>
+
 <tr>
     <td><img src="assets/command-control/Cobalt_Strike.png"></td>
     <td><b>Cobalt Strike</b></td>
     <td><a href="https://www.cobaltstrike.com/">Website</a></td>
-    <td>Software for Adversary Simulations and Red Team Operations (best of the best).</td>
+    <td>Software for Adversary Simulations and Red Team Operations (first of the best).</td>
 </tr>
 
 
@@ -3140,7 +3148,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Sliver.png"></td>
     <td><b>Sliver</b></td>
     <td><a href="https://github.com/BishopFox/sliver">Github</a></td>
-    <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. (second to the best)</td>
+    <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. (second of the best)</td>
 </tr>
 
 <tr>
@@ -3149,6 +3157,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><a href="https://github.com/HavocFramework/Havoc">Github</a></td>
     <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider (third of the best).</td>
 </tr>
+
+<tr>
+    <td><img src="assets/command-control/Pupy.png"></td>
+    <td><b>Pupy</b></td>
+    <td><a href="https://github.com/n1nj4sec/pupy">Github</a></td>
+    <td>Opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.</td>
+</tr>
+
 
 <tr>
     <td><img src="assets/command-control/GC2.png"></td>
@@ -3377,24 +3393,10 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Metasploit_Framework.png"></td>
-    <td><b>Metasploit Framework</b></td>
-    <td><a href="https://github.com/rapid7/metasploit-framework">Github</a></td>
-    <td>Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
-</tr>
-
-<tr>
     <td><img src="assets/command-control/Meterpreter.png"></td>
     <td><b>Meterpreter</b></td>
     <td><a href="https://github.com/r00t-3xp10it/meterpeter">Github</a></td>
     <td>Description not provided.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Pupy.png"></td>
-    <td><b>Pupy</b></td>
-    <td><a href="https://github.com/n1nj4sec/pupy">Github</a></td>
-    <td>Opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.</td>
 </tr>
 
 <tr>
