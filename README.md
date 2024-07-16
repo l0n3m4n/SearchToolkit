@@ -3127,12 +3127,382 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     </tr>
   </thead>
   <tbody>
-    <tr>
-        <td><img src="assets/command-control/GC2.png"></td>
-        <td><b>GC2-sheet</b></td>
-        <td><a  href="https://github.com/looCiprian/GC2-sheet">Github</a></td>
-        <td>GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive. </td>
-    </tr>
+
+<tr>
+    <td><img src="assets/command-control/Cobalt_Strike.png"></td>
+    <td><b>Cobalt Strike</b></td>
+    <td><a href="https://www.cobaltstrike.com/">Website</a></td>
+    <td>Software for Adversary Simulations and Red Team Operations.</td>
+</tr>
+
+
+<tr>
+    <td><img src="assets/command-control/Sliver.png"></td>
+    <td><b>Sliver</b></td>
+    <td><a href="https://github.com/BishopFox/sliver">Github</a></td>
+    <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Sliver.png"></td>
+    <td><b>Havoc c2</b></td>
+    <td><a href="https://github.com/HavocFramework/Havoc">Github</a></td>
+    <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/GC2.png"></td>
+    <td><b>GC2-sheet</b></td>
+    <td><a  href="https://github.com/looCiprian/GC2-sheet">Github</a></td>
+    <td>GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive. </td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Apfell.png"></td>
+    <td><b>Apfell</b></td>
+    <td><a href="https://github.com/its-a-feature/Apfell">Github</a></td>
+    <td>Cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI.</td>
+</tr>
+
+
+<tr>
+    <td><img src="assets/command-control/AsyncRat_CSharp.png"></td>
+    <td><b>AsyncRat C#</b></td>
+    <td><a href="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp">Github</a></td>
+    <td>Remote Access Tool designed to remotely monitor and control other computers through a secure encrypted connection.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Baby_Shark.png"></td>
+    <td><b>Baby Shark</b></td>
+    <td><a href="https://github.com/UnkL4b/BabyShark">Github</a></td>
+    <td>Basic C2 generic server written in Python and Flask.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/C3.png"></td>
+    <td><b>C3</b></td>
+    <td><a href="https://github.com/FSecureLABS/C3">Github</a></td>
+    <td>Framework that extends other red team tooling, such as the commercial Cobalt Strike (CS) product via ExternalC2, which is supported at release.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Caldera.png"></td>
+    <td><b>Caldera</b></td>
+    <td><a href="https://github.com/mitre/caldera">Github</a></td>
+    <td>Built on the MITRE ATT&CK™ framework and an active research project at MITRE.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/CHAOS.png"></td>
+    <td><b>CHAOS</b></td>
+    <td><a href="https://github.com/tiagorlampert/CHAOS">Github</a></td>
+    <td>PoC that allows payloads generation and control of remote operating systems.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Dali.png"></td>
+    <td><b>Dali</b></td>
+    <td><a href="https://github.com/h0mbre/Dali">Github</a></td>
+    <td>Image-based C2 channel which utilizes Imgur to host images and task agents.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Empire.png"></td>
+    <td><b>Empire</b></td>
+    <td><a href="https://github.com/BC-SECURITY/Empire">Github</a></td>
+    <td>Post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Covenant.png"></td>
+    <td><b>Covenant</b></td>
+    <td><a href="https://github.com/cobbr/Covenant">Github</a></td>
+    <td>.NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Silent_Trinity.png"></td>
+    <td><b>Silent Trinity</b></td>
+    <td><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">Github</a></td>
+    <td>Post-exploitation agent powered by Python, IronPython, C#/.NET.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Faction_C2.png"></td>
+    <td><b>Faction C2</b></td>
+    <td><a href="https://github.com/FactionC2/">Github</a></td>
+    <td>C2 framework which uses websockets based API that allows for interacting with agents and transports.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Flying_A_False_Flag.png"></td>
+    <td><b>Flying A False Flag</b></td>
+    <td><a href="https://github.com/monoxgas/FlyingAFalseFlag">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/FudgeC2.png"></td>
+    <td><b>FudgeC2</b></td>
+    <td><a href="https://github.com/Ziconius/FudgeC2">Github</a></td>
+    <td>Powershell C2 platform designed to facilitate team collaboration and campaign timelining.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Godoh.png"></td>
+    <td><b>Godoh</b></td>
+    <td><a href="https://github.com/sensepost/goDoH">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/iBombshell.png"></td>
+    <td><b>iBombshell</b></td>
+    <td><a href="https://github.com/ElevenPaths/ibombshell">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/HARS.png"></td>
+    <td><b>HARS</b></td>
+    <td><a href="https://github.com/onSec-fr/Http-Asynchronous-Reverse-Shell">Github</a></td>
+    <td>HTTP/S Asynchronous Reverse Shell.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Koadic.png"></td>
+    <td><b>Koadic (or COM Command & Control)</b></td>
+    <td><a href="https://github.com/zerosum0x0/koadic">Github</a></td>
+    <td>Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/MacShellSwift.png"></td>
+    <td><b>MacShellSwift</b></td>
+    <td><a href="https://github.com/cedowens/MacShellSwift/">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Ninja.png"></td>
+    <td><b>Ninja</b></td>
+    <td><a href="https://github.com/ahmedkhlief/Ninja/">Github</a></td>
+    <td>Open source C2 server created by Purple Team to do stealthy computer and Active directory enumeration without being detected by SIEM and AVs.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/NorthStarC2.png"></td>
+    <td><b>NorthStarC2</b></td>
+    <td><a href="https://github.com/EnginDemirbilek/NorthStarC2">Github</a></td>
+    <td>Open-source command and control framework developed for penetration testing and red teaming purposes.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/EvilOSX.png"></td>
+    <td><b>EvilOSX</b></td>
+    <td><a href="https://github.com/Marten4n6/EvilOSX">Github</a></td>
+    <td>An evil RAT (Remote Administration Tool) for macOS / OS X.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Nuages.png"></td>
+    <td><b>Nuages</b></td>
+    <td><a href="https://github.com/p3nt4/Nuages">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Octopus.png"></td>
+    <td><b>Octopus</b></td>
+    <td><a href="https://github.com/mhaskar/Octopus">Github</a></td>
+    <td>Open source, pre-operation C2 server based on python which can control an Octopus powershell agent through HTTP/S.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/PoshC2.png"></td>
+    <td><b>PoshC2</b></td>
+    <td><a href="https://github.com/nettitude/PoshC2">Github</a></td>
+    <td>Proxy aware C2 framework written completely in PowerShell to aid penetration testers with red teaming, post-exploitation and lateral movement.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Powerhub.png"></td>
+    <td><b>Powerhub</b></td>
+    <td><a href="https://github.com/AdrianVollmer/PowerHub">Github</a></td>
+    <td>Convenient post exploitation tool for PowerShell which aids a pentester in transferring data, in particular code which may get flagged by endpoint protection.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Prismatica.png"></td>
+    <td><b>Prismatica</b></td>
+    <td><a href="https://github.com/Project-Prismatica">Github</a></td>
+    <td>Modular C2 Interface hooked into the Diagon Command and Control Toolkit.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/QuasarRAT.png"></td>
+    <td><b>QuasarRAT</b></td>
+    <td><a href="https://github.com/quasar/Quasar">Github</a></td>
+    <td>Fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Merlin.png"></td>
+    <td><b>Merlin</b></td>
+    <td><a href="https://github.com/Ne0nd0g/merlin">Github</a></td>
+    <td>Cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
+</tr>
+
+
+<tr>
+    <td><img src="assets/command-control/SK8PARK_RAT.png"></td>
+    <td><b>SK8PARK/RAT</b></td>
+    <td><a href="https://github.com/slyd0g/SK8PARK">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Throwback.png"></td>
+    <td><b>Throwback</b></td>
+    <td><a href="https://github.com/silentbreaksec/Throwback">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Trevor_C2.png"></td>
+    <td><b>Trevor C2</b></td>
+    <td><a href="https://github.com/trustedsec/trevorc2">Github</a></td>
+    <td>Legitimate website (browsable) that tunnels client/server communications for covert command execution.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Metasploit_Framework.png"></td>
+    <td><b>Metasploit Framework</b></td>
+    <td><a href="https://github.com/rapid7/metasploit-framework">Github</a></td>
+    <td>Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Meterpreter.png"></td>
+    <td><b>Meterpreter</b></td>
+    <td><a href="https://github.com/r00t-3xp10it/meterpeter">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Pupy.png"></td>
+    <td><b>Pupy</b></td>
+    <td><a href="https://github.com/n1nj4sec/pupy">Github</a></td>
+    <td>Opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/PetaQ.png"></td>
+    <td><b>PetaQ</b></td>
+    <td><a href="https://github.com/fozavci/petaqc2">Github</a></td>
+    <td>Malware which is being developed in .NET Core/Framework to use websockets as Command & Control (C2) channels.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Pinjectra.png"></td>
+    <td><b>Pinjectra</b></td>
+    <td><a href="https://github.com/SafeBreach-Labs/pinjectra">Github</a></td>
+    <td>C/C++ library that implements Process Injection techniques (with focus on Windows 10 64-bit) in a "mix and match" style.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/ReverseTCPShell.png"></td>
+    <td><b>ReverseTCPShell</b></td>
+    <td><a href="https://github.com/ZHacker13/ReverseTCPShell">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/SHAD0W.png"></td>
+    <td><b>SHAD0W</b></td>
+    <td><a href="https://github.com/bats3c/shad0w">Github</a></td>
+    <td>Modular C2 framework designed to use a range of methods to evade EDR and AV.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/SharpC2.png"></td>
+    <td><b>SharpC2</b></td>
+    <td><a href="https://github.com/SharpC2/SharpC2/tree/dev">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Gcat.png"></td>
+    <td><b>Gcat</b></td>
+    <td><a href="https://github.com/byt3bl33d3r/gcat">Github</a></td>
+    <td>Stealthy Python based backdoor that uses Gmail as a command and control server.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/DNScat2.png"></td>
+    <td><b>DNScat2</b></td>
+    <td><a href="https://github.com/iagox86/dnscat2">Github</a></td>
+    <td>Tool is designed to create an encrypted command-and-control (C&C) channel over the DNS protocol.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/EggShell.png"></td>
+    <td><b>EggShell</b></td>
+    <td><a href="https://github.com/neoneggplant/EggShell">Github</a></td>
+    <td>Post exploitation surveillance tool written in Python. It gives you a command line session with extra functionality between you and a target machine.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/EvilVM.png"></td>
+    <td><b>EvilVM</b></td>
+    <td><a href="https://github.com/jephthai/EvilVM">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Void-RAT.png"></td>
+    <td><b>Void-RAT</b></td>
+    <td><a href="https://github.com/KadeDev/Void-RAT">Github</a></td>
+    <td>Pretty basic RAT written in c#.net.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/WEASEL.png"></td>
+    <td><b>WEASEL</b></td>
+    <td><a href="https://github.com/facebookincubator/WEASEL">Github</a></td>
+    <td>Small in-memory implant using Python 3 with no dependencies.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Innuendo.png"></td>
+    <td><b>Innuendo</b></td>
+    <td><a href="https://www.immunityinc.com/products/innuendo/">Website</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Scythe.png"></td>
+    <td><b>Scythe</b></td>
+    <td><a href="https://github.com/scythe-io">Github</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Red_Team_Toolkit.png"></td>
+    <td><b>Red Team Toolkit (or Slingshot)</b></td>
+    <td><a href="https://silentbreaksecurity.com/red-team-toolkit/slingshot/">Website</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/Voodoo.png"></td>
+    <td><b>Voodoo</b></td>
+    <td><a href="https://www.voodooops.com/">Website</a></td>
+    <td>Description not provided.</td>
+</tr>
+
+
 </table>
 
 
