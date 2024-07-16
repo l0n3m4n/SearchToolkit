@@ -3159,12 +3159,25 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
+    <td><img src="assets/command-control/Empire.png"></td>
+    <td><b>Empire</b></td>
+    <td><a href="https://github.com/BC-SECURITY/Empire">Github</a></td>
+    <td>Post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.</td>
+</tr>
+
+<tr>
     <td><img src="assets/command-control/Pupy.png"></td>
     <td><b>Pupy</b></td>
     <td><a href="https://github.com/n1nj4sec/pupy">Github</a></td>
     <td>Opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.</td>
 </tr>
 
+<tr>
+    <td><img src="assets/command-control/Merlin.png"></td>
+    <td><b>Merlin</b></td>
+    <td><a href="https://github.com/Ne0nd0g/merlin">Github</a></td>
+    <td>Cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
+</tr>
 
 <tr>
     <td><img src="assets/command-control/GC2.png"></td>
@@ -3223,12 +3236,6 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td>Image-based C2 channel which utilizes Imgur to host images and task agents.</td>
 </tr>
 
-<tr>
-    <td><img src="assets/command-control/Empire.png"></td>
-    <td><b>Empire</b></td>
-    <td><a href="https://github.com/BC-SECURITY/Empire">Github</a></td>
-    <td>Post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.</td>
-</tr>
 
 <tr>
     <td><img src="assets/command-control/Covenant.png"></td>
@@ -3362,14 +3369,6 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><a href="https://github.com/quasar/Quasar">Github</a></td>
     <td>Fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
 </tr>
-
-<tr>
-    <td><img src="assets/command-control/Merlin.png"></td>
-    <td><b>Merlin</b></td>
-    <td><a href="https://github.com/Ne0nd0g/merlin">Github</a></td>
-    <td>Cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
-</tr>
-
 
 <tr>
     <td><img src="assets/command-control/SK8PARK_RAT.png"></td>
