@@ -3132,7 +3132,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Cobalt_Strike.png"></td>
     <td><b>Cobalt Strike</b></td>
     <td><a href="https://www.cobaltstrike.com/">Website</a></td>
-    <td>Software for Adversary Simulations and Red Team Operations.</td>
+    <td>Software for Adversary Simulations and Red Team Operations (best of the best).</td>
 </tr>
 
 
@@ -3140,14 +3140,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Sliver.png"></td>
     <td><b>Sliver</b></td>
     <td><a href="https://github.com/BishopFox/sliver">Github</a></td>
-    <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.</td>
+    <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. (second to the best)</td>
 </tr>
 
 <tr>
     <td><img src="assets/command-control/Havoc.png"></td>
     <td><b>Havoc c2</b></td>
     <td><a href="https://github.com/HavocFramework/Havoc">Github</a></td>
-    <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider.</td>
+    <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider (third of the best).</td>
 </tr>
 
 <tr>
