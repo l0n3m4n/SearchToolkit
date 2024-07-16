@@ -902,28 +902,28 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/gist.png"></td>
 <td><b>Github gist</b></td>
 <td><a href="https://gist.github.com/discover">Website</a></td>
 <td>Instantly share code, notes, and snippets</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/CodeBerg.png"></td>
 <td><b>CodeBerg</b></td>
 <td><a href="https://codeberg.org/explore/repos">Website</a></td>
 <td>Collaboration platform and Git hosting for free and open source software, content and projects</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/Fedora-Pagure.png"></td>
 <td><b>Fedora Pagure</b></td>
 <td><a href="https://pagure.io/browse/projects/">Website</a></td>
 <td>Open Source software code hosting system</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/launchpad.png"></td>
 <td><b>LaunchPad</b></td>
 <td><a href="https://launchpad.net/">Website</a></td>
 <td>Software collaboration platform that provides: Bug tracking, Code hosting, Code reviews, Ubuntu package building and hosting, Translations...</td>
@@ -937,14 +937,14 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/Gitorious.png"></td>
 <td><b>Gitorious.org</b></td>
 <td><a href="https://gitorious.org/">Website</a></td>
 <td>Read-only mirror of the former gitorious.org code hosting website</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/Sourcehut.png"></td>
 <td><b>Sourcehut</b></td>
 <td><a href="https://sr.ht/projects">Website</a></td>
 <td>Collection of tools useful for software development</td>
@@ -958,28 +958,28 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/Deps.dev.png"></td>
 <td><b>Deps.dev</b></td>
 <td><a href="https://deps.dev/">Website</a></td>
 <td>Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>WebFinery</b></td>
 <td><a href="https://webfinery.com/search">Website</a></td>
 <td>Search the source code of the web</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/google-code-archive.png"></td>
 <td><b>Google Code Archive</b></td>
 <td><a href="https://code.google.com/archive/">Website</a></td>
 <td>Data found on the Google Code Project Hosting Service, which was turned down in early 2016</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/code-search/Snipplr.jpg"></td>
 <td><b>Snipplr</b></td>
 <td><a href="https://snipplr.com/all">Website</a></td>
 <td>Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks</td>
