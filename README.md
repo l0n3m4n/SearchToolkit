@@ -3140,7 +3140,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Cobalt_Strike.png"></td>
     <td><b>Cobalt Strike</b></td>
     <td><a href="https://www.cobaltstrike.com/">Website</a></td>
-    <td>Software for Adversary Simulations and Red Team Operations.</td>
+    <td>Software for Adversary Simulations and Red Team Operations (commercial).</td>
 </tr>
 
 
@@ -3185,6 +3185,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><a  href="https://github.com/looCiprian/GC2-sheet">Github</a></td>
     <td>GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive. </td>
 </tr>
+
+<tr>
+    <td><img src="assets/default_logo.png"></td>
+    <td><b>brute ratel</b></td>
+    <td><a  href="https://bruteratel.com/">Website</a></td>
+    <td>A Customized Command and Control Center for Red Team and Adversary Simulation (commercial)</td>
+</tr>
+
 
 <tr>
     <td><img src="assets/command-control/Apfell.png"></td>
