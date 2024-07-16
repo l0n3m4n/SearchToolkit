@@ -3131,16 +3131,16 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 <tr>
     <td><img src="assets/command-control/Metasploit_Framework.png"></td>
-    <td><b>Metasploit Framework</b></td>
+    <td><b>Metasploit</b></td>
     <td><a href="https://github.com/rapid7/metasploit-framework">Github</a></td>
-    <td>Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development (best of the best).</td>
+    <td>Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
 </tr>
 
 <tr>
     <td><img src="assets/command-control/Cobalt_Strike.png"></td>
     <td><b>Cobalt Strike</b></td>
     <td><a href="https://www.cobaltstrike.com/">Website</a></td>
-    <td>Software for Adversary Simulations and Red Team Operations (first of the best).</td>
+    <td>Software for Adversary Simulations and Red Team Operations.</td>
 </tr>
 
 
@@ -3148,14 +3148,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Sliver.png"></td>
     <td><b>Sliver</b></td>
     <td><a href="https://github.com/BishopFox/sliver">Github</a></td>
-    <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. (second of the best)</td>
+    <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.</td>
 </tr>
 
 <tr>
     <td><img src="assets/command-control/Havoc.png"></td>
     <td><b>Havoc c2</b></td>
     <td><a href="https://github.com/HavocFramework/Havoc">Github</a></td>
-    <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider (third of the best).</td>
+    <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider (most suggested if you dont have cobalt-strike).</td>
 </tr>
 
 <tr>
