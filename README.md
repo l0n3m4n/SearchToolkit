@@ -3144,7 +3144,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Sliver.png"></td>
+    <td><img src="assets/command-control/Havoc.png"></td>
     <td><b>Havoc c2</b></td>
     <td><a href="https://github.com/HavocFramework/Havoc">Github</a></td>
     <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider.</td>
