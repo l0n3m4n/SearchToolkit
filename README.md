@@ -67,6 +67,7 @@
   <a href="#server"><b>Servers</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> | 
+  <a href="#domains"><b>Domain</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
@@ -1008,7 +1009,7 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <td><img src="assets/osint/DomainTyper.png"></td>
 <td><b>DomainTyper</b></td>
 <td><a href="https://domaintyper.com/top-websites-with-ph-domain">PH only</a></td>
-<td><a href="https://domaintyper.com"></a>Website</td>
+ <a href="https://domaintyper.com">Website</a</td>
 <td>The list of Top Websites in the World is based on the Traffic data for the Top 1,000,000 sites globally.
 In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with .PH Domain.</td>
 </tr>
