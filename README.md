@@ -67,7 +67,7 @@
   <a href="#server"><b>Servers</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> | 
-  <a href="#domains"><b>Domain</b></a> | 
+  <a href="#domains"><b>Domains</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
