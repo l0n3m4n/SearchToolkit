@@ -1008,8 +1008,8 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <tr>
 <td><img src="assets/osint/DomainTyper.png"></td>
 <td><b>DomainTyper</b></td>
-<td><a href="https://domaintyper.com/top-websites-with-ph-domain">PH only</a></td>
- <a href="https://domaintyper.com">Website</a</td>
+<td><a href="https://domaintyper.com/top-websites-with-ph-domain">PH only</a>
+ <a href="https://domaintyper.com">Website</a></td>
 <td>The list of Top Websites in the World is based on the Traffic data for the Top 1,000,000 sites globally.
 In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with .PH Domain.</td>
 </tr>
