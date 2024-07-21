@@ -1029,70 +1029,64 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Omnisint</b></td>
 <td><a href="https://omnisint.io/subdomain-enumeration">Website</a></td>
 <td>Subdomain enumeration</td>
 </tr>
 
-<tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>Riddler</b></td>
-<td><a href="https://riddler.io/">Website</a></td>
-<td>Allows you to search in a high-quality dataset</td>
-</tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/RebTex.png"></td>
 <td><b>RobTex</b></td>
 <td><a href="https://www.robtex.com/">Website</a></td>
 <td>Various kinds of research of IP numbers, Domain names, etc</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>CentralOps - DomainDossier</b></td>
 <td><a href="https://centralops.net/co/DomainDossier.aspx">Website</a></td>
 <td>Investigate domains and IP addresses</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/domainIQ.png "></td>
 <td><b>DomainIQ</b></td>
 <td><a href="https://www.domainiq.com/">Website</a></td>
 <td>Comprehensive Domain Intelligence</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/whoislookup.jpg"></td>
 <td><b>Whois.domaintools.com</b></td>
 <td><a href="https://whois.domaintools.com/">Website</a></td>
 <td>Industry’s fastest domain discovery engine and broadest, most accurate data</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/grayhatware.png"></td>
 <td><b>Grayhatwarfare.com - domains</b></td>
 <td><a href="https://shorteners.grayhatwarfare.com/domains">Website</a></td>
 <td>How to search URLs exposed by Shortener services</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/whoisology.jpg"></td>
 <td><b>Whoisology.com</b></td>
 <td><a href="https://whoisology.com/">Website</a></td>
 <td>Deep Connections Between Domain Names & Their Owners</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/whois.png"></td>
 <td><b>Who.is</b></td>
 <td><a href="https://who.is/">Website</a></td>
 <td>WHOIS Search, Domain Name, Website, and IP Tools</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/pentest-tools.png></td>
 <td><b>Pentest-tools.com</b></td>
 <td><a href="https://pentest-tools.com/information-gathering/find-subdomains-of-domain">Website</a></td>
 <td>Discover subdomains and determine the attack surface of an organization</td>
