@@ -1015,7 +1015,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>PhoneBook</b></td>
 <td><a href="https://phonebook.cz/">Website</a></td>
 <td>Lists all domains, email addresses, or URLs for the given input domain</td>
