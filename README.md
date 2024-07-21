@@ -1084,13 +1084,15 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><a href="https://who.is/">Website</a></td>
 <td>WHOIS Search, Domain Name, Website, and IP Tools</td>
 </tr>
+ 
 
 <tr>
-<td><img src="assets/domains/pentest-tools.png></td>
-<td><b>Pentest-tools.com</b></td>
+<td><img src="assets/domains/pentest-tools.png"></td>
+<td><b>Pentest Tools</b></td>
 <td><a href="https://pentest-tools.com/information-gathering/find-subdomains-of-domain">Website</a></td>
-<td>Discover subdomains and determine the attack surface of an organization</td>
+<td>Find the subdomains of an internet domain and determine the attack surface of an organization.</td>
 </tr>
+ 
 
 <tr>
 <td><img src="assets/server/shodan.png"></td>
