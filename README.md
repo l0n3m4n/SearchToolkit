@@ -1238,49 +1238,49 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <tbody>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>DNSDumpster</b></td>
 <td><a href="https://dnsdumpster.com/">Website</a></td>
 <td>DNS recon & research, find & lookup DNS records</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/Chaos.png"></td>
 <td><b>Chaos</b></td>
 <td><a href="https://chaos.projectdiscovery.io/#/">Website</a></td>
 <td>Enhance research and analyze changes around DNS for better insights</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/RapidDNS.jpg"></td>
 <td><b>RapidDNS</b></td>
 <td><a href="https://rapiddns.io/">Website</a></td>
 <td>DNS query tool which makes querying subdomains or sites of the same IP easy</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>DNSdb</b></td>
 <td><a href="https://docs.farsightsecurity.com/#dnsdb">Website</a></td>
 <td>Passive DNS historical database</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/Omnisint.png"></td>
 <td><b>Omnisint</b></td>
 <td><a href="https://omnisint.io/reverse-dns-lookup">Website</a></td>
 <td>Reverse DNS lookup</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/HackerTarget.jpg"></td>
 <td><b>HackerTarget</b></td>
 <td><a href="https://hackertarget.com/ip-tools/">Website</a></td>
 <td>Collect information about IP Addresses, Networks, Web Pages, and DNS records</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/Passivedns.mnemonic.png"></td>
 <td><b>Passivedns.mnemonic.no</b></td>
 <td><a href="https://passivedns.mnemonic.no/">Website</a></td>
 <td>Web interface for querying passive DNS data collected in our malware lab</td>
