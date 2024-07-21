@@ -11,9 +11,7 @@
 </p>
  
 
-<p align="center">
-  <a href="https://github.com/l0n3m4n"> <img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;Cybersecurity+related.+feel+free+;to+add+in+your+favorites."></a>
-</p>
+ 
 
 <!-- Intro  -->
 <h3 align="center">
@@ -77,7 +75,7 @@
   <a href="#ctf"><b>CTF Platform</b></a> |  
   <a href="#android"><b>Android</b></a>
 
-  <h3 align="center">Attack C ycle</h3>
+  <h3 align="center">Attack Cycle</h3>
   <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
@@ -1115,7 +1113,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/domains/Sitereport.netcraft.com.png"></td>
+<td><img src="assets/domains/Sitereport.netcraft.com.png  "></td>
 <td><b>Sitereport.netcraft.com</b></td>
 <td><a href="https://sitereport.netcraft.com/">Website</a></td>
 <td>Find out the infrastructure and technologies used by any site</td>
