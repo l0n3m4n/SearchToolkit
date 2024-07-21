@@ -1116,112 +1116,105 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>SynapsInt</b></td>
 <td><a href="https://synapsint.com/">Website</a></td>
 <td>The unified OSINT research tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>spyonweb.com</b></td>
-<td><a href="https://spyonweb.com/">Website</a></td>
-<td>Find out related websites</td>
-</tr>
-
-<tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/Statscrop.png"></td>
 <td><b>Statscrop.com</b></td>
 <td><a href="https://www.statscrop.com/">Website</a></td>
 <td>Millions of amazing websites across the web are being analyzed with StatsCrop</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/Securityheaders.com.png"></td>
 <td><b>Securityheaders.com</b></td>
 <td><a href="https://securityheaders.com/">Website</a></td>
 <td>Scan your site now</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Visualsitemapper.com</b></td>
 <td><a href="http://www.visualsitemapper.com/">Website</a></td>
 <td>Create a visual map of your site</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/Similarweb.png"></td>
 <td><b>Similarweb.com</b></td>
 <td><a href="https://www.similarweb.com/">Website</a></td>
 <td>The easiest and fastest tool to find out what's really going on online</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/Buckets.grayhatwarfare.jpg"></td>
 <td><b>Buckets.grayhatwarfare.com</b></td>
 <td><a href="https://buckets.grayhatwarfare.com/">Website</a></td>
 <td>Public buckets</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/api.c99.nl.png"></td>
 <td><b>C99.nl</b></td>
 <td><a href="https://api.c99.nl/">Website</a></td>
 <td>Over 57 quality API's and growing!</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Wannabe1337.xyz</b></td>
 <td><a href="https://wannabe1337.xyz/">Website</a></td>
 <td>Online Tools</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/api.c99.nl.png"></td>
 <td><b>Subdomainfinder.c99.nl</b></td>
 <td><a href="https://subdomainfinder.c99.nl/">Website</a></td>
 <td>Scanner that scans an entire domain to find as many subdomains as possible</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>AnubisDB</b></td>
 <td><a href="https://jonlu.ca/anubis/">Website</a></td>
 <td>Subdomain enumeration and information gathering tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/WhoisXMLAPI.png"></td>
 <td><b>WhoisXMLAPI</b></td>
 <td><a href="https://www.whoisxmlapi.com/">Website</a></td>
 <td>Domain & IP Data Intelligence for Greater Enterprise Security</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/HypeStat.png"></td>
 <td><b>HypeStat</b></td>
 <td><a href="https://hypestat.com/">Website</a></td>
 <td>Free statistics and analytics service, where you can find information about every website</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Private Key Project</b></td>
 <td><a href="https://www.pkey.in/tools-i/search-subdomains">Website</a></td>
 <td>Information security tools from Private Key Project</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>SiteDossier</b></td>
 <td><a href="http://www.sitedossier.com/">Website</a></td>
 <td>Profiles for millions of sites on the web</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>SpyOnWeb</b></td>
 <td><a href="https://spyonweb.com/">Website</a></td>
 <td>Quick and convenient search for the websites that probably belong to the same owner</td>
