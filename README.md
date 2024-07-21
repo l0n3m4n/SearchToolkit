@@ -136,6 +136,12 @@ A carefully gathered list of all tools that are highly valuable for various cybe
 <td>Active Directory and Internal Pentest Cheatsheets</td>
 </tr>
 
+<tr>
+<td><img src="assets/cheatsheets/awesome-pentest-cheatsheets.png"></td>
+<td><b>Awesome-Pentest</b></td>
+<td><a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets">Github</a></td>
+<td>Awesome Pentest Cheat Sheets a collection of the cheat sheets useful for pentesting </td>
+</tr>
 
 </tbody>
 </table>
@@ -1109,7 +1115,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/Sitereport.netcraft.com.png"></td>
 <td><b>Sitereport.netcraft.com</b></td>
 <td><a href="https://sitereport.netcraft.com/">Website</a></td>
 <td>Find out the infrastructure and technologies used by any site</td>
