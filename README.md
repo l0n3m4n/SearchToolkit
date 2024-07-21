@@ -1022,7 +1022,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/domains/intelligenceX.png"></td>
 <td><b>IntelligenceX</b></td>
 <td><a href="https://intelx.io/">Website</a></td>
 <td>Search engine and data archive</td>
