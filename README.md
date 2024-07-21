@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    <img src="assets">
+    <img src="assets/logo.png">
     <br>
      <b>「 Author 」</b>
   <samp>
