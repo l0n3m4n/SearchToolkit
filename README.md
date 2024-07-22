@@ -3223,7 +3223,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Godoh.png"></td>
     <td><b>Godoh</b></td>
     <td><a href="https://github.com/sensepost/goDoH">Github</a></td>
-    <td>Description not provided.</td>
+    <td>godoh is a proof of concept Command and Control framework, written in Golang, that uses DNS-over-HTTPS as a transport medium. </td>
 </tr>
 
 <tr>
@@ -3316,7 +3316,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Meterpreter.jpg"></td>
     <td><b>Meterpreter</b></td>
     <td><a href="https://github.com/r00t-3xp10it/meterpeter">Github</a></td>
-    <td>Description not provided.</td>
+    <td>C2 Powershell Command & Control Framework with BuiltIn Commands </td>
 </tr>
 
 
@@ -3324,7 +3324,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/ReverseTCPShell.jpg"></td>
     <td><b>ReverseTCPShell</b></td>
     <td><a href="https://github.com/ZHacker13/ReverseTCPShell">Github</a></td>
-    <td>Description not provided.</td>
+    <td>PowerShell ReverseTCP Shell - Framework.</td>
 </tr>
 
 <tr>
