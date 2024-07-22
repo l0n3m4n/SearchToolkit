@@ -1580,19 +1580,19 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan"></td>
+      <td><img src="assets/credentials-leaks/Have-I-Been-Pwned.jpg"></td>
       <td><b>Have I Been Pwned</b></td>
       <td><a href="https://haveibeenpwned.com/">Website</a></td>
       <td>Check if your email or phone is in a data breach</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/Dehashed.png"></td>
       <td><b>Dehashed</b></td>
       <td><a href="https://www.dehashed.com/">Website</a></td>
       <td>Free deep-web scans and protection against credential leaks</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/LeakCheck.io.png"></td>
       <td><b>LeakCheck.io</b></td>
       <td><a href="https://leakcheck.io/">Website</a></td>
       <td>Make sure your credentials haven't been compromised</td>
@@ -2261,9 +2261,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   <a href="#dns"><b>DNS</b></a> |
   <a href="#url"><b>URL</b></a> |
   <a href="#dorks"><b>Dorks</b></a> | 
-  <a href="#wifi-networks"><b>WiFi Networks</b></a> |
-  <a href="#credentials"><b>Credentials</b></a> |
-  <a href="#leaks"><b>Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
 </p>
 <br>
