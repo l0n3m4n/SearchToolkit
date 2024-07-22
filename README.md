@@ -1288,98 +1288,85 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Ptrarchive.com</b></td>
 <td><a href="http://ptrarchive.com/">Website</a></td>
 <td>Over 230 billion reverse DNS entries from 2008 to the present</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/Dnshistory.org.jpg"></td>
 <td><b>Dnshistory.org</b></td>
 <td><a href="http://dnshistory.org/">Website</a></td>
 <td>Domain Name System Historical Record Archive</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/DNSTwister.png"></td>
 <td><b>DNSTwister</b></td>
 <td><a href="https://dnstwister.report/">Website</a></td>
 <td>The anti-phishing domain name search engine and DNS monitoring service</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/DNSviz.jpg "></td>
 <td><b>DNSviz</b></td>
 <td><a href="https://dnsviz.net/">Website</a></td>
 <td>Tool for visualizing the status of a DNS zone</td>
 </tr>
-
+ 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>Wannabe1337.xyz</b></td>
-<td><a href="https://wannabe1337.xyz/">Website</a></td>
-<td>Online Tools</td>
-</tr>
-
-<tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/DNSlytics.jpg"></td>
 <td><b>DNSlytics</b></td>
 <td><a href="https://dnslytics.com/">Website</a></td>
 <td>Find out everything about a domain name, IP address, or provider</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/Dnsrepo.noc.org.png"></td>
 <td><b>Dnsrepo.noc.org</b></td>
 <td><a href="https://dnsrepo.noc.org/">Website</a></td>
 <td>DNS Database Repository Search</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/DNSSpy.png"></td>
 <td><b>DNSSpy</b></td>
 <td><a href="https://dnsspy.io/">Website</a></td>
 <td>Monitor, validate, and verify your DNS configurations</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/ZETAlytics.png"></td>
 <td><b>ZETAlytics</b></td>
 <td><a href="https://zetalytics.com/">Website</a></td>
 <td>We offer unrivaled geographic diversity and exclusive global network visibility in searchable datasets for use by cybersecurity analysts</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>AskDNS</b></td>
 <td><a href="https://askdns.com/">Website</a></td>
 <td>Lookup Connected Domain Names and IP Addresses</td>
 </tr>
 
-<tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>360 PassiveDNS.CN</b></td>
-<td><a href="https://passivedns.cn/">Website</a></td>
-<td>Biggest publicly available database in China designed for security and research purposes</td>
-</tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/MXtoolbox.png"></td>
 <td><b>MXtoolbox</b></td>
 <td><a href="https://mxtoolbox.com/SuperTool.aspx">Website</a></td>
 <td>All of your MX record, DNS, blacklist, and SMTP diagnostics in one integrated tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/NSLookup.io.jpg"></td>
 <td><b>NSLookup.io</b></td>
 <td><a href="https://www.nslookup.io/">Website</a></td>
 <td>Find all DNS records for a domain name using this online tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/dns/Robtex.png"></td>
 <td><b>Robtex DNS Lookup</b></td>
 <td><a href="https://www.robtex.com/dns-lookup/">Website</a></td>
 <td>Get detailed information on the nameservers associated with a domain name</td>
