@@ -3155,7 +3155,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/AsyncRat-C#.jpg"></td>
+    <td><img src="assets/command-control/AsyncRat.jpg"></td>
     <td><b>AsyncRat C#</b></td>
     <td><a href="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp">Github</a></td>
     <td>Remote Access Tool designed to remotely monitor and control other computers through a secure encrypted connection.</td>
