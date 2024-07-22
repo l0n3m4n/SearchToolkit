@@ -1440,7 +1440,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><img src="assets/certificates/Ciphersuite.info.png"></td>
 <td><b>ciphersuite</b></td>
 <td><a href="https://ciphersuite.info/">Website</a></td>
-<phersuite by using IANA, OpenSSL, or GnuTLS name format</td>
+<td>ciphersuite by using IANA, OpenSSL, or GnuTLS name format</td>
 </tr>
 
 <tr>
