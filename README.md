@@ -3324,7 +3324,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/ReverseTCPShell.jpg"></td>
     <td><b>ReverseTCPShell</b></td>
     <td><a href="https://github.com/ZHacker13/ReverseTCPShell">Github</a></td>
-    <td>PowerShell ReverseTCP Shell - Framework.</td>
+    <td>PowerShell ReverseTCP Shell - Framework.  </td>
 </tr>
 
 <tr>
@@ -3369,5 +3369,4 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><a href="https://github.com/pwndbg/pwndbg">Github</a></td>
     <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
 </tr>
----------
  
