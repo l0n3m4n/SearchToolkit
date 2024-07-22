@@ -65,6 +65,7 @@
   <a href="#dns"><b>DNS</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
+  <a href="#device-information"><b>Device Information</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
