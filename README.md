@@ -92,10 +92,6 @@
   <a href="#reports"><b>Reports</b></a>
 </p>
 
-<!--about-->
----
-A carefully gathered list of tools that are highly valuable for various tasks, including Penetration testing, Red/Blue Team operations, Vulnerability assessments, Bug hunting, Digital forensic, OSINT, Threat intelligence, Incident response and other related activities.
-
 
 ## Cheatsheets
 
