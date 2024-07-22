@@ -1440,14 +1440,14 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/server/ciphersuite.png"></td>
+<td><img src="assets/certificates/Ciphersuite.info.png"></td>
 <td><b>ciphersuite</b></td>
 <td><a href="https://ciphersuite.info/">Website</a></td>
 <phersuite by using IANA, OpenSSL, or GnuTLS name format</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/certificatedetails.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>certificatedetails.com</b></td>
 <td><a href="https://certificatedetails.com/">Website</a></td>
 <td>Online certificate viewer. Inspect and download certificates from your browser</td>
