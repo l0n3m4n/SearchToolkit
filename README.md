@@ -1564,7 +1564,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 
-## Credentials
+## Credentials Leaks
 
 [🔝 Back to top](#Main)
 
@@ -1579,7 +1579,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/server/shodan"></td>
       <td><b>Have I Been Pwned</b></td>
       <td><a href="https://haveibeenpwned.com/">Website</a></td>
       <td>Check if your email or phone is in a data breach</td>
