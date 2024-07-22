@@ -1565,7 +1565,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 
-## Credentials Leaks
+## Credential Leaks
 
 [🔝 Back to top](#Main)
 
