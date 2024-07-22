@@ -3082,14 +3082,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/Metasploit_Framework.png"></td>
+    <td><img src="assets/command-control/Metasploit.jpg"></td>
     <td><b>Metasploit</b></td>
     <td><a href="https://github.com/rapid7/metasploit-framework">Github</a></td>
     <td>Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Cobalt_Strike.png"></td>
+    <td><img src="assets/command-control/Cobalt Strike.jpg"></td>
     <td><b>Cobalt Strike</b></td>
     <td><a href="https://www.cobaltstrike.com/">Website</a></td>
     <td>Software for Adversary Simulations and Red Team Operations (commercial).</td>
@@ -3097,35 +3097,35 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/Sliver.png"></td>
+    <td><img src="assets/command-control/SliverC2.jpg"></td>
     <td><b>Sliver</b></td>
     <td><a href="https://github.com/BishopFox/sliver">Github</a></td>
     <td>General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Havoc.png"></td>
+    <td><img src="assets/command-control/Havoc c2.jpg"></td>
     <td><b>Havoc c2</b></td>
     <td><a href="https://github.com/HavocFramework/Havoc">Github</a></td>
     <td>Havoc is a modern and malleable post-exploitation command and control framework, created by @C5pider (most suggested if you dont have cobalt-strike).</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Empire.png"></td>
+    <td><img src="assets/command-control/Empire C2.jpg"></td>
     <td><b>Empire</b></td>
     <td><a href="https://github.com/BC-SECURITY/Empire">Github</a></td>
     <td>Post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Pupy.png"></td>
+    <td><img src="assets/command-control/Pupy c2.jpg"></td>
     <td><b>Pupy</b></td>
     <td><a href="https://github.com/n1nj4sec/pupy">Github</a></td>
     <td>Opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Merlin.png"></td>
+    <td><img src="assets/command-control/Merlin c2.png"></td>
     <td><b>Merlin</b></td>
     <td><a href="https://github.com/Ne0nd0g/merlin">Github</a></td>
     <td>Cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
@@ -3139,7 +3139,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/default_logo.png"></td>
+    <td><img src="assets/command-control/brute ratel.jpg"></td>
     <td><b>brute ratel</b></td>
     <td><a  href="https://bruteratel.com/">Website</a></td>
     <td>A Customized Command and Control Center for Red Team and Adversary Simulation (commercial)</td>
@@ -3147,7 +3147,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/Apfell.png"></td>
+    <td><img src="assets/command-control/Apfell-rebranded-mythic.png"></td>
     <td><b>Apfell</b></td>
     <td><a href="https://github.com/its-a-feature/Apfell">Github</a></td>
     <td>Cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI.</td>
@@ -3155,14 +3155,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/AsyncRat_CSharp.png"></td>
+    <td><img src="assets/command-control/AsyncRat C#.jpg"></td>
     <td><b>AsyncRat C#</b></td>
     <td><a href="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp">Github</a></td>
     <td>Remote Access Tool designed to remotely monitor and control other computers through a secure encrypted connection.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Baby_Shark.png"></td>
+    <td><img src="assets/command-control/Baby Shark c2.jpg"></td>
     <td><b>Baby Shark</b></td>
     <td><a href="https://github.com/UnkL4b/BabyShark">Github</a></td>
     <td>Basic C2 generic server written in Python and Flask.</td>
@@ -3176,7 +3176,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Caldera.png"></td>
+    <td><img src="assets/command-control/Caldera c2.png"></td>
     <td><b>Caldera</b></td>
     <td><a href="https://github.com/mitre/caldera">Github</a></td>
     <td>Built on the MITRE ATT&CK™ framework and an active research project at MITRE.</td>
@@ -3190,7 +3190,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Dali.png"></td>
+    <td><img src="assets/command-control/Dali c2.png"></td>
     <td><b>Dali</b></td>
     <td><a href="https://github.com/h0mbre/Dali">Github</a></td>
     <td>Image-based C2 channel which utilizes Imgur to host images and task agents.</td>
@@ -3205,14 +3205,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Silent_Trinity.png"></td>
+    <td><img src="assets/command-control/Silent Trinity.png"></td>
     <td><b>Silent Trinity</b></td>
     <td><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">Github</a></td>
     <td>Post-exploitation agent powered by Python, IronPython, C#/.NET.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Faction_C2.png"></td>
+    <td><img src="assets/command-control/Faction C2.png"></td>
     <td><b>Faction C2</b></td>
     <td><a href="https://github.com/FactionC2/">Github</a></td>
     <td>C2 framework which uses websockets based API that allows for interacting with agents and transports.</td>
@@ -3227,14 +3227,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/iBombshell.png"></td>
+    <td><img src="assets/command-control/ibombshell.jpg"></td>
     <td><b>iBombshell</b></td>
     <td><a href="https://github.com/ElevenPaths/ibombshell">Github</a></td>
     <td>Tool to deploy a post-exploitation prompt at any time </td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/HARS.png"></td>
+    <td><img src="assets/command-control/HARS c2.png"></td>
     <td><b>HARS</b></td>
     <td><a href="https://github.com/onSec-fr/Http-Asynchronous-Reverse-Shell">Github</a></td>
     <td>HTTP/S Asynchronous Reverse Shell.</td>
@@ -3242,35 +3242,35 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/Ninja.png"></td>
+    <td><img src="assets/command-control/Ninja c2.jpg"></td>
     <td><b>Ninja</b></td>
     <td><a href="https://github.com/ahmedkhlief/Ninja/">Github</a></td>
     <td>Open source C2 server created by Purple Team to do stealthy computer and Active directory enumeration without being detected by SIEM and AVs.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/NorthStarC2.png"></td>
+    <td><img src="assets/command-control/NorthStarC2.jpg"></td>
     <td><b>NorthStarC2</b></td>
     <td><a href="https://github.com/EnginDemirbilek/NorthStarC2">Github</a></td>
     <td>Open-source command and control framework developed for penetration testing and red teaming purposes.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/EvilOSX.png"></td>
+    <td><img src="assets/command-control/EvilOSX.jpg"></td>
     <td><b>EvilOSX</b></td>
     <td><a href="https://github.com/Marten4n6/EvilOSX">Github</a></td>
     <td>An evil RAT (Remote Administration Tool) for macOS / OS X.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Nuages.png"></td>
+    <td><img src="assets/command-control/Nuages c2.png"></td>
     <td><b>Nuages</b></td>
     <td><a href="https://github.com/p3nt4/Nuages">Github</a></td>
     <td>A modular C2 framework </td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Octopus.png"></td>
+    <td><img src="assets/command-control/octopus c2.png"></td>
     <td><b>Octopus</b></td>
     <td><a href="https://github.com/mhaskar/Octopus">Github</a></td>
     <td>Open source, pre-operation C2 server based on python which can control an Octopus powershell agent through HTTP/S.</td>
@@ -3291,7 +3291,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Prismatica.png"></td>
+    <td><img src="assets/command-control/Prismatica c2.png"></td>
     <td><b>Prismatica</b></td>
     <td><a href="https://github.com/Project-Prismatica">Github</a></td>
     <td>Modular C2 Interface hooked into the Diagon Command and Control Toolkit.</td>
@@ -3306,14 +3306,14 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
  
 <tr>
-    <td><img src="assets/command-control/Trevor_C2.png"></td>
+    <td><img src="assets/command-control/Trevor C2.png"></td>
     <td><b>Trevor C2</b></td>
     <td><a href="https://github.com/trustedsec/trevorc2">Github</a></td>
     <td>Legitimate website (browsable) that tunnels client/server communications for covert command execution.</td>
 </tr>
 
 <tr>
-    <td><img src="assets/command-control/Meterpreter.png"></td>
+    <td><img src="assets/command-control/Meterpreter.jpg"></td>
     <td><b>Meterpreter</b></td>
     <td><a href="https://github.com/r00t-3xp10it/meterpeter">Github</a></td>
     <td>Description not provided.</td>
@@ -3321,7 +3321,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/ReverseTCPShell.png"></td>
+    <td><img src="assets/command-control/ReverseTCPShell.jpg"></td>
     <td><b>ReverseTCPShell</b></td>
     <td><a href="https://github.com/ZHacker13/ReverseTCPShell">Github</a></td>
     <td>Description not provided.</td>
@@ -3336,7 +3336,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
 
 
 <tr>
-    <td><img src="assets/command-control/Gcat.png"></td>
+    <td><img src="assets/command-control/Gcat.jpg"></td>
     <td><b>Gcat</b></td>
     <td><a href="https://github.com/byt3bl33d3r/gcat">Github</a></td>
     <td>Stealthy Python based backdoor that uses Gmail as a command and control server.</td>
