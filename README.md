@@ -1390,63 +1390,50 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <tbody>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/certificates/Crt.png"></td>
 <td><b>Crt.sh</b></td>
 <td><a href="https://crt.sh/">Website</a></td>
 <td>Certificate Search</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>CTSearch</b></td>
 <td><a href="https://ui.ctsearch.entrust.com/ui/ctsearchui">Website</a></td>
 <td>Certificate Transparency Search Tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/certificates/tls.bufferover.PNG"></td>
 <td><b>Tls.bufferover.run</b></td>
 <td><a href="https://tls.bufferover.run/">Website</a></td>
 <td>Quickly find certificates in IPv4 space</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/certificates/CertSpotter.jpg"></td>
 <td><b>CertSpotter</b></td>
 <td><a href="https://sslmate.com/certspotter/">Website</a></td>
 <td>Monitors your domains for expiring, unauthorized, and invalid SSL certificates</td>
 </tr>
+ 
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>SynapsInt</b></td>
-<td><a href="https://synapsint.com/">Website</a></td>
-<td>The unified OSINT research tool</td>
-</tr>
-
-<tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/certificates/Censyssearch-Certificates.png"></td>
 <td><b>Censys Search - Certificates</b></td>
 <td><a href="https://search.censys.io/certificates">Website</a></td>
 <td>Certificates Search</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
-<td><b>Ciphersuite.info</b></td>
-<td><a href="https://ciphersuite.info/">Website</a></td>
-<td>TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format</td>
-</tr>
-
-<tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Certificatedetails</b></td>
 <td><a href="https://certificatedetails.com/">Website</a></td>
 <td>Online certificate viewer. Inspect and download certificates from your browser</td>
 </tr>
 
 <tr>
-<td><img src="assets/server/shodan.png"></td>
+<td><img src="assets/certificates/FacebookCT.png"></td>
 <td><b>FacebookCT</b></td>
 <td><a href="https://developers.facebook.com/tools/ct/search/">Website</a></td>
 <td>Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates</td>
@@ -1456,7 +1443,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><img src="assets/server/ciphersuite.png"></td>
 <td><b>ciphersuite</b></td>
 <td><a href="https://ciphersuite.info/">Website</a></td>
-<td>TLS Ciphersuite Search. Search for a particular ciphersuite by using IANA, OpenSSL, or GnuTLS name format</td>
+<phersuite by using IANA, OpenSSL, or GnuTLS name format</td>
 </tr>
 
 <tr>
@@ -1466,15 +1453,9 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td>Online certificate viewer. Inspect and download certificates from your browser</td>
 </tr>
 
-<tr>
-<td><img src="assets/server/facebookct.png"></td>
-<td><b>FacebookCT</b></td>
-<td><a href="https://developers.facebook.com/tools/ct/search/">Website</a></td>
-<td>Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates</td>
-</tr>
 
 <tr>
-<td><img src="assets/server/certsio.png"></td>
+<td><img src="assets/certificates/Crt.png"></td>
 <td><b>certs.io</b></td>
 <td><a href="https://certs.io/">Website</a></td>
 <td>Search TLS certificates across the internet</td>
@@ -3487,16 +3468,31 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><a href="https://www.voodooops.com/">Website</a></td>
     <td>Description not provided.</td>
 </tr>
-
-
 </table>
 
+[🔝 Back to top](#Main)
 
----------
-__Original Author's__
 <br>
-Credit to [Awesome Hacker Search Engine](https://github.com/edoardottt/awesome-hacker-search-engines), [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) and [Awesome OSINT](https://github.com/jivoi/awesome-osint) for such Awesome tools. 
 
-If you want to propose changes, just open an [issue](https://github.com/username/repo/issues) or a [pull request](https://github.com/username/repo/pulls).
+## Digital Forensics
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
 
 
+<tr>
+    <td><img src="assets/dfir/pwndbg.png"></td>
+    <td><b>pwndbg</b></td>
+    <td><a href="https://github.com/pwndbg/pwndbg">Github</a></td>
+    <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
+</tr>
+---------
+ 
