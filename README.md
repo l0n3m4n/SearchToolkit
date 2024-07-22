@@ -23,7 +23,7 @@
      <b>「 Author 」</b>
   <samp>
     <br>
-    <a href="https://facebook.com/l0n3m4n" onclick="window.open(this.href,'_blank');return false;">「 <b>l0n3m4n : EHPH Member </b> 」
+    <a href="https://facebook.com/ehphofficial" onclick="window.open(this.href,'_blank');return false;">「 <b>l0n3m4n : EHPH Member </b> 」
     <br>
     <br>
   </samp>
