@@ -94,7 +94,7 @@
 
 <!--about-->
 ---
-A carefully gathered list of all tools that are highly valuable for various cybersecurity tasks, including Penetration testing, Red/Blue Team operations, Vulnerability assessments, Bug hunting, Digital forensic, OSINT, Threat intelligence, Incident response and other related activities.
+A carefully gathered list of tools that are highly valuable for various tasks, including Penetration testing, Red/Blue Team operations, Vulnerability assessments, Bug hunting, Digital forensic, OSINT, Threat intelligence, Incident response and other related activities.
 
 
 ## Cheatsheets
