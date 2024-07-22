@@ -1479,37 +1479,37 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/wifi/Wigle.net.png"></td>
       <td><b>Wigle.net</b></td>
       <td><a href="https://wigle.net/">Website</a></td>
       <td>Maps and database of 802.11 wireless networks with statistics</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/wifi/wifimap.io.png"></td>
       <td><b>wifimap.io</b></td>
       <td><a href="https://www.wifimap.io/">Website</a></td>
       <td>Connect to all Free WiFi Hotspots using WiFi Map App all over the World!</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/wifi/wificafespots01.png"></td>
       <td><b>wificafespots.com</b></td>
       <td><a href="http://www.wificafespots.com/">Website</a></td>
       <td>Free WiFi Cafe Spots</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/wifi/wifispc.jpg"></td>
       <td><b>wifispc.com</b></td>
       <td><a href="https://wifispc.com/">Website</a></td>
       <td>Free map of Wi-Fi passwords anywhere you go!</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/wifi/openwifimap.ne.png"></td>
       <td><b>openwifimap.net</b></td>
       <td><a href="https://openwifimap.net/">Website</a></td>
       <td>HTML5 map with OpenWiFiMap data</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/wifi/mylnikov.org.png"></td>
       <td><b>mylnikov.org</b></td>
       <td><a href="https://www.mylnikov.org/">Website</a></td>
       <td>Public API implementation of Wi-Fi Geo-Location database</td>
