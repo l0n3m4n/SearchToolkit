@@ -3218,19 +3218,6 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td>C2 framework which uses websockets based API that allows for interacting with agents and transports.</td>
 </tr>
 
-<tr>
-    <td><img src="assets/command-control/Flying_A_False_Flag.png"></td>
-    <td><b>Flying A False Flag</b></td>
-    <td><a href="https://github.com/monoxgas/FlyingAFalseFlag">Github</a></td>
-    <td>Description not provided.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/FudgeC2.png"></td>
-    <td><b>FudgeC2</b></td>
-    <td><a href="https://github.com/Ziconius/FudgeC2">Github</a></td>
-    <td>Powershell C2 platform designed to facilitate team collaboration and campaign timelining.</td>
-</tr>
 
 <tr>
     <td><img src="assets/command-control/Godoh.png"></td>
@@ -3243,7 +3230,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/iBombshell.png"></td>
     <td><b>iBombshell</b></td>
     <td><a href="https://github.com/ElevenPaths/ibombshell">Github</a></td>
-    <td>Description not provided.</td>
+    <td>Tool to deploy a post-exploitation prompt at any time </td>
 </tr>
 
 <tr>
@@ -3253,19 +3240,6 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td>HTTP/S Asynchronous Reverse Shell.</td>
 </tr>
 
-<tr>
-    <td><img src="assets/command-control/Koadic.png"></td>
-    <td><b>Koadic (or COM Command & Control)</b></td>
-    <td><a href="https://github.com/zerosum0x0/koadic">Github</a></td>
-    <td>Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/MacShellSwift.png"></td>
-    <td><b>MacShellSwift</b></td>
-    <td><a href="https://github.com/cedowens/MacShellSwift/">Github</a></td>
-    <td>Description not provided.</td>
-</tr>
 
 <tr>
     <td><img src="assets/command-control/Ninja.png"></td>
@@ -3292,7 +3266,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td><img src="assets/command-control/Nuages.png"></td>
     <td><b>Nuages</b></td>
     <td><a href="https://github.com/p3nt4/Nuages">Github</a></td>
-    <td>Description not provided.</td>
+    <td>A modular C2 framework </td>
 </tr>
 
 <tr>
@@ -3330,20 +3304,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td>Fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
 </tr>
 
-<tr>
-    <td><img src="assets/command-control/SK8PARK_RAT.png"></td>
-    <td><b>SK8PARK/RAT</b></td>
-    <td><a href="https://github.com/slyd0g/SK8PARK">Github</a></td>
-    <td>Description not provided.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Throwback.png"></td>
-    <td><b>Throwback</b></td>
-    <td><a href="https://github.com/silentbreaksec/Throwback">Github</a></td>
-    <td>Description not provided.</td>
-</tr>
-
+ 
 <tr>
     <td><img src="assets/command-control/Trevor_C2.png"></td>
     <td><b>Trevor C2</b></td>
@@ -3358,19 +3319,6 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td>Description not provided.</td>
 </tr>
 
-<tr>
-    <td><img src="assets/command-control/PetaQ.png"></td>
-    <td><b>PetaQ</b></td>
-    <td><a href="https://github.com/fozavci/petaqc2">Github</a></td>
-    <td>Malware which is being developed in .NET Core/Framework to use websockets as Command & Control (C2) channels.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Pinjectra.png"></td>
-    <td><b>Pinjectra</b></td>
-    <td><a href="https://github.com/SafeBreach-Labs/pinjectra">Github</a></td>
-    <td>C/C++ library that implements Process Injection techniques (with focus on Windows 10 64-bit) in a "mix and match" style.</td>
-</tr>
 
 <tr>
     <td><img src="assets/command-control/ReverseTCPShell.png"></td>
@@ -3386,12 +3334,6 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td>Modular C2 framework designed to use a range of methods to evade EDR and AV.</td>
 </tr>
 
-<tr>
-    <td><img src="assets/command-control/SharpC2.png"></td>
-    <td><b>SharpC2</b></td>
-    <td><a href="https://github.com/SharpC2/SharpC2/tree/dev">Github</a></td>
-    <td>Description not provided.</td>
-</tr>
 
 <tr>
     <td><img src="assets/command-control/Gcat.png"></td>
@@ -3400,68 +3342,7 @@ The Best Collection of __CTF__ sites from both penetration testing, red teaming,
     <td>Stealthy Python based backdoor that uses Gmail as a command and control server.</td>
 </tr>
 
-<tr>
-    <td><img src="assets/command-control/DNScat2.png"></td>
-    <td><b>DNScat2</b></td>
-    <td><a href="https://github.com/iagox86/dnscat2">Github</a></td>
-    <td>Tool is designed to create an encrypted command-and-control (C&C) channel over the DNS protocol.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/EggShell.png"></td>
-    <td><b>EggShell</b></td>
-    <td><a href="https://github.com/neoneggplant/EggShell">Github</a></td>
-    <td>Post exploitation surveillance tool written in Python. It gives you a command line session with extra functionality between you and a target machine.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/EvilVM.png"></td>
-    <td><b>EvilVM</b></td>
-    <td><a href="https://github.com/jephthai/EvilVM">Github</a></td>
-    <td>Description not provided.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Void-RAT.png"></td>
-    <td><b>Void-RAT</b></td>
-    <td><a href="https://github.com/KadeDev/Void-RAT">Github</a></td>
-    <td>Pretty basic RAT written in c#.net.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/WEASEL.png"></td>
-    <td><b>WEASEL</b></td>
-    <td><a href="https://github.com/facebookincubator/WEASEL">Github</a></td>
-    <td>Small in-memory implant using Python 3 with no dependencies.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Innuendo.png"></td>
-    <td><b>Innuendo</b></td>
-    <td><a href="https://www.immunityinc.com/products/innuendo/">Website</a></td>
-    <td>Description not provided.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Scythe.png"></td>
-    <td><b>Scythe</b></td>
-    <td><a href="https://github.com/scythe-io">Github</a></td>
-    <td>Description not provided.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Red_Team_Toolkit.png"></td>
-    <td><b>Red Team Toolkit (or Slingshot)</b></td>
-    <td><a href="https://silentbreaksecurity.com/red-team-toolkit/slingshot/">Website</a></td>
-    <td>Description not provided.</td>
-</tr>
-
-<tr>
-    <td><img src="assets/command-control/Voodoo.png"></td>
-    <td><b>Voodoo</b></td>
-    <td><a href="https://www.voodooops.com/">Website</a></td>
-    <td>Description not provided.</td>
-</tr>
+ 
 </table>
 
 [🔝 Back to top](#Main)
