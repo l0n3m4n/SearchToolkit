@@ -547,12 +547,6 @@
 <td>The wonderland of JavaScript unexpected usages, and more</td>
 </tr> 
 
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>Exploitalert.com</b></td>
-<td><a href="https://www.exploitalert.com/search-results.html">Website</a></td>
-<td>Database of Exploits</td>
-</tr>
 
 <tr>
 <td><img src="assets/exploits/revshell.png"></td>
