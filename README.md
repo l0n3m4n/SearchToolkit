@@ -2119,7 +2119,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 
-## Unclassified
+## Dorking
 
 [🔝 Back to top](#Main)
 
@@ -2255,11 +2255,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </p>
 <br>
 
-
-
-<!--about OSINT-->
----
-An organized compilation of fantastic open-source intelligence (OSINT) tools and references. Open-source intelligence involves gathering information from sources that are publicly accessible.
 <br>
 
 ### Special OSINT Tools
@@ -2476,7 +2471,7 @@ made to help you during your investigations</td>
       <td><a href="https://radaris.com/#findPhoneH">Website</a></td>
       <td>Look up any phone number to see its owner and identify who's calling or texting you</td>
     </tr>
-    <!-- Previous entries... -->
+   
   </tbody>
 </table>
 
@@ -2675,11 +2670,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </p>
 
 
-<!--about-->
----
-"OSINT Darkweb" is a concise, handpicked selection of tools tailored for monitoring the dark web. This compilation empowers cybersecurity experts, law enforcement, and analysts to uncover hidden activities and emerging threats within the secretive corners of the internet. Stay ahead in the battle against cybercrime with this indispensable resource.
-
-
 ## Darkweb Search Engine
 
 
@@ -2864,9 +2854,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <!--CTF Platform-->
 <h1 align="center">CTF</h1>
 
-<!--about-->
----
-The Best Collection of __CTF__ sites from both penetration testing, red teaming, blue teaming, bughunting, forensic, malware and etc. 
 <br>
 
 ## CTF Platform 
