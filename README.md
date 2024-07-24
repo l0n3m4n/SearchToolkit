@@ -3471,6 +3471,146 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>(commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.</td>
 </tr>
 
+<tr>
+<td><img src="assets/"></td>
+<td>GoReport</td>
+<td><a href="https://github.com/chrismaddalena/GoReport">Github</a></td>
+<td>GoReport is a tool for generating phishing reports.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Phishbuckets</td>
+<td><a href="https://github.com/CommArc/phishbuckets">Github</a></td>
+<td>Phishbuckets is a phishing toolkit for managing phishing campaigns.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Lure</td>
+<td><a href="https://github.com/highmeh/lure">Github</a></td>
+<td>Lure is a phishing toolkit designed to attract targets with bait.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>FiercePhish</td>
+<td><a href="https://github.com/Raikia/FiercePhish">Github</a></td>
+<td>FiercePhish is a full-fledged phishing framework.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>ReelPhish</td>
+<td><a href="https://github.com/fireeye/ReelPhish/">Github</a></td>
+<td>ReelPhish is a phishing toolkit developed by FireEye.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Fishing Cat Server</td>
+<td><a href="https://github.com/fishing-cat/fishing-cat-server">Github</a></td>
+<td>Fishing Cat Server is a phishing server framework.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>CredSniper</td>
+<td><a href="https://github.com/ustayready/CredSniper">Github</a></td>
+<td>CredSniper is a phishing toolkit for capturing credentials.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>PwnAuth</td>
+<td><a href="https://github.com/fireeye/PwnAuth">Github</a></td>
+<td>PwnAuth is a phishing authentication framework.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>sptoolkit</td>
+<td><a href="https://github.com/chris-short/sptoolkit">Github</a></td>
+<td>sptoolkit is a phishing toolkit for social engineering.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SpearPhisher</td>
+<td><a href="https://github.com/kevthehermit/SpearPhisher">Github</a></td>
+<td>SpearPhisher is a toolkit for spear phishing attacks.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Wifiphisher</td>
+<td><a href="https://wifiphisher.org/">Website</a></td>
+<td>Wifiphisher is a phishing tool for Wi-Fi networks.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Ares</td>
+<td><a href="https://github.com/dutchcoders/ares">Github</a></td>
+<td>Ares is a phishing toolkit for managing attack responses.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Phishing-frenzy</td>
+<td><a href="https://github.com/pentestgeek/phishing-frenzy">Github</a></td>
+<td>Phishing-frenzy is an open-source phishing campaign management tool.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SPF</td>
+<td><a href="https://github.com/tatanus/SPF">Github</a></td>
+<td>SPF is a phishing toolkit for spoofing email.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Phishing pretexts</td>
+<td><a href="https://github.com/L4bF0x/PhishingPretexts">Github</a></td>
+<td>Phishing pretexts is a toolkit for creating believable phishing scenarios.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Mercure</td>
+<td><a href="https://github.com/atexio/mercure">Github</a></td>
+<td>Mercure is a phishing toolkit for malicious URL generation.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>PoT - Phishing On Twitter</td>
+<td><a href="https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html">Website</a></td>
+<td>PoT - Phishing On Twitter is a phishing tool targeting Twitter users.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Domain Hunter</td>
+<td><a href="https://github.com/minisllc/domainhunter">Github</a></td>
+<td>Domain Hunter is a phishing tool for discovering domain targets.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>BlackEye</td>
+<td><a href="https://github.com/thelinuxchoice/blackeye">Github</a></td>
+<td>BlackEye is a phishing tool for creating fake login pages.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SocialFish</td>
+<td><a href="https://github.com/UndeadSec/SocialFish">Github</a></td>
+<td>SocialFish is a phishing toolkit for social media platforms.</td>
+</tr>
+
 </tbody>
 </table>
 
