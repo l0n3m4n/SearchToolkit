@@ -57,7 +57,6 @@
 <p align="center">
   <a href="#cheatsheets"><b>Cheatsheets</b></a> |
   <a href="#osint-menu"><b>OSINT</b></a> |
-  <a href="#osint-darkweb"><b>OSINT Darkweb</b></a> |
   <a href="#server"><b>Servers</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> | 
@@ -65,13 +64,19 @@
   <a href="#dns"><b>DNS</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
+  <a href="#wifi-networks "><b>Dorking</b></a> |
   <a href="#device-information"><b>Device Information</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> |
+  <a href="#android"><b>Reverse Engineering</b></a> |
+  <a href="#android"><b>IOC Scanner</b></a> |
+  <a href="#android"><b>Steganography</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
-  <a href="#digital-forensic"><b>Ditigital Forensic</b></a> |
   <a href="#ctf"><b>CTF Platform</b></a> |  
-  <a href="#android"><b>Android</b></a>
+  <a href="#android"><b>Android</b></a> |
+  <a href="#android"><b>Awesome List</b></a> |
+
+
 
   <h3 align="center">Attack Cycle</h3>
   <a href="#reconnaissance"><b>Reconnaissance</b></a> |
@@ -79,7 +84,7 @@
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#establish-foothold"><b>Initial Access</b></a> | 
-  <a href="#exploitation"><b>Exploitation</b></a> |
+  <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
   <a href="#credential-dumping"><b>Credential Dumping</b></a> |
@@ -2236,25 +2241,24 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 [🔝 Back to top](#Main)
 
 <br>
-<!--OSINT Menu-->
 
 <h2 align="center">OSINT-Menu</h2>
 
-<!--Search navigation-->
 <p align="center">
   <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> |
   <a href="#special-osint-tools"><b>Special OSINT Tools</b></a> |
   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
   <a href="#mail-address"><b>Mail Address</b></a> | 
-  <a href="#code-search"><b>Code Search</b></a> |
-  <a href="#domains"><b>Domains</b></a> |
-  <a href="#dns"><b>DNS</b></a> |
   <a href="#url"><b>URL</b></a> |
   <a href="#dorks"><b>Dorks</b></a> | 
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
+  <a href="#darkweb-search-engine"><b>Darkweb Search Engine</b></a> |
+  <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
+  <a href="#scanning-onion-links"><b>Scanning Onions Links</b></a> |
+  <a href="#darkweb-data-crawling"><b>Darkweb Data Crawling</b></a> 
+  <a href="#adversaries-monitoring"><b>Adversaries Monitoring</b></a>
 </p>
 <br>
-
 <br>
 
 ### Special OSINT Tools
@@ -2655,21 +2659,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 [🔝 Back to top](#Main)
 
 
-<!--OSINT Darkweb -->
-
-<h1 align="center">OSINT-Darkweb</h1>
-
-<!--Search navigation-->
-<p align="center">
-  <a href="#darkweb-search-engine"><b>Darkweb Search Engine</b></a> |
-  <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
-  <a href="#scanning-onion-links"><b>Scanning Onions Links</b></a> |
-  <a href="#darkweb-data-crawling"><b>Darkweb Data Crawling</b></a> 
-  <a href="#adversaries-monitoring"><b>Adversaries Monitoring</b></a>
-
-</p>
-
-
 ## Darkweb Search Engine
 
 
@@ -2712,8 +2701,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#OSINT-Darkweb)
-
 
 ## Discovering Onion Links
 
@@ -2736,7 +2723,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#OSINT-Darkweb)
+[🔙 Back to Darkweb](#OSINT-Menu)
 
 ## Scanning Onion Links
 
@@ -2771,7 +2758,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#OSINT-Darkweb)
+[🔙 Back to Darkweb](#OSINT-Menu)
 
 ## Darkweb Data Crawling
 
@@ -2794,7 +2781,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
-[🔙 Back to Darkweb](#OSINT-Darkweb)
+[🔙 Back to Darkweb](#OSINT-Menu)
 
 ## Adversaries Monitoring
 
@@ -2827,7 +2814,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
  [🔝 Back to top](#Main)
 
-## Phishing Delivery
+## Social Engineering 
 
 <table>
 <thead>
