@@ -3426,7 +3426,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets">
 <td>Gophish</td>
 <td><a href="https://getgophish.com/">Website</a></td>
-<td>Open-Source Phishing Framework</td>
+<td>Open-Source Phishing Framework (Best Phishing Website)</td>
 </tr>
 
 <tr>
