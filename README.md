@@ -51,7 +51,7 @@
 </p>
 <br />
 
-<h2 align="center">Main</h2>
+<h2 align="center">Reconnaissance</h2>
 
 <!--Search navigation-->
 <p align="center">
@@ -79,7 +79,6 @@
 
 
   <h3 align="center">Attack Cycle</h3>
-  <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#enumeration"><b>Enumeration</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
@@ -231,7 +230,8 @@
 </table>
 
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 ## Vulnerability Identification
 
@@ -455,7 +455,8 @@
 
 ## Exploitations
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
 <thead>
@@ -651,7 +652,8 @@
 
 ## Privilege Escalation 
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
 <thead>
@@ -682,7 +684,8 @@
 
 ## Attack Surface
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
 <thead>
@@ -988,7 +991,8 @@
 
 ## Domains
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
 <thead>
@@ -1221,7 +1225,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## DNS
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
 <thead>
@@ -1372,7 +1377,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Certificates
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
 <thead>
@@ -1462,7 +1468,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Wifi Networks
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -1515,7 +1522,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Device Information
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -1562,7 +1570,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Credential Leaks
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -1621,7 +1630,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Leaks
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -1686,7 +1696,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Hidden Services
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -1739,7 +1750,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Threat Intelligence
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -2026,7 +2038,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Web History
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -2097,7 +2110,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Surveillance Cameras
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -2126,7 +2140,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Dorking
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -2168,7 +2183,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## URL
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <table>
   <thead>
@@ -2238,7 +2254,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <br>
 
@@ -2656,7 +2673,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
   </tbody>
 </table>
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 
 ## Darkweb Search Engine
@@ -2812,7 +2830,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
- [🔝 Back to top](#Main)
+  [🔝 Back to top](#Reconnaissance)
+
 
 ## Social Engineering 
 
@@ -2835,7 +2854,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <br>
 <!--CTF Platform-->
@@ -2919,7 +2939,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <br>
 <!--CTF Platform-->
@@ -2982,7 +3003,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 </table>
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <br>
 
@@ -3006,7 +3028,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
     </tr>
 </table>
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <br>
 
@@ -3031,7 +3054,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </table>
 
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <br>
 
@@ -3313,7 +3337,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
  
 </table>
 
-[🔝 Back to top](#Main)
+ [🔝 Back to top](#Reconnaissance)
+
 
 <br>
 
