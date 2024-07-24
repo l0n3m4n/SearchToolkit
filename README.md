@@ -3417,6 +3417,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <tr>
 <td><img src="assets/">
+<td>SET Toolkit</td>
+<td><a href="https://github.com/trustedsec/social-engineer-toolkit">Github</a></td>
+<td>The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. </td>
+</tr>
+
+<tr>
+<td><img src="assets/">
 <td>Evilginx3</td>
 <td><a href="https://github.com/kgretzky/evilginx3">Github</a></td>
 <td>MITM attack framework used for phishing credentials and session cookies from any Web service</td>
