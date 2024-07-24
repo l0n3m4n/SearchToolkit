@@ -3414,12 +3414,56 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td><img src="assets/">
+<td>Evilginx3</td>
+<td><a href="https://github.com/kgretzky/evilginx3">Github</a></td>
+<td>MITM attack framework used for phishing credentials and session cookies from any Web service</td>
+</tr>
+
+<tr>
+<td><img src="assets">
+<td>Gophish</td>
+<td><a href="https://getgophish.com/">Website</a></td>
+<td>Open-Source Phishing Framework</td>
+</tr>
+
 <tr>
 <td><img src="assets/"></td>
 <td><b>PS2EXE</b></td>
 <td><a href="https://github.com/MScholtes/PS2EXE">Github</a></td>
 <td>Compile powershell scripts to real windows executable file.</td>
 </tr>
+
+<tr>
+<td><img src="assets/">
+<td>King Phisher</td>
+<td><a href="https://github.com/securestate/king-phisher">Github</a></td>
+<td>Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.</td>
+</tr>
+
+<tr>
+<td><img src="assets/">
+<td>wifiphisher</td>
+<td><a href="https://github.com/sophron/wifiphisher">Github</a></td>
+<td>Automated phishing attacks against Wi-Fi networks</td>
+</tr>
+
+<tr>
+<td><img src="assets/">
+<td>PhishingFrenzy</td>
+<td><a href="https://www.phishingfrenzy.com/">Website</a></td>
+<td>Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.</td>
+</tr>
+
+<tr>
+<td><img src="assets/">
+<td>Lucy Phishing Server</td>
+<td><a href="https://www.lucysecurity.com/">Github</a></td>
+<td>(commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.</td>
+</tr>
+
 </tbody>
 </table>
 
