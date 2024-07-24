@@ -83,7 +83,8 @@
   <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
-  <a href="#establish-foothold"><b>Initial Access</b></a> | 
+  <a href="#initial-access"><b>Initial Access</b></a> |
+  <a href="#payload-development"><b>Payload Development</b></a> |
   <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
@@ -3616,9 +3617,430 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
  [🔝 Back to top](#Search-Navigation)
 
+## Initial Access
 
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAMES</th>
+<th>LINKS</th>
+<th>DESCRIPTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/"></td>
+<td>SprayingToolkit</td>
+<td><a href="https://github.com/byt3bl33d3r/SprayingToolkit">Github</a></td>
+<td>Scripts to make password spraying attacks against Lync/S4B, OWA & O365 quicker, less painful, and more efficient.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>o365recon</td>
+<td><a href="https://github.com/nyxgeek/o365recon">Github</a></td>
+<td>Retrieve information via O365 with valid credentials.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>CredMaster</td>
+<td><a href="https://github.com/knavesec/CredMaster">Github</a></td>
+<td>Refactored & improved CredKing password spraying tool. Uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling.</td>
+</tr>
+</tbody>
+</table>
 <br>
-<!--CTF Platform-->
+
+[🔝 Back to top](#Search-Navigation)
+
+
+## Payload Development
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAMES</th>
+<th>LINKS</th>
+<th>DESCRIPTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/"></td>
+<td>Ivy</td>
+<td><a href="https://github.com/optiv/Ivy">Github</a></td>
+<td>Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>PEzor</td>
+<td><a href="https://github.com/phra/PEzor">Github</a></td>
+<td>Open-Source PE Packer.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>GadgetToJScript</td>
+<td><a href="https://github.com/med0x2e/GadgetToJScript">Github</a></td>
+<td>A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA scripts.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>ScareCrow</td>
+<td><a href="https://github.com/optiv/ScareCrow">Github</a></td>
+<td>Payload creation framework designed around EDR bypass.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Donut</td>
+<td><a href="https://github.com/TheWover/donut">Github</a></td>
+<td>Donut is a position-independent code that enables in-memory execution of VBScript, JScript, EXE, DLL files and dotNET assemblies.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Mystikal</td>
+<td><a href="https://github.com/D00MFist/Mystikal">Github</a></td>
+<td>macOS Initial Access Payload Generator.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>charlotte</td>
+<td><a href="https://github.com/9emin1/charlotte">Github</a></td>
+<td>C++ fully undetected shellcode launcher.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>InvisibilityCloak</td>
+<td><a href="https://github.com/xforcered/InvisibilityCloak">Github</a></td>
+<td>Proof-of-concept obfuscation toolkit for C# post-exploitation tools.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Dendrobate</td>
+<td><a href="https://github.com/FuzzySecurity/Dendrobate">Github</a></td>
+<td>Dendrobate is a framework that facilitates the development of payloads that hook unmanaged code through managed .NET code.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Offensive VBA and XLS Entanglement</td>
+<td><a href="https://github.com/BC-SECURITY/Offensive-VBA-and-XLS-Entanglement">Github</a></td>
+<td>This repo provides examples of how VBA can be used for offensive purposes beyond a simple dropper or shell injector. As we develop more use cases, the repo will be updated.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>xlsGen</td>
+<td><a href="https://github.com/aaaddress1/xlsGen">Github</a></td>
+<td>Tiny Excel BIFF8 Generator, to Embedded 4.0 Macros in *.xls.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>darkarmour</td>
+<td><a href="https://github.com/bats3c/darkarmour">Github</a></td>
+<td>Windows AV Evasion.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>InlineWhispers</td>
+<td><a href="https://github.com/outflanknl/InlineWhispers">Github</a></td>
+<td>Tool for working with Direct System Calls in Cobalt Strike's Beacon Object Files (BOF).</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>EvilClippy</td>
+<td><a href="https://github.com/outflanknl/EvilClippy">Github</a></td>
+<td>A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>OfficePurge</td>
+<td><a href="https://github.com/fireeye/OfficePurge">Github</a></td>
+<td>VBA purge your Office documents with OfficePurge. VBA purging removes P-code from module streams within Office documents.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>ThreatCheck</td>
+<td><a href="https://github.com/rasta-mouse/ThreatCheck">Github</a></td>
+<td>Identifies the bytes that Microsoft Defender / AMSI Consumer flags on.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>CrossC2</td>
+<td><a href="https://github.com/gloxec/CrossC2">Github</a></td>
+<td>Generate CobaltStrike's cross-platform payload.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Ruler</td>
+<td><a href="https://github.com/sensepost/ruler">Github</a></td>
+<td>Ruler is a tool that allows you to interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP protocol.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>DueDLLigence</td>
+<td><a href="https://github.com/fireeye/DueDLLigence">Github</a></td>
+<td>Shellcode runner framework for application whitelisting bypasses and DLL side-loading. The shellcode included in this project spawns calc.exe.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>RuralBishop</td>
+<td><a href="https://github.com/rasta-mouse/RuralBishop">Github</a></td>
+<td>RuralBishop is practically a carbon copy of UrbanBishop by b33f, but all P/Invoke calls have been replaced with D/Invoke.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>TikiTorch</td>
+<td><a href="https://github.com/rasta-mouse/TikiTorch">Github</a></td>
+<td>TikiTorch was named in homage to CACTUSTORCH by Vincent Yiu. The basic concept of CACTUSTORCH is that it spawns a new process, allocates a region of memory, then uses CreateRemoteThread to run the desired shellcode within that target process. Both the process and shellcode are specified by the user.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SharpShooter</td>
+<td><a href="https://github.com/mdsecactivebreach/SharpShooter">Github</a></td>
+<td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code. SharpShooter is capable of creating payloads in a variety of formats, including HTA, JS, VBS and WSF.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SharpSploit</td>
+<td><a href="https://github.com/cobbr/SharpSploit">Github</a></td>
+<td>SharpSploit is a .NET post-exploitation library written in C#.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>MSBuildAPICaller</td>
+<td><a href="https://github.com/rvrsh3ll/MSBuildAPICaller">Github</a></td>
+<td>MSBuild Without MSBuild.exe.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>macro_pack</td>
+<td><a href="https://github.com/sevagas/macro_pack">Github</a></td>
+<td>Macro_pack is a tool used to automatize obfuscation and generation of MS Office documents, VB scripts, and other formats for pentest, demo, and social engineering assessments.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>inceptor</td>
+<td><a href="https://github.com/klezVirus/inceptor">Github</a></td>
+<td>Template-Driven AV/EDR Evasion Framework.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>mortar</td>
+<td><a href="https://github.com/0xsp-SRD/mortar">Github</a></td>
+<td>Evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR).</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>ProtectMyTooling</td>
+<td><a href="https://github.com/mgeeky/ProtectMyTooling">Github</a></td>
+<td>Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Freeze</td>
+<td><a href="https://github.com/optiv/Freeze">Github</a></td>
+<td>Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Shhhloader</td>
+<td><a href="https://github.com/icyguider/Shhhloader">Github</a></td>
+<td>Shhhloader is a work in progress shellcode loader. It takes raw shellcode as input and compiles a C++ stub that does a bunch of different things to try and bypass AV/EDR.</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
+
+
+## Credential Dumping
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAMES</th>
+<th>LINKS</th>
+<th>DESCRIPTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/"></td>
+<td>Mimikatz</td>
+<td><a href="https://github.com/gentilkiwi/mimikatz">Github</a></td>
+<td>Mimikatz is an open-source application that allows users to view and save authentication credentials like Kerberos tickets.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Dumpert</td>
+<td><a href="https://github.com/outflanknl/Dumpert">Github</a></td>
+<td>LSASS memory dumper using direct system calls and API unhooking.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>CredBandit</td>
+<td><a href="https://github.com/xforcered/CredBandit">Github</a></td>
+<td>CredBandit is a proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>CloneVault</td>
+<td><a href="https://github.com/mdsecactivebreach/CloneVault">Github</a></td>
+<td>CloneVault allows a red team operator to export and import entries including attributes from Windows Credential Manager.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SharpLAPS</td>
+<td><a href="https://github.com/swisskyrepo/SharpLAPS">Github</a></td>
+<td>Retrieve LAPS password from LDAP.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SharpDPAPI</td>
+<td><a href="https://github.com/GhostPack/SharpDPAPI">Github</a></td>
+<td>SharpDPAPI is a C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>KeeThief</td>
+<td><a href="https://github.com/GhostPack/KeeThief">Github</a></td>
+<td>Allows for the extraction of KeePass 2.X key material from memory, as well as the backdooring and enumeration of the KeePass trigger system.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SafetyKatz</td>
+<td><a href="https://github.com/GhostPack/SafetyKatz">Github</a></td>
+<td>SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subtee's .NET PE Loader.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>forkatz</td>
+<td><a href="https://github.com/Barbarisch/forkatz">Github</a></td>
+<td>Credential dump using forshaw technique using SeTrustedCredmanAccessPrivilege.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>PPLKiller</td>
+<td><a href="https://github.com/RedCursorSecurityConsulting/PPLKiller">Github</a></td>
+<td>Tool to bypass LSA Protection (aka Protected Process Light).</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>LaZagne</td>
+<td><a href="https://github.com/AlessandroZ/LaZagne">Github</a></td>
+<td>The LaZagne project is an open-source application used to retrieve lots of passwords stored on a local computer.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>AndrewSpecial</td>
+<td><a href="https://github.com/hoangprod/AndrewSpecial">Github</a></td>
+<td>AndrewSpecial, dumping lsass' memory stealthily and bypassing "Cilence" since 2019.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Net-GPPPassword</td>
+<td><a href="https://github.com/outflanknl/Net-GPPPassword">Github</a></td>
+<td>.NET implementation of Get-GPPPassword. Retrieves the plaintext password and other information for accounts pushed through Group Policy Preferences.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SharpChromium</td>
+<td><a href="https://github.com/djhohnstein/SharpChromium">Github</a></td>
+<td>.NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Chlonium</td>
+<td><a href="https://github.com/rxwx/chlonium">Github</a></td>
+<td>Chlonium is an application designed for cloning Chromium Cookies.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>SharpCloud</td>
+<td><a href="https://github.com/chrismaddalena/SharpCloud">Github</a></td>
+<td>SharpCloud is a simple C# utility for checking for the existence of credential files related to Amazon Web Services, Microsoft Azure, and Google Compute.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>pypykatz</td>
+<td><a href="https://github.com/skelsec/pypykatz">Github</a></td>
+<td>Mimikatz implementation in pure Python. At least a part of it :)</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>nanodump</td>
+<td><a href="https://github.com/helpsystems/nanodump">Github</a></td>
+<td>A Beacon Object File that creates a minidump of the LSASS process.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>Koh</td>
+<td><a href="https://github.com/GhostPack/Koh">Github</a></td>
+<td>Koh is a C# and Beacon Object File (BOF) toolset that allows for the capture of user credential material via purposeful token/logon session leakage.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td>PPLBlade</td>
+<td><a href="https://github.com/tastypepperoni/PPLBlade">Github</a></td>
+<td>Protected Process Dumper Tool that supports obfuscating memory dumps and transferring them to remote workstations without dropping them onto the disk.</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
+
 <h1 align="center">CTF</h1>
 
 <br>
