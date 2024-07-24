@@ -80,7 +80,7 @@
 
   <h3 align="center">Attack Cycle</h3>
 
-  <a href="#enumeration"><b>Enumeration</b></a> |
+  <a href="#reconnaissance"><b>Reconnaissance</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#establish-foothold"><b>Initial Access</b></a> | 
@@ -232,6 +232,574 @@
 
 
  [🔝 Back to top](#Search-Navigation)
+
+## Reconnaissance
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th><b>NAME</b></th>
+<th>LINKS</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><img src="assets/tools/sublist3r.png"></td>
+<td><b>Sublist3r</b></td>
+<td><a href="https://github.com/aboul3la/Sublist3r">GitHub</a></td>
+<td>Fast subdomains enumeration tool for penetration testers</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/amass.png"></td>
+<td><b>Amass</b></td>
+<td><a href="https://github.com/OWASP/Amass">GitHub</a></td>
+<td>In-depth Attack Surface Mapping and Asset Discovery</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/massdns.png"></td>
+<td><b>massdns</b></td>
+<td><a href="https://github.com/blechschmidt/massdns">GitHub</a></td>
+<td>High-performance DNS stub resolver for bulk lookups</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/findomain.png"></td>
+<td><b>Findomain</b></td>
+<td><a href="https://github.com/Findomain/Findomain">GitHub</a></td>
+<td>The fastest and cross-platform subdomain enumerator</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/sudomy.png"></td>
+<td><b>Sudomy</b></td>
+<td><a href="https://github.com/Screetsec/Sudomy">GitHub</a></td>
+<td>Automated reconnaissance tool for bug hunting / pentesting</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/chaos-client.png"></td>
+<td><b>chaos-client</b></td>
+<td><a href="https://github.com/projectdiscovery/chaos-client">GitHub</a></td>
+<td>Go client to communicate with Chaos DNS API</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/domained.png"></td>
+<td><b>domained</b></td>
+<td><a href="https://github.com/TypeError/domained">GitHub</a></td>
+<td>Multi Tool Subdomain Enumeration</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/shuffledns.png"></td>
+<td><b>shuffledns</b></td>
+<td><a href="https://github.com/projectdiscovery/shuffledns">GitHub</a></td>
+<td>Wrapper around massdns for subdomain enumeration with active bruteforce</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/puredns.png"></td>
+<td><b>puredns</b></td>
+<td><a href="https://github.com/d3mondev/puredns">GitHub</a></td>
+<td>Fast domain resolver and subdomain bruteforcing</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/censys-subdomain-finder.png"></td>
+<td><b>censys-subdomain-finder</b></td>
+<td><a href="https://github.com/christophetd/censys-subdomain-finder">GitHub</a></td>
+<td>Subdomain enumeration using Censys certificate transparency logs</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/Turbolist3r.png"></td>
+<td><b>Turbolist3r</b></td>
+<td><a href="https://github.com/fleetcaptain/Turbolist3r">GitHub</a></td>
+<td>Subdomain enumeration tool with analysis features</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/as3nt.png"></td>
+<td><b>as3nt</b></td>
+<td><a href="https://github.com/cinerieus/as3nt">GitHub</a></td>
+<td>Another Subdomain Enumeration Tool</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/Subra.png"></td>
+<td><b>Subra</b></td>
+<td><a href="https://github.com/si9int/Subra">GitHub</a></td>
+<td>Web-UI for subdomain enumeration using subfinder</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/Substr3am.png"></td>
+<td><b>Substr3am</b></td>
+<td><a href="https://github.com/nexxai/Substr3am">GitHub</a></td>
+<td>Passive reconnaissance/enumeration using SSL certificates</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/domain.png"></td>
+<td><b>domain</b></td>
+<td><a href="https://github.com/jhaddix/domain/">GitHub</a></td>
+<td>Setup script for Recon-ng for subdomain enumeration</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/altdns.png"></td>
+<td><b>altdns</b></td>
+<td><a href="https://github.com/infosec-au/altdns">GitHub</a></td>
+<td>Generates permutations, alterations, and mutations of subdomains</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/brutesubs.png"></td>
+<td><b>brutesubs</b></td>
+<td><a href="https://github.com/anshumanbh/brutesubs">GitHub</a></td>
+<td>Automation framework for running multiple subdomain bruteforcing tools</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/dns-parallel-prober.png"></td>
+<td><b>dns-parallel-prober</b></td>
+<td><a href="https://github.com/lorenzog/dns-parallel-prober">GitHub</a></td>
+<td>Parallelised domain name prober for subdomain enumeration</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/dnscan.png"></td>
+<td><b>dnscan</b></td>
+<td><a href="https://github.com/rbsec/dnscan">GitHub</a></td>
+<td>Python wordlist-based DNS subdomain scanner</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/knock.png"></td>
+<td><b>knock</b></td>
+<td><a href="https://github.com/guelfoweb/knock">GitHub</a></td>
+<td>Enumerate subdomains on a target domain through a wordlist</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/hakrevdns.png"></td>
+<td><b>hakrevdns</b></td>
+<td><a href="https://github.com/hakluke/hakrevdns">GitHub</a></td>
+<td>Tool for performing reverse DNS lookups en masse</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/dnsx.png"></td>
+<td><b>dnsx</b></td>
+<td><a href="https://github.com/projectdiscovery/dnsx">GitHub</a></td>
+<td>Fast and multi-purpose DNS toolkit for running DNS queries</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/subfinder.png"></td>
+<td><b>subfinder</b></td>
+<td><a href="https://github.com/projectdiscovery/subfinder">GitHub</a></td>
+<td>Subdomain discovery tool that finds valid subdomains for websites</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/assetfinder.png"></td>
+<td><b>assetfinder</b></td>
+<td><a href="https://github.com/tomnomnom/assetfinder">GitHub</a></td>
+<td>Find domains and subdomains related to a given domain</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/crtndstry.png"></td>
+<td><b>crtndstry</b></td>
+<td><a href="https://github.com/nahamsec/crtndstry">GitHub</a></td>
+<td>Yet another subdomain finder</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/VHostScan.png"></td>
+<td><b>VHostScan</b></td>
+<td><a href="https://github.com/codingo/VHostScan">GitHub</a></td>
+<td>Virtual host scanner that performs reverse lookups</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/scilla.png"></td>
+<td><b>scilla</b></td>
+<td><a href="https://github.com/edoardottt/scilla">GitHub</a></td>
+<td>Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/sub3suite.png"></td>
+<td><b>sub3suite</b></td>
+<td><a href="https://github.com/3nock/sub3suite">GitHub</a></td>
+<td>Research-grade suite of tools for subdomain enumeration</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/cero.png"></td>
+<td><b>cero</b></td>
+<td><a href="https://github.com/glebarez/cero">GitHub</a></td>
+<td>Scrape domain names from SSL certificates of arbitrary hosts</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/shosubgo.png"></td>
+<td><b>shosubgo</b></td>
+<td><a href="https://github.com/incogbyte/shosubgo">GitHub</a></td>
+<td>Tool to grab subdomains using Shodan API</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/haktrails.png"></td>
+<td><b>haktrails</b></td>
+<td><a href="https://github.com/hakluke/haktrails">GitHub</a></td>
+<td>Golang client for querying SecurityTrails API data</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/bbot.png"></td>
+<td><b>bbot</b></td>
+<td><a href="https://github.com/blacklanternsecurity/bbot">GitHub</a></td>
+<td>Recursive internet scanner for hackers</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/tools/wappalyzer.png"></td>
+<td><b>wappalyzer</b></td>
+<td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
+<td>Identify technology on websites.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/webanalyze.png"></td>
+<td><b>webanalyze</b></td>
+<td><a href="https://github.com/rverton/webanalyze">GitHub</a></td>
+<td>Port of Wappalyzer to automate mass scanning.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/python-builtwith.png"></td>
+<td><b>python-builtwith</b></td>
+<td><a href="https://github.com/claymation/python-builtwith">GitHub</a></td>
+<td>BuiltWith API client.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/whatweb.png"></td>
+<td><b>whatweb</b></td>
+<td><a href="https://github.com/urbanadventurer/whatweb">GitHub</a></td>
+<td>Next generation web scanner.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/retire-js.png"></td>
+<td><b>retire.js</b></td>
+<td><a href="https://github.com/RetireJS/retire.js">GitHub</a></td>
+<td>Scanner detecting JavaScript libraries with known vulnerabilities.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/httpx.png"></td>
+<td><b>httpx</b></td>
+<td><a href="https://github.com/projectdiscovery/httpx">GitHub</a></td>
+<td>Fast and multi-purpose HTTP toolkit for probing.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/fingerprintx.png"></td>
+<td><b>fingerprintx</b></td>
+<td><a href="https://github.com/praetorian-inc/fingerprintx">GitHub</a></td>
+<td>Standalone utility for service discovery on open ports.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/tools/gobuster.png"></td>
+<td><b>gobuster</b></td>
+<td><a href="https://github.com/OJ/gobuster">GitHub</a></td>
+<td>Directory/File, DNS and VHost busting tool written in Go.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/recursebuster.png"></td>
+<td><b>recursebuster</b></td>
+<td><a href="https://github.com/C-Sto/recursebuster">GitHub</a></td>
+<td>Rapid content discovery tool for recursively querying webservers.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/feroxbuster.png"></td>
+<td><b>feroxbuster</b></td>
+<td><a href="https://github.com/epi052/feroxbuster">GitHub</a></td>
+<td>A fast, simple, recursive content discovery tool written in Rust.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/dirsearch.png"></td>
+<td><b>dirsearch</b></td>
+<td><a href="https://github.com/maurosoria/dirsearch">GitHub</a></td>
+<td>Web path scanner.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/dirsearch.png"></td>
+<td><b>dirsearch (Go implementation)</b></td>
+<td><a href="https://github.com/evilsocket/dirsearch">GitHub</a></td>
+<td>A Go implementation of dirsearch.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/filebuster.png"></td>
+<td><b>filebuster</b></td>
+<td><a href="https://github.com/henshin/filebuster">GitHub</a></td>
+<td>An extremely fast and flexible web fuzzer.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/dirstalk.png"></td>
+<td><b>dirstalk</b></td>
+<td><a href="https://github.com/stefanoj3/dirstalk">GitHub</a></td>
+<td>Modern alternative to dirbuster/dirb.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/dirbuster-ng.png"></td>
+<td><b>dirbuster-ng</b></td>
+<td><a href="https://github.com/digination/dirbuster-ng">GitHub</a></td>
+<td>dirbuster-ng is C CLI implementation of the Java dirbuster tool.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/gospider.png"></td>
+<td><b>gospider</b></td>
+<td><a href="https://github.com/jaeles-project/gospider">GitHub</a></td>
+<td>Gospider - Fast web spider written in Go.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/hakrawler.png"></td>
+<td><b>hakrawler</b></td>
+<td><a href="https://github.com/hakluke/hakrawler">GitHub</a></td>
+<td>Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/crawley.png"></td>
+<td><b>crawley</b></td>
+<td><a href="https://github.com/s0rg/crawley">GitHub</a></td>
+<td>Fast, feature-rich unix-way web scraper/crawler written in Golang.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/katana.png"></td>
+<td><b>katana</b></td>
+<td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
+<td>A next-generation crawling and spidering framework.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/linkfinder.png"></td>
+<td><b>LinkFinder</b></td>
+<td><a href="https://github.com/GerbenJavado/LinkFinder">GitHub</a></td>
+<td>A python script that finds endpoints in JavaScript files.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/js-scan.png"></td>
+<td><b>JS-Scan</b></td>
+<td><a href="https://github.com/zseano/JS-Scan">GitHub</a></td>
+<td>A .js scanner built in PHP, designed to scrape URLs and other information.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/linksdumper.png"></td>
+<td><b>LinksDumper</b></td>
+<td><a href="https://github.com/arbazkiraak/LinksDumper">GitHub</a></td>
+<td>Extracts links/possible endpoints from responses & filters them via decoding/sorting.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/golinkfinder.png"></td>
+<td><b>GoLinkFinder</b></td>
+<td><a href="https://github.com/0xsha/GoLinkFinder">GitHub</a></td>
+<td>A fast and minimal JS endpoint extractor.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/burpjslinkfinder.png"></td>
+<td><b>BurpJSLinkFinder</b></td>
+<td><a href="https://github.com/InitRoot/BurpJSLinkFinder">GitHub</a></td>
+<td>Burp Extension for passive scanning of JS files for endpoint links.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/urlgrab.png"></td>
+<td><b>urlgrab</b></td>
+<td><a href="https://github.com/IAmStoxe/urlgrab">GitHub</a></td>
+<td>A Go utility to spider through a website searching for additional links.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/waybackurls.png"></td>
+<td><b>waybackurls</b></td>
+<td><a href="https://github.com/tomnomnom/waybackurls">GitHub</a></td>
+<td>Fetches all URLs that the Wayback Machine knows about for a domain.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/gau.png"></td>
+<td><b>gau</b></td>
+<td><a href="https://github.com/lc/gau">GitHub</a></td>
+<td>Fetches known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/getjs.png"></td>
+<td><b>getJS</b></td>
+<td><a href="https://github.com/003random/getJS">GitHub</a></td>
+<td>A tool to quickly get all JavaScript sources/files.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/linx.png"></td>
+<td><b>linx</b></td>
+<td><a href="https://github.com/riza/linx">GitHub</a></td>
+<td>Reveals invisible links within JavaScript files.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/waymore.png"></td>
+<td><b>waymore</b></td>
+<td><a href="https://github.com/xnl-h4ck3r/waymore">GitHub</a></td>
+<td>Finds more from the Wayback Machine.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/xnlinkfinder.png"></td>
+<td><b>xnLinkFinder</b></td>
+<td><a href="https://github.com/xnl-h4ck3r/xnLinkFinder">GitHub</a></td>
+<td>A Python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/parameth.png"></td>
+<td><b>parameth</b></td>
+<td><a href="https://github.com/maK-/parameth">GitHub</a></td>
+<td>Tool for brute discovering GET and POST parameters.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/param-miner.png"></td>
+<td><b>param-miner</b></td>
+<td><a href="https://github.com/PortSwigger/param-miner">GitHub</a></td>
+<td>Identifies hidden, unlinked parameters, useful for finding web cache poisoning vulnerabilities.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/parampampam.png"></td>
+<td><b>ParamPamPam</b></td>
+<td><a href="https://github.com/Bo0oM/ParamPamPam">GitHub</a></td>
+<td>Tool for brute discovering GET and POST parameters.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/arjun.png"></td>
+<td><b>Arjun</b></td>
+<td><a href="https://github.com/s0md3v/Arjun">GitHub</a></td>
+<td>HTTP parameter discovery suite.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/paramspider.png"></td>
+<td><b>ParamSpider</b></td>
+<td><a href="https://github.com/devanshbatham/ParamSpider">GitHub</a></td>
+<td>Mines parameters from dark corners of Web Archives.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/x8.png"></td>
+<td><b>x8</b></td>
+<td><a href="https://github.com/Sh1Yo/x8">GitHub</a></td>
+<td>Hidden parameters discovery suite written in Rust.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/wfuzz.png"></td>
+<td><b>wfuzz</b></td>
+<td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
+<td>Web application fuzzer.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/ffuf.png"></td>
+<td><b>ffuf</b></td>
+<td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
+<td>Fast web fuzzer written in Go.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/fuzzdb.png"></td>
+<td><b>fuzzdb</b></td>
+<td><a href="https://github.com/fuzzdb-project/fuzzdb">GitHub</a></td>
+<td>Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/intruderpayloads.png"></td>
+<td><b>IntruderPayloads</b></td>
+<td><a href="https://github.com/1N3/IntruderPayloads">GitHub</a></td>
+<td>Collection of Burpsuite Intruder payloads, fuzz lists, and web pentesting methodologies.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/fuzz.txt.png"></td>
+<td><b>fuzz.txt</b></td>
+<td><a href="https://github.com/Bo0oM/fuzz.txt">GitHub</a></td>
+<td>Potentially dangerous files.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/fuzzilli.png"></td>
+<td><b>fuzzilli</b></td>
+<td><a href="https://github.com/googleprojectzero/fuzzilli">GitHub</a></td>
+<td>JavaScript Engine Fuzzer.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/fuzzapi.png"></td>
+<td><b>fuzzapi</b></td>
+<td><a href="https://github.com/Fuzzapi/fuzzapi">GitHub</a></td>
+<td>REST API pentesting tool that uses API_Fuzzer gem.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/qsfuzz.png"></td>
+<td><b>qsfuzz</b></td>
+<td><a href="https://github.com/ameenmaali/qsfuzz">GitHub</a></td>
+<td>Allows building custom rules to fuzz query strings and identify vulnerabilities.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tools/vaf.png"></td>
+<td><b>vaf</b></td>
+<td><a href="https://github.com/d4rckh/vaf">GitHub</a></td>
+<td>Very advanced (web) fuzzer written in Nim.</td>
+</tr>
+
+
+</tbody>
+</table>
+
+
+[🔝 Back to top](#Search-Navigation)
 
 
 ## Vulnerability Identification
@@ -3343,7 +3911,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <br>
 
-## Digital Forensics
+## Reverse Engineering
 
 <table>
   <thead>
@@ -3364,3 +3932,5 @@ It's currently focused on OSINT, but any use related with Google is possible.
     <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
 </tr>
  
+
+ https://github.com/vavkamil/awesome-bugbounty-tools/blob/main/README.md
