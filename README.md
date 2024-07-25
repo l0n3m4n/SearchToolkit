@@ -2905,7 +2905,7 @@ made to help you during your investigations</td>
 
 ### Geolocation Tracking
 
-[⬆️Back to OSINT](#OSINT)
+[⬆️ Back to OSINT](#OSINT)
 
 <table>
   <thead>
