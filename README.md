@@ -62,7 +62,7 @@
 <!--Search navigation-->
 <p align="center">
   <a href="#cheatsheets"><b>Cheatsheets</b></a> |
-  <a href="#osint-menu"><b>OSINT</b></a> |
+  <a href="#osint"><b>OSINT</b></a> |
   <a href="#server"><b>Servers</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> | 
