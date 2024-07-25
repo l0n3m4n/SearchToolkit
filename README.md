@@ -5378,7 +5378,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
- [🔝 Back to top](#Search-Navigation)
+[🔝 Back to top](#Search-Navigation)
 
 
 <br>
@@ -5405,6 +5405,212 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </tbody>
 </table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
+
+
+## Securing Data
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>Category</th>
+<th>LINKS</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><img src="assets/bitlocker.jpg" alt="BitLocker"></td>
+<td><b>BitLocker</b></td>
+<td>Windows</td>
+<td><a href="https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview">Website</a></td>
+<td>Disk encryption program included with Microsoft Windows that encrypts entire volumes.</td>
+</tr>
+
+<tr>
+<td><img src="assets/axcrypt.jpg" alt="AxCrypt"></td>
+<td><b>AxCrypt</b></td>
+<td>Windows</td>
+<td><a href="https://www.axcrypt.net">Website</a></td>
+<td>File encryption software providing AES-128 or AES-256 encryption.</td>
+</tr>
+
+<tr>
+<td><img src="assets/keepass.jpg" alt="KeePass"></td>
+<td><b>KeePass</b></td>
+<td>Windows</td>
+<td><a href="https://keepass.info">Website</a></td>
+<td>Free and open-source password manager that can securely store and encrypt sensitive information.</td>
+</tr>
+
+<tr>
+<td><img src="assets/openssl.jpg" alt="OpenSSL"></td>
+<td><b>OpenSSL</b></td>
+<td>Windows</td>
+<td><a href="https://www.openssl.org">Website</a></td>
+<td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
+</tr>
+
+<tr>
+<td><img src="assets/7-zip.jpg" alt="7-Zip"></td>
+<td><b>7-Zip</b></td>
+<td>Windows</td>
+<td><a href="https://www.7-zip.org">Website</a></td>
+<td>File archiver with encryption capabilities using AES-256.</td>
+</tr>
+
+<tr>
+<td><img src="assets/gpg.jpg" alt="GPG"></td>
+<td><b>GPG (GNU Privacy Guard)</b></td>
+<td>Linux</td>
+<td><a href="https://gnupg.org">Website</a></td>
+<td>Open-source encryption tool for encrypting files and communications.</td>
+</tr>
+
+<tr>
+<td><img src="assets/veracrypt.jpg" alt="VeraCrypt"></td>
+<td><b>VeraCrypt</b></td>
+<td>Linux</td>
+<td><a href="https://www.veracrypt.fr">Website</a></td>
+<td>Disk encryption software that encrypts entire drives or creates encrypted virtual disks.</td>
+</tr>
+
+<tr>
+<td><img src="assets/encfs.jpg" alt="EncFS"></td>
+<td><b>EncFS</b></td>
+<td>Linux</td>
+<td><a href="https://github.com/vgough/encfs">GitHub</a></td>
+<td>Encrypted filesystem for Linux using FUSE (Filesystem in Userspace).</td>
+</tr>
+
+<tr>
+<td><img src="assets/cryptomator.jpg" alt="Cryptomator"></td>
+<td><b>Cryptomator</b></td>
+<td>Linux</td>
+<td><a href="https://cryptomator.org">Website</a></td>
+<td>Open-source tool for encrypting files in the cloud, providing client-side encryption.</td>
+</tr>
+
+<tr>
+<td><img src="assets/the-sleuth-kit.jpg" alt="The Sleuth Kit"></td>
+<td><b>The Sleuth Kit (TSK)</b></td>
+<td>Linux</td>
+<td><a href="https://sleuthkit.org">Website</a></td>
+<td>Library and tools for investigating disk images and recovering data.</td>
+</tr>
+
+<tr>
+<td><img src="assets/filevault.jpg" alt="FileVault"></td>
+<td><b>FileVault</b></td>
+<td>macOS</td>
+<td><a href="https://support.apple.com/en-us/HT204837">Website</a></td>
+<td>Built-in disk encryption program for macOS that encrypts the entire startup disk.</td>
+</tr>
+
+<tr>
+<td><img src="assets/veracrypt.jpg" alt="VeraCrypt"></td>
+<td><b>VeraCrypt</b></td>
+<td>macOS</td>
+<td><a href="https://www.veracrypt.fr">Website</a></td>
+<td>Disk encryption software for creating encrypted volumes or encrypting entire drives.</td>
+</tr>
+
+<tr>
+<td><img src="assets/gpg.jpg" alt="GPG"></td>
+<td><b>GPG (GNU Privacy Guard)</b></td>
+<td>macOS</td>
+<td><a href="https://gnupg.org">Website</a></td>
+<td>Open-source encryption tool for encrypting files and communications.</td>
+</tr>
+
+<tr>
+<td><img src="assets/cryptomator.jpg" alt="Cryptomator"></td>
+<td><b>Cryptomator</b></td>
+<td>macOS</td>
+<td><a href="https://cryptomator.org">Website</a></td>
+<td>Tool for encrypting files in the cloud with client-side encryption.</td>
+</tr>
+
+<tr>
+<td><img src="assets/7-zip-homebrew.jpg" alt="7-Zip (via Homebrew)"></td>
+<td><b>7-Zip (via Homebrew)</b></td>
+<td>macOS</td>
+<td><a href="https://formulae.brew.sh/formula/p7zip">Homebrew</a></td>
+<td>File archiver with AES-256 encryption capabilities, available for macOS via Homebrew.</td>
+</tr>
+
+<tr>
+<td><img src="assets/wireshark.jpg" alt="Wireshark"></td>
+<td><b>Wireshark</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://www.wireshark.org">Website</a></td>
+<td>Network protocol analyzer to capture and analyze network traffic.</td>
+</tr>
+
+<tr>
+<td><img src="assets/keepass.jpg" alt="KeePass"></td>
+<td><b>KeePass</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://keepass.info">Website</a></td>
+<td>Open-source password manager that supports multiple operating systems.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tails.jpg" alt="Tails"></td>
+<td><b>Tails</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://tails.boum.org">Website</a></td>
+<td>Live operating system focused on privacy and anonymity, useful for securely handling and transferring data.</td>
+</tr>
+
+<tr>
+<td><img src="assets/openssl.jpg" alt="OpenSSL"></td>
+<td><b>OpenSSL</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://www.openssl.org">Website</a></td>
+<td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
+</tr>
+
+<tr>
+<td><img src="assets/cryptomator.jpg" alt="Cryptomator"></td>
+<td><b>Cryptomator</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://cryptomator.org">Website</a></td>
+<td>Tool for encrypting files in the cloud with client-side encryption.</td>
+</tr>
+
+<tr>
+<td><img src="assets/encfs.jpg" alt="EncFS"></td>
+<td><b>EncFS</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://github.com/vgough/encfs">GitHub</a></td>
+<td>Encrypted filesystem using FUSE (Filesystem in Userspace), available on Linux and macOS.</td>
+</tr>
+
+<tr>
+<td><img src="assets/the-sleuth-kit.jpg" alt="The Sleuth Kit"></td>
+<td><b>The Sleuth Kit (TSK)</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://sleuthkit.org">Website</a></td>
+<td>Library and tools for investigating disk images and recovering data.</td>
+</tr>
+
+<tr>
+<td><img src="assets/7-zip-homebrew.jpg" alt="7-Zip (via Homebrew)"></td>
+<td><b>7-Zip (via Homebrew)</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://formulae.brew.sh/formula/p7zip">Homebrew</a></td>
+<td>File archiver with AES-256 encryption capabilities, available for macOS via Homebrew.</td>
+</tr>
+
+</tbody>
+</table>
+
 
 
 [🔝 Back to top](#Search-Navigation)
