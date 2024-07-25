@@ -5444,7 +5444,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/keepass.jpg"></td>
 <td><b>KeePass</b></td>
-<td>Windows</td>
+<td>Cross Platform</td>
 <td><a href="https://keepass.info">Website</a></td>
 <td>Free and open-source password manager that can securely store and encrypt sensitive information.</td>
 </tr>
@@ -5452,7 +5452,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/openssl.jpg"></td>
 <td><b>OpenSSL</b></td>
-<td>Windows</td>
+<td>Cross Platform</td>
 <td><a href="https://www.openssl.org">Website</a></td>
 <td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
 </tr>
@@ -5460,7 +5460,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/7-zip.jpg"></td>
 <td><b>7-Zip</b></td>
-<td>Windows</td>
+<td>Cross Platform</td>
 <td><a href="https://www.7-zip.org">Website</a></td>
 <td>File archiver with encryption capabilities using AES-256.</td>
 </tr>
@@ -5469,7 +5469,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/gpg.jpg"></td>
 <td><b>GPG (GNU Privacy Guard)</b></td>
-<td>Linux</td>
+<td>Cross Platform</td>
 <td><a href="https://gnupg.org">Website</a></td>
 <td>Open-source encryption tool for encrypting files and communications.</td>
 </tr>
@@ -5477,7 +5477,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/veracrypt.jpg"></td>
 <td><b>VeraCrypt</b></td>
-<td>Linux</td>
+<td>Cross Platform</td>
 <td><a href="https://www.veracrypt.fr">Website</a></td>
 <td>Disk encryption software that encrypts entire drives or creates encrypted virtual disks.</td>
 </tr>
@@ -5493,7 +5493,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/cryptomator.jpg"></td>
 <td><b>Cryptomator</b></td>
-<td>Linux</td>
+<td>Cross Platform</td>
 <td><a href="https://cryptomator.org">Website</a></td>
 <td>Open-source tool for encrypting files in the cloud, providing client-side encryption.</td>
 </tr>
@@ -5516,74 +5516,17 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/veracrypt.jpg"></td>
-<td><b>VeraCrypt</b></td>
-<td>macOS</td>
-<td><a href="https://www.veracrypt.fr">Website</a></td>
-<td>Disk encryption software for creating encrypted volumes or encrypting entire drives.</td>
-</tr>
-
-<tr>
-<td><img src="assets/gpg.jpg"></td>
-<td><b>GPG (GNU Privacy Guard)</b></td>
-<td>macOS</td>
-<td><a href="https://gnupg.org">Website</a></td>
-<td>Open-source encryption tool for encrypting files and communications.</td>
-</tr>
-
-<tr>
-<td><img src="assets/cryptomator.jpg"></td>
-<td><b>Cryptomator</b></td>
-<td>macOS</td>
-<td><a href="https://cryptomator.org">Website</a></td>
-<td>Tool for encrypting files in the cloud with client-side encryption.</td>
-</tr>
-
-<tr>
-<td><img src="assets/7-zip-homebrew.jpg"></td>
-<td><b>7-Zip (via Homebrew)</b></td>
-<td>macOS</td>
-<td><a href="https://formulae.brew.sh/formula/p7zip">Homebrew</a></td>
-<td>File archiver with AES-256 encryption capabilities, available for macOS via Homebrew.</td>
-</tr>
-
-<!-- Cross-Platform -->
-<tr>
 <td><img src="assets/wireshark.jpg"></td>
 <td><b>Wireshark</b></td>
-<td>Cross-Platform</td>
+<td>Cross Platform</td>
 <td><a href="https://www.wireshark.org">Website</a></td>
 <td>Network protocol analyzer to capture and analyze network traffic.</td>
 </tr>
 
 <tr>
-<td><img src="assets/keepass.jpg"></td>
-<td><b>KeePass</b></td>
-<td>Cross-Platform</td>
-<td><a href="https://keepass.info">Website</a></td>
-<td>Open-source password manager that supports multiple operating systems.</td>
-</tr>
-
-<tr>
-<td><img src="assets/tails.jpg"></td>
-<td><b>Tails</b></td>
-<td>Cross-Platform</td>
-<td><a href="https://tails.boum.org">Website</a></td>
-<td>Live operating system focused on privacy and anonymity, useful for securely handling and transferring data.</td>
-</tr>
-
-<tr>
-<td><img src="assets/openssl.jpg"></td>
-<td><b>OpenSSL</b></td>
-<td>Cross-Platform</td>
-<td><a href="https://www.openssl.org">Website</a></td>
-<td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
-</tr>
-
-<tr>
 <td><img src="assets/cryptomator.jpg"></td>
 <td><b>Cryptomator</b></td>
-<td>Cross-Platform</td>
+<td>Cross Platform</td>
 <td><a href="https://cryptomator.org">Website</a></td>
 <td>Tool for encrypting files in the cloud with client-side encryption.</td>
 </tr>
@@ -5591,7 +5534,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/encfs.jpg"></td>
 <td><b>EncFS</b></td>
-<td>Cross-Platform</td>
+<td>Cross Platform</td>
 <td><a href="https://github.com/vgough/encfs">GitHub</a></td>
 <td>Encrypted filesystem using FUSE (Filesystem in Userspace), available on Linux and macOS.</td>
 </tr>
@@ -5599,17 +5542,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/the-sleuth-kit.jpg"></td>
 <td><b>The Sleuth Kit (TSK)</b></td>
-<td>Cross-Platform</td>
+<td>Cross Platform</td>
 <td><a href="https://sleuthkit.org">Website</a></td>
 <td>Library and tools for investigating disk images and recovering data.</td>
-</tr>
-
-<tr>
-<td><img src="assets/7-zip-homebrew.jpg"></td>
-<td><b>7-Zip (via Homebrew)</b></td>
-<td>Cross-Platform</td>
-<td><a href="https://formulae.brew.sh/formula/p7zip">Homebrew</a></td>
-<td>File archiver with AES-256 encryption capabilities, available for macOS via Homebrew.</td>
 </tr>
 
 </tbody>
