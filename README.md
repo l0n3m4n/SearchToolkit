@@ -5433,8 +5433,24 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
+<td><img src="assets/veracrypt.jpg"></td>
+<td><b>VeraCrypt</b></td>
+<td>Cross Platform</td>
+<td><a href="https://www.veracrypt.fr">Website</a></td>
+<td>Disk encryption software that encrypts entire drives or creates encrypted virtual disks.</td>
+</tr>
+
+<tr>
+<td><img src="assets/keepass.jpg"></td>
+<td><b>KeePass</b></td>
+<td>Cross Platform</td>
+<td><a href="https://keepass.info">Website</a></td>
+<td>Free and open-source password manager that can securely store and encrypt sensitive information.</td>
+</tr>
+
+<tr>
 <td><img src="assets/tar.jpg"></td>
-<td><b>tar</b></td>
+<td><b>TAR</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://www.gnu.org/software/tar">Website</a></td>
 <td>Archiving utility that can be used with encryption methods to protect files.</td>
@@ -5456,20 +5472,36 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>Disk encryption program included with Microsoft Windows that encrypts entire volumes.</td>
 </tr>
 
+
+<tr>
+<td><img src="assets/gpg4win.jpg"></td>
+<td><b>Gpg4win</b></td>
+<td>Windows</td>
+<td><a href="https://gpg4win.org">Website</a></td>
+<td>Suite of encryption tools for Windows, including GPG for securing files and communications.</td>
+</tr>
+
+<tr>
+<td><img src="assets/cryptsetup.jpg"></td>
+<td><b>Cryptsetup</b></td>
+<td>Linux</td>
+<td><a href="https://gitlab.com/cryptsetup/cryptsetup">Website</a></td>
+<td>Command-line tool to manage disk encryption using LUKS.</td>
+</tr>
+
+<tr>
+<td><img src="assets/openssh.jpg"></td>
+<td><b>OpenSSH</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://www.openssh.com">Website</a></td>
+<td>Suite of secure networking utilities based on the SSH protocol, including secure file transfers.</td>
+
 <tr>
 <td><img src="assets/axcrypt.jpg"></td>
 <td><b>AxCrypt</b></td>
 <td>Windows</td>
 <td><a href="https://www.axcrypt.net">Website</a></td>
 <td>File encryption software providing AES-128 or AES-256 encryption.</td>
-</tr>
-
-<tr>
-<td><img src="assets/keepass.jpg"></td>
-<td><b>KeePass</b></td>
-<td>Cross Platform</td>
-<td><a href="https://keepass.info">Website</a></td>
-<td>Free and open-source password manager that can securely store and encrypt sensitive information.</td>
 </tr>
 
 <tr>
@@ -5486,14 +5518,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>Cross Platform</td>
 <td><a href="https://gnupg.org">Website</a></td>
 <td>Open-source encryption tool for encrypting files and communications.</td>
-</tr>
-
-<tr>
-<td><img src="assets/veracrypt.jpg"></td>
-<td><b>VeraCrypt</b></td>
-<td>Cross Platform</td>
-<td><a href="https://www.veracrypt.fr">Website</a></td>
-<td>Disk encryption software that encrypts entire drives or creates encrypted virtual disks.</td>
 </tr>
 
 <tr>
@@ -5527,7 +5551,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://github.com/vgough/encfs">GitHub</a></td>
 <td>Encrypted filesystem using FUSE (Filesystem in Userspace), available on Linux and macOS.</td>
 </tr>
- 
 
 </tbody>
 </table>
