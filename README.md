@@ -124,14 +124,6 @@
 <td>The Best hacking cheatsheets</td>
 </tr>
 
-
-<tr>
-<td><img src="assets/cheatsheets/RedTeam-Cheatsheets.jpg"></td>
-<td><b>RedTeam Cheatsheets</b></td>
-<td><a href="https://github.com/wsummerhill/C2_RedTeam_CheatSheets">Github</a></td>
-<td>Useful C2 techniques and cheatsheets learned from engagements (Cobalt strike and sliver c2)</td>
-</tr>
-
 <tr>
 <td><img src="assets/cheatsheets/RedTeam-Tools.png"></td>
 <td><b>RedTeam-Tools</b></td>
@@ -151,6 +143,13 @@
 <td><b>Internall-all-the-things</b></td>
 <td><a href="https://swisskyrepo.github.io/InternalAllTheThings/">Github.io</a></td>
 <td>Active Directory and Internal Pentest Cheatsheets</td>
+</tr>
+
+<tr>
+<td><img src="assets/cheatsheets/RedTeam-Cheatsheets.jpg"></td>
+<td><b>RedTeam Cheatsheets</b></td>
+<td><a href="https://github.com/wsummerhill/C2_RedTeam_CheatSheets">Github</a></td>
+<td>Useful C2 techniques and cheatsheets learned from engagements (Cobalt strike and sliver c2)</td>
 </tr>
 
 <tr>
