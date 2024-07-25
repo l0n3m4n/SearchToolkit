@@ -5069,7 +5069,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/privacy-sexy.jpg"></td>
 <td><b>Privacy.sexy (Best)</b></td>
 <td><a href="https://privacy.sexy">Website</a></td>
-<td>Online/offline and open-source tool that can clean up logs and personal activities.</td>
+<td>Online/offline and open-source tool that can clean up logs and personal activities. (Windows, Linux, macOS)</td>
 </tr>
 
 <tr>
