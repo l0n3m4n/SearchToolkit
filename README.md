@@ -148,6 +148,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/Awesome-Pentest-cheatsheets.png  "></td>
+<td><b>Awesome-Pentest Cheatsheets</b></td>
+<td><a href="https://github.com/ByteSnipers/awesome-pentest-cheat-sheets">Github</a></td>
+<td>Collection of cheat sheets and check lists useful for security and pentesting. The list contains a huge list of very sorted and selected resources, which can help you to save a lot of time.</td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/awesome_hacking.jpg"></td>
 <td><b>Awesome-Hacking</b></td>
 <td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Github</a></td>
