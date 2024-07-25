@@ -71,7 +71,6 @@
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
   <a href="#wifi-networks "><b>Dorking</b></a> |
-  <a href="#device-information"><b>Device Information</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#ioc-scanner"><b>IOC Scanner</b></a> |
@@ -2868,6 +2867,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#url"><b>URL</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
+  <a href="#device-information"><b>Device Information</b></a> | 
   <a href="#darkweb-search-engine"><b>Darkweb Search Engine</b></a> |
   <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
   <a href="#scanning-onion-links"><b>Scanning Onions Links</b></a> |
