@@ -201,95 +201,6 @@
 
 [🔝 Back to top](#Search-Navigation)
 
-
-## Server
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAME</th>
-<th>LINKS</th>
-<th>DESCRIPTION</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="assets/servers/shodan.png"></td>
-<td><b>Shodan</b></td>
-<td><a href="https://shodan.io">Website</a></td>
-<td>Search Engine for the Internet of Everything.</td>
-</tr>
-<tr>
-<td><img src="assets/servers/Censys Search.png"></td>
-<td><b>Censys Search</b></td>
-<td><a href="https://search.censys.io/">Website</a></td>
-<td>Search Engine for every server on the Internet to reduce exposure and improve security.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/onyphe.png"></td>
-<td><b>Onyphe</b></td>
-<td><a href="https://www.onyphe.io">Website</a></td>
-<td>Cyber Defense search engine for open-source and cyber threat intelligence data.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/ZoomEye.jpg"></td>
-<td><b>ZoomEye</b></td>
-<td><a href="https://zoomeye.org/">Website</a></td>
-<td>Global Cyberspace mapping.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/GreyNoise.jpg"></td>
-<td><b>GreyNoise</b></td>
-<td><a href="https://viz.greynoise.io/">Website</a></td>
-<td>The source for understanding internet noise.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/Netlas.png"></td>
-<td><b>Netlas</b></td>
-<td><a href="https://netlas.io/">Website</a></td>
-<td>Discove, Research and monitor any assets available online.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/FOFA.jpg"></td>
-<td><b>FOFA</b></td>
-<td><a href="https://fofa.info/">Website</a></td>
-<td>Cyberspace Mapping</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/quake.png"></td>
-<td><b>Quake</b></td>
-<td><a href="https://quake.360.net/quake/#/index/">Website</a></td>
-<td>Global Cyberspace Surveying and mapping system.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/Hunter.png"></td>
-<td><b>Hunter</b></td>
-<td><a href="https://hunter.how/">Website</a></td>
-<td>Internet search engine for security researchers.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/QualysSSL.jpg"></td>
-<td><b>Qualys SSL Labs</b></td>
-<td><a href="https://www.ssllabs.com/ssltest/">Website</a></td>
-<td>This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet. </td>
-</tr>
-
-
-</tbody>
-</table>
-
-
-[🔝 Back to top](#Search-Navigation)
-
 ## Discovery
 
 <table>
@@ -851,10 +762,96 @@
 <td>Very advanced (web) fuzzer written in Nim.</td>
 </tr>
 
+</tbody>
+</table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
+
+## Server
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAME</th>
+<th>LINKS</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/servers/shodan.png"></td>
+<td><b>Shodan</b></td>
+<td><a href="https://shodan.io">Website</a></td>
+<td>Search Engine for the Internet of Everything.</td>
+</tr>
+<tr>
+<td><img src="assets/servers/Censys Search.png"></td>
+<td><b>Censys Search</b></td>
+<td><a href="https://search.censys.io/">Website</a></td>
+<td>Search Engine for every server on the Internet to reduce exposure and improve security.</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/onyphe.png"></td>
+<td><b>Onyphe</b></td>
+<td><a href="https://www.onyphe.io">Website</a></td>
+<td>Cyber Defense search engine for open-source and cyber threat intelligence data.</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/ZoomEye.jpg"></td>
+<td><b>ZoomEye</b></td>
+<td><a href="https://zoomeye.org/">Website</a></td>
+<td>Global Cyberspace mapping.</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/GreyNoise.jpg"></td>
+<td><b>GreyNoise</b></td>
+<td><a href="https://viz.greynoise.io/">Website</a></td>
+<td>The source for understanding internet noise.</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/Netlas.png"></td>
+<td><b>Netlas</b></td>
+<td><a href="https://netlas.io/">Website</a></td>
+<td>Discove, Research and monitor any assets available online.</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/FOFA.jpg"></td>
+<td><b>FOFA</b></td>
+<td><a href="https://fofa.info/">Website</a></td>
+<td>Cyberspace Mapping</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/quake.png"></td>
+<td><b>Quake</b></td>
+<td><a href="https://quake.360.net/quake/#/index/">Website</a></td>
+<td>Global Cyberspace Surveying and mapping system.</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/Hunter.png"></td>
+<td><b>Hunter</b></td>
+<td><a href="https://hunter.how/">Website</a></td>
+<td>Internet search engine for security researchers.</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/QualysSSL.jpg"></td>
+<td><b>Qualys SSL Labs</b></td>
+<td><a href="https://www.ssllabs.com/ssltest/">Website</a></td>
+<td>This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet. </td>
+</tr>
 
 </tbody>
 </table>
-
+<br>
 
 [🔝 Back to top](#Search-Navigation)
 
