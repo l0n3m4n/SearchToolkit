@@ -2832,7 +2832,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
   <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#url"><b>URL</b></a> |
-  <a href="#dorks"><b>Dorks</b></a> | 
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
   <a href="#darkweb-search-engine"><b>Darkweb Search Engine</b></a> |
   <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
@@ -3063,8 +3062,7 @@ made to help you during your investigations</td>
 
 [🔙 Back to OSINT](#OSINT-Menu)
 
-<!--Dorks-->
-### Dorks
+### Dorking
 <table>
   <thead>
     <tr>
