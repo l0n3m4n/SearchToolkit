@@ -5425,6 +5425,30 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tbody>
 
 <tr>
+<td><img src="assets/openssl.jpg"></td>
+<td><b>OpenSSL (best)</b></td>
+<td>Cross Platform</td>
+<td><a href="https://www.openssl.org">Website</a></td>
+<td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
+</tr>
+
+<tr>
+<td><img src="assets/tar.jpg"></td>
+<td><b>tar</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://www.gnu.org/software/tar">Website</a></td>
+<td>Archiving utility that can be used with encryption methods to protect files.</td>
+</tr>
+
+<tr>
+<td><img src="assets/rar.jpg"></td>
+<td><b>RAR</b></td>
+<td>Cross-Platform</td>
+<td><a href="https://www.rarlab.com">Website</a></td>
+<td>Archiving tool with built-in encryption for compressing and securing files.</td>
+</tr>
+
+<tr>
 <td><img src="assets/bitlocker.jpg"></td>
 <td><b>BitLocker</b></td>
 <td>Windows</td>
@@ -5446,14 +5470,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>Cross Platform</td>
 <td><a href="https://keepass.info">Website</a></td>
 <td>Free and open-source password manager that can securely store and encrypt sensitive information.</td>
-</tr>
-
-<tr>
-<td><img src="assets/openssl.jpg"></td>
-<td><b>OpenSSL (best)</b></td>
-<td>Cross Platform</td>
-<td><a href="https://www.openssl.org">Website</a></td>
-<td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
 </tr>
 
 <tr>
