@@ -91,11 +91,11 @@
   <a href="#credential-dumping"><b>Credential Dumping</b></a> |
   <a href="#persistence"><b>Persistence</b></a> |
   <a href="#lateral-movement"><b>Lateral Movement</b></a> |
-    <a href="#tunnelling"><b>Tunnelling</b></a> |
+  <a href="#tunnelling"><b>Tunnelling</b></a> |
   <a href="#command-and-control"><b>Command and Control<b><a> |
   <a href="#data-exfiltration"><b>Data Exfiltration</b></a> |
-  <a href="#covering-tracks"><b>Covering Tracks</b></a> |
   <a href="#securing-data"><b>Securing Data</b></a> |
+  <a href="#covering-tracks"><b>Covering Tracks</b></a> |
   <a href="#reports"><b>Reports</b></a>
 </p>
 
@@ -4742,15 +4742,39 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/"></td>
 <td><b>Alternative Protocols</b></td>
 <td>CovertUtils</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
 <td>Tools for covert communication over various protocols including HTTP, ICMP, DNS, and more.</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>DNS</b></td>
+<td>DNSExfiltrator</td>
+<td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
+<td>Data exfiltration over DNS request covert channel </td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Protocols</b></td>
+<td>Egress-Assess</td>
+<td><a href="https://github.com/RedSiege/Egress-Assess">GitHub</a></td>
+<td>Egress-Assess is a tool used to test egress data detection capabilities</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>DNS</b></td>
+<td>PacketWhisper</td>
+<td><a href="https://github.com/TryCatchHCF/PacketWhisper">GitHub</a></td>
+<td>Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>Protocols</td>
 <td>Tunna</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/SECFORCE/Tunna">GitHub</a></td>
 <td>Network tunneling tool that uses HTTP/HTTPS for data exfiltration.</td>
 </tr>
 
@@ -4761,115 +4785,68 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://github.com/akbarq/Red-Team-Operations/blob/master/badcookie.py">GitHub</a></td>
 <td>exfiltrates data via base64 encoded HTTP cookies.</td>
 </tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td><b>Automated Exfiltration</b></td>
-<td>Plecost</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>Data exfiltration tool that uses DNS and ICMP to send data out of the network.</td>
-</tr>
-
+ 
 <tr>
 <td><img src="assets/"></td>
 <td>Protocols</td>
 <td>PyExfil</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/ytisf/PyExfil">GitHub</a></td>
 <td>Python tool for exfiltration using different protocols including HTTP, FTP, DNS, ICMP, and custom TCP/UDP.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>Command and Control Channels</b></td>
-<td>C2Matrix</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>A command and control matrix designed to be used as a reference for comparing various Command and Control frameworks.</td>
+<td><b>E-mail Attachment</b></td>
+<td>Powershell-RAT</td>
+<td><a href="https://github.com/Viralmaniar/Powershell-RAT">GitHub</a></td>
+<td>Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment. </td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td><b>Encrypted Data</b></td>
 <td>StegCloak</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/KuroLabs/stegcloak">GitHub</a></td>
 <td>Hide secrets with invisible characters in plain text securely using password-based encryption.</td>
 </tr>
-<tr>
-<td><img src="assets/"></td>
-<td><b>Physical Mediums</b></td>
-<td>USBFuzz</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>Tool for testing USB host/device drivers and USB stacks in both logical and physical manners.</td>
-</tr>
-<tr>
-<td><img src="assets/"></td>
-<td><b>Steganography</b></td>
-<td>StegExpose</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>A steganalysis tool specialized in detecting steganography in lossless images.</td>
-</tr>
-<tr>
-<td><img src="assets/"></td>
-<td><b>Covert Channels</b></td>
-<td>Covert Channel Tools</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>Various tools for creating and testing covert channels in different network protocols.</td>
-</tr>
+ 
 <tr>
 <td><img src="assets/"></td>
 <td><b>DNS Exfiltration</b></td>
 <td>Iodine</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/yarrick/iodine">GitHub</a></td>
 <td>Tunnel IPv4 data through a DNS server. It allows you to send data between systems that are behind firewalls.</td>
 </tr>
+
 <tr>
 <td><img src="assets/"></td>
 <td><b>HTTP/S Exfiltration</b></td>
 <td>WebExfil</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://gist.github.com/ssherei/0504fb041f8e4c0f4b7f3854481fdfcf">GitHub</a></td>
 <td>A tool for data exfiltration through HTTP and HTTPS connections.</td>
 </tr>
+
 <tr>
 <td><img src="assets/"></td>
 <td><b>ICMP Exfiltration</b></td>
 <td>Dnscat2</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/iagox86/dnscat2">GitHub</a></td>
 <td>A DNS covert channel tool that can send data between a client and a server using DNS requests and responses.</td>
 </tr>
+
 <tr>
 <td><img src="assets/"></td>
 <td><b>SMB Exfiltration</b></td>
 <td>SMBetray</td>
-<td><a href="https://github.com/">GitHub</a></td>
+<td><a href="https://github.com/quickbreach/SMBetray">GitHub</a></td>
 <td>A tool to exfiltrate data over SMB protocol.</td>
 </tr>
-<tr>
-<td><img src="assets/"></td>
-<td><b>Bluetooth Exfiltration</b></td>
-<td>BluetoothLogger</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>A tool for exfiltrating data over Bluetooth connections.</td>
-</tr>
-<tr>
-<td><img src="assets/"></td>
-<td><b>Wireless Exfiltration</b></td>
-<td>AirGuard</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>A tool for exfiltrating data over wireless networks (Wi-Fi).</td>
-</tr>
-<tr>
-<td><img src="assets/"></td>
-<td><b>Social Media Exfiltration</b></td>
-<td>SnapchatSteganography</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>Steganography tool for hiding data within Snapchat images.</td>
-</tr>
-<tr>
-<td><img src="assets/"></td>
-<td><b>Email Exfiltration</b></td>
-<td>PyExfilMail</td>
-<td><a href="https://github.com/">GitHub</a></td>
-<td>Python-based tool for exfiltrating data via email.</td>
-</tr>
+
+ 
+ 
+ 
+
+ 
 </tbody>
 </table>
 
