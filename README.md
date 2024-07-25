@@ -5424,7 +5424,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 
-<!-- Windows -->
 <tr>
 <td><img src="assets/bitlocker.jpg"></td>
 <td><b>BitLocker</b></td>
@@ -5451,7 +5450,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <tr>
 <td><img src="assets/openssl.jpg"></td>
-<td><b>OpenSSL</b></td>
+<td><b>OpenSSL (best)</b></td>
 <td>Cross Platform</td>
 <td><a href="https://www.openssl.org">Website</a></td>
 <td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
@@ -5465,7 +5464,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>File archiver with encryption capabilities using AES-256.</td>
 </tr>
 
-<!-- Linux -->
 <tr>
 <td><img src="assets/gpg.jpg"></td>
 <td><b>GPG (GNU Privacy Guard)</b></td>
@@ -5499,36 +5497,11 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/the-sleuth-kit.jpg"></td>
-<td><b>The Sleuth Kit (TSK)</b></td>
-<td>Linux</td>
-<td><a href="https://sleuthkit.org">Website</a></td>
-<td>Library and tools for investigating disk images and recovering data.</td>
-</tr>
-
-<!-- macOS -->
-<tr>
 <td><img src="assets/filevault.jpg"></td>
 <td><b>FileVault</b></td>
 <td>macOS</td>
 <td><a href="https://support.apple.com/en-us/HT204837">Website</a></td>
 <td>Built-in disk encryption program for macOS that encrypts the entire startup disk.</td>
-</tr>
-
-<tr>
-<td><img src="assets/wireshark.jpg"></td>
-<td><b>Wireshark</b></td>
-<td>Cross Platform</td>
-<td><a href="https://www.wireshark.org">Website</a></td>
-<td>Network protocol analyzer to capture and analyze network traffic.</td>
-</tr>
-
-<tr>
-<td><img src="assets/cryptomator.jpg"></td>
-<td><b>Cryptomator</b></td>
-<td>Cross Platform</td>
-<td><a href="https://cryptomator.org">Website</a></td>
-<td>Tool for encrypting files in the cloud with client-side encryption.</td>
 </tr>
 
 <tr>
@@ -5538,14 +5511,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://github.com/vgough/encfs">GitHub</a></td>
 <td>Encrypted filesystem using FUSE (Filesystem in Userspace), available on Linux and macOS.</td>
 </tr>
-
-<tr>
-<td><img src="assets/the-sleuth-kit.jpg"></td>
-<td><b>The Sleuth Kit (TSK)</b></td>
-<td>Cross Platform</td>
-<td><a href="https://sleuthkit.org">Website</a></td>
-<td>Library and tools for investigating disk images and recovering data.</td>
-</tr>
+ 
 
 </tbody>
 </table>
