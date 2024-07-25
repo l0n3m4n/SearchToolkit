@@ -133,14 +133,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/redteam-tools.png"></td>
+<td><img src="assets/cheatsheets/RedTeam-Tools.png"></td>
 <td><b>RedTeam-Tools</b></td>
 <td><a href="https://github.com/A-poc/RedTeam-Tools">Github</a></td>
 <td>A github repository contains a collection of 130+ tools and resources that can be useful for red teaming activities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/blueteam-tools.png"></td>
+<td><img src="assets/cheatsheets/BlueTeam-Tools.png"></td>
 <td><b>BlueTeam-Tools</b></td>
 <td><a href="https://github.com/A-poc/BlueTeam-Tools">Github</a></td>
 <td>A github repository contains a collection of 65+ tools and resources that can be useful for blue teaming activities.</td>
@@ -175,7 +175,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/RedTeam-Notes 2.0.jpg"></td>
+<td><img src="assets/cheatsheets/RedTeam-Notes 2.0.jpg  "></td>
 <td><b>RedTeam Notes 2.0</b></td>
 <td><a href="https://dmcxblue.gitbook.io/red-team-notes-2-0">Gitbook</a></td>
 <td> It is very beginner friendly and have everything from MITRE with more great images and high level explanations</td>
