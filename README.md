@@ -150,6 +150,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/awesome_hacking.jpg"></td>
+<td><b>Awesome-Hacking</b></td>
+<td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Github</a></td>
+<td>A collection of various awesome lists for hackers, pentesters and security researchers </td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/awesome-pentest-cheatsheets.png"></td>
 <td><b>Awesome-Pentest</b></td>
 <td><a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets">Github</a></td>
