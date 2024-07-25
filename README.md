@@ -84,7 +84,7 @@
 
   <h3 align="center">Attack Cycle</h3>
 
-  <a href="#reconnaissance"><b>Reconnaissance</b></a> |
+  <a href="#discovery"><b>Discovery</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#initial-access"><b>Initial Access</b></a> |
@@ -292,7 +292,7 @@
 
 [🔝 Back to top](#Search-Navigation)
 
-## Reconnaissance
+## Discovery
 
 <table>
 <thead>
@@ -2247,7 +2247,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://bugmenot.com/">Website</a></td>
       <td>Find and share logins</td>
     </tr>
-    
+
   <tr>
         <td><img src="assets/leaks/LeakSearch.png"></td>
         <td><b>LeakSearch</b></td>
