@@ -5424,8 +5424,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 
+<!-- Windows -->
 <tr>
-<td><img src="assets/bitlocker.jpg" alt="BitLocker"></td>
+<td><img src="assets/bitlocker.jpg"></td>
 <td><b>BitLocker</b></td>
 <td>Windows</td>
 <td><a href="https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview">Website</a></td>
@@ -5433,7 +5434,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/axcrypt.jpg" alt="AxCrypt"></td>
+<td><img src="assets/axcrypt.jpg"></td>
 <td><b>AxCrypt</b></td>
 <td>Windows</td>
 <td><a href="https://www.axcrypt.net">Website</a></td>
@@ -5441,7 +5442,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/keepass.jpg" alt="KeePass"></td>
+<td><img src="assets/keepass.jpg"></td>
 <td><b>KeePass</b></td>
 <td>Windows</td>
 <td><a href="https://keepass.info">Website</a></td>
@@ -5449,7 +5450,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/openssl.jpg" alt="OpenSSL"></td>
+<td><img src="assets/openssl.jpg"></td>
 <td><b>OpenSSL</b></td>
 <td>Windows</td>
 <td><a href="https://www.openssl.org">Website</a></td>
@@ -5457,15 +5458,16 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/7-zip.jpg" alt="7-Zip"></td>
+<td><img src="assets/7-zip.jpg"></td>
 <td><b>7-Zip</b></td>
 <td>Windows</td>
 <td><a href="https://www.7-zip.org">Website</a></td>
 <td>File archiver with encryption capabilities using AES-256.</td>
 </tr>
 
+<!-- Linux -->
 <tr>
-<td><img src="assets/gpg.jpg" alt="GPG"></td>
+<td><img src="assets/gpg.jpg"></td>
 <td><b>GPG (GNU Privacy Guard)</b></td>
 <td>Linux</td>
 <td><a href="https://gnupg.org">Website</a></td>
@@ -5473,7 +5475,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/veracrypt.jpg" alt="VeraCrypt"></td>
+<td><img src="assets/veracrypt.jpg"></td>
 <td><b>VeraCrypt</b></td>
 <td>Linux</td>
 <td><a href="https://www.veracrypt.fr">Website</a></td>
@@ -5481,7 +5483,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/encfs.jpg" alt="EncFS"></td>
+<td><img src="assets/encfs.jpg"></td>
 <td><b>EncFS</b></td>
 <td>Linux</td>
 <td><a href="https://github.com/vgough/encfs">GitHub</a></td>
@@ -5489,7 +5491,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/cryptomator.jpg" alt="Cryptomator"></td>
+<td><img src="assets/cryptomator.jpg"></td>
 <td><b>Cryptomator</b></td>
 <td>Linux</td>
 <td><a href="https://cryptomator.org">Website</a></td>
@@ -5497,15 +5499,16 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/the-sleuth-kit.jpg" alt="The Sleuth Kit"></td>
+<td><img src="assets/the-sleuth-kit.jpg"></td>
 <td><b>The Sleuth Kit (TSK)</b></td>
 <td>Linux</td>
 <td><a href="https://sleuthkit.org">Website</a></td>
 <td>Library and tools for investigating disk images and recovering data.</td>
 </tr>
 
+<!-- macOS -->
 <tr>
-<td><img src="assets/filevault.jpg" alt="FileVault"></td>
+<td><img src="assets/filevault.jpg"></td>
 <td><b>FileVault</b></td>
 <td>macOS</td>
 <td><a href="https://support.apple.com/en-us/HT204837">Website</a></td>
@@ -5513,7 +5516,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/veracrypt.jpg" alt="VeraCrypt"></td>
+<td><img src="assets/veracrypt.jpg"></td>
 <td><b>VeraCrypt</b></td>
 <td>macOS</td>
 <td><a href="https://www.veracrypt.fr">Website</a></td>
@@ -5521,7 +5524,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/gpg.jpg" alt="GPG"></td>
+<td><img src="assets/gpg.jpg"></td>
 <td><b>GPG (GNU Privacy Guard)</b></td>
 <td>macOS</td>
 <td><a href="https://gnupg.org">Website</a></td>
@@ -5529,7 +5532,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/cryptomator.jpg" alt="Cryptomator"></td>
+<td><img src="assets/cryptomator.jpg"></td>
 <td><b>Cryptomator</b></td>
 <td>macOS</td>
 <td><a href="https://cryptomator.org">Website</a></td>
@@ -5537,15 +5540,16 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/7-zip-homebrew.jpg" alt="7-Zip (via Homebrew)"></td>
+<td><img src="assets/7-zip-homebrew.jpg"></td>
 <td><b>7-Zip (via Homebrew)</b></td>
 <td>macOS</td>
 <td><a href="https://formulae.brew.sh/formula/p7zip">Homebrew</a></td>
 <td>File archiver with AES-256 encryption capabilities, available for macOS via Homebrew.</td>
 </tr>
 
+<!-- Cross-Platform -->
 <tr>
-<td><img src="assets/wireshark.jpg" alt="Wireshark"></td>
+<td><img src="assets/wireshark.jpg"></td>
 <td><b>Wireshark</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://www.wireshark.org">Website</a></td>
@@ -5553,7 +5557,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/keepass.jpg" alt="KeePass"></td>
+<td><img src="assets/keepass.jpg"></td>
 <td><b>KeePass</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://keepass.info">Website</a></td>
@@ -5561,7 +5565,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/tails.jpg" alt="Tails"></td>
+<td><img src="assets/tails.jpg"></td>
 <td><b>Tails</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://tails.boum.org">Website</a></td>
@@ -5569,7 +5573,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/openssl.jpg" alt="OpenSSL"></td>
+<td><img src="assets/openssl.jpg"></td>
 <td><b>OpenSSL</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://www.openssl.org">Website</a></td>
@@ -5577,7 +5581,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/cryptomator.jpg" alt="Cryptomator"></td>
+<td><img src="assets/cryptomator.jpg"></td>
 <td><b>Cryptomator</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://cryptomator.org">Website</a></td>
@@ -5585,7 +5589,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/encfs.jpg" alt="EncFS"></td>
+<td><img src="assets/encfs.jpg"></td>
 <td><b>EncFS</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://github.com/vgough/encfs">GitHub</a></td>
@@ -5593,7 +5597,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/the-sleuth-kit.jpg" alt="The Sleuth Kit"></td>
+<td><img src="assets/the-sleuth-kit.jpg"></td>
 <td><b>The Sleuth Kit (TSK)</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://sleuthkit.org">Website</a></td>
@@ -5601,7 +5605,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/7-zip-homebrew.jpg" alt="7-Zip (via Homebrew)"></td>
+<td><img src="assets/7-zip-homebrew.jpg"></td>
 <td><b>7-Zip (via Homebrew)</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://formulae.brew.sh/formula/p7zip">Homebrew</a></td>
