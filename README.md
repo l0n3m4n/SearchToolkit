@@ -2905,7 +2905,7 @@ made to help you during your investigations</td>
 
 ### Geolocation Tracking
 
-[🔙 Back to OSINT](#OSINT)
+[⬆️Back to OSINT](#OSINT)
 
 <table>
   <thead>
@@ -2940,7 +2940,7 @@ made to help you during your investigations</td>
     </table>
     <br>
 
-[🔙 Back to OSINT](#OSINT)
+[⬆️Back to OSINT](#OSINT)
 
 ## Phone Numbers 
 
@@ -3103,7 +3103,7 @@ made to help you during your investigations</td>
 </table>
 <br>
 
-[🔙 Back to OSINT](#OSINT)
+[⬆️Back to OSINT](#OSINT)
 
 ### Dorking
 <table>
@@ -3138,7 +3138,7 @@ made to help you during your investigations</td>
 <br>
   
 
-[🔙 Back to OSINT](#OSINT)
+[⬆️Back to OSINT](#OSINT)
 
 ### Mail Address
 
@@ -3348,7 +3348,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </table>
 <br>
 
-[🔙 Back to Darkweb](#OSINT)
+[⬆️Back to Darkweb](#OSINT)
 
 ## Scanning Onion Links
 
@@ -3384,7 +3384,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </table>
 <br>
 
-[🔙 Back to Darkweb](#OSINT)
+[⬆️Back to Darkweb](#OSINT)
 
 ## Darkweb Data Crawling
 
@@ -3408,7 +3408,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </table>
 <br>
 
-[🔙 Back to Darkweb](#OSINT)
+[⬆️Back to Darkweb](#OSINT)
 
 ## Adversaries Monitoring
 
