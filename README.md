@@ -2247,24 +2247,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://bugmenot.com/">Website</a></td>
       <td>Find and share logins</td>
     </tr>
-  </tbody>
-</table>
-
-## Leaks
-
- [🔝 Back to top](#Search-Navigation)
-
-
-<table>
-  <thead>
-    <tr>
-      <th>IMAGE</th>
-      <th>NAMES</th>
-      <th>LINKSS</th>
-      <th>DESCRIPTIONS</th>
-    </tr>
-  </thead>
-  <tbody>
+    
   <tr>
         <td><img src="assets/leaks/LeakSearch.png"></td>
         <td><b>LeakSearch</b></td>
