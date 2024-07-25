@@ -126,7 +126,7 @@
 
 
 <tr>
-<td><img src="assets/cheatsheets/redteam-cheatsheets.jpg"></td>
+<td><img src="assets/cheatsheets/RedTeam-Cheatsheets.jpg"></td>
 <td><b>RedTeam Cheatsheets</b></td>
 <td><a href="https://github.com/wsummerhill/C2_RedTeam_CheatSheets">Github</a></td>
 <td>Useful C2 techniques and cheatsheets learned from engagements (Cobalt strike and sliver c2)</td>
@@ -175,7 +175,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/RedTeam Notes 2.0.png"></td>
+<td><img src="assets/cheatsheets/RedTeam-Notes 2.0.jpg"></td>
 <td><b>RedTeam Notes 2.0</b></td>
 <td><a href="https://dmcxblue.gitbook.io/red-team-notes-2-0">Gitbook</a></td>
 <td> It is very beginner friendly and have everything from MITRE with more great images and high level explanations</td>
