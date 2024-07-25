@@ -73,10 +73,9 @@
   <a href="#wifi-networks "><b>Dorking</b></a> |
   <a href="#device-information"><b>Device Information</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
-  <a href="#hidden-services"><b>Hidden Services</b></a> |
-  <a href="#android"><b>Reverse Engineering</b></a> |
-  <a href="#android"><b>IOC Scanner</b></a> |
-  <a href="#android"><b>Steganography</b></a> |
+  <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
+  <a href="#ioc-scanner"><b>IOC Scanner</b></a> |
+  <a href="#steganography"><b>Steganography</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
   <a href="#ctf"><b>CTF Platform</b></a> |  
   <a href="#android"><b>Android</b></a> |
@@ -2863,7 +2862,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 <br>
 
-<h2 align="center">OSINT-Menu</h2>
+<h2 align="center">OSINT</h2>
 
 <p align="center">
   <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> |
@@ -2881,7 +2880,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <br>
 <br>
 
-### Special OSINT Tools
+### Misc
 <table>
   <thead>
     <tr>
@@ -2902,10 +2901,11 @@ made to help you during your investigations</td>
     </tr>
     </tbody>
     </table>
+    <br>
 
 ### Geolocation Tracking
 
-[🔙 Back to OSINT](#OSINT-Menu)
+[🔙 Back to OSINT](#OSINT)
 
 <table>
   <thead>
@@ -2938,6 +2938,9 @@ made to help you during your investigations</td>
     </tr>
     </tbody>
     </table>
+    <br>
+
+[🔙 Back to OSINT](#OSINT)
 
 ## Phone Numbers 
 
@@ -3098,8 +3101,9 @@ made to help you during your investigations</td>
    
   </tbody>
 </table>
+<br>
 
-[🔙 Back to OSINT](#OSINT-Menu)
+[🔙 Back to OSINT](#OSINT)
 
 ### Dorking
 <table>
@@ -3131,12 +3135,11 @@ made to help you during your investigations</td>
       <td>GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking). </td>
     </tr> 
 </table>
+<br>
   
 
+[🔙 Back to OSINT](#OSINT)
 
-[🔙 Back to OSINT](#OSINT-Menu)
-
-<!--Mail Address-->
 ### Mail Address
 
 <table>
@@ -3274,10 +3277,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
     </tr>
   </tbody>
 </table>
+<br>
 
- [🔝 Back to top](#Search-Navigation)
-
-
+[🔝 Back to top](#OSINT)
 
 ## Darkweb Search Engine
 
@@ -3320,7 +3322,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </tbody>
 </table>
+<br>
 
+[🔝 Back to top](#OSINT)
 
 ## Discovering Onion Links
 
@@ -3342,8 +3346,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </tbody>
 </table>
+<br>
 
-[🔙 Back to Darkweb](#OSINT-Menu)
+[🔙 Back to Darkweb](#OSINT)
 
 ## Scanning Onion Links
 
@@ -3377,8 +3382,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </tbody>
 </table>
+<br>
 
-[🔙 Back to Darkweb](#OSINT-Menu)
+[🔙 Back to Darkweb](#OSINT)
 
 ## Darkweb Data Crawling
 
@@ -3400,8 +3406,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </tbody>
 </table>
+<br>
 
-[🔙 Back to Darkweb](#OSINT-Menu)
+[🔙 Back to Darkweb](#OSINT)
 
 ## Adversaries Monitoring
 
@@ -3431,8 +3438,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 </tbody>
 </table>
+<br>
 
-  [🔝 Back to top](#Search-Navigation)
+[🔝 Back to top](#Search-Navigation)
 
 
 ## Social Engineering 
