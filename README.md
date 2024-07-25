@@ -45,9 +45,15 @@
     <a href="https://www.buymeacoffee.com/l0n3m4n">
         <img src="https://img.shields.io/badge/Buy%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
     </a>  
-    <a href="https://www.gnu.org/software/bash/">
-        <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+    <a href="mailto:l0n3m4n@proton.me">
+      <img src="https://img.shields.io/badge/ProtonMail-6001D2?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
     </a>
+   <a href="https://github.com/l0n3m4n/SearchToolkit/pulls">
+      <img src="https://img.shields.io/badge/Pull Request-05192D?style=for-the-badge&logo=github&logoColor=03E860" alt="Pull Request">
+  </a>
+  <a href="https://github.com/your-username">
+      <img src="https://img.shields.io/badge/Contribute-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 <br />
 
