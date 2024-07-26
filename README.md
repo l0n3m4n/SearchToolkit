@@ -904,7 +904,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/ .png"></td>
+<td><img src="assets/vulnerabilities/attackerKB.png"></td>
 <td><b>AttackerKB</b></td>
 <td><a href="https://attackerkb.com/">Website</a></td>
 <td> AttackerKB is a technical analysis tool on which you can search vulnerabilities that are rated by the community.</td>
