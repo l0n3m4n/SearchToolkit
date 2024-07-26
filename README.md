@@ -31,7 +31,7 @@
  
 <p align="center">
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit">
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit&label=Visitors&countColor=%2337d67a" />
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit  &label=Visitors&countColor=%2337d67a" />
     </a>
     <a href="https://www.facebook.com/l0n3m4n">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -2297,37 +2297,37 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/hidden-services/AHMIA.jpg"></td>
       <td><b>AHMIA</b></td>
       <td><a href="https://ahmia.fi/">Website</a></td>
       <td>Search hidden services on the Tor network</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/hidden-services/thehiddenwiki.png"></td>
       <td><b>thehiddenwiki.org</b></td>
       <td><a href="https://thehiddenwiki.org/">Website</a></td>
       <td>The darknet guide</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/hidden-services/tor.link.png"></td>
       <td><b>tor.link</b></td>
       <td><a href="https://tor.link/">Website</a></td>
       <td>Free anonymous deepweb / Darknet search engine</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/hidden-services/deepweblinks.net.jpg"></td>
       <td><b>deepweblinks.net</b></td>
       <td><a href="https://deepweblinks.net/">Website</a></td>
       <td>Onion Links</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/hidden-services/onionengine.com.png"></td>
       <td><b>onionengine.com</b></td>
       <td><a href="https://onionengine.com/">Website</a></td>
       <td>A search engine for services accessible on the Tor network</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/hidden-services/OnionLand.png"></td>
       <td><b>OnionLand</b></td>
       <td><a href="https://onionlandsearchengine.com/">Website</a></td>
       <td>Discover Hidden Services and access to Tor's onion sites</td>
