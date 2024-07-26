@@ -71,7 +71,7 @@
   <a href="#dns"><b>DNS</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
-  <a href="#wifi-networks "><b>Dorking</b></a> |
+  <a href="#dorking "><b>Dorking</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#ioc-scanner"><b>IOC Scanner</b></a> |
@@ -2726,48 +2726,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 
-## Dorking
-
- [🔝 Back to top](#Search-Navigation)
-
-
-<table>
-  <thead>
-    <tr>
-      <th>IMAGE</th>
-      <th>NAMES</th>
-      <th>LINKSS</th>
-      <th>DESCRIPTIONS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>NetoGraph</b></td>
-      <td><a href="https://netograph.io/">Website</a></td>
-      <td>Captures and indexes detailed, low-level snapshots of website behavior</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>DorkSearch</b></td>
-      <td><a href="https://dorksearch.com/">Website</a></td>
-      <td>Speed up your Dorking</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>usersearch.org</b></td>
-      <td><a href="https://usersearch.org/">Website</a></td>
-      <td>Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>Pastebin</b></td>
-      <td><a href="https://pastebin.com/">Website</a></td>
-      <td>Website where you can store text online for a set period of time</td>
-    </tr>
-  </tbody>
-</table>
-
 
 ## URL
 
@@ -3092,18 +3050,23 @@ made to help you during your investigations</td>
 
 [⬆️ Back to OSINT](#OSINT)
 
-### Dorking
+
+## Dorking
+
+ [🔝 Back to top](#Search-Navigation)
+
+
 <table>
   <thead>
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKS</th>
+      <th>LINKSS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
   <tbody>
-   <tr>
+    <tr>
       <td><img src="assets/osint/dorks.jpg"></td>
       <td><b>go-dork</b></td>
       <td><a href="https://github.com/dwisiswant0/go-dork">Github</a></td>
@@ -3120,10 +3083,33 @@ made to help you during your investigations</td>
       <td><b>GooFuzz </b></td>
       <td><a href="https://github.com/m3n0sd0n4ld/GooFuzz">Github</a></td>
       <td>GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking). </td>
-    </tr> 
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>NetoGraph</b></td>
+      <td><a href="https://netograph.io/">Website</a></td>
+      <td>Captures and indexes detailed, low-level snapshots of website behavior</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>DorkSearch</b></td>
+      <td><a href="https://dorksearch.com/">Website</a></td>
+      <td>Speed up your Dorking</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>usersearch.org</b></td>
+      <td><a href="https://usersearch.org/">Website</a></td>
+      <td>Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs</td>
+    </tr>
+    <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>Pastebin</b></td>
+      <td><a href="https://pastebin.com/">Website</a></td>
+      <td>Website where you can store text online for a set period of time</td>
+    </tr>
+  </tbody>
 </table>
-<br>
-  
 
 [⬆️ Back to OSINT](#OSINT)
 
