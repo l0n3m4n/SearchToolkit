@@ -1099,7 +1099,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/sploitus.png"></td>
+<td><img src="assets/exploits/Sploitus.jpg"></td>
 <td><b>Sploitus</b></td>
 <td><a href="https://sploitus.com/">Website</a></td>
 <td>Convenient central place for identifying the newest exploits</td>
@@ -1121,7 +1121,7 @@
 
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits/Villain C2 Framework.jpg"></td>
 <td><b> Villain C2 Framework</b></td>
 <td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
 <td>Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells .</td>
@@ -1135,28 +1135,28 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/odaytoday.png"></td>
+<td><img src="assets/exploits/0day.today.jpg"></td>
 <td><b>0day.today</b></td>
 <td><a href="https://0day.today/">Website</a></td>
 <td>Ultimate database of exploits and vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/LOLBAS.png"></td>
+<td><img src="assets/exploits/LOLBAS.png"></td>
 <td><b>LOLBAS</b></td>
 <td><a href="https://lolbas-project.github.io/">Github</a></td>
 <td>Living Off The Land Binaries, Scripts and Libraries</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/LOLBIN.png"></td>
+<td><img src="assets/exploits/GTFOBins.png"></td>
 <td><b>GTFOBins</b></td>
 <td><a href="https://gtfobins.github.io/">Github</a></td>
 <td>Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</td>
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits/Payloads All The Things.jpg"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security</td>
@@ -1171,70 +1171,70 @@
 
 
 <tr>
-<td><img src="assets/exploits/revshell.png"></td>
+<td><img src="assets/exploits/Reverse Shell generator.png"></td>
 <td><b>Reverse Shell generator</b></td>
 <td><a href="https://www.revshells.com/">Website</a></td>
 <td>Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/h1-hactivity.png"></td>
+<td><img src="assets/exploits/hackerone activity.png"></td>
 <td><b>HackerOne hacktivity</b></td>
 <td><a href="https://hackerone.com/hacktivity">Website</a></td>
 <td>See the latest hacker activity on HackerOne</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/bugcrowd-crowdstream.png"></td>
+<td><img src="assets/exploits/Bugcrowd.png"></td>
 <td><b>Bugcrowd Crowdstream</b></td>
 <td><a href="https://bugcrowd.com/crowdstream">Website</a></td>
 <td>Showcase of accepted and disclosed submissions on Bugcrowd programs</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/LOLBIN.png"></td>
+<td><img src="assets/exploits/GTFOArgs.png"></td>
 <td><b>GTFOArgs</b></td>
 <td><a href="https://gtfoargs.github.io/">Github</a></td>
 <td>Curated list of Unix binaries that can be manipulated for argument injection</td>
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits"></td>
 <td><b>Shell-storm.org/shellcode</b></td>
 <td><a href="https://shell-storm.org/shellcode/index.html">Website</a></td>
 <td>Shellcodes database for study cases</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/hackingthecloud.png"></td>
+<td><img src="assets/exploits/Hacking the Cloud.png"></td>
 <td><b>Hacking the Cloud</b></td>
 <td><a href="https://hackingthe.cloud/">Website</a></td>
 <td>Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/loldrivers.png"></td>
+<td><img src="assets/exploits/LOLDrivers.png"></td>
 <td><b>LOLDrivers</b></td>
 <td><a href="https://www.loldrivers.io/">Website</a></td>
 <td>Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers</td>
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits/PwnWiki.jpg"></td>
 <td><b>PwnWiki</b></td>
 <td><a href="http://pwnwiki.io/">Website</a></td>
 <td>Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained</td>
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits/CVExploits Search.jpg"></td>
 <td><b>CVExploits Search</b></td>
 <td><a href="https://cvexploits.io/">Website</a></td>
 <td>Your comprehensive database for CVE exploits from across the internet</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/netexec.jpg"></td>
+<td><img src="assets/exploits/NetExec.png"></td>
 <td><b>NetExec (Network Exploitation)</b></td>
 <td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
 <a href="https://www.netexec.wiki/">Website</a></td>
@@ -1242,14 +1242,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits/SploitScan.jpg"></td>
 <td><b>SploitScan</b></td>
 <td><a href="https://github.com/xaitax/SploitScan">Github</a></td>
 <td>SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits/sicat.png"></td>
 <td><b>Sicat</b></td>
 <td><a href="https://github.com/justakazh/sicat">Github</a></td>
 <td>SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
