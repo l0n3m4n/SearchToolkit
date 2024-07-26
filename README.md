@@ -214,14 +214,14 @@
 <tbody>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/discovery/sublist3r.jpg"></td>
 <td><b>Sublist3r</b></td>
 <td><a href="https://github.com/aboul3la/Sublist3r">GitHub</a></td>
 <td>Fast subdomains enumeration tool for penetration testers</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/amass.png"></td>
+<td><img src="assets/discovery/amass.jpg"></td>
 <td><b>Amass</b></td>
 <td><a href="https://github.com/OWASP/Amass">GitHub</a></td>
 <td>In-depth Attack Surface Mapping and Asset Discovery</td>
@@ -235,49 +235,49 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/findomain.png"></td>
+<td><img src="assets/discovery/findomain.png"></td>
 <td><b>Findomain</b></td>
 <td><a href="https://github.com/Findomain/Findomain">GitHub</a></td>
 <td>The fastest and cross-platform subdomain enumerator</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/sudomy.png"></td>
+<td><img src="assets/discovery/Sudomy.png"></td>
 <td><b>Sudomy</b></td>
 <td><a href="https://github.com/Screetsec/Sudomy">GitHub</a></td>
 <td>Automated reconnaissance tool for bug hunting / pentesting</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/chaos-client.png"></td>
+<td><img src="assets/discovery/chaos-client.png"></td>
 <td><b>chaos-client</b></td>
 <td><a href="https://github.com/projectdiscovery/chaos-client">GitHub</a></td>
 <td>Go client to communicate with Chaos DNS API</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/domained.png"></td>
+<td><img src="assets/discovery/domained.png"></td>
 <td><b>domained</b></td>
 <td><a href="https://github.com/TypeError/domained">GitHub</a></td>
 <td>Multi Tool Subdomain Enumeration</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/shuffledns.png"></td>
+<td><img src="assets/discovery/shuffledns.png"></td>
 <td><b>shuffledns</b></td>
 <td><a href="https://github.com/projectdiscovery/shuffledns">GitHub</a></td>
 <td>Wrapper around massdns for subdomain enumeration with active bruteforce</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/puredns.png"></td>
+<td><img src="assets/discovery/puredns.png"></td>
 <td><b>puredns</b></td>
 <td><a href="https://github.com/d3mondev/puredns">GitHub</a></td>
 <td>Fast domain resolver and subdomain bruteforcing</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/censys-subdomain-finder.png"></td>
+<td><img src="assets/discovery/censys-subdomain-finder.jpg"></td>
 <td><b>censys-subdomain-finder</b></td>
 <td><a href="https://github.com/christophetd/censys-subdomain-finder">GitHub</a></td>
 <td>Subdomain enumeration using Censys certificate transparency logs</td>
@@ -298,7 +298,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/Subra.png"></td>
+<td><img src="assets/discovery/Subra.png"></td>
 <td><b>Subra</b></td>
 <td><a href="https://github.com/si9int/Subra">GitHub</a></td>
 <td>Web-UI for subdomain enumeration using subfinder</td>
@@ -312,7 +312,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/domain.png"></td>
+<td><img src="assets/discovery/domain.png"></td>
 <td><b>domain</b></td>
 <td><a href="https://github.com/jhaddix/domain/">GitHub</a></td>
 <td>Setup script for Recon-ng for subdomain enumeration</td>
@@ -333,21 +333,21 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/dns-parallel-prober.png"></td>
+<td><img src="assets/discovery/dns-parallel-prober.jpg"></td>
 <td><b>dns-parallel-prober</b></td>
 <td><a href="https://github.com/lorenzog/dns-parallel-prober">GitHub</a></td>
 <td>Parallelised domain name prober for subdomain enumeration</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/dnscan.png"></td>
+<td><img src="assets/discovery/dnscan.jpg"></td>
 <td><b>dnscan</b></td>
 <td><a href="https://github.com/rbsec/dnscan">GitHub</a></td>
 <td>Python wordlist-based DNS subdomain scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/knock.png"></td>
+<td><img src="assets/discovery/knock.png"></td>
 <td><b>knock</b></td>
 <td><a href="https://github.com/guelfoweb/knock">GitHub</a></td>
 <td>Enumerate subdomains on a target domain through a wordlist</td>
@@ -361,77 +361,77 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/dnsx.png"></td>
+<td><img src="assets/discovery/dnsx.png"></td>
 <td><b>dnsx</b></td>
 <td><a href="https://github.com/projectdiscovery/dnsx">GitHub</a></td>
 <td>Fast and multi-purpose DNS toolkit for running DNS queries</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/subfinder.png"></td>
+<td><img src="assets/discovery/subfinder.png"></td>
 <td><b>subfinder</b></td>
 <td><a href="https://github.com/projectdiscovery/subfinder">GitHub</a></td>
 <td>Subdomain discovery tool that finds valid subdomains for websites</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/assetfinder.png"></td>
+<td><img src="assets/discovery/assetfinder.jpg"></td>
 <td><b>assetfinder</b></td>
 <td><a href="https://github.com/tomnomnom/assetfinder">GitHub</a></td>
 <td>Find domains and subdomains related to a given domain</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/crtndstry.png"></td>
+<td><img src="assets/discovery/crtndstry.png"></td>
 <td><b>crtndstry</b></td>
 <td><a href="https://github.com/nahamsec/crtndstry">GitHub</a></td>
 <td>Yet another subdomain finder</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/VHostScan.png"></td>
+<td><img src="assets/discovery/VHostScan.png"></td>
 <td><b>VHostScan</b></td>
 <td><a href="https://github.com/codingo/VHostScan">GitHub</a></td>
 <td>Virtual host scanner that performs reverse lookups</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/scilla.png"></td>
+<td><img src="assets/discovery/scilla.png"></td>
 <td><b>scilla</b></td>
 <td><a href="https://github.com/edoardottt/scilla">GitHub</a></td>
 <td>Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/sub3suite.png"></td>
+<td><img src="assets/discovery/sub3suite.png"></td>
 <td><b>sub3suite</b></td>
 <td><a href="https://github.com/3nock/sub3suite">GitHub</a></td>
 <td>Research-grade suite of tools for subdomain enumeration</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/cero.png"></td>
+<td><img src="assets/discovery/cero.jpg"></td>
 <td><b>cero</b></td>
 <td><a href="https://github.com/glebarez/cero">GitHub</a></td>
 <td>Scrape domain names from SSL certificates of arbitrary hosts</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/shosubgo.png"></td>
+<td><img src="assets/discovery/shosubgo.jpg"></td>
 <td><b>shosubgo</b></td>
 <td><a href="https://github.com/incogbyte/shosubgo">GitHub</a></td>
 <td>Tool to grab subdomains using Shodan API</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/haktrails.png"></td>
+<td><img src="assets/discovery/haktrails.png"></td>
 <td><b>haktrails</b></td>
 <td><a href="https://github.com/hakluke/haktrails">GitHub</a></td>
 <td>Golang client for querying SecurityTrails API data</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/bbot.png"></td>
+<td><img src="assets/discovery/bbot.png"></td>
 <td><b>bbot</b></td>
 <td><a href="https://github.com/blacklanternsecurity/bbot">GitHub</a></td>
 <td>Recursive internet scanner for hackers</td>
@@ -439,7 +439,7 @@
 
 
 <tr>
-<td><img src="assets/tools/wappalyzer.png"></td>
+<td><img src="assets/discovery/wappalyzer.jpg"></td>
 <td><b>wappalyzer</b></td>
 <td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
 <td>Identify technology on websites.</td>
@@ -453,28 +453,28 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/python-builtwith.png"></td>
+<td><img src="assets/discovery/python-builtwith.jpg"></td>
 <td><b>python-builtwith</b></td>
 <td><a href="https://github.com/claymation/python-builtwith">GitHub</a></td>
 <td>BuiltWith API client.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/whatweb.png"></td>
+<td><img src="assets/discovery/whatweb.png"></td>
 <td><b>whatweb</b></td>
 <td><a href="https://github.com/urbanadventurer/whatweb">GitHub</a></td>
 <td>Next generation web scanner.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/retire-js.png"></td>
+<td><img src="assets/discovery/retire.js"></td>
 <td><b>retire.js</b></td>
 <td><a href="https://github.com/RetireJS/retire.js">GitHub</a></td>
 <td>Scanner detecting JavaScript libraries with known vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/httpx.png"></td>
+<td><img src="assets/discovery/httpx.jpg"></td>
 <td><b>httpx</b></td>
 <td><a href="https://github.com/projectdiscovery/httpx">GitHub</a></td>
 <td>Fast and multi-purpose HTTP toolkit for probing.</td>
