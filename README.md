@@ -883,7 +883,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/cve_search.png"></td>
+<td><img src="assets/vulnerabilities/CVE Search.jpg"></td>
 <td><b>CVE Search</b></td>
 <td><a href="https://github.com/cve-search/cve-search">Github</a></td>
 <td>The main objective of the "cve search" is to avoid doing direct and public lookups into the public CVE databases.</td>
@@ -940,14 +940,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/snyk.png"></td>
+<td><img src="assets/vulnerabilities/Security.snyk.io.jpg"></td>
 <td><b>Security.snyk.io</b></td>
 <td><a href="https://security.snyk.io/">Website</a></td>
 <td>Open Source Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/mend_vulnerability_database.png"></td>
+<td><img src="assets/vulnerabilities/Mend Vulnerability Database.png"></td>
 <td><b>Mend Vulnerability Database</b></td>
 <td><a href="https://www.mend.io/vulnerability-database/">Website</a></td>
 <td>The largest open source vulnerability DB</td>
@@ -961,7 +961,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/cvedetails.png"></td>
+<td><img src="assets/vulnerabilities/CVE Details.png"></td>
 <td><b>CVE Details</b></td>
 <td><a href="https://www.cvedetails.com/">Website</a></td>
 <td>The ultimate security vulnerability datasource</td>
@@ -989,14 +989,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/vuldb.png"></td>
+<td><img src="assets/vulnerabilities/VulDB.png"></td>
 <td><b>VulDB</b></td>
 <td><a href="https://vuldb.com/">Website</a></td>
 <td>Number one vulnerability database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/scanfactory.png"></td>
+<td><img src="assets/vulnerabilities/ScanFactory.jpg"></td>
 <td><b>ScanFactory</b></td>
 <td><a href="https://in.scanfactory.io/cvemon.html">Website</a></td>
 <td>Realtime Security Monitoring</td>
@@ -1010,14 +1010,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/google_project_zero.png"></td>
+<td><img src="assets/vulnerabilities/Google Project Zero.png"></td>
 <td><b>Google Project Zero</b></td>
 <td><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary">Website</a></td>
 <td>Vulnerabilities including Zero Days</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/trickest_cve.png"></td>
+<td><img src="assets/vulnerabilities/trickest.jpeg"></td>
 <td><b>Trickest CVE Repository</b></td>
 <td><a href="https://github.com/trickest/cve">GitHub</a></td>
 <td>Gather and update all available and newest CVEs with their PoC</td>
