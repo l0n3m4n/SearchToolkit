@@ -3085,25 +3085,25 @@ made to help you during your investigations</td>
       <td>GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking). </td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/dorking/NetoGraph.png"></td>
       <td><b>NetoGraph</b></td>
       <td><a href="https://netograph.io/">Website</a></td>
       <td>Captures and indexes detailed, low-level snapshots of website behavior</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/dorking/DorkSearch.png"></td>
       <td><b>DorkSearch</b></td>
       <td><a href="https://dorksearch.com/">Website</a></td>
       <td>Speed up your Dorking</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/dorking/usersearch.org.jpg"></td>
       <td><b>usersearch.org</b></td>
       <td><a href="https://usersearch.org/">Website</a></td>
       <td>Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/dorking/Pastebin.png"></td>
       <td><b>Pastebin</b></td>
       <td><a href="https://pastebin.com/">Website</a></td>
       <td>Website where you can store text online for a set period of time</td>
