@@ -67,6 +67,7 @@
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#domains"><b>Domains</b></a> | 
+  <a href="#web-history"><b>Web History</b></a> | 
   <a href="#dns"><b>DNS</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
