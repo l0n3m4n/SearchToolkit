@@ -2218,77 +2218,65 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td>Make sure your credentials haven't been compromised</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/crackstation.net.jpg"></td>
       <td><b>crackstation.net</b></td>
       <td><a href="https://crackstation.net/">Website</a></td>
       <td>Massive pre-computed lookup tables to crack password hashes</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/hashkiller.io.png"></td>
       <td><b>HashKiller</b></td>
       <td><a href="https://hashkiller.io/listmanager">Website</a></td>
       <td>Pre-cracked Hashes, easily searchable</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>LeakedPassword</b></td>
       <td><a href="https://leakedpassword.com/">Website</a></td>
       <td>Search across multiple data breaches to see if your password has been compromised</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/BugMeNot.png"></td>
       <td><b>BugMeNot</b></td>
       <td><a href="https://bugmenot.com/">Website</a></td>
       <td>Find and share logins</td>
     </tr>
 
   <tr>
-        <td><img src="assets/leaks/LeakSearch.png"></td>
+        <td><img src="assets/credentials-leaks/LeakSearch.png"></td>
         <td><b>LeakSearch</b></td>
         <td><a href="https://github.com/JoelGMSec/LeakSearch">Github</a></td>
         <td>A tool search and parse plain text passwords using ProxyNova COMB (Combination Of Many Breaches) over the Internet.</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/WikiLeaks.jpg"></td>
       <td><b>WikiLeaks</b></td>
       <td><a href="https://wikileaks.org/">Website</a></td>
       <td>News leaks and classified media provided by anonymous sources</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/Leak-Lookup.png"></td>
       <td><b>Leak-Lookup</b></td>
       <td><a href="https://leak-lookup.com/">Website</a></td>
       <td>Search across thousands of data breaches</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/Snusbase.jpg"></td>
       <td><b>Snusbase</b></td>
       <td><a href="https://snusbase.com/">Website</a></td>
       <td>Stay on top of the latest database breaches</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/breachdirectory.or.jpg"></td>
       <td><b>breachdirectory.org</b></td>
       <td><a href="https://breachdirectory.org/">Website</a></td>
       <td>Check if your information was exposed in a data breach</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/credentials-leaks/BreachForums.jpg"></td>
       <td><b>BreachForums</b></td>
-      <td><a href="https://breached.to/">Website</a></td>
+      <td><a href="https://breached.to/">Onion Website</a></td>
       <td>Breaches, Data leaks, databases, and more</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>Siph0n Breach DB (onionsite)</b></td>
-      <td><a href="https://siphondkh34l5vki.onion/">Onion Site</a></td>
-      <td>Breaches, Data leaks, Exploits</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>Exposed Forum</b></td>
-      <td><a href="https://exposed.vc/">Website</a></td>
-      <td>The premier Databreach discussion & leaks forum</td>
     </tr>
   </tbody>
 </table>
