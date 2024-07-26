@@ -1256,7 +1256,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/dns_tunnel.png"></td>
+<td><img src="assets/exploits/DNS Tunnel Keylogger.png"></td>
 <td><b>DNS Tunnel Keylogger</b></td>
   <td><a href="https://github.com/Geeoon/DNS-Tunnel-Keylogger">Github</a></td>
 <td> Keylogging server and client that uses DNS tunneling/exfiltration to transmit keystrokes through firewalls. </td>
