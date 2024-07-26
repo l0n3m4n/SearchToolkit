@@ -71,7 +71,7 @@
   <a href="#dns"><b>DNS</b></a> | 
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
-  <a href="#dorking "><b>Dorking</b></a> |
+  <a href="#dorking"><b>Dorking</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#ioc-scanner"><b>IOC Scanner</b></a> |
