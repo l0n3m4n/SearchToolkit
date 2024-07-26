@@ -1315,14 +1315,14 @@
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/attack-surface/fullhunt-logo.png"></td>
+<td><img src="assets/attack-surface/FullHunt.io.png"></td>
 <td><b>FullHunt.io</b></td>
 <td><a href="https://fullhunt.io/">Website</a></td>
 <td>Attack surface database of the entire Internet</td>
 </tr>
 
 <tr>
-<td><img src="assets/attack-surface/binaryedge.png"></td>
+<td><img src="assets/attack-surface/BinaryEdge.jpg"></td>
 <td><b>BinaryEdge</b></td>
 <td><a href="https://www.binaryedge.io/">Website</a></td>
 <td>We scan the web and gather data for you</td>
