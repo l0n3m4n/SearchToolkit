@@ -214,7 +214,7 @@
 <tbody>
 
 <tr>
-<td><img src="assets/tools/sublist3r.png"></td>
+<td><img src="assets/"></td>
 <td><b>Sublist3r</b></td>
 <td><a href="https://github.com/aboul3la/Sublist3r">GitHub</a></td>
 <td>Fast subdomains enumeration tool for penetration testers</td>
@@ -284,14 +284,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/Turbolist3r.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Turbolist3r</b></td>
 <td><a href="https://github.com/fleetcaptain/Turbolist3r">GitHub</a></td>
 <td>Subdomain enumeration tool with analysis features</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/as3nt.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>as3nt</b></td>
 <td><a href="https://github.com/cinerieus/as3nt">GitHub</a></td>
 <td>Another Subdomain Enumeration Tool</td>
@@ -305,7 +305,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/Substr3am.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Substr3am</b></td>
 <td><a href="https://github.com/nexxai/Substr3am">GitHub</a></td>
 <td>Passive reconnaissance/enumeration using SSL certificates</td>
@@ -319,14 +319,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/altdns.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>altdns</b></td>
 <td><a href="https://github.com/infosec-au/altdns">GitHub</a></td>
 <td>Generates permutations, alterations, and mutations of subdomains</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/brutesubs.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>brutesubs</b></td>
 <td><a href="https://github.com/anshumanbh/brutesubs">GitHub</a></td>
 <td>Automation framework for running multiple subdomain bruteforcing tools</td>
@@ -354,7 +354,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/hakrevdns.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>hakrevdns</b></td>
 <td><a href="https://github.com/hakluke/hakrevdns">GitHub</a></td>
 <td>Tool for performing reverse DNS lookups en masse</td>
@@ -446,7 +446,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/webanalyze.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>webanalyze</b></td>
 <td><a href="https://github.com/rverton/webanalyze">GitHub</a></td>
 <td>Port of Wappalyzer to automate mass scanning.</td>
