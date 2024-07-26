@@ -904,7 +904,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/attackerKB.png"></td>
+<td><img src="assets/vulnerabilities/ .png"></td>
 <td><b>AttackerKB</b></td>
 <td><a href="https://attackerkb.com/">Website</a></td>
 <td> AttackerKB is a technical analysis tool on which you can search vulnerabilities that are rated by the community.</td>
@@ -1017,7 +1017,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/trickest.jpeg"></td>
+<td><img src="assets/vulnerabilities/trickest.jpg"></td>
 <td><b>Trickest CVE Repository</b></td>
 <td><a href="https://github.com/trickest/cve">GitHub</a></td>
 <td>Gather and update all available and newest CVEs with their PoC</td>
