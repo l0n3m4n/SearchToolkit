@@ -650,7 +650,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/discovery/waymore.png"></td>
 <td><b>xnLinkFinder</b></td>
 <td><a href="https://github.com/xnl-h4ck3r/xnLinkFinder">GitHub</a></td>
 <td>A Python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target.</td>
