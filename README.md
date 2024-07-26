@@ -467,7 +467,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/discovery/retire.js"></td>
+<td><img src="assets/discovery/retire.jpg"></td>
 <td><b>retire.js</b></td>
 <td><a href="https://github.com/RetireJS/retire.js">GitHub</a></td>
 <td>Scanner detecting JavaScript libraries with known vulnerabilities.</td>
