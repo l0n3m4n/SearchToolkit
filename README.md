@@ -1199,7 +1199,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Shell-storm.org/shellcode</b></td>
 <td><a href="https://shell-storm.org/shellcode/index.html">Website</a></td>
 <td>Shellcodes database for study cases</td>
