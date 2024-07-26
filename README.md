@@ -643,14 +643,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/waymore.png"></td>
+<td><img src="assets/discovery/waymore.png"></td>
 <td><b>waymore</b></td>
 <td><a href="https://github.com/xnl-h4ck3r/waymore">GitHub</a></td>
 <td>Finds more from the Wayback Machine.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/xnlinkfinder.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>xnLinkFinder</b></td>
 <td><a href="https://github.com/xnl-h4ck3r/xnLinkFinder">GitHub</a></td>
 <td>A Python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target.</td>
@@ -664,98 +664,98 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/param-miner.png"></td>
+<td><img src="assets/discovery/param-miner.png"></td>
 <td><b>param-miner</b></td>
 <td><a href="https://github.com/PortSwigger/param-miner">GitHub</a></td>
 <td>Identifies hidden, unlinked parameters, useful for finding web cache poisoning vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/parampampam.png"></td>
+<td><img src="assets/discovery/ParamPamPam.png"></td>
 <td><b>ParamPamPam</b></td>
 <td><a href="https://github.com/Bo0oM/ParamPamPam">GitHub</a></td>
 <td>Tool for brute discovering GET and POST parameters.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/arjun.png"></td>
+<td><img src="assets/discovery/Arjun.png"></td>
 <td><b>Arjun</b></td>
 <td><a href="https://github.com/s0md3v/Arjun">GitHub</a></td>
 <td>HTTP parameter discovery suite.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/paramspider.png"></td>
+<td><img src="assets/discovery/ParamSpider.jpg"></td>
 <td><b>ParamSpider</b></td>
 <td><a href="https://github.com/devanshbatham/ParamSpider">GitHub</a></td>
 <td>Mines parameters from dark corners of Web Archives.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/x8.png"></td>
+<td><img src="assets/discovery/x8.jpg"></td>
 <td><b>x8</b></td>
 <td><a href="https://github.com/Sh1Yo/x8">GitHub</a></td>
 <td>Hidden parameters discovery suite written in Rust.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/wfuzz.png"></td>
+<td><img src="assets/discovery/wfuzz.png"></td>
 <td><b>wfuzz</b></td>
 <td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
 <td>Web application fuzzer.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/ffuf.png"></td>
+<td><img src="assets/discovery/ffuf.png"></td>
 <td><b>ffuf</b></td>
 <td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
 <td>Fast web fuzzer written in Go.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/fuzzdb.png"></td>
+<td><img src="assets/discovery/fuzzdb.png"></td>
 <td><b>fuzzdb</b></td>
 <td><a href="https://github.com/fuzzdb-project/fuzzdb">GitHub</a></td>
 <td>Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/intruderpayloads.png"></td>
+<td><img src="assets/discovery/IntruderPayloads.png"></td>
 <td><b>IntruderPayloads</b></td>
 <td><a href="https://github.com/1N3/IntruderPayloads">GitHub</a></td>
 <td>Collection of Burpsuite Intruder payloads, fuzz lists, and web pentesting methodologies.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/fuzz.txt.png"></td>
+<td><img src="assets/discovery/fuzz.png"></td>
 <td><b>fuzz.txt</b></td>
 <td><a href="https://github.com/Bo0oM/fuzz.txt">GitHub</a></td>
 <td>Potentially dangerous files.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/fuzzilli.png"></td>
+<td><img src="assets/discovery/fuzzilli.png"></td>
 <td><b>fuzzilli</b></td>
 <td><a href="https://github.com/googleprojectzero/fuzzilli">GitHub</a></td>
 <td>JavaScript Engine Fuzzer.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/fuzzapi.png"></td>
+<td><img src="assets/discovery/fuzzapi.png"></td>
 <td><b>fuzzapi</b></td>
 <td><a href="https://github.com/Fuzzapi/fuzzapi">GitHub</a></td>
 <td>REST API pentesting tool that uses API_Fuzzer gem.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/qsfuzz.png"></td>
+<td><img src="assets/discovery/qsfuzz.jpg"></td>
 <td><b>qsfuzz</b></td>
 <td><a href="https://github.com/ameenmaali/qsfuzz">GitHub</a></td>
 <td>Allows building custom rules to fuzz query strings and identify vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/tools/vaf.png"></td>
+<td><img src="assets/discovery/vaf.jpg"></td>
 <td><b>vaf</b></td>
 <td><a href="https://github.com/d4rckh/vaf">GitHub</a></td>
 <td>Very advanced (web) fuzzer written in Nim.</td>
