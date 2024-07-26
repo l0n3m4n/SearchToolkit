@@ -228,7 +228,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/tools/massdns.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>massdns</b></td>
 <td><a href="https://github.com/blechschmidt/massdns">GitHub</a></td>
 <td>High-performance DNS stub resolver for bulk lookups</td>
