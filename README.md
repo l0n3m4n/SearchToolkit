@@ -877,7 +877,7 @@
 <td><img src="assets/vulnerabilities/nuclei.jpg"></td>
 <td><b>nuclei</b></td>
 <td><a href="https://github.com/projectdiscovery/nuclei">GitHub</a></td>
-<td>Fast and customizable vulnerability scanner based on simple YAML based DSL. (</td>
+<td>Fast and customizable vulnerability scanner based on simple YAML based DSL.</td>
 </tr>
 
 
