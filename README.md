@@ -2352,271 +2352,271 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
       <td><b>MITRE ATT&CK</b></td>
       <td><a href="https://attack.mitre.org/">Website</a></td>
       <td>Globally-accessible knowledge base of adversary tactics and techniques</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/PulseDive.jpg"></td>
       <td><b>PulseDive</b></td>
       <td><a href="https://pulsedive.com/">Website</a></td>
       <td>Threat intelligence made easy</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/ThreatCrowd.jpg"></td>
       <td><b>ThreatCrowd</b></td>
       <td><a href="https://threatcrowd.org/">Website</a></td>
       <td>A Search Engine for Threats</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/ThreatMiner.png"></td>
       <td><b>ThreatMiner</b></td>
       <td><a href="https://www.threatminer.org/">Website</a></td>
       <td>Data Mining for Threat Intelligence</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/VirusTotal.png"></td>
       <td><b>VirusTotal</b></td>
       <td><a href="https://www.virustotal.com/">Website</a></td>
       <td>Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/vx-underground.png"></td>
       <td><b>vx-underground.org</b></td>
       <td><a href="https://www.vx-underground.org/">Website</a></td>
       <td>The largest collection of malware source code, samples, and papers on the internet</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/bazaar.abuse.png"></td>
       <td><b>bazaar.abuse.ch</b></td>
       <td><a href="https://bazaar.abuse.ch/browse/">Website</a></td>
       <td>Malware sample database</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/feodotracker.abuse.ch.jpg"></td>
       <td><b>feodotracker.abuse.ch</b></td>
       <td><a href="https://feodotracker.abuse.ch/browse/">Website</a></td>
       <td>List of botnet Command&Control servers</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/sslbl.abuse.ch.png"></td>
       <td><b>sslbl.abuse.ch</b></td>
       <td><a href="https://sslbl.abuse.ch/ssl-certificates/">Website</a></td>
       <td>All malicious SSL certificates</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/urlhaus.abuse.ch.jpg"></td>
       <td><b>urlhaus.abuse.ch</b></td>
       <td><a href="https://urlhaus.abuse.ch/browse/">Website</a></td>
       <td>Propose new malware urls</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/threatfox.abuse.ch.jpg"></td>
       <td><b>threatfox.abuse.ch</b></td>
       <td><a href="https://threatfox.abuse.ch/browse/">Website</a></td>
       <td>Indicator Of Compromise (IOC) database</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/yaraify.abuse.ch.jpg"></td>
       <td><b>yaraify.abuse.ch</b></td>
       <td><a href="https://yaraify.abuse.ch/">Website</a></td>
       <td>Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/rescure.me.png"></td>
       <td><b>Rescure</b></td>
       <td><a href="https://rescure.me/">Website</a></td>
       <td>Curated cyber threat intelligence for everyone</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/otx.alienvault.png"></td>
       <td><b>otx.alienvault</b></td>
       <td><a href="https://otx.alienvault.com/">Website</a></td>
       <td>The World's First Truly Open Threat Intelligence Community</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/urlquery.net.jpg"></td>
       <td><b>urlquery.net</b></td>
       <td><a href="https://urlquery.net/">Website</a></td>
       <td>Service for detecting and analyzing web-based malware</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/socradar.io.jpg"></td>
       <td><b>socradar.io</b></td>
       <td><a href="https://socradar.io/">Website</a></td>
       <td>Extension to your SOC team</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/VirusShare.jpg"></td>
       <td><b>VirusShare</b></td>
       <td><a href="https://virusshare.com/">Website</a></td>
       <td>System currently contains 48 million malware samples</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/PassiveTotal.jpg"></td>
       <td><b>PassiveTotal</b></td>
       <td><a href="https://www.riskiq.com/products/passivetotal/">Website</a></td>
       <td>Security intelligence that scales security operations and response</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/malapi.io.jpg"></td>
       <td><b>malapi.io</b></td>
       <td><a href="https://malapi.io/">Website</a></td>
       <td>Windows APIs used for malicious purposes</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/filesec.io.jpg"></td>
       <td><b>filesec.io</b></td>
       <td><a href="https://filesec.io/">Website</a></td>
       <td>Latest file extensions being used by attackers</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/leakix.net.jpg"></td>
       <td><b>leakix.net</b></td>
       <td><a href="https://leakix.net/">Website</a></td>
       <td>Search engine indexing public information and an open reporting platform linked to the results</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/tria.ge.png"></td>
       <td><b>tria.ge</b></td>
       <td><a href="https://tria.ge/s">Website</a></td>
       <td>Fully automated solution for high-volume malware analysis using advanced sandboxing technology</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Polyswarm.png"></td>
       <td><b>Polyswarm</b></td>
       <td><a href="https://polyswarm.network/">Website</a></td>
       <td>Launchpad for new technologies and innovative threat detection methods</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Cisco Talos.png"></td>
       <td><b>Cisco Talos</b></td>
       <td><a href="https://talosintelligence.com/">Website</a></td>
       <td>The threat intelligence organization at the center of the Cisco Security portfolio</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/scamsearch.io.png"></td>
       <td><b>scamsearch.io</b></td>
       <td><a href="https://scamsearch.io/#anchorCeckNow">Website</a></td>
       <td>Find your scammer online & report them</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>CyberCampaigns</b></td>
       <td><a href="http://www.cybercampaigns.net/">Website</a></td>
       <td>Threat Actor information and Write-Ups</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/ORKL.png"></td>
       <td><b>ORKL</b></td>
       <td><a href="https://orkl.eu/">Website</a></td>
       <td>The Community Driven Cyber Threat Intelligence Library</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Maltiverse.jpg"></td>
       <td><b>Maltiverse</b></td>
       <td><a href="https://maltiverse.com/search">Website</a></td>
       <td>Data from more than 100 different Threat Intelligence sources</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Inquest Labs.png"></td>
       <td><b>Inquest Labs</b></td>
       <td><a href="https://labs.inquest.net/">Website</a></td>
       <td>Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/PhishTank.png"></td>
       <td><b>PhishTank</b></td>
       <td><a href="https://phishtank.org/">Website</a></td>
       <td>Collaborative clearing house for data and information about phishing on the Internet</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/IntelOwl.png"></td>
       <td><b>IntelOwl</b></td>
       <td><a href="https://github.com/intelowlproject/IntelOwl">GitHub</a></td>
       <td>Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Lupovis.jpg"></td>
       <td><b>Lupovis</b></td>
       <td><a href="https://prowl.lupovis.io/">Website</a></td>
       <td>Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/AbuseIPDB.png"></td>
       <td><b>AbuseIPDB</b></td>
       <td><a href="https://www.abuseipdb.com/">Website</a></td>
       <td>Check the report history of any IP address to see if anyone else has reported malicious activities</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Sucuri SiteCheck.jpg"></td>
       <td><b>Sucuri SiteCheck</b></td>
       <td><a href="https://sitecheck.sucuri.net/">Website</a></td>
       <td>Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Spamhaus.jpg"></td>
       <td><b>Spamhaus</b></td>
       <td><a href="https://spamhaus.com">Website</a></td>
       <td>Protect and investigate using IP and domain reputation data</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/ThreatBook.jpg"></td>
       <td><b>ThreatBook</b></td>
       <td><a href="https://threatbook.io/">Website</a></td>
       <td>One step ahead of your adversary with high-fidelity, efficient and actionable cyber threat intelligence</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/ShadowServer.png"></td>
       <td><b>ShadowServer</b></td>
       <td><a href="https://www.shadowserver.org/">Website</a></td>
       <td>Nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Team Cymru.jpg"></td>
       <td><b>Team Cymru</b></td>
       <td><a href="https://www.team-cymru.com/">Website</a></td>
       <td>Global leader in cyber threat intelligence and attack surface management</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/BeVigil.png"></td>
       <td><b>BeVigil</b></td>
       <td><a href="https://bevigil.com/">Website</a></td>
       <td>Search engine for mobile application security testing</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/CIRCL.jpg"></td>
       <td><b>CIRCL</b></td>
       <td><a href="https://www.circl.lu/">Website</a></td>
       <td>The Computer Incident Response Center Luxembourg is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/MetaDefender Cloud.png"></td>
       <td><b>MetaDefender Cloud</b></td>
       <td><a href="https://metadefender.opswat.com/">Website</a></td>
       <td>Advanced threat detection and prevention platform</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Cybersixgill.png"></td>
       <td><b>Cybersixgill</b></td>
       <td><a href="https://cybersixgill.com/">Website</a></td>
       <td>Threat intelligence platform that provides access to a wide range of cybersecurity information, including dark web monitoring and threat actor analysis</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/Hybrid Analysis.jpg"></td>
       <td><b>Hybrid Analysis</b></td>
       <td><a href="https://www.hybrid-analysis.com/">Website</a></td>
       <td>Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/threat-intelligence/IBM X-Force Exchange.jpg"></td>
       <td><b>IBM X-Force Exchange</b></td>
       <td><a href="https://exchange.xforce.ibmcloud.com/">Website</a></td>
       <td>Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers</td>
     </tr>
     <tr>
-      <td><img src="assets/threat_intelligence/threat-intelligence-removebg-pre.png"></td>
+      <td><img src="assets/threat-intelligence/C2-Trackers.png"></td>
       <td><b>C2-Trackers</b></td>
       <td><a href="https://github.com/montysecurity/C2-Tracker">Github</a></td>
       <td>Free to use IOC feed for various tools/malware. It started out for just C2 tools but has morphed into tracking infostealers and botnets as well. It uses Shodan searches to collect the IPs. The most recent collection is always stored in data; the IPs are broken down by tool and there is an all.txt.</td>
