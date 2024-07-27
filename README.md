@@ -1202,7 +1202,7 @@
 <td><img src="assets/vulnerability-scanner/nuclei.jpg"></td>
 <td><b>Nuclei</b></td>
 <td><a href="https://github.com/projectdiscovery/nuclei">GitHub</a></td>
-<td>Fast and customizable vulnerability scanner based on simple YAML based DSL.</td>
+<td>(network-web) - Fast and customizable vulnerability scanner based on simple YAML based DSL.</td>
 </tr>
 
 
@@ -1210,71 +1210,70 @@
 <td><img src="assets/vulnerability-scanner/zap.jpg"></td>
 <td><b>OWASP ZAP</b></td>
 <td><a href="https://github.com/zaproxy/zaproxy">GitHub</a></td>
-<td>Dynamic application security testing tool for finding vulnerabilities in web applications.</td>
+<td>(web) - Dynamic application security testing tool for finding vulnerabilities in web applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/nmap.jpg"></td>
 <td><b>Nmap</b></td>
 <td><a href="https://github.com/nmap/nmap">GitHub</a></td>
-<td>Powerful network scanner with built-in vulnerability scanning capabilities.</td>
+<td>(network-web) Powerful network scanner with built-in vulnerability scanning capabilities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/nikto.jpg"></td>
 <td><b>Nikto</b></td>
 <td><a href="https://github.com/sullo/nikto">GitHub</a></td>
-<td>Web server scanner for detecting vulnerabilities and misconfigurations.</td>
+<td>(web) - Web server scanner for detecting vulnerabilities and misconfigurations.</td>
 </tr>
 
 <tr>
 <td><img src="assets/command-control/Metasploit.jpg"></td>
 <td><b>Metasploit</b></td>
 <td><a href="https://github.com/rapid7/metasploit-framework">Github</a></td>
-<td>Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
+<td>(network-web) - Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/vulnerability-scanner/arachni.jpg"></td>
 <td><b>Arachni</b></td>
 <td><a href="https://github.com/arachni/arachni">GitHub</a></td>
-<td>Modular web application security scanner.</td>
+<td>(web) - Modular web application security scanner.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/openvas.jpg"></td>
 <td><b>OpenVAS</b></td>
 <td><a href="https://github.com/greenbone">GitHub</a></td>
-<td>Comprehensive vulnerability scanner for network services and applications.</td>
+<td>(network-web) - Comprehensive vulnerability scanner for network services and applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td><b>Nexpose</b></td>
 <td><a href="https://www.rapid7.com/products/nexpose">Website</a></td>
-<td>Nexpose is a comprehensive vulnerability management solution developed by Rapid7. It is designed to help organizations proactively identify, assess, and address security vulnerabilities across their IT environments</td>
+<td>(network-web) - Nexpose is a comprehensive vulnerability management solution developed by Rapid7. It is designed to help organizations proactively identify, assess, and address security vulnerabilities across their IT environments</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/wapiti.jpg"></td>
 <td><b>Wapiti</b></td>
 <td><a href="https://github.com/wapiti-scanner/wapiti">GitHub</a></td>
-<td>Web application vulnerability scanner for black-box scanning.</td>
+<td>(web) - vulnerability scanner for black-box scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/vuls.jpg"></td>
 <td><b>Vuls</b></td>
 <td><a href="https://github.com/future-architect/vuls">GitHub</a></td>
-<td>Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices.</td>
+<td>(network-web) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/retirejs.jpg"></td>
 <td><b>Retire.js</b></td>
 <td><a href="https://github.com/retirejs/retire.js">GitHub</a></td>
-<td>Scans for outdated JavaScript libraries with known vulnerabilities.</td>
+<td>(web) - Scans for outdated JavaScript libraries with known vulnerabilities.</td>
 </tr>
 
 
@@ -1282,42 +1281,42 @@
 <td><img src="assets/vulnerability-scanner/clair.jpg"></td>
 <td><b>Clair</b></td>
 <td><a href="https://github.com/quay/clair">GitHub</a></td>
-<td>Static analysis of vulnerabilities in container images.</td>
+<td>(network) - Static analysis of vulnerabilities in container images.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/trivy.jpg"></td>
 <td><b>Trivy</b></td>
 <td><a href="https://github.com/aquasecurity/trivy">GitHub</a></td>
-<td>Vulnerability scanner for container images and other artifacts.</td>
+<td>(network-web) - Vulnerability scanner for container images and other artifacts.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/bandit.jpg"></td>
 <td><b>Bandit</b></td>
 <td><a href="https://github.com/PyCQA/bandit">GitHub</a></td>
-<td>Finds common security issues in Python code.</td>
+<td>(programming) - Finds common security issues in Python code.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/bandit.jpg"></td>
 <td><b>Grouper</b></td>
 <td><a href="https://github.com/l0ss/Grouper">GitHub</a></td>
-<td> (AD) A PowerShell script for helping to find vulnerable settings in AD Group Policy. (deprecated, use Grouper2 instead!)</td>
+<td>(network) - A PowerShell script for helping to find vulnerable settings in AD Group Policy. (deprecated, use Grouper2 instead!)</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/seclists.jpg"></td>
 <td><b>SecLists</b></td>
 <td><a href="https://github.com/danielmiessler/SecLists">GitHub</a></td>
-<td>Collection of multiple lists used in security assessments.</td>
+<td>(network-web) - Collection of multiple lists used in security assessments.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/sonarqube.jpg"></td>
 <td><b>SonarQube (Community Edition)</b></td>
 <td><a href="https://github.com/SonarSource/sonarqube">GitHub</a></td>
-<td>Code quality and security analysis tool.</td>
+<td>(web) - Code quality and security analysis tool.</td>
 </tr>
 
 
@@ -1325,21 +1324,21 @@
 <td><img src="assets/vulnerability-scanner/docker-bench-security.jpg"></td>
 <td><b>Docker-Bench-Security</b></td>
 <td><a href="https://github.com/docker/docker-bench-security">GitHub</a></td>
-<td>Checks Docker containers against best security practices.</td>
+<td>(network) - Checks Docker containers against best security practices.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/snyk-cli.jpg"></td>
 <td><b>Snyk CLI</b></td>
 <td><a href="https://github.com/snyk/snyk">GitHub</a></td>
-<td>Finds and fixes vulnerabilities in dependencies and Docker images.</td>
+<td>(network) - Finds and fixes vulnerabilities in dependencies and Docker images.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/owasp-dependency-check.jpg"></td>
 <td><b>OWASP Dependency-Check</b></td>
 <td><a href="https://github.com/jeremydmiller/Check">GitHub</a></td>
-<td>Identifies project dependencies with known vulnerabilities.</td>
+<td>(web) - Identifies project dependencies with known vulnerabilities.</td>
 </tr>
 
 
@@ -1347,7 +1346,7 @@
 <td><img src="assets/vulnerability-scanner/forta.jpg"></td>
 <td><b>Forta</b></td>
 <td><a href="https://github.com/forta-org/forta">GitHub</a></td>
-<td>Real-time vulnerability detection for Ethereum smart contracts.</td>
+<td>(web) - Real-time vulnerability detection for Ethereum smart contracts.</td>
 </tr>
 
 
@@ -1355,85 +1354,84 @@
 <td><img src="assets/vulnerability-scanner/sqlmap.jpg"></td>
 <td><b>sqlmap</b></td>
 <td><a href="https://github.com/sqlmapproject/sqlmap">GitHub</a></td>
-<td>Automatic SQL injection and database takeover tool.</td>
+<td>(web) - Automatic SQL injection and database takeover tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/xray.jpg"></td>
 <td><b>xray</b></td>
 <td><a href="https://github.com/chaitin/xray">GitHub</a></td>
-<td>A complete security assessment tool that supports scanning of common web security issues and custom POC | Be sure to read the documentation before using it.</td>
+<td>(web) - A complete security assessment tool that supports scanning of common web security issues and custom POC | Be sure to read the documentation before using it.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/osv-scanner.jpg"></td>
 <td><b>osv-scanner</b></td>
 <td><a href="https://github.com/google/osv-scanner">GitHub</a></td>
-<td>Vulnerability scanner written in Go which uses the data provided by.</td>
+<td>(web) - Vulnerability scanner written in Go which uses the data provided by.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/commix.jpg"></td>
 <td><b>commix</b></td>
 <td><a href="https://github.com/commixproject/commix">GitHub</a></td>
-<td>Automated All-in-One OS Command Injection Exploitation Tool.</td>
+<td>(web) - Automated All-in-One OS Command Injection Exploitation Tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/afrog.jpg"></td>
 <td><b>afrog</b></td>
 <td><a href="https://github.com/zan8in/afrog">GitHub</a></td>
-<td>afrog is a high-performance vulnerability scanner that is fast and stable. It supports user-defined PoC and comes with several built-in types, such as CVE, CNVD, default passwords, information disclosure, fingerprint identification, unauthorized access, arbitrary file reading, and command execution.</td>
+<td>(network-web) - afrog is a high-performance vulnerability scanner that is fast and stable. It supports user-defined PoC and comes with several built-in types, such as CVE, CNVD, default passwords, information disclosure, fingerprint identification, unauthorized access, arbitrary file reading, and command execution.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/nettacker.jpg"></td>
 <td><b>Nettacker</b></td>
 <td><a href="https://github.com/OWASP/Nettacker">GitHub</a></td>
-<td>Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management.</td>
+<td>(network) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/raccoon.jpg"></td>
 <td><b>Raccoon</b></td>
 <td><a href="https://github.com/evyatarmeged/Raccoon">GitHub</a></td>
-<td>A high-performance offensive security tool for reconnaissance and vulnerability scanning.</td>
+<td>(web) - A high-performance offensive security tool for reconnaissance and vulnerability scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/fuxploider.jpg"></td>
 <td><b>fuxploider</b></td>
 <td><a href="https://github.com/almandin/fuxploider">GitHub</a></td>
-<td>File upload vulnerability scanner and exploitation tool.</td>
+<td>(web) - File upload vulnerability scanner and exploitation tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/crawlergo.jpg"></td>
 <td><b>crawlergo</b></td>
 <td><a href="https://github.com/Qianlitp/crawlergo">GitHub</a></td>
-<td>A powerful browser crawler for web vulnerability scanners.</td>
+<td>(web) - A powerful browser crawler for web vulnerability scanners.</td>
 </tr>
-
  
 <tr>
 <td><img src="assets/vulnerability-scanner/golismero.jpg"></td>
 <td><b>Golismero</b></td>
 <td><a href="https://github.com/golismero/golismero">GitHub</a></td>
-<td>Open-source security tool for web application assessment.</td>
+<td>(web) - Open-source security tool for web application assessment.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/punkspider.jpg"></td>
 <td><b>PunkSpider</b></td>
 <td><a href="https://github.com/punkspider/punkspider">GitHub</a></td>
-<td>Web application vulnerability scanner and search engine.</td>
+<td>(web) - application vulnerability scanner and search engine.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/furfles.jpg"></td>
 <td><b>Furfles</b></td>
 <td><a href="https://github.com/bp0x/furfles">GitHub</a></td>
-<td>Automatic vulnerability scanner with a focus on fuzzing.</td>
+<td>(web) - Automatic vulnerability scanner with a focus on fuzzing.</td>
 </tr>
 
 
@@ -1441,29 +1439,28 @@
 <td><img src="assets/vulnerability-scanner/specter.jpg"></td>
 <td><b>Specter</b></td>
 <td><a href="https://github.com/specter/specter">GitHub</a></td>
-<td>Automated security testing framework for web applications.</td>
+<td>(web) - Automated security testing framework for web applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/sn1per.jpg"></td>
 <td><b>Sn1per</b></td>
 <td><a href="https://github.com/1N3/Sn1per">GitHub</a></td>
-<td>Penetration testing tool for vulnerability scanning and enumeration.</td>
+<td>(network-web) - Penetration testing tool for vulnerability scanning and enumeration.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/vulnerability-scanner/whitewidow.jpg"></td>
 <td><b>WhiteWidow</b></td>
 <td><a href="https://github.com/whitewidow/whitewidow">GitHub</a></td>
-<td>Web application vulnerability scanner with a focus on XSS.</td>
+<td>(web) - application vulnerability scanner with a focus on XSS.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/w3af.jpg"></td>
 <td><b>w3af</b></td>
 <td><a href="https://github.com/andresriancho/w3af">GitHub</a></td>
-<td>Web Application Attack and Audit Framework.</td>
+<td>(web) - Application Attack and Audit Framework.</td>
 </tr>
 
 
@@ -1471,43 +1468,42 @@
 <td><img src="assets/vulnerability-scanner/epic.jpg"></td>
 <td><b>Epic</b></td>
 <td><a href="https://github.com/epic/epic">GitHub</a></td>
-<td>Vulnerability assessment tool for identifying risks in web applications.</td>
+<td>(web) - Vulnerability assessment tool for identifying risks in web applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/vulnscan.jpg"></td>
 <td><b>Vulnscan</b></td>
 <td><a href="https://github.com/vulnscan/vulnscan">GitHub</a></td>
-<td>Vulnerability scanning and management tool.</td>
+<td>(network-web) - Vulnerability scanning and management tool.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/vulnerability-scanner/surfscan.jpg"></td>
 <td><b>Surfscan</b></td>
 <td><a href="https://github.com/surfscan/surfscan">GitHub</a></td>
-<td>Lightweight tool for web vulnerability scanning.</td>
+<td>(web) - Lightweight tool for web vulnerability scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/chaos.jpg"></td>
 <td><b>Chaos</b></td>
 <td><a href="https://github.com/chaos/chaos">GitHub</a></td>
-<td>Comprehensive vulnerability and security assessment tool.</td>
+<td>(network-web) - Comprehensive vulnerability and security assessment tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/venus.jpg"></td>
 <td><b>Venus</b></td>
 <td><a href="https://github.com/venus/venus">GitHub</a></td>
-<td>Advanced tool for web application vulnerability scanning.</td>
+<td>(web) - Advanced tool for web application vulnerability scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/pulse.jpg"></td>
 <td><b>Pulse</b></td>
 <td><a href="https://github.com/pulse/pulse">GitHub</a></td>
-<td>Real-time vulnerability detection for web applications.</td>
+<td>(web) - Real-time vulnerability detection for web applications.</td>
 </tr>
 
 </tbody>
