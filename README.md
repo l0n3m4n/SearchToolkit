@@ -227,49 +227,49 @@
 <td><img src="assets/discovery/ffuf.png"></td>
 <td><b>ffuf</b></td>
 <td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
-<td>(general-recon) - Fast web fuzzer written in Go.</td>
+<td>(general-recon): Fast web fuzzer written in Go.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/gobuster.png"></td>
 <td><b>gobuster</b></td>
 <td><a href="https://github.com/OJ/gobuster">GitHub</a></td>
-<td>(general-recon) - DNS and VHost busting tool written in Go.</td>
+<td>(general-recon): DNS and VHost busting tool written in Go.</td>
 </tr> 
 
 <tr>
 <td><img src="assets/discovery/wappalyzer.jpg"></td>
 <td><b>wappalyzer</b></td>
 <td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
-<td>(technologies) - Identify technology on websites.</td>
+<td>(technologies): Identify technology on websites.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/sublist3r.jpg"></td>
 <td><b>Sublist3r</b></td>
 <td><a href="https://github.com/aboul3la/Sublist3r">GitHub</a></td>
-<td>(subdomain) - Fast subdomains enumeration tool for penetration testers</td>
+<td>(subdomain): Fast subdomains enumeration tool for penetration testers</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/katana.png"></td>
 <td><b>katana</b></td>
 <td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
-<td>(crawling) - A next-generation crawling and spidering framework.</td>
+<td>(crawling): A next-generation crawling and spidering framework.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/"></td>
 <td><b>BloodHound</b></td>
 <td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
-<td>(AD) - BloodHound is a powerful tool used for Active Directory (AD) security assessments. It helps identify and analyze security vulnerabilities and relationships within an Active Directory environment.</td>
+<td>(AD): BloodHound is a powerful tool used for Active Directory (AD) security assessments. It helps identify and analyze security vulnerabilities and relationships within an Active Directory environment.</td>
 
 </tr>
 <tr>
 <td><img src="assets/discovery/"></td>
 <td><b>CrackMapExec</b></td>
 <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">GitHub</a></td>
-<td>(network) - A swiss army knife for pentesting networks </td>
+<td>(network): A swiss army knife for pentesting networks </td>
 </tr>
 
 
@@ -277,7 +277,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>Recon-AD</b></td>
 <td><a href="https://github.com/outflanknl/Recon-AD">GitHub</a></td>
-<td>(AD) - recon-ad tool based on ADSI and reflective DLL’s</td>
+<td>(AD): recon-ad tool based on ADSI and reflective DLL’s</td>
 </tr>
 
 
@@ -285,7 +285,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>PSPKIAudit</b></td>
 <td><a href="https://github.com/GhostPack/PSPKIAudit">GitHub</a></td>
-<td>(AD CS) - PowerShell toolkit for auditing Active Directory Certificate Services.</td>
+<td>(AD CS): PowerShell toolkit for auditing Active Directory Certificate Services.</td>
 </tr>
 
 
@@ -293,77 +293,77 @@
 <td><img src="assets/discovery/"></td>
 <td><b>ImproHound</b></td>
 <td><a href="https://github.com/improsec/ImproHound">GitHub</a></td>
-<td>(AD) - sIdentify the attack paths in BloodHound breaking your AD tiering</td>
+<td>(AD): sIdentify the attack paths in BloodHound breaking your AD tiering</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/"></td>
 <td><b>ADRecon</b></td>
 <td><a href="https://github.com/adrecon/ADRecon">GitHub</a></td>
-<td>(AD) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.</td>
+<td>(AD): ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/amass.jpg"></td>
 <td><b>Amass</b></td>
 <td><a href="https://github.com/OWASP/Amass">GitHub</a></td>
-<td>(subdomain) - In-depth Attack Surface Mapping and Asset Discovery</td>
+<td>(subdomain): In-depth Attack Surface Mapping and Asset Discovery</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/wfuzz.png"></td>
 <td><b>wfuzz</b></td>
 <td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
-<td>(fuzzing) - Web application fuzzer.</td>
+<td>(fuzzing): Web application fuzzer.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/scilla.png"></td>
 <td><b>scilla</b></td>
 <td><a href="https://github.com/edoardottt/scilla">GitHub</a></td>
-<td>(subdomain) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration</td>
+<td>(subdomain): Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/httpx.jpg"></td>
 <td><b>httpx</b></td>
 <td><a href="https://github.com/projectdiscovery/httpx">GitHub</a></td>
-<td>(technologies) - Fast and multi-purpose HTTP toolkit for probing.</td>
+<td>(technologies): Fast and multi-purpose HTTP toolkit for probing.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/dirbuster-ng.png"></td>
 <td><b>dirbuster-ng</b></td>
 <td><a href="https://github.com/digination/dirbuster-ng">GitHub</a></td>
-<td>(directory) - dirbuster-ng is C CLI implementation of the Java dirbuster tool.</td>
+<td>(directory): dirbuster-ng is C CLI implementation of the Java dirbuster tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>massdns</b></td>
 <td><a href="https://github.com/blechschmidt/massdns">GitHub</a></td>
-<td>(DNS) - High-performance DNS stub resolver for bulk lookups</td>
+<td>(DNS): High-performance DNS stub resolver for bulk lookups</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/findomain.png"></td>
 <td><b>Findomain</b></td>
 <td><a href="https://github.com/Findomain/Findomain">GitHub</a></td>
-<td>(subdomain) - The fastest and cross-platform subdomain enumerator</td>
+<td>(subdomain): The fastest and cross-platform subdomain enumerator</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/findomain.png"></td>
 <td><b>RustScan</b></td>
 <td><a href="https://github.com/RustScan/RustScan">GitHub</a></td>
-<td>(ports) - The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).</td>
+<td>(ports): The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/"></td>
 <td><b>gitleaks</b></td>
 <td><a href="https://github.com/zricethezav/gitleaks">GitHub</a></td>
-<td>(web) - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.</td>
+<td>(web): Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.</td>
 </tr>
 
 
@@ -371,7 +371,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>s3scanner</b></td>
 <td><a href="https://github.com/sa7mon/S3Scanner">GitHub</a></td>
-<td>(web) - Scan for open S3 buckets and dump the contents</td>
+<td>(web): Scan for open S3 buckets and dump the contents</td>
 </tr>
 
 
@@ -379,7 +379,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>cloud_enum</b></td>
 <td><a href="https://github.com/initstring/cloud_enum">GitHub</a></td>
-<td>(cloud) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.</td>
+<td>(cloud): Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.</td>
 </tr>
 
 
@@ -387,7 +387,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>recon-ng</b></td>
 <td><a href="https://github.com/lanmaster53/recon-ng">GitHub</a></td>
-<td>(web) - Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.</td>
+<td>(web): Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.</td>
 </tr>
 
 
@@ -395,7 +395,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>witnessme</b></td>
 <td><a href="https://github.com/byt3bl33d3r/WitnessMe">GitHub</a></td>
-<td>(web) - Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier</td>
+<td>(web): Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier</td>
 </tr>
 
 
@@ -403,7 +403,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>spoofcheck</b></td>
 <td><a href="https://github.com/BishopFox/spoofcheck">GitHub</a></td>
-<td>(web) - A program that checks if a domain can be spoofed from. The program checks SPF and DMARC records for weak configurations that allow spoofing.</td>
+<td>(web): A program that checks if a domain can be spoofed from. The program checks SPF and DMARC records for weak configurations that allow spoofing.</td>
 </tr>
 
 
@@ -411,154 +411,154 @@
 <td><img src="assets/discovery/Sudomy.png"></td>
 <td><b>Sudomy</b></td>
 <td><a href="https://github.com/Screetsec/Sudomy">GitHub</a></td>
-<td>(general-recon) - Automated reconnaissance tool for bug hunting / pentesting</td>
+<td>(general-recon): Automated reconnaissance tool for bug hunting / pentesting</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/chaos-client.png"></td>
 <td><b>chaos-client</b></td>
 <td><a href="https://github.com/projectdiscovery/chaos-client">GitHub</a></td>
-<td>(subdomain) - Go client to communicate with Chaos DNS API</td>
+<td>(subdomain): Go client to communicate with Chaos DNS API</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/domained.png"></td>
 <td><b>domained</b></td>
 <td><a href="https://github.com/TypeError/domained">GitHub</a></td>
-<td>(subdomain) - Multi Tool Subdomain Enumeration</td>
+<td>(subdomain): Multi Tool Subdomain Enumeration</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/shuffledns.png"></td>
 <td><b>shuffledns</b></td>
 <td><a href="https://github.com/projectdiscovery/shuffledns">GitHub</a></td>
-<td>(subdomain) - Wrapper around massdns for subdomain enumeration with active bruteforce</td>
+<td>(subdomain): Wrapper around massdns for subdomain enumeration with active bruteforce</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/puredns.png"></td>
 <td><b>puredns</b></td>
 <td><a href="https://github.com/d3mondev/puredns">GitHub</a></td>
-<td>(subdomain) - Fast domain resolver and subdomain bruteforcing</td>
+<td>(subdomain): Fast domain resolver and subdomain bruteforcing</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/censys-subdomain-finder.jpg"></td>
 <td><b>censys-subdomain-finder</b></td>
 <td><a href="https://github.com/christophetd/censys-subdomain-finder">GitHub</a></td>
-<td>(subdomain) - enumeration using Censys certificate transparency logs</td>
+<td>(subdomain): enumeration using Censys certificate transparency logs</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>Turbolist3r</b></td>
 <td><a href="https://github.com/fleetcaptain/Turbolist3r">GitHub</a></td>
-<td>(subdomain) -  enumeration tool with analysis features</td>
+<td>(subdomain): enumeration tool with analysis features</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>as3nt</b></td>
 <td><a href="https://github.com/cinerieus/as3nt">GitHub</a></td>
-<td>(subdomain) - Another Subdomain Enumeration Tool</td>
+<td>(subdomain): Another Subdomain Enumeration Tool</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/Subra.png"></td>
 <td><b>Subra</b></td>
 <td><a href="https://github.com/si9int/Subra">GitHub</a></td>
-<td>(subdomain) - Web-UI for subdomain enumeration using subfinder</td>
+<td>(subdomain): Web-UI for subdomain enumeration using subfinder</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>Substr3am</b></td>
 <td><a href="https://github.com/nexxai/Substr3am">GitHub</a></td>
-<td>(subdomain) - Passive reconnaissance/enumeration using SSL certificates</td>
+<td>(subdomain): Passive reconnaissance/enumeration using SSL certificates</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/domain.png"></td>
 <td><b>domain</b></td>
 <td><a href="https://github.com/jhaddix/domain/">GitHub</a></td>
-<td>(subdomain) - Setup script for Recon-ng for subdomain enumeration</td>
+<td>(subdomain): Setup script for Recon-ng for subdomain enumeration</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>altdns</b></td>
 <td><a href="https://github.com/infosec-au/altdns">GitHub</a></td>
-<td>(subdomain) - Generates permutations, alterations, and mutations of subdomains</td>
+<td>(subdomain): Generates permutations, alterations, and mutations of subdomains</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>brutesubs</b></td>
 <td><a href="https://github.com/anshumanbh/brutesubs">GitHub</a></td>
-<td>(subdomain) - Automation framework for running multiple subdomain bruteforcing tools</td>
+<td>(subdomain): Automation framework for running multiple subdomain bruteforcing tools</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/dns-parallel-prober.jpg"></td>
 <td><b>dns-parallel-prober</b></td>
 <td><a href="https://github.com/lorenzog/dns-parallel-prober">GitHub</a></td>
-<td>(subdomain) - Parallelised domain name prober for subdomain enumeration</td>
+<td>(subdomain): Parallelised domain name prober for subdomain enumeration</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/dnscan.jpg"></td>
 <td><b>dnscan</b></td>
 <td><a href="https://github.com/rbsec/dnscan">GitHub</a></td>
-<td>(subdomain) - Python wordlist-based DNS subdomain scanner</td>
+<td>(subdomain): Python wordlist-based DNS subdomain scanner</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/knock.png"></td>
 <td><b>knock</b></td>
 <td><a href="https://github.com/guelfoweb/knock">GitHub</a></td>
-<td>(subdomain) - Enumerate subdomains on a target domain through a wordlist</td>
+<td>(subdomain): Enumerate subdomains on a target domain through a wordlist</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>hakrevdns</b></td>
 <td><a href="https://github.com/hakluke/hakrevdns">GitHub</a></td>
-<td>(DNS) - Tool for performing reverse DNS lookups en masse</td>
+<td>(DNS): Tool for performing reverse DNS lookups en masse</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/dnsx.png"></td>
 <td><b>dnsx</b></td>
 <td><a href="https://github.com/projectdiscovery/dnsx">GitHub</a></td>
-<td>(subdomain) - Fast and multi-purpose DNS toolkit for running DNS queries</td>
+<td>(subdomain): Fast and multi-purpose DNS toolkit for running DNS queries</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/subfinder.png"></td>
 <td><b>subfinder</b></td>
 <td><a href="https://github.com/projectdiscovery/subfinder">GitHub</a></td>
-<td>(subdomain) -  discovery tool that finds valid subdomains for websites</td>
+<td>(subdomain): discovery tool that finds valid subdomains for websites</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/assetfinder.jpg"></td>
 <td><b>assetfinder</b></td>
 <td><a href="https://github.com/tomnomnom/assetfinder">GitHub</a></td>
-<td>(subdomain) - Find domains and subdomains related to a given domain</td>
+<td>(subdomain): Find domains and subdomains related to a given domain</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/crtndstry.png"></td>
 <td><b>crtndstry</b></td>
 <td><a href="https://github.com/nahamsec/crtndstry">GitHub</a></td>
-<td>(subdomain) - Yet another subdomain finder</td>
+<td>(subdomain): Yet another subdomain finder</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/VHostScan.png"></td>
 <td><b>VHostScan</b></td>
 <td><a href="https://github.com/codingo/VHostScan">GitHub</a></td>
-<td>(vhost) - Virtual host scanner that performs reverse lookups</td>
+<td>(vhost): Virtual host scanner that performs reverse lookups</td>
 </tr>
 
 
@@ -566,35 +566,35 @@
 <td><img src="assets/discovery/sub3suite.png"></td>
 <td><b>sub3suite</b></td>
 <td><a href="https://github.com/3nock/sub3suite">GitHub</a></td>
-<td>(subdomain) - Research-grade suite of tools for subdomain enumeration</td>
+<td>(subdomain): Research-grade suite of tools for subdomain enumeration</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/cero.jpg"></td>
 <td><b>cero</b></td>
 <td><a href="https://github.com/glebarez/cero">GitHub</a></td>
-<td>(subdomain) - Scrape domain names from SSL certificates of arbitrary hosts</td>
+<td>(subdomain): Scrape domain names from SSL certificates of arbitrary hosts</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/shosubgo.jpg"></td>
 <td><b>shosubgo</b></td>
 <td><a href="https://github.com/incogbyte/shosubgo">GitHub</a></td>
-<td>(subdomain) - Tool to grab subdomains using Shodan API</td>
+<td>(subdomain): Tool to grab subdomains using Shodan API</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/haktrails.png"></td>
 <td><b>haktrails</b></td>
 <td><a href="https://github.com/hakluke/haktrails">GitHub</a></td>
-<td>(subdomain) - Golang client for querying SecurityTrails API data</td>
+<td>(subdomain): Golang client for querying SecurityTrails API data</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/bbot.png"></td>
 <td><b>bbot</b></td>
 <td><a href="https://github.com/blacklanternsecurity/bbot">GitHub</a></td>
-<td>(subdomain) - Recursive internet scanner for hackers</td>
+<td>(subdomain): Recursive internet scanner for hackers</td>
 </tr>
 
 
@@ -602,28 +602,28 @@
 <td><img src="assets/default_logo.png"></td>
 <td><b>webanalyze</b></td>
 <td><a href="https://github.com/rverton/webanalyze">GitHub</a></td>
-<td>(technologies) - Port of Wappalyzer to automate mass scanning.</td>
+<td>(technologies): Port of Wappalyzer to automate mass scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/python-builtwith.jpg"></td>
 <td><b>python-builtwith</b></td>
 <td><a href="https://github.com/claymation/python-builtwith">GitHub</a></td>
-<td>(technologies) - BuiltWith API client.</td>
+<td>(technologies): BuiltWith API client.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/whatweb.png"></td>
 <td><b>whatweb</b></td>
 <td><a href="https://github.com/urbanadventurer/whatweb">GitHub</a></td>
-<td>(technologies) - Next generation web scanner.</td>
+<td>(technologies): Next generation web scanner.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/retire.jpg"></td>
 <td><b>retire.js</b></td>
 <td><a href="https://github.com/RetireJS/retire.js">GitHub</a></td>
-<td>(technologies) - Scanner detecting JavaScript libraries with known vulnerabilities.</td>
+<td>(technologies): Scanner detecting JavaScript libraries with known vulnerabilities.</td>
 </tr>
 
 
@@ -631,7 +631,7 @@
 <td><img src="assets/discovery/fingerprintx.png"></td>
 <td><b>fingerprintx</b></td>
 <td><a href="https://github.com/praetorian-inc/fingerprintx">GitHub</a></td>
-<td>(technologies) - Standalone utility for service discovery on open ports.</td>
+<td>(technologies): Standalone utility for service discovery on open ports.</td>
 </tr>
 
 
@@ -639,42 +639,42 @@
 <td><img src="assets/default_logo.png"></td>
 <td><b>recursebuster</b></td>
 <td><a href="https://github.com/C-Sto/recursebuster">GitHub</a></td>
-<td>(content-discovery) - Rapid content discovery tool for recursively querying webservers.</td>
+<td>(content-discovery): Rapid content discovery tool for recursively querying webservers.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/feroxbuster.png"></td>
 <td><b>feroxbuster</b></td>
 <td><a href="https://github.com/epi052/feroxbuster">GitHub</a></td>
-<td>(content-discovery) - A fast, simple, recursive content discovery tool written in Rust.</td>
+<td>(content-discovery): A fast, simple, recursive content discovery tool written in Rust.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/dirsearch (Go implementation).png"></td>
 <td><b>dirsearch</b></td>
 <td><a href="https://github.com/maurosoria/dirsearch">GitHub</a></td>
-<td>(content-discovery) - Web path scanner.</td>
+<td>(content-discovery): Web path scanner.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/dirsearch.png"></td>
 <td><b>dirsearch</b></td>
 <td><a href="https://github.com/evilsocket/dirsearch">GitHub</a></td>
-<td>(content-discovery) - A Go implementation of dirsearch.</td>
+<td>(content-discovery): A Go implementation of dirsearch.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/filebuster.png"></td>
 <td><b>filebuster</b></td>
 <td><a href="https://github.com/henshin/filebuster">GitHub</a></td>
-<td>(content-discovery) - An extremely fast and flexible web fuzzer.</td>
+<td>(content-discovery): An extremely fast and flexible web fuzzer.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>dirstalk</b></td>
 <td><a href="https://github.com/stefanoj3/dirstalk">GitHub</a></td>
-<td>(content-discovery) - Modern alternative to dirbuster/dirb.</td>
+<td>(content-discovery): Modern alternative to dirbuster/dirb.</td>
 </tr>
 
 
@@ -682,196 +682,196 @@
 <td><img src="assets/discovery/gospider.png"></td>
 <td><b>gospider</b></td>
 <td><a href="https://github.com/jaeles-project/gospider">GitHub</a></td>
-<td>(content-discovery) - Gospider - Fast web spider written in Go.</td>
+<td>(content-discovery): Gospider - Fast web spider written in Go.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/hakrawler.png"></td>
 <td><b>hakrawler</b></td>
 <td><a href="https://github.com/hakluke/hakrawler">GitHub</a></td>
-<td>(content-discovery) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application.</td>
+<td>(content-discovery): Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/crawley.png"></td>
 <td><b>crawley</b></td>
 <td><a href="https://github.com/s0rg/crawley">GitHub</a></td>
-<td>(content-discovery) - Fast, feature-rich unix-way web scraper/crawler written in Golang.</td>
+<td>(content-discovery): Fast, feature-rich unix-way web scraper/crawler written in Golang.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/LinkFinder.png"></td>
 <td><b>LinkFinder</b></td>
 <td><a href="https://github.com/GerbenJavado/LinkFinder">GitHub</a></td>
-<td>(links) - A python script that finds endpoints in JavaScript files.</td>
+<td>(links): A python script that finds endpoints in JavaScript files.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>JS-Scan</b></td>
 <td><a href="https://github.com/zseano/JS-Scan">GitHub</a></td>
-<td>(links) - A .js scanner built in PHP, designed to scrape URLs and other information.</td>
+<td>(links): A .js scanner built in PHP, designed to scrape URLs and other information.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/LinksDumper.jpg"></td>
 <td><b>LinksDumper</b></td>
 <td><a href="https://github.com/arbazkiraak/LinksDumper">GitHub</a></td>
-<td>(links) - Extracts links/possible endpoints from responses & filters them via decoding/sorting.</td>
+<td>(links): Extracts links/possible endpoints from responses & filters them via decoding/sorting.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/GoLinkFinder.png"></td>
 <td><b>GoLinkFinder</b></td>
 <td><a href="https://github.com/0xsha/GoLinkFinder">GitHub</a></td>
-<td>(links) - A fast and minimal JS endpoint extractor.</td>
+<td>(links): A fast and minimal JS endpoint extractor.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>BurpJSLinkFinder</b></td>
 <td><a href="https://github.com/InitRoot/BurpJSLinkFinder">GitHub</a></td>
-<td>(links) - Burp Extension for passive scanning of JS files for endpoint links.</td>
+<td>(links): Burp Extension for passive scanning of JS files for endpoint links.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/urlgrab.jpg"></td>
 <td><b>urlgrab</b></td>
 <td><a href="https://github.com/IAmStoxe/urlgrab">GitHub</a></td>
-<td>(links) - A Go utility to spider through a website searching for additional links.</td>
+<td>(links): A Go utility to spider through a website searching for additional links.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/waybackurls.jpg"></td>
 <td><b>waybackurls</b></td>
 <td><a href="https://github.com/tomnomnom/waybackurls">GitHub</a></td>
-<td>(links) - Fetches all URLs that the Wayback Machine knows about for a domain.</td>
+<td>(links): Fetches all URLs that the Wayback Machine knows about for a domain.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>gau</b></td>
 <td><a href="https://github.com/lc/gau">GitHub</a></td>
-<td>(links) - Fetches known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.</td>
+<td>(links): Fetches known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>getJS</b></td>
 <td><a href="https://github.com/003random/getJS">GitHub</a></td>
-<td>(links) - A tool to quickly get all JavaScript sources/files.</td>
+<td>(links): A tool to quickly get all JavaScript sources/files.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>linx</b></td>
 <td><a href="https://github.com/riza/linx">GitHub</a></td>
-<td>(links) - Reveals invisible links within JavaScript files.</td>
+<td>(links): Reveals invisible links within JavaScript files.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/waymore.png"></td>
 <td><b>waymore</b></td>
 <td><a href="https://github.com/xnl-h4ck3r/waymore">GitHub</a></td>
-<td>(links) - Finds more from the Wayback Machine.</td>
+<td>(links): Finds more from the Wayback Machine.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/waymore.png"></td>
 <td><b>xnLinkFinder</b></td>
 <td><a href="https://github.com/xnl-h4ck3r/xnLinkFinder">GitHub</a></td>
-<td>(links) - A Python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target.</td>
+<td>(links): A Python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>parameth</b></td>
 <td><a href="https://github.com/maK-/parameth">GitHub</a></td>
-<td>(parameters) - Tool for brute discovering GET and POST parameters.</td>
+<td>(parameters): Tool for brute discovering GET and POST parameters.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/param-miner.png"></td>
 <td><b>param-miner</b></td>
 <td><a href="https://github.com/PortSwigger/param-miner">GitHub</a></td>
-<td>(parameters) - Identifies hidden, unlinked parameters, useful for finding web cache poisoning vulnerabilities.</td>
+<td>(parameters): Identifies hidden, unlinked parameters, useful for finding web cache poisoning vulnerabilities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/ParamPamPam.png"></td>
 <td><b>ParamPamPam</b></td>
 <td><a href="https://github.com/Bo0oM/ParamPamPam">GitHub</a></td>
-<td>(parameters) - Tool for brute discovering GET and POST parameters.</td>
+<td>(parameters): Tool for brute discovering GET and POST parameters.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/Arjun.png"></td>
 <td><b>Arjun</b></td>
 <td><a href="https://github.com/s0md3v/Arjun">GitHub</a></td>
-<td>(parameters) - HTTP parameter discovery suite.</td>
+<td>(parameters): HTTP parameter discovery suite.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/ParamSpider.jpg"></td>
 <td><b>ParamSpider</b></td>
 <td><a href="https://github.com/devanshbatham/ParamSpider">GitHub</a></td>
-<td>(parameters) - Mines parameters from dark corners of Web Archives.</td>
+<td>(parameters): Mines parameters from dark corners of Web Archives.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/x8.jpg"></td>
 <td><b>x8</b></td>
 <td><a href="https://github.com/Sh1Yo/x8">GitHub</a></td>
-<td>(parameters) - Hidden parameters discovery suite written in Rust.</td>
+<td>(parameters): Hidden parameters discovery suite written in Rust.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/fuzzdb.png"></td>
 <td><b>fuzzdb</b></td>
 <td><a href="https://github.com/fuzzdb-project/fuzzdb">GitHub</a></td>
-<td>(fuzzing) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.</td>
+<td>(fuzzing): Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/IntruderPayloads.png"></td>
 <td><b>IntruderPayloads</b></td>
 <td><a href="https://github.com/1N3/IntruderPayloads">GitHub</a></td>
-<td>(fuzzing) - Collection of Burpsuite Intruder payloads, fuzz lists, and web pentesting methodologies.</td>
+<td>(fuzzing): Collection of Burpsuite Intruder payloads, fuzz lists, and web pentesting methodologies.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/fuzz.png"></td>
 <td><b>fuzz.txt</b></td>
 <td><a href="https://github.com/Bo0oM/fuzz.txt">GitHub</a></td>
-<td>(fuzzing) - Potentially dangerous files.</td>
+<td>(fuzzing): Potentially dangerous files.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/fuzzilli.png"></td>
 <td><b>fuzzilli</b></td>
 <td><a href="https://github.com/googleprojectzero/fuzzilli">GitHub</a></td>
-<td>(fuzzing) - JavaScript Engine Fuzzer.</td>
+<td>(fuzzing): JavaScript Engine Fuzzer.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/fuzzapi.png"></td>
 <td><b>fuzzapi</b></td>
 <td><a href="https://github.com/Fuzzapi/fuzzapi">GitHub</a></td>
-<td>(fuzzing) - REST API pentesting tool that uses API_Fuzzer gem.</td>
+<td>(fuzzing): REST API pentesting tool that uses API_Fuzzer gem.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/qsfuzz.jpg"></td>
 <td><b>qsfuzz</b></td>
 <td><a href="https://github.com/ameenmaali/qsfuzz">GitHub</a></td>
-<td>(fuzzing) - Allows building custom rules to fuzz query strings and identify vulnerabilities.</td>
+<td>(fuzzing): Allows building custom rules to fuzz query strings and identify vulnerabilities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/vaf.jpg"></td>
 <td><b>vaf</b></td>
 <td><a href="https://github.com/d4rckh/vaf">GitHub</a></td>
-<td>(fuzzing) - Very advanced (web) fuzzer written in Nim.</td>
+<td>(fuzzing): Very advanced (web) fuzzer written in Nim.</td>
 </tr>
 
 </tbody>
@@ -1202,7 +1202,7 @@
 <td><img src="assets/vulnerability-scanner/nuclei.jpg"></td>
 <td><b>Nuclei</b></td>
 <td><a href="https://github.com/projectdiscovery/nuclei">GitHub</a></td>
-<td>(network-web) - Fast and customizable vulnerability scanner based on simple YAML based DSL.</td>
+<td>(network-web): Fast and customizable vulnerability scanner based on simple YAML based DSL.</td>
 </tr>
 
 
@@ -1210,70 +1210,70 @@
 <td><img src="assets/vulnerability-scanner/zap.jpg"></td>
 <td><b>OWASP ZAP</b></td>
 <td><a href="https://github.com/zaproxy/zaproxy">GitHub</a></td>
-<td>(web) - Dynamic application security testing tool for finding vulnerabilities in web applications.</td>
+<td>(web): Dynamic application security testing tool for finding vulnerabilities in web applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/nmap.jpg"></td>
 <td><b>Nmap</b></td>
 <td><a href="https://github.com/nmap/nmap">GitHub</a></td>
-<td>(network-web) Powerful network scanner with built-in vulnerability scanning capabilities.</td>
+<td>(network-web): Powerful network scanner with built-in vulnerability scanning capabilities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/nikto.jpg"></td>
 <td><b>Nikto</b></td>
 <td><a href="https://github.com/sullo/nikto">GitHub</a></td>
-<td>(web) - Web server scanner for detecting vulnerabilities and misconfigurations.</td>
+<td>(web): Web server scanner for detecting vulnerabilities and misconfigurations.</td>
 </tr>
 
 <tr>
 <td><img src="assets/command-control/Metasploit.jpg"></td>
 <td><b>Metasploit</b></td>
 <td><a href="https://github.com/rapid7/metasploit-framework">Github</a></td>
-<td>(network-web) - Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
+<td>(network-web): Computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/arachni.jpg"></td>
 <td><b>Arachni</b></td>
 <td><a href="https://github.com/arachni/arachni">GitHub</a></td>
-<td>(web) - Modular web application security scanner.</td>
+<td>(web): Modular web application security scanner.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/openvas.jpg"></td>
 <td><b>OpenVAS</b></td>
 <td><a href="https://github.com/greenbone">GitHub</a></td>
-<td>(network-web) - Comprehensive vulnerability scanner for network services and applications.</td>
+<td>(network-web): Comprehensive vulnerability scanner for network services and applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td><b>Nexpose</b></td>
 <td><a href="https://www.rapid7.com/products/nexpose">Website</a></td>
-<td>(network-web) - Nexpose is a comprehensive vulnerability management solution developed by Rapid7. It is designed to help organizations proactively identify, assess, and address security vulnerabilities across their IT environments</td>
+<td>(network-web): Nexpose is a comprehensive vulnerability management solution developed by Rapid7. It is designed to help organizations proactively identify, assess, and address security vulnerabilities across their IT environments</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/wapiti.jpg"></td>
 <td><b>Wapiti</b></td>
 <td><a href="https://github.com/wapiti-scanner/wapiti">GitHub</a></td>
-<td>(web) - vulnerability scanner for black-box scanning.</td>
+<td>(web): vulnerability scanner for black-box scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/vuls.jpg"></td>
 <td><b>Vuls</b></td>
 <td><a href="https://github.com/future-architect/vuls">GitHub</a></td>
-<td>(network-web) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices.</td>
+<td>(network-web): Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/retirejs.jpg"></td>
 <td><b>Retire.js</b></td>
 <td><a href="https://github.com/retirejs/retire.js">GitHub</a></td>
-<td>(web) - Scans for outdated JavaScript libraries with known vulnerabilities.</td>
+<td>(web): Scans for outdated JavaScript libraries with known vulnerabilities.</td>
 </tr>
 
 
@@ -1281,42 +1281,42 @@
 <td><img src="assets/vulnerability-scanner/clair.jpg"></td>
 <td><b>Clair</b></td>
 <td><a href="https://github.com/quay/clair">GitHub</a></td>
-<td>(network) - Static analysis of vulnerabilities in container images.</td>
+<td>(network): Static analysis of vulnerabilities in container images.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/trivy.jpg"></td>
 <td><b>Trivy</b></td>
 <td><a href="https://github.com/aquasecurity/trivy">GitHub</a></td>
-<td>(network-web) - Vulnerability scanner for container images and other artifacts.</td>
+<td>(network-web): Vulnerability scanner for container images and other artifacts.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/bandit.jpg"></td>
 <td><b>Bandit</b></td>
 <td><a href="https://github.com/PyCQA/bandit">GitHub</a></td>
-<td>(programming) - Finds common security issues in Python code.</td>
+<td>(programming): Finds common security issues in Python code.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/bandit.jpg"></td>
 <td><b>Grouper</b></td>
 <td><a href="https://github.com/l0ss/Grouper">GitHub</a></td>
-<td>(network) - A PowerShell script for helping to find vulnerable settings in AD Group Policy. (deprecated, use Grouper2 instead!)</td>
+<td>(network): A PowerShell script for helping to find vulnerable settings in AD Group Policy. (deprecated, use Grouper2 instead!)</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/seclists.jpg"></td>
 <td><b>SecLists</b></td>
 <td><a href="https://github.com/danielmiessler/SecLists">GitHub</a></td>
-<td>(network-web) - Collection of multiple lists used in security assessments.</td>
+<td>(network-web): Collection of multiple lists used in security assessments.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/sonarqube.jpg"></td>
 <td><b>SonarQube (Community Edition)</b></td>
 <td><a href="https://github.com/SonarSource/sonarqube">GitHub</a></td>
-<td>(web) - Code quality and security analysis tool.</td>
+<td>(web): Code quality and security analysis tool.</td>
 </tr>
 
 
@@ -1324,21 +1324,21 @@
 <td><img src="assets/vulnerability-scanner/docker-bench-security.jpg"></td>
 <td><b>Docker-Bench-Security</b></td>
 <td><a href="https://github.com/docker/docker-bench-security">GitHub</a></td>
-<td>(network) - Checks Docker containers against best security practices.</td>
+<td>(network): Checks Docker containers against best security practices.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/snyk-cli.jpg"></td>
 <td><b>Snyk CLI</b></td>
 <td><a href="https://github.com/snyk/snyk">GitHub</a></td>
-<td>(network) - Finds and fixes vulnerabilities in dependencies and Docker images.</td>
+<td>(network): Finds and fixes vulnerabilities in dependencies and Docker images.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/owasp-dependency-check.jpg"></td>
 <td><b>OWASP Dependency-Check</b></td>
 <td><a href="https://github.com/jeremydmiller/Check">GitHub</a></td>
-<td>(web) - Identifies project dependencies with known vulnerabilities.</td>
+<td>(web): Identifies project dependencies with known vulnerabilities.</td>
 </tr>
 
 
@@ -1346,7 +1346,7 @@
 <td><img src="assets/vulnerability-scanner/forta.jpg"></td>
 <td><b>Forta</b></td>
 <td><a href="https://github.com/forta-org/forta">GitHub</a></td>
-<td>(web) - Real-time vulnerability detection for Ethereum smart contracts.</td>
+<td>(web): Real-time vulnerability detection for Ethereum smart contracts.</td>
 </tr>
 
 
@@ -1354,113 +1354,112 @@
 <td><img src="assets/vulnerability-scanner/sqlmap.jpg"></td>
 <td><b>sqlmap</b></td>
 <td><a href="https://github.com/sqlmapproject/sqlmap">GitHub</a></td>
-<td>(web) - Automatic SQL injection and database takeover tool.</td>
+<td>(web): Automatic SQL injection and database takeover tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/xray.jpg"></td>
 <td><b>xray</b></td>
 <td><a href="https://github.com/chaitin/xray">GitHub</a></td>
-<td>(web) - A complete security assessment tool that supports scanning of common web security issues and custom POC | Be sure to read the documentation before using it.</td>
+<td>(web): A complete security assessment tool that supports scanning of common web security issues and custom POC | Be sure to read the documentation before using it.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/osv-scanner.jpg"></td>
 <td><b>osv-scanner</b></td>
 <td><a href="https://github.com/google/osv-scanner">GitHub</a></td>
-<td>(web) - Vulnerability scanner written in Go which uses the data provided by.</td>
+<td>(web): Vulnerability scanner written in Go which uses the data provided by.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/commix.jpg"></td>
 <td><b>commix</b></td>
 <td><a href="https://github.com/commixproject/commix">GitHub</a></td>
-<td>(web) - Automated All-in-One OS Command Injection Exploitation Tool.</td>
+<td>(web): Automated All-in-One OS Command Injection Exploitation Tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/afrog.jpg"></td>
 <td><b>afrog</b></td>
 <td><a href="https://github.com/zan8in/afrog">GitHub</a></td>
-<td>(network-web) - afrog is a high-performance vulnerability scanner that is fast and stable. It supports user-defined PoC and comes with several built-in types, such as CVE, CNVD, default passwords, information disclosure, fingerprint identification, unauthorized access, arbitrary file reading, and command execution.</td>
+<td>(network-web): afrog is a high-performance vulnerability scanner that is fast and stable. It supports user-defined PoC and comes with several built-in types, such as CVE, CNVD, default passwords, information disclosure, fingerprint identification, unauthorized access, arbitrary file reading, and command execution.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/nettacker.jpg"></td>
 <td><b>Nettacker</b></td>
 <td><a href="https://github.com/OWASP/Nettacker">GitHub</a></td>
-<td>(network) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management.</td>
+<td>(network): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/raccoon.jpg"></td>
 <td><b>Raccoon</b></td>
 <td><a href="https://github.com/evyatarmeged/Raccoon">GitHub</a></td>
-<td>(web) - A high-performance offensive security tool for reconnaissance and vulnerability scanning.</td>
+<td>(web): A high-performance offensive security tool for reconnaissance and vulnerability scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/fuxploider.jpg"></td>
 <td><b>fuxploider</b></td>
 <td><a href="https://github.com/almandin/fuxploider">GitHub</a></td>
-<td>(web) - File upload vulnerability scanner and exploitation tool.</td>
+<td>(web): File upload vulnerability scanner and exploitation tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/crawlergo.jpg"></td>
 <td><b>crawlergo</b></td>
 <td><a href="https://github.com/Qianlitp/crawlergo">GitHub</a></td>
-<td>(web) - A powerful browser crawler for web vulnerability scanners.</td>
+<td>(web): A powerful browser crawler for web vulnerability scanners.</td>
 </tr>
  
 <tr>
 <td><img src="assets/vulnerability-scanner/golismero.jpg"></td>
 <td><b>Golismero</b></td>
 <td><a href="https://github.com/golismero/golismero">GitHub</a></td>
-<td>(web) - Open-source security tool for web application assessment.</td>
+<td>(web): Open-source security tool for web application assessment.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/punkspider.jpg"></td>
 <td><b>PunkSpider</b></td>
 <td><a href="https://github.com/punkspider/punkspider">GitHub</a></td>
-<td>(web) - application vulnerability scanner and search engine.</td>
+<td>(web): application vulnerability scanner and search engine.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/furfles.jpg"></td>
 <td><b>Furfles</b></td>
 <td><a href="https://github.com/bp0x/furfles">GitHub</a></td>
-<td>(web) - Automatic vulnerability scanner with a focus on fuzzing.</td>
+<td>(web): Automatic vulnerability scanner with a focus on fuzzing.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/vulnerability-scanner/specter.jpg"></td>
 <td><b>Specter</b></td>
 <td><a href="https://github.com/specter/specter">GitHub</a></td>
-<td>(web) - Automated security testing framework for web applications.</td>
+<td>(web): Automated security testing framework for web applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/sn1per.jpg"></td>
 <td><b>Sn1per</b></td>
 <td><a href="https://github.com/1N3/Sn1per">GitHub</a></td>
-<td>(network-web) - Penetration testing tool for vulnerability scanning and enumeration.</td>
+<td>(network-web): Penetration testing tool for vulnerability scanning and enumeration.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/whitewidow.jpg"></td>
 <td><b>WhiteWidow</b></td>
 <td><a href="https://github.com/whitewidow/whitewidow">GitHub</a></td>
-<td>(web) - application vulnerability scanner with a focus on XSS.</td>
+<td>(web): application vulnerability scanner with a focus on XSS.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/w3af.jpg"></td>
 <td><b>w3af</b></td>
 <td><a href="https://github.com/andresriancho/w3af">GitHub</a></td>
-<td>(web) - Application Attack and Audit Framework.</td>
+<td>(web): Application Attack and Audit Framework.</td>
 </tr>
 
 
@@ -1468,42 +1467,42 @@
 <td><img src="assets/vulnerability-scanner/epic.jpg"></td>
 <td><b>Epic</b></td>
 <td><a href="https://github.com/epic/epic">GitHub</a></td>
-<td>(web) - Vulnerability assessment tool for identifying risks in web applications.</td>
+<td>(web): Vulnerability assessment tool for identifying risks in web applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/vulnscan.jpg"></td>
 <td><b>Vulnscan</b></td>
 <td><a href="https://github.com/vulnscan/vulnscan">GitHub</a></td>
-<td>(network-web) - Vulnerability scanning and management tool.</td>
+<td>(network-web): Vulnerability scanning and management tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/surfscan.jpg"></td>
 <td><b>Surfscan</b></td>
 <td><a href="https://github.com/surfscan/surfscan">GitHub</a></td>
-<td>(web) - Lightweight tool for web vulnerability scanning.</td>
+<td>(web): Lightweight tool for web vulnerability scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/chaos.jpg"></td>
 <td><b>Chaos</b></td>
 <td><a href="https://github.com/chaos/chaos">GitHub</a></td>
-<td>(network-web) - Comprehensive vulnerability and security assessment tool.</td>
+<td>(network-web): Comprehensive vulnerability and security assessment tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/venus.jpg"></td>
 <td><b>Venus</b></td>
 <td><a href="https://github.com/venus/venus">GitHub</a></td>
-<td>(web) - Advanced tool for web application vulnerability scanning.</td>
+<td>(web): Advanced tool for web application vulnerability scanning.</td>
 </tr>
 
 <tr>
 <td><img src="assets/vulnerability-scanner/pulse.jpg"></td>
 <td><b>Pulse</b></td>
 <td><a href="https://github.com/pulse/pulse">GitHub</a></td>
-<td>(web) - Real-time vulnerability detection for web applications.</td>
+<td>(web): Real-time vulnerability detection for web applications.</td>
 </tr>
 
 </tbody>
@@ -3581,7 +3580,7 @@ made to help you during your investigations</td>
     </tr>
      <tr>
       <td><img src="assets/server/shodan.png"></td>
-      <td><b>GHunt, OSINT Industries</b></td>
+      <td><b>GHunt</b></td>
       <td><a href="https://osint.industries/">Website</a>
       <a href="">Github</a></td>
       <td>GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
@@ -4623,7 +4622,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/exploits/peass-ng.png"></td>
 <td><b>PEASS-ng</b></td>
 <td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
-<td>PEASS-ng is tools search for local privilege escalation (WinPEAS,LenPEAS,MacPEAS)</td>
+<td>(windows-linux-mac): PEASS-ng is tools search for local privilege escalation</td>
 </tr>
 
 <tr>
