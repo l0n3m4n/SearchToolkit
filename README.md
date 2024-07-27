@@ -89,7 +89,8 @@
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#initial-access"><b>Initial Access</b></a> |
   <a href="#payload-and-staging"><b>Payload and Staging</b></a> |
-  <a href="#exploitations"><b>Exploitations</b></a> |
+  <a href="#network-exploitation"><b>Network Exploitation</b></a> |
+  <a href="#web-exploitation"><b>Web Exploitation</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
   <a href="#credential-dumping"><b>Credential Dumping</b></a> |
@@ -1393,7 +1394,7 @@
 
 
 
-## Exploitations
+## Network Exploitation
 
  [🔝 Back to top](#Search-Navigation)
 
@@ -1435,14 +1436,6 @@
 <td><b>Vulmon</b></td>
 <td><a href="https://vulmon.com/">Website</a></td>
 <td>Vulnerability and exploit search engine</td>
-</tr>
-
-
-<tr>
-<td><img src="assets/exploits/Villain C2 Framework.jpg"></td>
-<td><b> Villain C2 Framework</b></td>
-<td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
-<td>Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells .</td>
 </tr>
 
 <tr>
@@ -1582,8 +1575,36 @@
 
 </tbody>
 </table>
+<br>
 
 
+
+## Web Exploitation
+
+[🔝 Back to top](#Search-Navigation)
+
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th><b>NAME</b></th>
+<th>LINKS</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><img src="assets/exploits/Exploit-DB.png"></td>
+<td><b>Exploit-DB</b></td>
+<td><a href="https://www.exploit-db.com/">Website</a></td>
+<td>Exploit Database</td>
+</tr>
+
+</tbody>
+</table>
+<br>
 
 ## Attack Surface
 
@@ -5442,6 +5463,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
     <td><b>Empire</b></td>
     <td><a href="https://github.com/BC-SECURITY/Empire">Github</a></td>
     <td>Post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.</td>
+</tr>
+
+<tr>
+<td><img src="assets/exploits/Villain C2 Framework.jpg"></td>
+<td><b> Villain C2 Framework</b></td>
+<td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
+<td>Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells .</td>
 </tr>
 
 <tr>
