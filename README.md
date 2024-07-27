@@ -119,7 +119,7 @@
 <tr>
 <td><img src="assets/cheatsheets/hacktricks.jpg"></td>
 <td><b>HackTricks</b></td>
-<td><a href="https://book.hacktricks.xyz/" target='_blank'>Website</a></td>
+<td><a href="https://book.hacktricks.xyz/">Website</a></td>
 <td>The Best hacking cheatsheets</td>
 </tr>
 
@@ -2342,7 +2342,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 ## Threat Intelligence
 
- [🔝 Back to top](#Search-Navigation)
+[🔝 Back to top](#Search-Navigation)
 
 
 <table>
