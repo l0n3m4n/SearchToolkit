@@ -119,7 +119,7 @@
 <tr>
 <td><img src="assets/cheatsheets/hacktricks.jpg"></td>
 <td><b>HackTricks</b></td>
-<td><a href="https://book.hacktricks.xyz/">Website</a></td>
+<td><a href="https://book.hacktricks.xyz/" target='_blank'>Website</a></td>
 <td>The Best hacking cheatsheets</td>
 </tr>
 
