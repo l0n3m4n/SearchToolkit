@@ -147,6 +147,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/"></td>
+<td><b>RedTeam Guide</b></td>
+<td><a href="https://github.com/RistBS/Awesome-RedTeam-Cheatsheet">Github</a></td>
+<td>Red Team Cheatsheet in constant expansion.</td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/RedTeam-Cheatsheets.jpg"></td>
 <td><b>RedTeam Cheatsheets</b></td>
 <td><a href="https://github.com/wsummerhill/C2_RedTeam_CheatSheets">Github</a></td>
@@ -250,6 +257,21 @@
 <td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
 <td>A next-generation crawling and spidering framework.</td>
 </tr>
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>BloodHound (AD)</b></td>
+<td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
+<td>BloodHound is a powerful tool used for Active Directory (AD) security assessments. It helps identify and analyze security vulnerabilities and relationships within an Active Directory environment.</td>
+
+</tr>
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>CrackMapExec</b></td>
+<td><a href="https://github.com/byt3bl33d3r/CrackMapExec">GitHub</a></td>
+<td>A swiss army knife for pentesting networks </td>
+</tr>
+
 
 <tr>
 <td><img src="assets/discovery/amass.jpg"></td>
