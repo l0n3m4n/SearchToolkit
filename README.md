@@ -215,6 +215,20 @@
 <tbody>
 
 <tr>
+<td><img src="assets/discovery/ffuf.png"></td>
+<td><b>ffuf</b></td>
+<td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
+<td>Fast web fuzzer written in Go.</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/gobuster.png"></td>
+<td><b>gobuster</b></td>
+<td><a href="https://github.com/OJ/gobuster">GitHub</a></td>
+<td>Directory/File, DNS and VHost busting tool written in Go.</td>
+</tr> 
+
+<tr>
 <td><img src="assets/discovery/sublist3r.jpg"></td>
 <td><b>Sublist3r</b></td>
 <td><a href="https://github.com/aboul3la/Sublist3r">GitHub</a></td>
@@ -490,13 +504,6 @@
 
 
 <tr>
-<td><img src="assets/discovery/gobuster.png"></td>
-<td><b>gobuster</b></td>
-<td><a href="https://github.com/OJ/gobuster">GitHub</a></td>
-<td>Directory/File, DNS and VHost busting tool written in Go.</td>
-</tr>
-
-<tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>recursebuster</b></td>
 <td><a href="https://github.com/C-Sto/recursebuster">GitHub</a></td>
@@ -704,13 +711,6 @@
 <td><b>wfuzz</b></td>
 <td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
 <td>Web application fuzzer.</td>
-</tr>
-
-<tr>
-<td><img src="assets/discovery/ffuf.png"></td>
-<td><b>ffuf</b></td>
-<td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
-<td>Fast web fuzzer written in Go.</td>
 </tr>
 
 <tr>
