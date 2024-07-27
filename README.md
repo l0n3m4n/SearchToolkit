@@ -1143,6 +1143,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/"></td>
+<td><b>Nexpose</b></td>
+<td><a href="https://www.rapid7.com/products/nexpose">Website</a></td>
+<td>Nexpose is a comprehensive vulnerability management solution developed by Rapid7. It is designed to help organizations proactively identify, assess, and address security vulnerabilities across their IT environments</td>
+</tr>
+
+<tr>
 <td><img src="assets/vulnerability-scanner/wapiti.jpg"></td>
 <td><b>Wapiti</b></td>
 <td><a href="https://github.com/wapiti-scanner/wapiti">GitHub</a></td>
