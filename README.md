@@ -3666,316 +3666,313 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><img src="assets/"></td>
-<td>Ivy</td>
-<td><a href="https://github.com/optiv/Ivy">Github</a></td>
-<td>Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory.</td>
-</tr>
 
 <tr>
-<td><img src="assets/"></td>
-<td>PEzor</td>
-<td><a href="https://github.com/phra/PEzor">Github</a></td>
-<td>Open-Source PE Packer.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>GadgetToJScript</td>
-<td><a href="https://github.com/med0x2e/GadgetToJScript">Github</a></td>
-<td>A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA scripts.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>ScareCrow</td>
-<td><a href="https://github.com/optiv/ScareCrow">Github</a></td>
-<td>Payload creation framework designed around EDR bypass.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>Donut</td>
-<td><a href="https://github.com/TheWover/donut">Github</a></td>
-<td>Donut is a position-independent code that enables in-memory execution of VBScript, JScript, EXE, DLL files and dotNET assemblies.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>Mystikal</td>
-<td><a href="https://github.com/D00MFist/Mystikal">Github</a></td>
-<td>macOS Initial Access Payload Generator.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>charlotte</td>
-<td><a href="https://github.com/9emin1/charlotte">Github</a></td>
-<td>C++ fully undetected shellcode launcher.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>InvisibilityCloak</td>
-<td><a href="https://github.com/xforcered/InvisibilityCloak">Github</a></td>
-<td>Proof-of-concept obfuscation toolkit for C# post-exploitation tools.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>Dendrobate</td>
-<td><a href="https://github.com/FuzzySecurity/Dendrobate">Github</a></td>
-<td>Dendrobate is a framework that facilitates the development of payloads that hook unmanaged code through managed .NET code.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>Offensive VBA and XLS Entanglement</td>
-<td><a href="https://github.com/BC-SECURITY/Offensive-VBA-and-XLS-Entanglement">Github</a></td>
-<td>This repo provides examples of how VBA can be used for offensive purposes beyond a simple dropper or shell injector. As we develop more use cases, the repo will be updated.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>xlsGen</td>
-<td><a href="https://github.com/aaaddress1/xlsGen">Github</a></td>
-<td>Tiny Excel BIFF8 Generator, to Embedded 4.0 Macros in *.xls.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>darkarmour</td>
-<td><a href="https://github.com/bats3c/darkarmour">Github</a></td>
-<td>Windows AV Evasion.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>InlineWhispers</td>
-<td><a href="https://github.com/outflanknl/InlineWhispers">Github</a></td>
-<td>Tool for working with Direct System Calls in Cobalt Strike's Beacon Object Files (BOF).</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>EvilClippy</td>
-<td><a href="https://github.com/outflanknl/EvilClippy">Github</a></td>
-<td>A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>OfficePurge</td>
-<td><a href="https://github.com/fireeye/OfficePurge">Github</a></td>
-<td>VBA purge your Office documents with OfficePurge. VBA purging removes P-code from module streams within Office documents.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>ThreatCheck</td>
-<td><a href="https://github.com/rasta-mouse/ThreatCheck">Github</a></td>
-<td>Identifies the bytes that Microsoft Defender / AMSI Consumer flags on.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>CrossC2</td>
-<td><a href="https://github.com/gloxec/CrossC2">Github</a></td>
-<td>Generate CobaltStrike's cross-platform payload.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>Ruler</td>
-<td><a href="https://github.com/sensepost/ruler">Github</a></td>
-<td>Ruler is a tool that allows you to interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP protocol.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>DueDLLigence</td>
-<td><a href="https://github.com/fireeye/DueDLLigence">Github</a></td>
-<td>Shellcode runner framework for application whitelisting bypasses and DLL side-loading. The shellcode included in this project spawns calc.exe.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>RuralBishop</td>
-<td><a href="https://github.com/rasta-mouse/RuralBishop">Github</a></td>
-<td>RuralBishop is practically a carbon copy of UrbanBishop by b33f, but all P/Invoke calls have been replaced with D/Invoke.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>TikiTorch</td>
-<td><a href="https://github.com/rasta-mouse/TikiTorch">Github</a></td>
-<td>TikiTorch was named in homage to CACTUSTORCH by Vincent Yiu. The basic concept of CACTUSTORCH is that it spawns a new process, allocates a region of memory, then uses CreateRemoteThread to run the desired shellcode within that target process. Both the process and shellcode are specified by the user.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>SharpShooter</td>
-<td><a href="https://github.com/mdsecactivebreach/SharpShooter">Github</a></td>
-<td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code. SharpShooter is capable of creating payloads in a variety of formats, including HTA, JS, VBS and WSF.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>SharpSploit</td>
-<td><a href="https://github.com/cobbr/SharpSploit">Github</a></td>
-<td>SharpSploit is a .NET post-exploitation library written in C#.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>MSBuildAPICaller</td>
-<td><a href="https://github.com/rvrsh3ll/MSBuildAPICaller">Github</a></td>
-<td>MSBuild Without MSBuild.exe.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>macro_pack</td>
-<td><a href="https://github.com/sevagas/macro_pack">Github</a></td>
-<td>Macro_pack is a tool used to automatize obfuscation and generation of MS Office documents, VB scripts, and other formats for pentest, demo, and social engineering assessments.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>inceptor</td>
-<td><a href="https://github.com/klezVirus/inceptor">Github</a></td>
-<td>Template-Driven AV/EDR Evasion Framework.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>mortar</td>
-<td><a href="https://github.com/0xsp-SRD/mortar">Github</a></td>
-<td>Evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR).</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>ProtectMyTooling</td>
-<td><a href="https://github.com/mgeeky/ProtectMyTooling">Github</a></td>
-<td>Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>Freeze</td>
-<td><a href="https://github.com/optiv/Freeze">Github</a></td>
-<td>Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/Shhhloader.jpg"></td>
 <td>Shhhloader</td>
 <td><a href="https://github.com/icyguider/Shhhloader">Github</a></td>
 <td>Shhhloader is a work in progress shellcode loader. It takes raw shellcode as input and compiles a C++ stub that does a bunch of different things to try and bypass AV/EDR.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/ScareCrow.png"></td>
+<td>ScareCrow</td>
+<td><a href="https://github.com/optiv/ScareCrow">Github</a></td>
+<td>Payload creation framework designed around EDR bypass.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/ivy.png"></td>
+<td>Ivy</td>
+<td><a href="https://github.com/optiv/Ivy">Github</a></td>
+<td>Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/Donut.jpg"></td>
+<td>Donut</td>
+<td><a href="https://github.com/TheWover/donut">Github</a></td>
+<td>Donut is a position-independent code that enables in-memory execution of VBScript, JScript, EXE, DLL files and dotNET assemblies.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/PEzor.jpg"></td>
+<td>PEzor</td>
+<td><a href="https://github.com/phra/PEzor">Github</a></td>
+<td>Open-Source PE Packer.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/GadgetToJScript.jpg"></td>
+<td>GadgetToJScript</td>
+<td><a href="https://github.com/med0x2e/GadgetToJScript">Github</a></td>
+<td>A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA scripts.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/payload-staging/Mystikal.png"></td>
+<td>Mystikal</td>
+<td><a href="https://github.com/D00MFist/Mystikal">Github</a></td>
+<td>macOS Initial Access Payload Generator.</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td>charlotte</td>
+<td><a href="https://github.com/9emin1/charlotte">Github</a></td>
+<td>C++ fully undetected shellcode launcher.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/InvisibilityCloak.png"></td>
+<td>InvisibilityCloak</td>
+<td><a href="https://github.com/xforcered/InvisibilityCloak">Github</a></td>
+<td>Proof-of-concept obfuscation toolkit for C# post-exploitation tools.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/Dendrobate.png"></td>
+<td>Dendrobate</td>
+<td><a href="https://github.com/FuzzySecurity/Dendrobate">Github</a></td>
+<td>Dendrobate is a framework that facilitates the development of payloads that hook unmanaged code through managed .NET code.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/Offensive VBA and XLS Entangleme.png"></td>
+<td>Offensive VBA and XLS Entanglement</td>
+<td><a href="https://github.com/BC-SECURITY/Offensive-VBA-and-XLS-Entanglement">Github</a></td>
+<td>This repo provides examples of how VBA can be used for offensive purposes beyond a simple dropper or shell injector. As we develop more use cases, the repo will be updated.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/xlsGen.png"></td>
+<td>xlsGen</td>
+<td><a href="https://github.com/aaaddress1/xlsGen">Github</a></td>
+<td>Tiny Excel BIFF8 Generator, to Embedded 4.0 Macros in *.xls.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/darkarmour.png"></td>
+<td>darkarmour</td>
+<td><a href="https://github.com/bats3c/darkarmour">Github</a></td>
+<td>Windows AV Evasion.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/InlineWhispers.png"></td>
+<td>InlineWhispers</td>
+<td><a href="https://github.com/outflanknl/InlineWhispers">Github</a></td>
+<td>Tool for working with Direct System Calls in Cobalt Strike's Beacon Object Files (BOF).</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/EvilClippy.png"></td>
+<td>EvilClippy</td>
+<td><a href="https://github.com/outflanknl/EvilClippy">Github</a></td>
+<td>A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/OfficePurge.png"></td>
+<td>OfficePurge</td>
+<td><a href="https://github.com/fireeye/OfficePurge">Github</a></td>
+<td>VBA purge your Office documents with OfficePurge. VBA purging removes P-code from module streams within Office documents.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/ThreatCheck.jpg"></td>
+<td>ThreatCheck</td>
+<td><a href="https://github.com/rasta-mouse/ThreatCheck">Github</a></td>
+<td>Identifies the bytes that Microsoft Defender / AMSI Consumer flags on.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/CrossC2.png"></td>
+<td>CrossC2</td>
+<td><a href="https://github.com/gloxec/CrossC2">Github</a></td>
+<td>Generate CobaltStrike's cross-platform payload.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/Ruler.png"></td>
+<td>Ruler</td>
+<td><a href="https://github.com/sensepost/ruler">Github</a></td>
+<td>Ruler is a tool that allows you to interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP protocol.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/DueDLLigence.png"></td>
+<td>DueDLLigence</td>
+<td><a href="https://github.com/fireeye/DueDLLigence">Github</a></td>
+<td>Shellcode runner framework for application whitelisting bypasses and DLL side-loading. The shellcode included in this project spawns calc.exe.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/RuralBishop.jpg"></td>
+<td>RuralBishop</td>
+<td><a href="https://github.com/rasta-mouse/RuralBishop">Github</a></td>
+<td>RuralBishop is practically a carbon copy of UrbanBishop by b33f, but all P/Invoke calls have been replaced with D/Invoke.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/TikiTorch.jpg"></td>
+<td>TikiTorch</td>
+<td><a href="https://github.com/rasta-mouse/TikiTorch">Github</a></td>
+<td>TikiTorch was named in homage to CACTUSTORCH by Vincent Yiu. The basic concept of CACTUSTORCH is that it spawns a new process, allocates a region of memory, then uses CreateRemoteThread to run the desired shellcode within that target process. Both the process and shellcode are specified by the user.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/SharpShooter.png"></td>
+<td>SharpShooter</td>
+<td><a href="https://github.com/mdsecactivebreach/SharpShooter">Github</a></td>
+<td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code. SharpShooter is capable of creating payloads in a variety of formats, including HTA, JS, VBS and WSF.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/SharpSploit.png"></td>
+<td>SharpSploit</td>
+<td><a href="https://github.com/cobbr/SharpSploit">Github</a></td>
+<td>SharpSploit is a .NET post-exploitation library written in C#.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/MSBuildAPICaller.png"></td>
+<td>MSBuildAPICaller</td>
+<td><a href="https://github.com/rvrsh3ll/MSBuildAPICaller">Github</a></td>
+<td>MSBuild Without MSBuild.exe.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/macro_pack.png"></td>
+<td>macro_pack</td>
+<td><a href="https://github.com/sevagas/macro_pack">Github</a></td>
+<td>Macro_pack is a tool used to automatize obfuscation and generation of MS Office documents, VB scripts, and other formats for pentest, demo, and social engineering assessments.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/inceptor.png"></td>
+<td>inceptor</td>
+<td><a href="https://github.com/klezVirus/inceptor">Github</a></td>
+<td>Template-Driven AV/EDR Evasion Framework.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/mortar.jpg"></td>
+<td>mortar</td>
+<td><a href="https://github.com/0xsp-SRD/mortar">Github</a></td>
+<td>Evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR).</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/ProtectMyTooling.jpg"></td>
+<td>ProtectMyTooling</td>
+<td><a href="https://github.com/mgeeky/ProtectMyTooling">Github</a></td>
+<td>Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.</td>
+</tr>
+
+<tr>
+<td><img src="assets/payload-staging/Freeze.jpg"></td>
+<td>Freeze</td>
+<td><a href="https://github.com/optiv/Freeze">Github</a></td>
+<td>Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/payload-staging/pwndrop.png"></td>
 <td>pwndrop</td>
 <td><a href="https://github.com/kgretzky/pwndrop">Github</a></td>
 <td>Self-deployable file hosting service for red teamers, allowing easy upload and sharing of payloads over HTTP and WebDAV.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/C2concealer.jpg"></td>
 <td>C2concealer</td>
 <td><a href="https://github.com/FortyNorthSecurity/C2concealer">Github</a></td>
 <td>Command line tool that generates randomized C2 malleable profiles for use in Cobalt Strike.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/FindFrontableDomains.png"></td>
 <td>FindFrontableDomains</td>
 <td><a href="https://github.com/rvrsh3ll/FindFrontableDomains">Github</a></td>
 <td>Tool to search for potential frontable domains.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/Domain Hunter.png"></td>
 <td>Domain Hunter</td>
 <td><a href="https://github.com/threatexpress/domainhunter">Github</a></td>
 <td>Checks expired domains for categorization, reputation, and Archive.org history to find good candidates for phishing and C2 domains.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/RedWarden.png"></td>
 <td>RedWarden</td>
 <td><a href="https://github.com/mgeeky/RedWarden">Github</a></td>
 <td>Flexible Cobalt Strike Malleable Redirector.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/AzureC2Relay.png"></td>
 <td>AzureC2Relay</td>
 <td><a href="https://github.com/Flangvik/AzureC2Relay">Github</a></td>
 <td>Azure Function that validates and relays Cobalt Strike beacon traffic based on a Malleable C2 profile.</td>
 </tr>
 
-<tr>
-<td><img src="assets/"></td>
-<td>C3</td>
-<td><a href="https://github.com/FSecureLABS/C3">Github</a></td>
-<td>Tool for rapidly developing and utilizing esoteric command and control channels (C2).</td>
-</tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/Chameleon.png"></td>
 <td>Chameleon</td>
 <td><a href="https://github.com/mdsecactivebreach/Chameleon">Github</a></td>
 <td>Tool for evading proxy categorization.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/Malleable C2 Design and Referenc.png"></td>
 <td>Malleable C2 Design and Reference Guide</td>
 <td><a href="https://github.com/threatexpress/malleable-c2/">Github</a></td>
 <td>Guide for designing and referencing Cobalt Strike Malleable C2 profiles.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/redirect.rules.png"></td>
 <td>redirect.rules</td>
 <td><a href="https://github.com/0xZDH/redirect.rules">Github</a></td>
 <td>Dynamic generator for redirect.rules to assist in evasion.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/CobaltBus.png"></td>
 <td>CobaltBus</td>
 <td><a href="https://github.com/Flangvik/CobaltBus">Github</a></td>
 <td>Integration of Cobalt Strike External C2 with Azure Servicebus for C2 traffic.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/SourcePoint.png"></td>
 <td>SourcePoint</td>
 <td><a href="https://github.com/Tylous/SourcePoint">Github</a></td>
 <td>C2 profile generator for Cobalt Strike servers designed to ensure evasion.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/RedGuard.jpg"></td>
 <td>RedGuard</td>
 <td><a href="https://github.com/wikiZ/RedGuard">Github</a></td>
 <td>C2 front flow control tool to evade Blue Teams, AVs, and EDRs.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/skyhook.png"></td>
 <td>skyhook</td>
 <td><a href="https://github.com/blackhillsinfosec/skyhook">Github</a></td>
 <td>Obfuscated HTTP file transfer setup built to bypass IDS detections.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/payload-staging/GraphStrike.png"></td>
 <td>GraphStrike</td>
 <td><a href="https://github.com/RedSiege/GraphStrike">Github</a></td>
 <td>Cobalt Strike HTTPS beaconing over Microsoft Graph API.</td>
