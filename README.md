@@ -1581,37 +1581,6 @@
 </table>
 
 
-## Privilege Escalation 
-
- [🔝 Back to top](#Search-Navigation)
-
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th><b>NAME</b></th>
-<th>LINKS</th>
-<th>DESCRIPTION</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<td><img src="assets/privilege-escalation/WLPE.png"></td>
-<td><b>WLPE</b></td>
-<td><a href="https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook">Github</a></td>
-<td>Windows Local Privilege Escalation Cookbook </td>
-</tr>
-
-<tr>
-<td><img src="assets/privilege-escalation/activedirectory.jpg"></td>
-<td><b>LinWinPwn</b></td> 
-<td><a href="https://github.com/lefayjey/linWinPwn">Github</a></td>
-<td>Swiss-Army knife for Active Directory Pentesting using Linux</td> 
-</tr>
-</tbody>
-</table>
 
 ## Attack Surface
 
@@ -4470,6 +4439,29 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td><img src="assets/exploits/peass-ng.png"></td>
+<td><b>PEASS-ng</b></td>
+<td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
+<td>PEASS-ng is tools search for local privilege escalation (WinPEAS,LenPEAS,MacPEAS)</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/privilege-escalation/WLPE.png"></td>
+<td><b>WLPE</b></td>
+<td><a href="https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook">Github</a></td>
+<td>Windows Local Privilege Escalation Cookbook </td>
+</tr>
+
+<tr>
+<td><img src="assets/privilege-escalation/activedirectory.jpg"></td>
+<td><b>LinWinPwn</b></td> 
+<td><a href="https://github.com/lefayjey/linWinPwn">Github</a></td>
+<td>Swiss-Army knife for Active Directory Pentesting using Linux</td> 
+</tr>
+
 <tr>
 <td><img src="assets/"></td>
 <td>ElevateKit</td>
@@ -4497,14 +4489,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://github.com/hlldz/dazzleUP">Github</a></td>
 <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
 </tr>
-
-<tr>
-<td><img src="assets/exploits/peass-ng.png"></td>
-<td><b>PEASS-ng (WinPEAS,LenPEAS,MacPEAS)</b></td>
-<td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
-<td>PEASS-ng is tools search for local privilege escalation</td>
-</tr>
-
 
 <tr>
 <td><img src="assets/"></td>
