@@ -3269,7 +3269,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><img src="assets/default_logo.png"></td>
       <td><b>OSINT Map</b></td>
       <td><a href="https://map.malfrats.industries/">Website</a>
-      <a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
+      <a href="https://github.com/Malfrats/OSINT-Map">Github</a</td>
       <td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
 made to help you during your investigations</td>
     </tr>
@@ -5216,7 +5216,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <thead>
 <tr>
 <th>IMAGE</th>
-<th>CATEGORY</th>
 <th>NAMES</th>
 <th>LINKS</th>
 <th>DESCRIPTIONS</th>
@@ -5226,42 +5225,37 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>Alternative Protocols</b></td>
 <td>CovertUtils</td>
 <td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
-<td>Tools for covert communication over various protocols including HTTP, ICMP, DNS, and more.</td>
+<td>(protocols) - Tools for covert communication over various protocols including HTTP, ICMP, DNS, and more.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>DNS</b></td>
 <td>DNSExfiltrator</td>
 <td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
-<td>Data exfiltration over DNS request covert channel </td>
+<td>(protocols) - Data exfiltration over DNS request covert channel </td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>Protocols</b></td>
 <td>Egress-Assess</td>
 <td><a href="https://github.com/RedSiege/Egress-Assess">GitHub</a></td>
-<td>Egress-Assess is a tool used to test egress data detection capabilities</td>
+<td>(protocols) - Egress-Assess is a tool used to test egress data detection capabilities</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>DNS</b></td>
 <td>PacketWhisper</td>
 <td><a href="https://github.com/TryCatchHCF/PacketWhisper">GitHub</a></td>
-<td>Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods.</td>
+<td>(protocols) - Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td>Protocols</td>
 <td>Tunna</td>
 <td><a href="https://github.com/SECFORCE/Tunna">GitHub</a></td>
-<td>Network tunneling tool that uses HTTP/HTTPS for data exfiltration.</td>
+<td>(protocols) - Network tunneling tool that uses HTTP/HTTPS for data exfiltration.</td>
 </tr>
 
 <tr>
@@ -5269,79 +5263,66 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>Base64</td>
 <td>Badcookie</td>
 <td><a href="https://github.com/akbarq/Red-Team-Operations/blob/master/badcookie.py">GitHub</a></td>
-<td>exfiltrates data via base64 encoded HTTP cookies.</td>
+<td>(base64) - exfiltrates data via base64 encoded HTTP cookies.</td>
 </tr>
  
 <tr>
 <td><img src="assets/"></td>
-<td>Protocols</td>
 <td>PyExfil</td>
 <td><a href="https://github.com/ytisf/PyExfil">GitHub</a></td>
-<td>Python tool for exfiltration using different protocols including HTTP, FTP, DNS, ICMP, and custom TCP/UDP.</td>
+<td>(protocols) - Python tool for exfiltration using different protocols including HTTP, FTP, DNS, ICMP, and custom TCP/UDP.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>E-mail Attachment</b></td>
 <td>Powershell-RAT</td>
 <td><a href="https://github.com/Viralmaniar/Powershell-RAT">GitHub</a></td>
-<td>Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment. </td>
+<td>(e-mail) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment. </td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>Encrypted Data</b></td>
 <td>StegCloak</td>
 <td><a href="https://github.com/KuroLabs/stegcloak">GitHub</a></td>
-<td>Hide secrets with invisible characters in plain text securely using password-based encryption.</td>
+<td>(encrypted-data) - Hide secrets with invisible characters in plain text securely using password-based encryption.</td>
 </tr>
  
 <tr>
 <td><img src="assets/"></td>
-<td><b>DNS Exfiltration</b></td>
 <td>Iodine</td>
 <td><a href="https://github.com/yarrick/iodine">GitHub</a></td>
-<td>Tunnel IPv4 data through a DNS server. It allows you to send data between systems that are behind firewalls.</td>
+<td>(protocols) - Tunnel IPv4 data through a DNS server. It allows you to send data between systems that are behind firewalls.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>HTTP/S Exfiltration</b></td>
 <td>WebExfil</td>
 <td><a href="https://gist.github.com/ssherei/0504fb041f8e4c0f4b7f3854481fdfcf">GitHub</a></td>
-<td>A tool for data exfiltration through HTTP and HTTPS connections.</td>
+<td>(protocols) - A tool for data exfiltration through HTTP and HTTPS connections.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>ICMP Exfiltration</b></td>
 <td>Dnscat2</td>
 <td><a href="https://github.com/iagox86/dnscat2">GitHub</a></td>
-<td>A DNS covert channel tool that can send data between a client and a server using DNS requests and responses.</td>
+<td>(protocols) - A DNS covert channel tool that can send data between a client and a server using DNS requests and responses.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
-<td><b>SMB Exfiltration</b></td>
 <td>SMBetray</td>
 <td><a href="https://github.com/quickbreach/SMBetray">GitHub</a></td>
-<td>A tool to exfiltrate data over SMB protocol.</td>
+<td>(protocols) - A tool to exfiltrate data over SMB protocol.</td>
 </tr>
 
- 
- 
- 
-
- 
 </tbody>
 </table>
+<br>
 
 
 [🔝 Back to top](#Search-Navigation)
 
 <h1 align="center">CTF</h1>
-
-<br>
 
 ## CTF Platform 
 
