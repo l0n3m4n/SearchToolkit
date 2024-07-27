@@ -227,21 +227,21 @@
 <td><img src="assets/discovery/ffuf.png"></td>
 <td><b>ffuf</b></td>
 <td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
-<td>(Fuzzing) - Fast web fuzzer written in Go.</td>
+<td>(general-recon) - Fast web fuzzer written in Go.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/gobuster.png"></td>
 <td><b>gobuster</b></td>
 <td><a href="https://github.com/OJ/gobuster">GitHub</a></td>
-<td>(Directory/File) - DNS and VHost busting tool written in Go.</td>
+<td>(general-recon) - DNS and VHost busting tool written in Go.</td>
 </tr> 
 
 <tr>
 <td><img src="assets/discovery/wappalyzer.jpg"></td>
 <td><b>wappalyzer</b></td>
 <td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
-<td>(Technologies) - Identify technology on websites.</td>
+<td>(technologies) - Identify technology on websites.</td>
 </tr>
 
 <tr>
@@ -269,7 +269,7 @@
 <td><img src="assets/discovery/"></td>
 <td><b>CrackMapExec</b></td>
 <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">GitHub</a></td>
-<td>(Network) - A swiss army knife for pentesting networks </td>
+<td>(network) - A swiss army knife for pentesting networks </td>
 </tr>
 
 
@@ -314,7 +314,7 @@
 <td><img src="assets/discovery/wfuzz.png"></td>
 <td><b>wfuzz</b></td>
 <td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
-<td>(Fuzzing) - Web application fuzzer.</td>
+<td>(fuzzing) - Web application fuzzer.</td>
 </tr>
 
 <tr>
@@ -328,7 +328,7 @@
 <td><img src="assets/discovery/httpx.jpg"></td>
 <td><b>httpx</b></td>
 <td><a href="https://github.com/projectdiscovery/httpx">GitHub</a></td>
-<td>(Technologies) - Fast and multi-purpose HTTP toolkit for probing.</td>
+<td>(technologies) - Fast and multi-purpose HTTP toolkit for probing.</td>
 </tr>
 
 <tr>
@@ -356,7 +356,7 @@
 <td><img src="assets/discovery/findomain.png"></td>
 <td><b>RustScan</b></td>
 <td><a href="https://github.com/RustScan/RustScan">GitHub</a></td>
-<td>(Port) - The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).</td>
+<td>(ports) - The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).</td>
 </tr>
 
 <tr>
