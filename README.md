@@ -872,6 +872,15 @@
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td><img src="assets/vulnerabilities/nuclei.jpg"></td>
+<td><b>nuclei</b></td>
+<td><a href="https://github.com/projectdiscovery/nuclei">GitHub</a></td>
+<td>Fast and customizable vulnerability scanner based on simple YAML based DSL. (</td>
+</tr>
+
+
 <tr>
 <td><img src="assets/vulnerabilities/NIST.png"></td>
 <td><b>NIST NVD</b></td>
@@ -898,13 +907,6 @@
 <td><b>GitHub Advisory Database</b></td>
 <td><a href="https://github.com/advisories">Github</a></td>
 <td>Security vulnerability database inclusive of CVEs and GitHub originated security advisories</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerabilities/Valhalla_YARA_Rule.png"></td>
-<td><b>Valhalla YARA Rules</b></td>
-<td><a href="https://valhalla.nextron-systems.com/">Website</a></td>
-<td>Valhalla is a Malware Detection tools based on YARA rules.</td>
 </tr>
 
 <tr>
@@ -2402,6 +2404,12 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><b>feodotracker.abuse.ch</b></td>
       <td><a href="https://feodotracker.abuse.ch/browse/">Website</a></td>
       <td>List of botnet Command&Control servers</td>
+    </tr>
+    <tr>
+    <td><img src="assets/threat-intelligence/Valhalla_YARA_Rule.png"></td>
+    <td><b>Valhalla YARA Rules</b></td>
+    <td><a href="https://valhalla.nextron-systems.com/">Website</a></td>
+    <td>Valhalla is a Malware Detection tools based on YARA rules.</td>
     </tr>
     <tr>
       <td><img src="assets/threat-intelligence/sslbl.abuse.ch.png"></td>
