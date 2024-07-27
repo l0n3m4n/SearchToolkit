@@ -229,6 +229,13 @@
 </tr> 
 
 <tr>
+<td><img src="assets/discovery/wappalyzer.jpg"></td>
+<td><b>wappalyzer</b></td>
+<td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
+<td>Identify technology on websites.</td>
+</tr>
+
+<tr>
 <td><img src="assets/discovery/sublist3r.jpg"></td>
 <td><b>Sublist3r</b></td>
 <td><a href="https://github.com/aboul3la/Sublist3r">GitHub</a></td>
@@ -236,10 +243,45 @@
 </tr>
 
 <tr>
+<td><img src="assets/discovery/katana.png"></td>
+<td><b>katana</b></td>
+<td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
+<td>A next-generation crawling and spidering framework.</td>
+</tr>
+
+<tr>
 <td><img src="assets/discovery/amass.jpg"></td>
 <td><b>Amass</b></td>
 <td><a href="https://github.com/OWASP/Amass">GitHub</a></td>
 <td>In-depth Attack Surface Mapping and Asset Discovery</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/wfuzz.png"></td>
+<td><b>wfuzz</b></td>
+<td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
+<td>Web application fuzzer.</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/scilla.png"></td>
+<td><b>scilla</b></td>
+<td><a href="https://github.com/edoardottt/scilla">GitHub</a></td>
+<td>Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/httpx.jpg"></td>
+<td><b>httpx</b></td>
+<td><a href="https://github.com/projectdiscovery/httpx">GitHub</a></td>
+<td>Fast and multi-purpose HTTP toolkit for probing.</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/dirbuster-ng.png"></td>
+<td><b>dirbuster-ng</b></td>
+<td><a href="https://github.com/digination/dirbuster-ng">GitHub</a></td>
+<td>dirbuster-ng is C CLI implementation of the Java dirbuster tool.</td>
 </tr>
 
 <tr>
@@ -410,12 +452,6 @@
 <td>Virtual host scanner that performs reverse lookups</td>
 </tr>
 
-<tr>
-<td><img src="assets/discovery/scilla.png"></td>
-<td><b>scilla</b></td>
-<td><a href="https://github.com/edoardottt/scilla">GitHub</a></td>
-<td>Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration</td>
-</tr>
 
 <tr>
 <td><img src="assets/discovery/sub3suite.png"></td>
@@ -454,13 +490,6 @@
 
 
 <tr>
-<td><img src="assets/discovery/wappalyzer.jpg"></td>
-<td><b>wappalyzer</b></td>
-<td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
-<td>Identify technology on websites.</td>
-</tr>
-
-<tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>webanalyze</b></td>
 <td><a href="https://github.com/rverton/webanalyze">GitHub</a></td>
@@ -488,12 +517,6 @@
 <td>Scanner detecting JavaScript libraries with known vulnerabilities.</td>
 </tr>
 
-<tr>
-<td><img src="assets/discovery/httpx.jpg"></td>
-<td><b>httpx</b></td>
-<td><a href="https://github.com/projectdiscovery/httpx">GitHub</a></td>
-<td>Fast and multi-purpose HTTP toolkit for probing.</td>
-</tr>
 
 <tr>
 <td><img src="assets/discovery/fingerprintx.png"></td>
@@ -545,12 +568,6 @@
 <td>Modern alternative to dirbuster/dirb.</td>
 </tr>
 
-<tr>
-<td><img src="assets/discovery/dirbuster-ng.png"></td>
-<td><b>dirbuster-ng</b></td>
-<td><a href="https://github.com/digination/dirbuster-ng">GitHub</a></td>
-<td>dirbuster-ng is C CLI implementation of the Java dirbuster tool.</td>
-</tr>
 
 <tr>
 <td><img src="assets/discovery/gospider.png"></td>
@@ -571,13 +588,6 @@
 <td><b>crawley</b></td>
 <td><a href="https://github.com/s0rg/crawley">GitHub</a></td>
 <td>Fast, feature-rich unix-way web scraper/crawler written in Golang.</td>
-</tr>
-
-<tr>
-<td><img src="assets/discovery/katana.png"></td>
-<td><b>katana</b></td>
-<td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
-<td>A next-generation crawling and spidering framework.</td>
 </tr>
 
 <tr>
@@ -707,13 +717,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/discovery/wfuzz.png"></td>
-<td><b>wfuzz</b></td>
-<td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
-<td>Web application fuzzer.</td>
-</tr>
-
-<tr>
 <td><img src="assets/discovery/fuzzdb.png"></td>
 <td><b>fuzzdb</b></td>
 <td><a href="https://github.com/fuzzdb-project/fuzzdb">GitHub</a></td>
@@ -794,6 +797,21 @@
 </tr>
 
 <tr>
+<td><img src="assets/servers/FOFA.jpg"></td>
+<td><b>FOFA</b></td>
+<td><a href="https://fofa.info/">Website</a></td>
+<td>Cyberspace Mapping</td>
+</tr>
+
+<tr>
+<td><img src="assets/servers/Hunter.png"></td>
+<td><b>Hunter.how</b></td>
+<td><a href="https://hunter.how/">Website</a></td>
+<td>Internet search engine for security researchers.</td>
+</tr>
+
+
+<tr>
 <td><img src="assets/servers/onyphe.png"></td>
 <td><b>Onyphe</b></td>
 <td><a href="https://www.onyphe.io">Website</a></td>
@@ -822,24 +840,10 @@
 </tr>
 
 <tr>
-<td><img src="assets/servers/FOFA.jpg"></td>
-<td><b>FOFA</b></td>
-<td><a href="https://fofa.info/">Website</a></td>
-<td>Cyberspace Mapping</td>
-</tr>
-
-<tr>
 <td><img src="assets/servers/quake.png"></td>
 <td><b>Quake</b></td>
 <td><a href="https://quake.360.net/quake/#/index/">Website</a></td>
 <td>Global Cyberspace Surveying and mapping system.</td>
-</tr>
-
-<tr>
-<td><img src="assets/servers/Hunter.png"></td>
-<td><b>Hunter</b></td>
-<td><a href="https://hunter.how/">Website</a></td>
-<td>Internet search engine for security researchers.</td>
 </tr>
 
 <tr>
