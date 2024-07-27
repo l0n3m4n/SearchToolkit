@@ -274,6 +274,36 @@
 
 
 <tr>
+<td><img src="assets/discovery/"></td>
+<td><b>Recon-AD</b></td>
+<td><a href="https://github.com/outflanknl/Recon-AD">GitHub</a></td>
+<td>An (AD) recon tool based on ADSI and reflective DLL’s</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>PSPKIAudit</b></td>
+<td><a href="https://github.com/GhostPack/PSPKIAudit">GitHub</a></td>
+<td>(AD CS) PowerShell toolkit for auditing Active Directory Certificate Services.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>ImproHound</b></td>
+<td><a href="https://github.com/improsec/ImproHound">GitHub</a></td>
+<td>(AD) sIdentify the attack paths in BloodHound breaking your AD tiering</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>ADRecon</b></td>
+<td><a href="https://github.com/adrecon/ADRecon">GitHub</a></td>
+<td>(AD) ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.</td>
+</tr>
+
+<tr>
 <td><img src="assets/discovery/amass.jpg"></td>
 <td><b>Amass</b></td>
 <td><a href="https://github.com/OWASP/Amass">GitHub</a></td>
@@ -321,6 +351,61 @@
 <td><a href="https://github.com/Findomain/Findomain">GitHub</a></td>
 <td>The fastest and cross-platform subdomain enumerator</td>
 </tr>
+
+<tr>
+<td><img src="assets/discovery/findomain.png"></td>
+<td><b>RustScan</b></td>
+<td><a href="https://github.com/RustScan/RustScan">GitHub</a></td>
+<td>The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>gitleaks</b></td>
+<td><a href="https://github.com/zricethezav/gitleaks">GitHub</a></td>
+<td>(web) Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>s3scanner</b></td>
+<td><a href="https://github.com/sa7mon/S3Scanner">GitHub</a></td>
+<td>(web) Scan for open S3 buckets and dump the contents</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>cloud_enum</b></td>
+<td><a href="https://github.com/initstring/cloud_enum">GitHub</a></td>
+<td>(cloud) Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>recon-ng</b></td>
+<td><a href="https://github.com/lanmaster53/recon-ng">GitHub</a></td>
+<td>(web) Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>witnessme</b></td>
+<td><a href="https://github.com/byt3bl33d3r/WitnessMe">GitHub</a></td>
+<td>(Web) Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/discovery/"></td>
+<td><b>spoofcheck</b></td>
+<td><a href="https://github.com/BishopFox/spoofcheck">GitHub</a></td>
+<td>(web) A program that checks if a domain can be spoofed from. The program checks SPF and DMARC records for weak configurations that allow spoofing.</td>
+</tr>
+
 
 <tr>
 <td><img src="assets/discovery/Sudomy.png"></td>
@@ -1215,6 +1300,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/vulnerability-scanner/bandit.jpg"></td>
+<td><b>Grouper</b></td>
+<td><a href="https://github.com/l0ss/Grouper">GitHub</a></td>
+<td> (AD) A PowerShell script for helping to find vulnerable settings in AD Group Policy. (deprecated, use Grouper2 instead!)</td>
+</tr>
+
+<tr>
 <td><img src="assets/vulnerability-scanner/seclists.jpg"></td>
 <td><b>SecLists</b></td>
 <td><a href="https://github.com/danielmiessler/SecLists">GitHub</a></td>
@@ -1509,6 +1601,13 @@
 <td>The wonderland of JavaScript unexpected usages, and more</td>
 </tr> 
 
+<tr>
+<td><img src="assets/exploits/NetExec.png"></td>
+<td><b>NetExec (Network Exploitation)</b></td>
+<td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
+<a href="https://www.netexec.wiki/">Website</a></td>
+<td>NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
+</tr>
 
 <tr>
 <td><img src="assets/exploits/Reverse Shell generator.png"></td>
@@ -1574,11 +1673,10 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/NetExec.png"></td>
-<td><b>NetExec (Network Exploitation)</b></td>
-<td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
-<a href="https://www.netexec.wiki/">Website</a></td>
-<td>NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
+<td><img src="assets/exploits/"></td>
+<td><b>nanorobeus</b></td>
+<td><a href="https://github.com/wavvs/nanorobeus">Github</a></td>
+<td>A minimalistic tool for managing Kerberos tickets. Supports redteam frameworks</td>
 </tr>
 
 <tr>
@@ -3179,6 +3277,19 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
 made to help you during your investigations</td>
     </tr>
+    tbody>
+    <tr>
+      <td><img src="assets/"></td>
+      <td><b>linkedin2username</b></td>
+      <a href="https://github.com/initstring/linkedin2username">Github</a</td>
+      <td>OSINT Tool: Generate username lists for companies on LinkedIn</td>
+    </tr>
+     <tr>
+      <td><img src="assets/"></td>
+      <td><b>linkedint</b></td>
+      <a href="https://github.com/vysecurity/LinkedInt">Github</a</td>
+      <td>LinkedIn Recon Tool</td>
+    </tr>
     </tbody>
     </table>
     <br>
@@ -3443,6 +3554,12 @@ made to help you during your investigations</td>
       <td><a href="https://pastebin.com/">Website</a></td>
       <td>Website where you can store text online for a set period of time</td>
     </tr>
+    <tr>
+      <td><img src="assets/dorking"></td>
+      <td><b>pagodo</b></td>
+      <td><a href="https://github.com/opsdisk/pagodo">Github</a></td>
+      <td>pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching</td>
+    </tr>
   </tbody>
 </table>
 
@@ -3486,6 +3603,12 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td><b>PhoneBook</b></td>
       <td><a href="https://phonebook.cz/">Website</a></td>
       <td>Lists all domains, email addresses, or URLs for the given input domain</td>
+    </tr>
+     <tr>
+      <td><img src="assets/server/shodan.png"></td>
+      <td><b>buster</b></td>
+      <td><a href="https://github.com/sham00n/buster">Github</a></td>
+      <td>An advanced tool for email reconnaissance</td>
     </tr>
     <tr>
       <td><img src="assets/server/shodan.png"></td>
@@ -4041,6 +4164,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
+<td><img src="assets/payload-staging/"></td>
+<td>NimPlant</td>
+<td><a href="https://github.com/chvancooten/NimPlant">Github</a></td>
+<td>A light first-stage C2 implant written in Nim and Python</td>
+</tr>
+
+<tr>
 <td><img src="assets/payload-staging/GadgetToJScript.jpg"></td>
 <td>GadgetToJScript</td>
 <td><a href="https://github.com/med0x2e/GadgetToJScript">Github</a></td>
@@ -4512,6 +4642,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><b>LinWinPwn</b></td> 
 <td><a href="https://github.com/lefayjey/linWinPwn">Github</a></td>
 <td>Swiss-Army knife for Active Directory Pentesting using Linux</td> 
+</tr>
+
+
+<tr>
+<td><img src="assets/privilege-escalation/"></td>
+<td><b>ADCPwn</b></td> 
+<td><a href="https://github.com/bats3c/ADCSPwn">Github</a></td>
+<td>A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts (Petitpotam) and relaying to the certificate service.</td> 
 </tr>
 
 <tr>
