@@ -3628,21 +3628,21 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/initial-access/SprayingToolkit.jpg"></td>
 <td>SprayingToolkit</td>
 <td><a href="https://github.com/byt3bl33d3r/SprayingToolkit">Github</a></td>
 <td>Scripts to make password spraying attacks against Lync/S4B, OWA & O365 quicker, less painful, and more efficient.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/initial-access/o365recon.jpg"></td>
 <td>o365recon</td>
 <td><a href="https://github.com/nyxgeek/o365recon">Github</a></td>
 <td>Retrieve information via O365 with valid credentials.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/initial-access/CredMaster.jpg"></td>
 <td>CredMaster</td>
 <td><a href="https://github.com/knavesec/CredMaster">Github</a></td>
 <td>Refactored & improved CredKing password spraying tool. Uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling.</td>
