@@ -1073,7 +1073,10 @@
 
 </tbody>
 </table>
+<br>
 
+[🔝 Back to top](#Search-Navigation)
+ 
 ## Vulnerability Scanner
 
 <table>
