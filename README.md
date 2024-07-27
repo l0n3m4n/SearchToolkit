@@ -2381,8 +2381,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://www.virustotal.com/">Website</a></td>
       <td>Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches</td>
     </tr>
-    <tr>
-      <td><img src="assets/threat-intelligence/vx-underground.png"></td>
+    <tr>`
+      <td><img src="assets/threat-intelligence/vx-underground.png"></td`>
       <td><b>vx-underground.org</b></td>
       <td><a href="https://www.vx-underground.org/">Website</a></td>
       <td>The largest collection of malware source code, samples, and papers on the internet</td>
@@ -2623,11 +2623,11 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     </tr>
   </tbody>
 </table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
 
 ## Web History
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
   <thead>
@@ -2635,60 +2635,54 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <th>IMAGE</th>
       <th>NAMES</th>
       <th>LINKSS</th>
-      <th>DESCRIPTIONS</th>
+      <th>DESCRIPTIONS</th> 
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/web-history/Web Archive.png"></td>
       <td><b>Web Archive</b></td>
       <td><a href="https://web.archive.org/">Website</a></td>
       <td>Explore more than 702 billion web pages saved over time</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/web-history/archive.is.jpg"></td>
       <td><b>Archive.ph</b></td>
       <td><a href="https://archive.ph/">Website</a></td>
       <td>Create a copy of a webpage that will always be up even if the original link is down</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>CachedPages</b></td>
-      <td><a href="http://www.cachedpages.com/">Website</a></td>
-      <td>Get the cached page of any URL</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>stored.website</b></td>
       <td><a href="https://stored.website/">Website</a></td>
       <td>View cached web pages/website</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/web-history/CommonCrawl.jpg"></td>
       <td><b>CommonCrawl</b></td>
       <td><a href="https://commoncrawl.org/">Website</a></td>
       <td>Open repository of web crawl data</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/web-history/UK Web Archive.png"></td>
       <td><b>UK Web Archive</b></td>
       <td><a href="https://www.webarchive.org.uk/ukwa/">Website</a></td>
       <td>Collects millions of websites each year, preserving them for future generations</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/web-history/Arquivo.pt.png"></td>
       <td><b>Arquivo</b></td>
       <td><a href="https://arquivo.pt/">Website</a></td>
       <td>Non-profit service that maintains information published on the web of interest to the Portuguese community</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/web-history/Archive-It.png"></td>
       <td><b>Archive-It</b></td>
       <td><a href="https://archive-it.org/">Website</a></td>
       <td>An archive of digital government and non-government organization (NGO) documents and reports</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/web-history/HAW.png"></td>
       <td><b>HAW</b></td>
       <td><a href="https://haw.nsk.hr/en/">Website</a></td>
       <td>Croatian Web Archive</td>
@@ -2712,25 +2706,24 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
+      <td><img src="assets/surveillance-cameras/Insecam.org.jpg"></td>
       <td><b>Insecam.org</b></td>
       <td><a href="http://www.insecam.org/en/">Website</a></td>
       <td>The world biggest directory of online surveillance security cameras</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shodan.png"></td>
-      <td><b>Surveillance under Surveillance</b></td>
+      <td><img src="assets/surveillance-cameras/sunders.uber.space.png"></td>
+      <td><b>Surveillance under Surveillance </b></td>
       <td><a href="https://sunders.uber.space/">Website</a></td>
       <td>Cameras and guards watching you almost everywhere</td>
     </tr>
   </tbody>
 </table>
-
+<br>
 
 ## URL
 
- [🔝 Back to top](#Search-Navigation)
-
+[🔝 Back to top](#Search-Navigation)
 
 <table>
   <thead>
@@ -2800,7 +2793,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 
 
- [🔝 Back to top](#Search-Navigation)
+[🔝 Back to top](#Search-Navigation)
 
 
 <br>
