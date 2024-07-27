@@ -4447,7 +4447,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>PEASS-ng is tools search for local privilege escalation (WinPEAS,LenPEAS,MacPEAS)</td>
 </tr>
 
-
 <tr>
 <td><img src="assets/privilege-escalation/WLPE.png"></td>
 <td><b>WLPE</b></td>
