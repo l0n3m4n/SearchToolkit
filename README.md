@@ -85,6 +85,7 @@
 
   <a href="#discovery"><b>Discovery</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
+  <a href="#vulnerability-scanner"><b>Vulnerability Scanner</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#initial-access"><b>Initial Access</b></a> |
   <a href="#payload-and-staging"><b>Payload and Staging</b></a> |
@@ -874,43 +875,35 @@
 <tbody>
 
 <tr>
-<td><img src="assets/vulnerabilities/nuclei.jpg"></td>
-<td><b>nuclei</b></td>
-<td><a href="https://github.com/projectdiscovery/nuclei">GitHub</a></td>
-<td>Fast and customizable vulnerability scanner based on simple YAML based DSL.</td>
-</tr>
-
-
-<tr>
-<td><img src="assets/vulnerabilities/NIST.png"></td>
+<td><img src="assets/vulnerability-identification/NIST.png"></td>
 <td><b>NIST NVD</b></td>
 <td><a href="https://nvd.nist.gov/vuln/search">Website</a></td>
 <td>US National Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/MITRE-CVE.jpg"></td>
+<td><img src="assets/vulnerability-identification/MITRE-CVE.jpg"></td>
 <td><b>MITRE CVE</b></td>
 <td><a href="https://cve.mitre.org/cve/search_cve_list.html">Website</a></td>
 <td>Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/CVE Search.jpg"></td>
+<td><img src="assets/vulnerability-identification/CVE Search.jpg"></td>
 <td><b>CVE Search</b></td>
 <td><a href="https://github.com/cve-search/cve-search">Github</a></td>
 <td>The main objective of the "cve search" is to avoid doing direct and public lookups into the public CVE databases.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/GitHub_Advisory_Database.jpg"></td>
+<td><img src="assets/vulnerability-identification/GitHub_Advisory_Database.jpg"></td>
 <td><b>GitHub Advisory Database</b></td>
 <td><a href="https://github.com/advisories">Github</a></td>
 <td>Security vulnerability database inclusive of CVEs and GitHub originated security advisories</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/attackerKB.png"></td>
+<td><img src="assets/vulnerability-identification/attackerKB.png"></td>
 <td><b>AttackerKB</b></td>
 <td><a href="https://attackerkb.com/">Website</a></td>
 <td> AttackerKB is a technical analysis tool on which you can search vulnerabilities that are rated by the community.</td>
@@ -918,166 +911,189 @@
 
 
 <tr>
-<td><img src="assets/vulnerabilities/Cloudvulndb.org.jpg"></td>
+<td><img src="assets/vulnerability-identification/Cloudvulndb.org.jpg"></td>
 <td><b>Cloudvulndb.org</b></td>
 <td><a href="https://www.cloudvulndb.org/">Website</a></td>
 <td>The Open Cloud Vulnerability & Security Issue Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Osv.dev.png"></td>
+<td><img src="assets/vulnerability-identification/Osv.dev.png"></td>
 <td><b>Osv.dev</b></td>
 <td><a href="https://osv.dev/list">Website</a></td>
 <td>Open Source Vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Vulners.png  "></td>
+<td><img src="assets/vulnerability-identification/Vulners.png  "></td>
 <td><b>Vulners.com</b></td>
 <td><a href="https://vulners.com/">Website</a></td>
 <td>Your Search Engine for Security Intelligence</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Opencve.io.png"></td>
+<td><img src="assets/vulnerability-identification/Opencve.io.png"></td>
 <td><b>Opencve.io</b></td>
 <td><a href="https://www.opencve.io/cve">Website</a></td>
 <td>Easiest way to track CVE updates and be alerted about new vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Security.snyk.io.jpg"></td>
+<td><img src="assets/vulnerability-identification/Security.snyk.io.jpg"></td>
 <td><b>Security.snyk.io</b></td>
 <td><a href="https://security.snyk.io/">Website</a></td>
 <td>Open Source Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Mend Vulnerability Database.png"></td>
+<td><img src="assets/vulnerability-identification/Mend Vulnerability Database.png"></td>
 <td><b>Mend Vulnerability Database</b></td>
 <td><a href="https://www.mend.io/vulnerability-database/">Website</a></td>
 <td>The largest open source vulnerability DB</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Rapid7-DB.jpg"></td>
+<td><img src="assets/vulnerability-identification/Rapid7-DB.jpg"></td>
 <td><b>Rapid7 - DB</b></td>
 <td><a href="https://www.rapid7.com/db/">Website</a></td>
 <td>Vulnerability &  Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/CVE Details.png"></td>
+<td><img src="assets/vulnerability-identification/CVE Details.png"></td>
 <td><b>CVE Details</b></td>
 <td><a href="https://www.cvedetails.com/">Website</a></td>
 <td>The ultimate security vulnerability datasource</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/VulnIQ.jpg"></td>
+<td><img src="assets/vulnerability-identification/VulnIQ.jpg"></td>
 <td><b>VulnIQ</b></td>
 <td><a href="https://vulniq.com/">Website</a></td>
 <td>Vulnerability intelligence and management solution</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/SynapsInt.jpg"></td>
+<td><img src="assets/vulnerability-identification/SynapsInt.jpg"></td>
 <td><b>SynapsInt</b></td>
 <td><a href="https://synapsint.com/">Website</a></td>
 <td>The unified OSINT research tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/aqua.png"></td>
+<td><img src="assets/vulnerability-identification/aqua.png"></td>
 <td><b>Aqua Vulnerability Database</b></td>
 <td><a href="https://avd.aquasec.com/">Website</a></td>
 <td>Vulnerabilities and weaknesses in open source applications and cloud native infrastructure</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/VulDB.png"></td>
+<td><img src="assets/vulnerability-identification/VulDB.png"></td>
 <td><b>VulDB</b></td>
 <td><a href="https://vuldb.com/">Website</a></td>
 <td>Number one vulnerability database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/ScanFactory.jpg"></td>
+<td><img src="assets/vulnerability-identification/ScanFactory.jpg"></td>
 <td><b>ScanFactory</b></td>
 <td><a href="https://in.scanfactory.io/cvemon.html">Website</a></td>
 <td>Realtime Security Monitoring</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/trend_micro_zero_day.png"></td>
+<td><img src="assets/vulnerability-identification/trend_micro_zero_day.png"></td>
 <td><b>Trend Micro Zero Day Initiative</b></td>
 <td><a href="https://www.zerodayinitiative.com/advisories/published/">Website</a></td>
 <td>Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Google Project Zero.png"></td>
+<td><img src="assets/vulnerability-identification/Google Project Zero.png"></td>
 <td><b>Google Project Zero</b></td>
 <td><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary">Website</a></td>
 <td>Vulnerabilities including Zero Days</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/trickest.jpg"></td>
+<td><img src="assets/vulnerability-identification/trickest.jpg"></td>
 <td><b>Trickest CVE Repository</b></td>
 <td><a href="https://github.com/trickest/cve">GitHub</a></td>
 <td>Gather and update all available and newest CVEs with their PoC</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Cnvd.org.cn.png"></td>
+<td><img src="assets/vulnerability-identification/Cnvd.org.cn.png"></td>
 <td><b>Cnvd.org.cn</b></td>
 <td><a href="https://www.cnvd.org.cn/">Website</a></td>
 <td>Chinese National Vulnerability Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/InTheWild.io.png"></td>
+<td><img src="assets/vulnerability-identification/InTheWild.io.png"></td>
 <td><b>InTheWild.io</b></td>
 <td><a href="https://inthewild.io/feed">Website</a></td>
 <td>Check CVEs in our free, open source feed of exploited vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/vulnerabilitylab.jpg"></td>
+<td><img src="assets/vulnerability-identification/vulnerabilitylab.jpg"></td>
 <td><b>Vulnerability Lab</b></td>
 <td><a href="https://www.vulnerability-lab.com/">Website</a></td>
 <td>Vulnerability research, bug bounties, and vulnerability assessments</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/RedHat-Security-Advisories.png"></td>
+<td><img src="assets/vulnerability-identification/RedHat-Security-Advisories.png"></td>
 <td><b>Red Hat Security Advisories</b></td>
 <td><a href="https://access.redhat.com/security/security-updates/">Website</a></td>
 <td>Information about security flaws that affect Red Hat products and services in the form of security advisories</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Cisco-Security-Advisories.jpg"></td>
+<td><img src="assets/vulnerability-identification/Cisco-Security-Advisories.jpg"></td>
 <td><b>Cisco Security Advisories</b></td>
 <td><a href="https://sec.cloudapps.cisco.com/security/center/publicationListing.x">Website</a></td>
 <td>Security advisories and vulnerability information for Cisco products, including network equipment and software</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/Microsoft.jpg"></td>
+<td><img src="assets/vulnerability-identification/Microsoft.jpg"></td>
 <td><b>Microsoft Security Response Center</b></td>
 <td><a href="https://msrc.microsoft.com/update-guide/en-us">Website</a></td>
 <td>Reports of security vulnerabilities affecting Microsoft products and services</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerabilities/cisa.png"></td>
+<td><img src="assets/vulnerability-identification/cisa.png"></td>
 <td><b>CISA</b></td>
 <td><a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Website</a></td>
 <td>Known Exploited Vulnerabilities Catalog</td>
 </tr>
 
+</tbody>
+</table>
+
+
+## Vulnerability Scanner
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th><b>NAME</b></th>
+<th>LINKS</th>
+<th>DESCRIPTION</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><img src="assets/vulnerability-scanner/nuclei.jpg"></td>
+<td><b>nuclei</b></td>
+<td><a href="https://github.com/projectdiscovery/nuclei">GitHub</a></td>
+<td>Fast and customizable vulnerability scanner based on simple YAML based DSL.</td>
+</tr>
 </tbody>
 </table>
 
