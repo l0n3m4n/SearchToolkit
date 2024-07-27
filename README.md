@@ -4630,14 +4630,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/privilege-escalation/WLPE.png"></td>
 <td><b>WLPE</b></td>
 <td><a href="https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook">Github</a></td>
-<td>Windows Local Privilege Escalation Cookbook </td>
+<td>(windows): Local Privilege Escalation Cookbook </td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/activedirectory.jpg"></td>
 <td><b>LinWinPwn</b></td> 
 <td><a href="https://github.com/lefayjey/linWinPwn">Github</a></td>
-<td>Swiss-Army knife for Active Directory Pentesting using Linux</td> 
+<td>(linux): Swiss-Army knife for Active Directory Pentesting using Linux</td> 
 </tr>
 
 
@@ -4645,70 +4645,70 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/privilege-escalation/"></td>
 <td><b>ADCPwn</b></td> 
 <td><a href="https://github.com/bats3c/ADCSPwn">Github</a></td>
-<td>A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts (Petitpotam) and relaying to the certificate service.</td> 
+<td>(linux): A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts (Petitpotam) and relaying to the certificate service.</td> 
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>ElevateKit</td>
 <td><a href="https://github.com/rsmudge/ElevateKit">Github</a></td>
-<td>The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.</td>
+<td>(windows-linux): The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>Watson</td>
 <td><a href="https://github.com/rasta-mouse/Watson">Github</a></td>
-<td>Watson is a .NET tool designed to enumerate missing KBs and suggest exploits for Privilege Escalation vulnerabilities.</td>
+<td>(windows): Watson is a .NET tool designed to enumerate missing KBs and suggest exploits for Privilege Escalation vulnerabilities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>SharpUp</td>
 <td><a href="https://github.com/GhostPack/SharpUp">Github</a></td>
-<td>SharpUp is a C# port of various PowerUp functionality. Currently, only the most common checks have been ported; no weaponization functions have yet been implemented.</td>
+<td>(windows): SharpUp is a C# port of various PowerUp functionality. Currently, only the most common checks have been ported; no weaponization functions have yet been implemented.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>dazzleUP</td>
 <td><a href="https://github.com/hlldz/dazzleUP">Github</a></td>
-<td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
+<td>(windows): A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>SweetPotato</td>
 <td><a href="https://github.com/CCob/SweetPotato">Github</a></td>
-<td>A collection of various native Windows privilege escalation techniques from service accounts to SYSTEM.</td>
+<td>(windows): A collection of various native Windows privilege escalation techniques from service accounts to SYSTEM.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>MultiPotato</td>
 <td><a href="https://github.com/S3cur3Th1sSh1t/MultiPotato">Github</a></td>
-<td>Another Potato to get SYSTEM via SeImpersonate privileges.</td>
+<td>(windows): Another Potato to get SYSTEM via SeImpersonate privileges.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>KrbRelayUp</td>
 <td><a href="https://github.com/Dec0ne/KrbRelayUp">Github</a></td>
-<td>A universal no-fix local privilege escalation in Windows domain environments where LDAP signing is not enforced (the default settings).</td>
+<td>(windows): A universal no-fix local privilege escalation in Windows domain environments where LDAP signing is not enforced (the default settings).</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>GodPotato</td>
 <td><a href="https://github.com/BeichenDream/GodPotato">Github</a></td>
-<td>As Long as You Have the ImpersonatePrivilege Permission, Then You are the SYSTEM!</td>
+<td>(windows): As Long as You Have the ImpersonatePrivilege Permission, Then You are the SYSTEM!</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>PrivKit</td>
 <td><a href="https://github.com/mertdas/PrivKit">Github</a></td>
-<td>PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.</td>
+<td>(windows): PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.</td>
 </tr>
 </tbody>
 </table>
@@ -4940,98 +4940,98 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/"></td>
 <td>SharpStay</td>
 <td><a href="https://github.com/0xthirteen/SharpStay">Github</a></td>
-<td>.NET project for installing Persistence.</td>
+<td>(windows): .NET project for installing Persistence.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>SharPersist</td>
 <td><a href="https://github.com/fireeye/SharPersist">Github</a></td>
-<td>Windows persistence toolkit written in C#.</td>
+<td>(windows): Windows persistence toolkit written in C#.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>SharpHide</td>
 <td><a href="https://github.com/outflanknl/SharpHide">Github</a></td>
-<td>Tool to create hidden registry keys.</td>
+<td>(windows): Tool to create hidden registry keys.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>DoUCMe</td>
 <td><a href="https://github.com/Ben0xA/DoUCMe">Github</a></td>
-<td>Leverages the NetUserAdd Win32 API to create a new computer account.</td>
+<td>(windows): Leverages the NetUserAdd Win32 API to create a new computer account.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>A Black Path Toward The Sun</td>
 <td><a href="https://github.com/nccgroup/ABPTTS">Github</a></td>
-<td>TCP tunneling over HTTP for web application servers.</td>
+<td>(web): TCP tunneling over HTTP for web application servers.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>pivotnacci</td>
 <td><a href="https://github.com/blackarrowsec/pivotnacci">Github</a></td>
-<td>A tool to make socks connections through HTTP agents.</td>
+<td>(protocols): A tool to make socks connections through HTTP agents.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>reGeorg</td>
 <td><a href="https://github.com/sensepost/reGeorg">Github</a></td>
-<td>The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.</td>
+<td>(web): The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>DAMP</td>
 <td><a href="https://github.com/HarmJ0y/DAMP">Github</a></td>
-<td>The Discretionary ACL Modification Project: Persistence Through Host-based Security Descriptor Modification.</td>
+<td>(host): The Discretionary ACL Modification Project: Persistence Through Host-based Security Descriptor Modification.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>IIS-Raid</td>
 <td><a href="https://github.com/0x09AL/IIS-Raid">Github</a></td>
-<td>A native backdoor module for Microsoft IIS (Internet Information Services).</td>
+<td>(windows): A native backdoor module for Microsoft IIS (Internet Information Services).</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>SharPyShell</td>
 <td><a href="https://github.com/antonioCoco/SharPyShell">Github</a></td>
-<td>Tiny and obfuscated ASP.NET webshell for C# web applications.</td>
+<td>(web): Tiny and obfuscated ASP.NET webshell for C# web applications.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>ScheduleRunner</td>
 <td><a href="https://github.com/netero1010/ScheduleRunner">Github</a></td>
-<td>A C# tool with more flexibility to customize scheduled tasks for both persistence and lateral movement in red team operations.</td>
+<td>(windows): A C# tool with more flexibility to customize scheduled tasks for both persistence and lateral movement in red team operations.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>SharpEventPersist</td>
 <td><a href="https://github.com/improsec/SharpEventPersist">Github</a></td>
-<td>Persistence by writing/reading shellcode from Event Log.</td>
+<td>(windows): Persistence by writing/reading shellcode from Event Log.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>Kraken</td>
 <td><a href="https://github.com/kraken-ng/Kraken">Github</a></td>
-<td>Kraken, a modular multi-language webshell coded by @secu_x11.</td>
+<td>(web): Kraken, a modular multi-language webshell coded by @secu_x11.</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td>HiddenDesktop</td>
 <td><a href="https://github.com/WKL-Sec/HiddenDesktop">Github</a></td>
-<td>HVNC for Cobalt Strike.</td>
+<td>(windows): HVNC for Cobalt Strike.</td>
 </tr>
 </tbody>
 </table>
@@ -5262,7 +5262,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/"></td>
 <td>Badcookie</td>
 <td><a href="https://github.com/akbarq/Red-Team-Operations/blob/master/badcookie.py">GitHub</a></td>
-<td>(base64) - exfiltrates data via base64 encoded HTTP cookies.</td>
+<td>(base64) - exfiltrates d  ata via base64 encoded HTTP cookies.</td>
 </tr>
  
 <tr>
