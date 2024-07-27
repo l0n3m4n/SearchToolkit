@@ -5260,7 +5260,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <tr>
 <td><img src="assets/"></td>
-<td>Base64</td>
 <td>Badcookie</td>
 <td><a href="https://github.com/akbarq/Red-Team-Operations/blob/master/badcookie.py">GitHub</a></td>
 <td>(base64) - exfiltrates data via base64 encoded HTTP cookies.</td>
