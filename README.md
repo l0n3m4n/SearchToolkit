@@ -1335,7 +1335,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/owasp-dependency-check.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Dependency-Check.jpg"></td>
 <td><b>OWASP Dependency-Check</b></td>
 <td><a href="https://github.com/jeremylong/DependencyCheck">GitHub</a></td>
 <td>(web): Identifies project dependencies with known vulnerabilities.</td>
@@ -1351,28 +1351,28 @@
 
 
 <tr>
-<td><img src="assets/vulnerability-scanner/sqlmap.jpg"></td>
+<td><img src="assets/vulnerability-scanner/sqlmap.png"></td>
 <td><b>sqlmap</b></td>
 <td><a href="https://github.com/sqlmapproject/sqlmap">GitHub</a></td>
 <td>(web): Automatic SQL injection and database takeover tool.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/xray.jpg"></td>
+<td><img src="assets/vulnerability-scanner/xray.png"></td>
 <td><b>xray</b></td>
 <td><a href="https://github.com/chaitin/xray">GitHub</a></td>
 <td>(web): A complete security assessment tool that supports scanning of common web security issues and custom POC | Be sure to read the documentation before using it.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/osv-scanner.jpg"></td>
+<td><img src="assets/vulnerability-scanner/osv-scanner.png"></td>
 <td><b>osv-scanner</b></td>
 <td><a href="https://github.com/google/osv-scanner">GitHub</a></td>
 <td>(web): Vulnerability scanner written in Go which uses the data provided by.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/commix.jpg"></td>
+<td><img src="assets/vulnerability-scanner/commix.png"></td>
 <td><b>commix</b></td>
 <td><a href="https://github.com/commixproject/commix">GitHub</a></td>
 <td>(web): Automated All-in-One OS Command Injection Exploitation Tool.</td>
@@ -1386,14 +1386,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/nettacker.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Nettacker.png"></td>
 <td><b>Nettacker</b></td>
 <td><a href="https://github.com/OWASP/Nettacker">GitHub</a></td>
 <td>(network): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/raccoon.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Raccoon.png"></td>
 <td><b>Raccoon</b></td>
 <td><a href="https://github.com/evyatarmeged/Raccoon">GitHub</a></td>
 <td>(web): A high-performance offensive security tool for reconnaissance and vulnerability scanning.</td>
@@ -1421,7 +1421,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/punkspider.jpg"></td>
+<td><img src="assets/vulnerability-scanner/PunkSpider.png"></td>
 <td><b>PunkSpider</b></td>
 <td><a href="https://github.com/punkspider/punkspider">GitHub</a></td>
 <td>(web): application vulnerability scanner and search engine.</td>
@@ -1442,7 +1442,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/sn1per.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Sn1per.png"></td>
 <td><b>Sn1per</b></td>
 <td><a href="https://github.com/1N3/Sn1per">GitHub</a></td>
 <td>(network-web): Penetration testing tool for vulnerability scanning and enumeration.</td>
