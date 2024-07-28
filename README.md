@@ -217,6 +217,7 @@
 <tr>
 <th>IMAGE</th>
 <th><b>NAME</b></th>
+<th>CATEGORY</th>
 <th>LINKS</th>
 <th>DESCRIPTION</th>
 </tr>
