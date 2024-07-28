@@ -1337,7 +1337,7 @@
 <tr>
 <td><img src="assets/vulnerability-scanner/owasp-dependency-check.jpg"></td>
 <td><b>OWASP Dependency-Check</b></td>
-<td><a href="https://github.com/jeremydmiller/Check">GitHub</a></td>
+<td><a href="https://github.com/jeremylong/DependencyCheck">GitHub</a></td>
 <td>(web): Identifies project dependencies with known vulnerabilities.</td>
 </tr>
 
@@ -1345,7 +1345,7 @@
 <tr>
 <td><img src="assets/vulnerability-scanner/forta.jpg"></td>
 <td><b>Forta</b></td>
-<td><a href="https://github.com/forta-org/forta">GitHub</a></td>
+<td><a href="https://github.com/kovart/forta-attack-simulation">GitHub</a></td>
 <td>(web): Real-time vulnerability detection for Ethereum smart contracts.</td>
 </tr>
 
