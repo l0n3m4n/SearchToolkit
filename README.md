@@ -1207,7 +1207,7 @@
 
 
 <tr>
-<td><img src="assets/vulnerability-scanner/zap.jpg"></td>
+<td><img src="assets/vulnerability-scanner/OWASP ZAP.jpg"></td>
 <td><b>OWASP ZAP</b></td>
 <td><a href="https://github.com/zaproxy/zaproxy">GitHub</a></td>
 <td>(web): Dynamic application security testing tool for finding vulnerabilities in web applications.</td>
@@ -1221,7 +1221,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/nikto.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Nikto.jpg"></td>
 <td><b>Nikto</b></td>
 <td><a href="https://github.com/sullo/nikto">GitHub</a></td>
 <td>(web): Web server scanner for detecting vulnerabilities and misconfigurations.</td>
@@ -1235,42 +1235,42 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/arachni.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Arachni.jpg"></td>
 <td><b>Arachni</b></td>
 <td><a href="https://github.com/arachni/arachni">GitHub</a></td>
 <td>(web): Modular web application security scanner.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/openvas.jpg"></td>
+<td><img src="assets/vulnerability-scanner/OpenVAS.png"></td>
 <td><b>OpenVAS</b></td>
 <td><a href="https://github.com/greenbone">GitHub</a></td>
 <td>(network-web): Comprehensive vulnerability scanner for network services and applications.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/vulnerability-scanner/Nexpos.jpg"></td>
 <td><b>Nexpose</b></td>
 <td><a href="https://www.rapid7.com/products/nexpose">Website</a></td>
 <td>(network-web): Nexpose is a comprehensive vulnerability management solution developed by Rapid7. It is designed to help organizations proactively identify, assess, and address security vulnerabilities across their IT environments</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/wapiti.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Wapiti.png"></td>
 <td><b>Wapiti</b></td>
 <td><a href="https://github.com/wapiti-scanner/wapiti">GitHub</a></td>
 <td>(web): vulnerability scanner for black-box scanning.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/vuls.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Vuls.png"></td>
 <td><b>Vuls</b></td>
 <td><a href="https://github.com/future-architect/vuls">GitHub</a></td>
 <td>(network-web): Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/retirejs.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Retire.png"></td>
 <td><b>Retire.js</b></td>
 <td><a href="https://github.com/retirejs/retire.js">GitHub</a></td>
 <td>(web): Scans for outdated JavaScript libraries with known vulnerabilities.</td>
@@ -1278,42 +1278,42 @@
 
 
 <tr>
-<td><img src="assets/vulnerability-scanner/clair.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Clair.png"></td>
 <td><b>Clair</b></td>
 <td><a href="https://github.com/quay/clair">GitHub</a></td>
 <td>(network): Static analysis of vulnerabilities in container images.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/trivy.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Trivy.png"></td>
 <td><b>Trivy</b></td>
 <td><a href="https://github.com/aquasecurity/trivy">GitHub</a></td>
 <td>(network-web): Vulnerability scanner for container images and other artifacts.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/bandit.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Bandit.png"></td>
 <td><b>Bandit</b></td>
 <td><a href="https://github.com/PyCQA/bandit">GitHub</a></td>
 <td>(programming): Finds common security issues in Python code.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/bandit.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Grouper.png"></td>
 <td><b>Grouper</b></td>
 <td><a href="https://github.com/l0ss/Grouper">GitHub</a></td>
 <td>(network): A PowerShell script for helping to find vulnerable settings in AD Group Policy. (deprecated, use Grouper2 instead!)</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/seclists.jpg"></td>
+<td><img src="assets/vulnerability-scanner/SecLists.png"></td>
 <td><b>SecLists</b></td>
 <td><a href="https://github.com/danielmiessler/SecLists">GitHub</a></td>
 <td>(network-web): Collection of multiple lists used in security assessments.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/sonarqube.jpg"></td>
+<td><img src="assets/vulnerability-scanner/SonarQube (Community Edition).png"></td>
 <td><b>SonarQube (Community Edition)</b></td>
 <td><a href="https://github.com/SonarSource/sonarqube">GitHub</a></td>
 <td>(web): Code quality and security analysis tool.</td>
@@ -1321,14 +1321,14 @@
 
 
 <tr>
-<td><img src="assets/vulnerability-scanner/docker-bench-security.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Docker-Bench-Security.png"></td>
 <td><b>Docker-Bench-Security</b></td>
 <td><a href="https://github.com/docker/docker-bench-security">GitHub</a></td>
 <td>(network): Checks Docker containers against best security practices.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/snyk-cli.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Snyk CLI.jpg"></td>
 <td><b>Snyk CLI</b></td>
 <td><a href="https://github.com/snyk/snyk">GitHub</a></td>
 <td>(network): Finds and fixes vulnerabilities in dependencies and Docker images.</td>
