@@ -259,14 +259,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/BloodHound.png"></td>
 <td><b>BloodHound</b></td>
 <td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
 <td>(AD): BloodHound is a powerful tool used for Active Directory (AD) security assessments. It helps identify and analyze security vulnerabilities and relationships within an Active Directory environment.</td>
 
 </tr>
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/CrackMapExec.jpg"></td>
 <td><b>CrackMapExec</b></td>
 <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">GitHub</a></td>
 <td>(network): A swiss army knife for pentesting networks </td>
@@ -274,7 +274,7 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/Recon-AD.png"></td>
 <td><b>Recon-AD</b></td>
 <td><a href="https://github.com/outflanknl/Recon-AD">GitHub</a></td>
 <td>(AD): recon-ad tool based on ADSI and reflective DLL’s</td>
@@ -282,7 +282,7 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/PSPKIAudit.jpg"></td>
 <td><b>PSPKIAudit</b></td>
 <td><a href="https://github.com/GhostPack/PSPKIAudit">GitHub</a></td>
 <td>(AD CS): PowerShell toolkit for auditing Active Directory Certificate Services.</td>
@@ -290,14 +290,14 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/ImproHound.png"></td>
 <td><b>ImproHound</b></td>
 <td><a href="https://github.com/improsec/ImproHound">GitHub</a></td>
 <td>(AD): sIdentify the attack paths in BloodHound breaking your AD tiering</td>
 </tr>
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/ADRecon.jpg"></td>
 <td><b>ADRecon</b></td>
 <td><a href="https://github.com/adrecon/ADRecon">GitHub</a></td>
 <td>(AD): ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.</td>
@@ -360,7 +360,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/gitleaks.png"></td>
 <td><b>gitleaks</b></td>
 <td><a href="https://github.com/zricethezav/gitleaks">GitHub</a></td>
 <td>(web): Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.</td>
@@ -368,7 +368,7 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/s3scanner.png"></td>
 <td><b>s3scanner</b></td>
 <td><a href="https://github.com/sa7mon/S3Scanner">GitHub</a></td>
 <td>(web): Scan for open S3 buckets and dump the contents</td>
@@ -376,7 +376,7 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/cloud_enum.jpg"></td>
 <td><b>cloud_enum</b></td>
 <td><a href="https://github.com/initstring/cloud_enum">GitHub</a></td>
 <td>(cloud): Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.</td>
@@ -384,7 +384,7 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/recon-ng.png"></td>
 <td><b>recon-ng</b></td>
 <td><a href="https://github.com/lanmaster53/recon-ng">GitHub</a></td>
 <td>(web): Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.</td>
@@ -392,7 +392,7 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/witnessme.jpg"></td>
 <td><b>witnessme</b></td>
 <td><a href="https://github.com/byt3bl33d3r/WitnessMe">GitHub</a></td>
 <td>(web): Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier</td>
@@ -400,7 +400,7 @@
 
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/spoofcheck.png"></td>
 <td><b>spoofcheck</b></td>
 <td><a href="https://github.com/BishopFox/spoofcheck">GitHub</a></td>
 <td>(web): A program that checks if a domain can be spoofed from. The program checks SPF and DMARC records for weak configurations that allow spoofing.</td>
