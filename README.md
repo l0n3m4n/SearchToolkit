@@ -147,7 +147,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/"></td>
+<td><img src="assets/cheatsheets/RedTeam Guide.png"></td>
 <td><b>RedTeam Guide</b></td>
 <td><a href="https://github.com/RistBS/Awesome-RedTeam-Cheatsheet">Github</a></td>
 <td>Red Team Cheatsheet in constant expansion.</td>
