@@ -1918,6 +1918,133 @@
 </tr>
 
 
+<tr>
+<td><img src="assets/injectus-logo.jpg"></td>
+<td><b>Injectus</b></td>
+<td><a href="https://github.com/BountyStrike/Injectus">GitHub</a></td>
+<td>(Open-Redirect): CRLF and open redirect fuzzer</td>
+</tr>
+
+<tr>
+<td><img src="assets/dom-red-logo.jpg"></td>
+<td><b>dom-red</b></td>
+<td><a href="https://github.com/Naategh/dom-red">GitHub</a></td>
+<td>(Open-Redirect): Small script to check a list of domains against open redirect vulnerability</td>
+</tr>
+
+<tr>
+<td><img src="assets/openredirex-logo.jpg"></td>
+<td><b>OpenRedireX</b></td>
+<td><a href="https://github.com/devanshbatham/OpenRedireX">GitHub</a></td>
+<td>(Open-Redirect): A Fuzzer for OpenRedirect issues</td>
+</tr>
+
+<tr>
+<td><img src="assets/razzer-logo.jpg"></td>
+<td><b>razzer</b></td>
+<td><a href="https://github.com/compsec-snu/razzer">GitHub</a></td>
+<td>(Race-Condition): A Kernel fuzzer focusing on race bugs</td>
+</tr>
+
+<tr>
+<td><img src="assets/racepwn-logo.jpg"></td>
+<td><b>racepwn</b></td>
+<td><a href="https://github.com/racepwn/racepwn">GitHub</a></td>
+<td>(Race-Condition): Race Condition framework</td>
+</tr>
+
+<tr>
+<td><img src="assets/requests-racer-logo.jpg"></td>
+<td><b>requests-racer</b></td>
+<td><a href="https://github.com/nccgroup/requests-racer">GitHub</a></td>
+<td>(Race-Condition): Small Python library that makes it easy to exploit race conditions in web apps with Requests</td>
+</tr>
+
+<tr>
+<td><img src="assets/turbo-intruder-logo.jpg"></td>
+<td><b>turbo-intruder</b></td>
+<td><a href="https://github.com/PortSwigger/turbo-intruder">GitHub</a></td>
+<td>(Race-Condition): Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results</td>
+</tr>
+
+<tr>
+<td><img src="assets/race-the-web-logo.jpg"></td>
+<td><b>race-the-web</b></td>
+<td><a href="https://github.com/TheHackerDev/race-the-web">GitHub</a></td>
+<td>(Race-Condition): Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline</td>
+</tr>
+
+<tr>
+<td><img src="assets/http-request-smuggling-logo.jpg"></td>
+<td><b>http-request-smuggling</b></td>
+<td><a href="https://github.com/anshumanpattnaik/http-request-smuggling">GitHub</a></td>
+<td>HTTP Request Smuggling Detection Tool</td>
+</tr>
+
+<tr>
+<td><img src="assets/smuggler-logo.jpg"></td>
+<td><b>smuggler</b></td>
+<td><a href="https://github.com/defparam/smuggler">GitHub</a></td>
+<td>Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3</td>
+</tr>
+
+<tr>
+<td><img src="assets/h2csmuggler-logo.jpg"></td>
+<td><b>h2csmuggler</b></td>
+<td><a href="https://github.com/BishopFox/h2csmuggler">GitHub</a></td>
+<td>(Request-Smuggling): HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
+</tr>
+
+<tr>
+<td><img src="assets/tiscripts-logo.jpg"></td>
+<td><b>tiscripts</b></td>
+<td><a href="https://github.com/defparam/tiscripts">GitHub</a></td>
+<td>(Request-Smuggling): These scripts I use to create Request Smuggling Desync payloads for CLTE and TECL style attacks</td>
+</tr>
+
+<tr>
+<td><img src="assets/ssrfmap-logo.jpg"></td>
+<td><b>SSRFmap</b></td>
+<td><a href="https://github.com/swisskyrepo/SSRFmap">GitHub</a></td>
+<td>(SSRF): Automatic SSRF fuzzer and exploitation tool</td>
+</tr>
+
+<tr>
+<td><img src="assets/gopherus-logo.jpg"></td>
+<td><b>Gopherus</b></td>
+<td><a href="https://github.com/tarunkant/Gopherus">GitHub</a></td>
+<td>(SSRF): This tool generates gopher link for exploiting SSRF and gaining RCE in various servers</td>
+</tr>
+
+<tr>
+<td><img src="assets/ground-control-logo.jpg"></td>
+<td><b>ground-control</b></td>
+<td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
+<td>(SSRF): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities</td>
+</tr>
+
+<tr>
+<td><img src="assets/ssrfire-logo.jpg"></td>
+<td><b>SSRFire</b></td>
+<td><a href="https://github.com/micha3lb3n/SSRFire">GitHub</a></td>
+<td>(SSRF): An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects</td>
+</tr>
+
+<tr>
+<td><img src="assets/httprebind-logo.jpg"></td>
+<td><b>httprebind</b></td>
+<td><a href="https://github.com/daeken/httprebind">GitHub</a></td>
+<td>(SSRF): Automatic tool for DNS rebinding-based SSRF attacks</td>
+</tr>
+
+<tr>
+<td><img src="assets/ssrf-sheriff-logo.jpg"></td>
+<td><b>ssrf-sheriff</b></td>
+<td><a href="https://github.com/teknogeek/ssrf-sheriff">GitHub</a></td>
+<td>(SSRF): A simple SSRF-testing sheriff written in Go</td>
+</tr>
+
+
 </tbody>
 </table>
 <br>
