@@ -3583,7 +3583,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>OSINT Map</b></td>
-<a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
+<td><a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
 <td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
 made to help you during your investigations</td>
 </tr>
@@ -3591,14 +3591,14 @@ made to help you during your investigations</td>
 <tr>
 <td><img src="assets/"></td>
 <td><b>linkedin2username</b></td>
-<a href="https://github.com/initstring/linkedin2username">Github</a></td>
+<td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
 <td>OSINT Tool: Generate username lists for companies on LinkedIn</td>
 </tr>
 
 <tr>
 <td><img src="assets/"></td>
 <td><b>linkedint</b></td>
-<a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
+<td><a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
 <td>LinkedIn Recon Tool</td>
 </tr>
 
