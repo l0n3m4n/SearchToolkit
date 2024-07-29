@@ -129,7 +129,7 @@
 <td><img src="assets/exploits/Payloads All The Things.jpg"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
-<td>A list of useful payloads and bypasses for Web Application Security</td>
+<td>A list of useful payloads and bypasses for Web Application Security and also a cheatsheets</td>
 </tr>
 
 <tr>
