@@ -89,8 +89,7 @@
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#initial-access"><b>Initial Access</b></a> |
   <a href="#payload-and-staging"><b>Payload and Staging</b></a> |
-  <a href="#network-exploitation"><b>Network Exploitation</b></a> |
-  <a href="#web-exploitation"><b>Web Exploitation</b></a> |
+  <a href="#exploitations"><b>Exploitations</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
   <a href="#credential-dumping"><b>Credential Dumping</b></a> |
@@ -1517,7 +1516,7 @@
 
 
 
-## Network Exploitation
+## Exploitations
 
  [🔝 Back to top](#Search-Navigation)
 
@@ -1593,15 +1592,15 @@
 <td><img src="assets/exploits/xss-payloads.jpg"></td>
 <td><b>XSS Payloads</b></td>  
 <td><a href="https://xss.js.org/">Website</a></td>
-<td>The wonderland of JavaScript unexpected usages, and more</td>
+<td>(web): The wonderland of JavaScript unexpected usages, and more</td>
 </tr> 
 
 <tr>
 <td><img src="assets/exploits/NetExec.png"></td>
-<td><b>NetExec (Network Exploitation)</b></td>
+<td><b>NetExec</b></td>
 <td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
 <a href="https://www.netexec.wiki/">Website</a></td>
-<td>NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
+<td>(network): NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.</td>
 </tr>
 
 <tr>
@@ -1615,14 +1614,14 @@
 <td><img src="assets/exploits/hackerone activity.png"></td>
 <td><b>HackerOne hacktivity</b></td>
 <td><a href="https://hackerone.com/hacktivity">Website</a></td>
-<td>See the latest hacker activity on HackerOne</td>
+<td>(disclosure): See the latest hacker activity on HackerOne</td>
 </tr>
 
 <tr>
 <td><img src="assets/exploits/Bugcrowd.png"></td>
 <td><b>Bugcrowd Crowdstream</b></td>
 <td><a href="https://bugcrowd.com/crowdstream">Website</a></td>
-<td>Showcase of accepted and disclosed submissions on Bugcrowd programs</td>
+<td>(disclosure): Showcase of accepted and disclosed submissions on Bugcrowd programs</td>
 </tr>
 
 <tr>
@@ -1650,7 +1649,7 @@
 <td><img src="assets/exploits/LOLDrivers.png"></td>
 <td><b>LOLDrivers</b></td>
 <td><a href="https://www.loldrivers.io/">Website</a></td>
-<td>Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers</td>
+<td>(windows): Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers</td>
 </tr>
 
 <tr>
@@ -1664,64 +1663,35 @@
 <td><img src="assets/exploits/CVExploits Search.jpg"></td>
 <td><b>CVExploits Search</b></td>
 <td><a href="https://cvexploits.io/">Website</a></td>
-<td>Your comprehensive database for CVE exploits from across the internet</td>
+<td>(database): Your comprehensive database for CVE exploits from across the internet</td>
 </tr>
 
 <tr>
 <td><img src="assets/exploits/"></td>
 <td><b>nanorobeus</b></td>
 <td><a href="https://github.com/wavvs/nanorobeus">Github</a></td>
-<td>A minimalistic tool for managing Kerberos tickets. Supports redteam frameworks</td>
+<td>(windows): A minimalistic tool for managing Kerberos tickets. Supports redteam frameworks</td>
 </tr>
 
 <tr>
 <td><img src="assets/exploits/SploitScan.jpg"></td>
 <td><b>SploitScan</b></td>
 <td><a href="https://github.com/xaitax/SploitScan">Github</a></td>
-<td>SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
+<td>(PoC): SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
 </tr>
 
 <tr>
 <td><img src="assets/exploits/sicat.png"></td>
 <td><b>Sicat</b></td>
 <td><a href="https://github.com/justakazh/sicat">Github</a></td>
-<td>SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
+<td>(PoC): SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
 </tr>
 
 <tr>
 <td><img src="assets/exploits/DNS Tunnel Keylogger.png"></td>
 <td><b>DNS Tunnel Keylogger</b></td>
   <td><a href="https://github.com/Geeoon/DNS-Tunnel-Keylogger">Github</a></td>
-<td> Keylogging server and client that uses DNS tunneling/exfiltration to transmit keystrokes through firewalls. </td>
-</tr>
-
-</tbody>
-</table>
-<br>
-
-
-
-## Web Exploitation
-
-[🔝 Back to top](#Search-Navigation)
-
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th><b>NAME</b></th>
-<th>LINKS</th>
-<th>DESCRIPTION</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<td><img src="assets/exploits/Exploit-DB.png"></td>
-<td><b>Exploit-DB</b></td>
-<td><a href="https://www.exploit-db.com/">Website</a></td>
-<td>Exploit Database</td>
+<td>Keylogging server and client that uses DNS tunneling/exfiltration to transmit keystrokes through firewalls. </td>
 </tr>
 
 <tr>
@@ -1734,6 +1704,7 @@
 </tbody>
 </table>
 <br>
+
 
 ## Attack Surface
 
