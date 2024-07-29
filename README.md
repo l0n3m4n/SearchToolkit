@@ -126,6 +126,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/exploits/Payloads All The Things.jpg"></td>
+<td><b>Payloads All The Things</b></td>
+<td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
+<td>A list of useful payloads and bypasses for Web Application Security</td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/RedTeam-Tools.png"></td>
 <td><b>RedTeam-Tools</b></td>
 <td><a href="https://github.com/A-poc/RedTeam-Tools">Github</a></td>
@@ -1580,13 +1587,6 @@
 <td><b>GTFOBins</b></td>
 <td><a href="https://gtfobins.github.io/">Github</a></td>
 <td>Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploits/Payloads All The Things.jpg"></td>
-<td><b>Payloads All The Things</b></td>
-<td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
-<td>A list of useful payloads and bypasses for Web Application Security</td>
 </tr>
 
 <tr>
