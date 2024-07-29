@@ -227,7 +227,6 @@
 <td><img src="assets/discovery/ffuf.png"></td>
 <td><b>ffuf</b></td>
 <td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
-<td>General</th>
 <td>(general-recon): Fast web fuzzer written in Go.</td>
 </tr>
 
