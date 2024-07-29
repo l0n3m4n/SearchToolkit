@@ -218,7 +218,6 @@
 <th>IMAGE</th>
 <th><b>NAME</b></th>
 <th>LINKS</th>
-<th>CATERIGORY</th>
 <th>DESCRIPTION</th>
 </tr>
 </thead>
