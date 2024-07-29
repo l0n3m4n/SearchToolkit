@@ -3684,7 +3684,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><img src="assets/default_logo.png"></td>
       <td><b>OSINT Map</b></td>
       <td><a href="https://map.malfrats.industries/">Website</a>
-      <a href="https://github.com/Malfrats/OSINT-Map">Github</a</td>
+      <a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
       <td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
 made to help you during your investigations</td>
     </tr>
