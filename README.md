@@ -218,6 +218,7 @@
 <th>IMAGE</th>
 <th><b>NAME</b></th>
 <th>LINKS</th>
+<th>CATEGORY</th>
 <th>DESCRIPTION</th>
 </tr>
 </thead>
@@ -227,145 +228,161 @@
 <td><img src="assets/discovery/ffuf.png"></td>
 <td><b>ffuf</b></td>
 <td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
-<td>(general-recon): Fast web fuzzer written in Go.</td>
+<td>General Recon</td>
+<td>Fast web fuzzer written in Go.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/gobuster.png"></td>
 <td><b>gobuster</b></td>
 <td><a href="https://github.com/OJ/gobuster">GitHub</a></td>
-<td>(general-recon): DNS and VHost busting tool written in Go.</td>
+<td>General Recon</td>
+<td>DNS and VHost busting tool written in Go.</td>
 </tr> 
 
 <tr>
 <td><img src="assets/discovery/wappalyzer.jpg"></td>
 <td><b>wappalyzer</b></td>
 <td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
-<td>(technologies): Identify technology on websites.</td>
+<td>Technologies</td>
+<td>Identify technology on websites.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/sublist3r.jpg"></td>
 <td><b>Sublist3r</b></td>
 <td><a href="https://github.com/aboul3la/Sublist3r">GitHub</a></td>
-<td>(subdomain): Fast subdomains enumeration tool for penetration testers</td>
+<td>Subdomain Enumeration</td>
+<td>Fast subdomains enumeration tool for penetration testers.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/katana.png"></td>
 <td><b>katana</b></td>
 <td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
-<td>(crawling): A next-generation crawling and spidering framework.</td>
+<td>Crawling</td>
+<td>A next-generation crawling and spidering framework.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/BloodHound.png"></td>
 <td><b>BloodHound</b></td>
 <td><a href="https://github.com/projectdiscovery/katana">GitHub</a></td>
-<td>(AD): BloodHound is a powerful tool used for Active Directory (AD) security assessments. It helps identify and analyze security vulnerabilities and relationships within an Active Directory environment.</td>
-
+<td>Active Directory</td>
+<td>BloodHound is a powerful tool used for Active Directory (AD) security assessments. It helps identify and analyze security vulnerabilities and relationships within an Active Directory environment.</td>
 </tr>
+
 <tr>
 <td><img src="assets/discovery/CrackMapExec.jpg"></td>
 <td><b>CrackMapExec</b></td>
 <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">GitHub</a></td>
-<td>(network): A swiss army knife for pentesting networks </td>
+<td>Network</td>
+<td>A swiss army knife for pentesting networks.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/discovery/Recon-AD.png"></td>
 <td><b>Recon-AD</b></td>
 <td><a href="https://github.com/outflanknl/Recon-AD">GitHub</a></td>
-<td>(AD): recon-ad tool based on ADSI and reflective DLL’s</td>
+<td>Active Directory</td>
+<td>Recon-AD tool based on ADSI and reflective DLL’s.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/discovery/PSPKIAudit.jpg"></td>
 <td><b>PSPKIAudit</b></td>
 <td><a href="https://github.com/GhostPack/PSPKIAudit">GitHub</a></td>
-<td>(AD CS): PowerShell toolkit for auditing Active Directory Certificate Services.</td>
+<td>Active Directory Certificate Services</td>
+<td>PowerShell toolkit for auditing Active Directory Certificate Services.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/discovery/ImproHound.png"></td>
 <td><b>ImproHound</b></td>
 <td><a href="https://github.com/improsec/ImproHound">GitHub</a></td>
-<td>(AD): sIdentify the attack paths in BloodHound breaking your AD tiering</td>
+<td>Active Directory</td>
+<td>Identify the attack paths in BloodHound breaking your AD tiering.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/ADRecon.jpg"></td>
 <td><b>ADRecon</b></td>
 <td><a href="https://github.com/adrecon/ADRecon">GitHub</a></td>
-<td>(AD): ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.</td>
+<td>Active Directory</td>
+<td>ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/amass.jpg"></td>
 <td><b>Amass</b></td>
 <td><a href="https://github.com/OWASP/Amass">GitHub</a></td>
-<td>(subdomain): In-depth Attack Surface Mapping and Asset Discovery</td>
+<td>Subdomain Enumeration</td>
+<td>In-depth Attack Surface Mapping and Asset Discovery.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/wfuzz.png"></td>
 <td><b>wfuzz</b></td>
 <td><a href="https://github.com/xmendez/wfuzz">GitHub</a></td>
-<td>(fuzzing): Web application fuzzer.</td>
+<td>Fuzzing</td>
+<td>Web application fuzzer.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/scilla.png"></td>
 <td><b>scilla</b></td>
 <td><a href="https://github.com/edoardottt/scilla">GitHub</a></td>
-<td>(subdomain): Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration</td>
+<td>Subdomain Enumeration</td>
+<td>Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/httpx.jpg"></td>
 <td><b>httpx</b></td>
 <td><a href="https://github.com/projectdiscovery/httpx">GitHub</a></td>
-<td>(technologies): Fast and multi-purpose HTTP toolkit for probing.</td>
+<td>Technologies</td>
+<td>Fast and multi-purpose HTTP toolkit for probing.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/dirbuster-ng.png"></td>
 <td><b>dirbuster-ng</b></td>
 <td><a href="https://github.com/digination/dirbuster-ng">GitHub</a></td>
-<td>(directory): dirbuster-ng is C CLI implementation of the Java dirbuster tool.</td>
+<td>Directory Enumeration</td>
+<td>Dirbuster-ng is C CLI implementation of the Java dirbuster tool.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>massdns</b></td>
 <td><a href="https://github.com/blechschmidt/massdns">GitHub</a></td>
-<td>(DNS): High-performance DNS stub resolver for bulk lookups</td>
+<td>DNS</td>
+<td>High-performance DNS stub resolver for bulk lookups.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/findomain.png"></td>
 <td><b>Findomain</b></td>
 <td><a href="https://github.com/Findomain/Findomain">GitHub</a></td>
-<td>(subdomain): The fastest and cross-platform subdomain enumerator</td>
+<td>Subdomain Enumeration</td>
+<td>The fastest and cross-platform subdomain enumerator.</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/findomain.png"></td>
 <td><b>RustScan</b></td>
 <td><a href="https://github.com/RustScan/RustScan">GitHub</a></td>
-<td>(ports): The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).</td>
+<td>Port Scanning</td>
+<td>The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).</td>
 </tr>
 
 <tr>
 <td><img src="assets/discovery/gitleaks.png"></td>
 <td><b>gitleaks</b></td>
 <td><a href="https://github.com/zricethezav/gitleaks">GitHub</a></td>
-<td>(web): Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.</td>
+<td>Web Security</td>
+<td>Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, API keys, and tokens in git repos.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/discovery/s3scanner.png"></td>
