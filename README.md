@@ -2034,6 +2034,111 @@
 </tr>
 
 
+<tr>
+<td><img src="assets/B-XSSRF-logo.jpg"></td>
+<td><b>B-XSSRF</b></td>
+<td><a href="https://github.com/SpiderMate/B-XSSRF">GitHub</a></td>
+<td>(SSRF): Toolkit to detect and keep track on Blind XSS, XXE & SSRF</td>
+</tr>
+
+<tr>
+<td><img src="assets/extended-ssrf-search-logo.jpg"></td>
+<td><b>extended-ssrf-search</b></td>
+<td><a href="https://github.com/Damian89/extended-ssrf-search">GitHub</a></td>
+<td>(SSRF): Smart SSRF scanner using different methods like parameter brute forcing in POST and GET</td>
+</tr>
+
+<tr>
+<td><img src="assets/gaussrf-logo.jpg"></td>
+<td><b>gaussrf</b></td>
+<td><a href="https://github.com/KathanP19/gaussrf">GitHub</a></td>
+<td>(SSRF): Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and filter URLs with OpenRedirection or SSRF Parameters</td>
+</tr>
+
+<tr>
+<td><img src="assets/ssrfDetector-logo.jpg"></td>
+<td><b>ssrfDetector</b></td>
+<td><a href="https://github.com/JacobReynolds/ssrfDetector">GitHub</a></td>
+<td>(SSRF): Server-side request forgery detector</td>
+</tr>
+
+<tr>
+<td><img src="assets/grafana-ssrf-logo.jpg"></td>
+<td><b>grafana-ssrf</b></td>
+<td><a href="https://github.com/RandomRobbieBF/grafana-ssrf">GitHub</a></td>
+<td>(SSRF): Authenticated SSRF in Grafana</td>
+</tr>
+
+<tr>
+<td><img src="assets/sentrySSRF-logo.jpg"></td>
+<td><b>sentrySSRF</b></td>
+<td><a href="https://github.com/xawdxawdx/sentrySSRF">GitHub</a></td>
+<td>(SSRF): Tool to search sentry config on page or in javascript files and check blind SSRF</td>
+</tr>
+
+<tr>
+<td><img src="assets/lorsrf-logo.jpg"></td>
+<td><b>lorsrf</b></td>
+<td><a href="https://github.com/knassar702/lorsrf">GitHub</a></td>
+<td>(SSRF): Bruteforcing on hidden parameters to find SSRF vulnerability using GET and POST methods</td>
+</tr>
+
+<tr>
+<td><img src="assets/singularity-logo.jpg"></td>
+<td><b>singularity</b></td>
+<td><a href="https://github.com/nccgroup/singularity">GitHub</a></td>
+<td>(SSRF): A DNS rebinding attack framework</td>
+</tr>
+
+<tr>
+<td><img src="assets/whonow-logo.jpg"></td>
+<td><b>whonow</b></td>
+<td><a href="https://github.com/brannondorsey/whonow">GitHub</a></td>
+<td>(SSRF): A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)</td>
+</tr>
+
+<tr>
+<td><img src="assets/dns-rebind-toolkit-logo.jpg"></td>
+<td><b>dns-rebind-toolkit</b></td>
+<td><a href="https://github.com/brannondorsey/dns-rebind-toolkit">GitHub</a></td>
+<td>(SSRF): A front-end JavaScript toolkit for creating DNS rebinding attacks</td>
+</tr>
+
+<tr>
+<td><img src="assets/dref-logo.jpg"></td>
+<td><b>dref</b></td>
+<td><a href="https://github.com/FSecureLABS/dref">GitHub</a></td>
+<td>(SSRF): DNS Rebinding Exploitation Framework</td>
+</tr>
+
+<tr>
+<td><img src="assets/rbndr-logo.jpg"></td>
+<td><b>rbndr</b></td>
+<td><a href="https://github.com/taviso/rbndr">GitHub</a></td>
+<td>(SSRF): Simple DNS Rebinding Service</td>
+</tr>
+
+<tr>
+<td><img src="assets/httprebind-logo.jpg"></td>
+<td><b>httprebind</b></td>
+<td><a href="https://github.com/daeken/httprebind">GitHub</a></td>
+<td>(SSRF): Automatic tool for DNS rebinding-based SSRF attacks</td>
+</tr>
+
+<tr>
+<td><img src="assets/dnsFookup-logo.jpg"></td>
+<td><b>dnsFookup</b></td>
+<td><a href="https://github.com/makuga01/dnsFookup">GitHub</a></td>
+<td>(SSRF): DNS rebinding toolkit</td>
+</tr>
+
+<tr>
+<td><img src="assets/surf-logo.jpg"></td>
+<td><b>surf</b></td>
+<td><a href="https://github.com/assetnote/surf">GitHub</a></td>
+<td>(SSRF): Escalate your SSRF vulnerabilities on modern cloud environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates</td>
+</tr>
+
 </tbody>
 </table>
 <br>
