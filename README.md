@@ -1915,7 +1915,7 @@
 <td><img src="assets/oralyzer-logo.jpg"></td>
 <td><b>Oralyzer</b></td>
 <td><a href="https://github.com/r0075h3ll/Oralyzer">GitHub</a></td>
-<td>(open-redirect): Open Redirection Analyzer</td>
+<td>(Open-Redirect): Open Redirection Analyzer</td>
 </tr>
 
 
