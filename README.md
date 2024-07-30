@@ -2001,9 +2001,12 @@
 <td>(SSRF): Bruteforcing on hidden parameters to find SSRF vulnerability using GET and POST methods</td>
 </tr>
 
-<tr>
-<td><img src="assets/singularity-logo.jpg"></td>
-<td><b>singularity</b></td>
+<tr><tr>
+<td><img src="assets/vulnerability-scanner/pulse.jpg"></td>
+<td><b>Pulse</b></td>
+<td><a href="https://github.com/pulse/pulse">GitHub</a></td>
+<td>(Web): Real-time vulnerability detection for web applications.</td>
+</tr>
 <td><a href="https://github.com/nccgroup/singularity">GitHub</a></td>
 <td>(SSRF): A DNS rebinding attack framework</td>
 </tr>
@@ -2517,11 +2520,9 @@
 </table>
 <br>
 
+[🔝 Back to top](#Search-Navigation)
 
 ## Attack Surface
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
 <thead>
@@ -2647,9 +2648,10 @@
 </tbody>
 </table>
 
-## Code Search
 
 [🔝 Back to top](#Main-Menu)
+
+## Code Search
 
 <table>
 <thead>
@@ -2825,11 +2827,9 @@
 </tbody>
 </table>
 
+[🔝 Back to top](#Search-Navigation)
 
 ## Domains
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
 <thead>
@@ -3059,11 +3059,11 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 </tbody>
 </table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
 
 ## DNS
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
 <thead>
@@ -3211,11 +3211,11 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 </tbody>
 </table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
 
 ## Certificates
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
 <thead>
@@ -3404,11 +3404,11 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     </tr>
   </tbody>
 </table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
 
 ## Credential Leaks
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
   <thead>
@@ -3501,11 +3501,11 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     </tr>
   </tbody>
 </table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
 
 ## Hidden Services
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
   <thead>
@@ -3555,11 +3555,11 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     </tr>
   </tbody>
 </table>
-
-## Threat Intelligence
+<br>
 
 [🔝 Back to top](#Search-Navigation)
 
+## Threat Intelligence
 
 <table>
   <thead>
@@ -3919,7 +3919,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 [🔝 Back to top](#Search-Navigation)
 
-
 <br>
 
 <h2 align="center">OSINT</h2>
@@ -3980,9 +3979,9 @@ made to help you during your investigations</td>
 </table>
 <br>
 
-### Geolocation Tracking
-
 [⬆️ Back to OSINT](#OSINT)
+
+### Geolocation Tracking
 
 <table>
   <thead>
@@ -4253,14 +4252,10 @@ made to help you during your investigations</td>
 </table>
 <br>
 
-
-[⬆️ Back to OSINT](#OSINT)
+[🔝 Back to top](#Search-Navigation)
 
 
 ## Dorking
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
   <thead>
@@ -4322,6 +4317,7 @@ made to help you during your investigations</td>
     </tr>
   </tbody>
 </table>
+<br>
 
 [⬆️ Back to OSINT](#OSINT)
 
@@ -4470,10 +4466,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </table>
 <br>
 
+[⬆️ Back to OSINT](#OSINT)
 
 ## Surveillance Cameras
-
-[⬆️ Back to OSINT](#OSINT)
 
 <table>
   <thead>
@@ -4663,7 +4658,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <br>
 
 [🔝 Back to top](#Search-Navigation)
-
 
 ## Social Engineering 
 
@@ -4865,7 +4859,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tbody>
 </table>
 
- [🔝 Back to top](#Search-Navigation)
+[🔝 Back to top](#Search-Navigation)
 
 ## Initial Access
 
@@ -5242,7 +5236,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <br>
 
 [🔝 Back to top](#Search-Navigation)
-
 
 ## Credential Dumping
 
@@ -6191,11 +6184,10 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td>Another deliberately vulnerable web application designed for hands-on teaching of web application security. It encompasses challenges and exercises covering various security topics.</td>
     </tr>
 </table>
+<br>
 
 
-
- [🔝 Back to top](#Search-Navigation)
-
+[🔝 Back to top](#Search-Navigation)
 
 <br>
 <!--CTF Platform-->
@@ -6298,11 +6290,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 </tbody>
 </table>
-
- [🔝 Back to top](#Search-Navigation)
-
-
 <br>
+
+[🔝 Back to top](#Search-Navigation)
 
 ## Covering Tracks
 
@@ -6346,12 +6336,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 </table>
-
-
- [🔝 Back to top](#Search-Navigation)
-
-
 <br>
+
+[🔝 Back to top](#Search-Navigation)
 
 ## Command and Control
 
@@ -6365,8 +6352,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
     </tr>
   </thead>
   <tbody>
-
-
 <tr>
     <td><img src="assets/command-control/Metasploit.jpg"></td>
     <td><b>Metasploit</b></td>
@@ -6636,11 +6621,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </tbody>
 </table>
+<br>
 
 [🔝 Back to top](#Search-Navigation)
-
-
-<br>
 
 ## Reverse Engineering
 
@@ -6654,8 +6637,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
     </tr>
   </thead>
   <tbody>
-
-
 <tr>
     <td><img src="assets/dfir/pwndbg.png"></td>
     <td><b>pwndbg</b></td>
@@ -6667,7 +6648,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <br>
 
 [🔝 Back to top](#Search-Navigation)
-
 
 ## Securing Data
 
@@ -6730,7 +6710,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview">Website</a></td>
 <td>Disk encryption program included with Microsoft Windows that encrypts entire volumes.</td>
 </tr>
-
 
 <tr>
 <td><img src="assets/gpg4win.jpg"></td>
@@ -6813,7 +6792,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 </tbody>
 </table>
-
+<br>
 
 
 [🔝 Back to top](#Search-Navigation)
@@ -6966,9 +6945,3 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 </tbody>
 </table>
-
-
-
-
-
-https://github.com/vavkamil/awesome-bugbounty-tools/blob/main/README.md
