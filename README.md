@@ -1216,6 +1216,21 @@
 </tr>
 
 <tr>
+<td><img src="assets/vulnerability-scanner/vulnscan.jpg"></td>
+<td><b>Vulnscan</b></td>
+<td><a href="https://github.com/scipag/vulscan">GitHub</a></td>
+<td>(Network-Web): Vulnerability scanning and management tool.</td>
+</tr>
+
+<tr>
+<td><img src="assets/vulnerability-scanner/vulnscan.jpg"></td>
+<td><b>vulners</b></td>
+<td><a href="https://github.com/vulnersCom/nmap-vulners">GitHub</a></td>
+<td>(Network-Web):  NSE script based on Vulners.com API </td>
+</tr>
+
+
+<tr>
 <td><img src="assets/vulnerability-scanner/Nikto.jpg"></td>
 <td><b>Nikto</b></td>
 <td><a href="https://github.com/sullo/nikto">GitHub</a></td>
@@ -1422,20 +1437,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/furfles.jpg"></td>
-<td><b>Furfles</b></td>
-<td><a href="https://github.com/bp0x/furfles">GitHub</a></td>
-<td>(Web): Automatic vulnerability scanner with a focus on fuzzing.</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerability-scanner/specter.jpg"></td>
-<td><b>Specter</b></td>
-<td><a href="https://github.com/specter/specter">GitHub</a></td>
-<td>(Web): Automated security testing framework for web applications.</td>
-</tr>
-
-<tr>
 <td><img src="assets/vulnerability-scanner/Sn1per.png"></td>
 <td><b>Sn1per</b></td>
 <td><a href="https://github.com/1N3/Sn1per">GitHub</a></td>
@@ -1445,8 +1446,8 @@
 <tr>
 <td><img src="assets/vulnerability-scanner/whitewidow.jpg"></td>
 <td><b>WhiteWidow</b></td>
-<td><a href="https://github.com/whitewidow/whitewidow">GitHub</a></td>
-<td>(Web): application vulnerability scanner with a focus on XSS.</td>
+<td><a href="https://github.com/WhitewidowScanner/whitewidow  ">GitHub</a></td>
+<td>(Web):  SQL Vulnerability Scanner </td>
 </tr>
 
 <tr>
@@ -1454,49 +1455,6 @@
 <td><b>w3af</b></td>
 <td><a href="https://github.com/andresriancho/w3af">GitHub</a></td>
 <td>(Web): Application Attack and Audit Framework.</td>
-</tr>
-
-
-<tr>
-<td><img src="assets/vulnerability-scanner/epic.jpg"></td>
-<td><b>Epic</b></td>
-<td><a href="https://github.com/epic/epic">GitHub</a></td>
-<td>(Web): Vulnerability assessment tool for identifying risks in web applications.</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerability-scanner/vulnscan.jpg"></td>
-<td><b>Vulnscan</b></td>
-<td><a href="https://github.com/vulnscan/vulnscan">GitHub</a></td>
-<td>(Network-Web): Vulnerability scanning and management tool.</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerability-scanner/surfscan.jpg"></td>
-<td><b>Surfscan</b></td>
-<td><a href="https://github.com/surfscan/surfscan">GitHub</a></td>
-<td>(Web): Lightweight tool for web vulnerability scanning.</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerability-scanner/chaos.jpg"></td>
-<td><b>Chaos</b></td>
-<td><a href="https://github.com/chaos/chaos">GitHub</a></td>
-<td>(Network-Web): Comprehensive vulnerability and security assessment tool.</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerability-scanner/venus.jpg"></td>
-<td><b>Venus</b></td>
-<td><a href="https://github.com/venus/venus">GitHub</a></td>
-<td>(Web): Advanced tool for web application vulnerability scanning.</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerability-scanner/pulse.jpg"></td>
-<td><b>Pulse</b></td>
-<td><a href="https://github.com/pulse/pulse">GitHub</a></td>
-<td>(Web): Real-time vulnerability detection for web applications.</td>
 </tr>
 
 </tbody>
