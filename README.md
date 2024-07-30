@@ -1690,56 +1690,50 @@
 </tr>
 
 <tr>
-<td><img src="assets/commix-logo.jpg"></td>
+<td><img src="assets/exploits/commix.png"></td>
 <td><b>Commix</b></td>
 <td><a href="https://github.com/commixproject/commix">GitHub</a></td>
 <td>(Command-Injection): Automated All-in-One OS command injection and exploitation tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/corsy-logo.jpg"></td>
+<td><img src="assets/exploits/corsy.png"></td>
 <td><b>Corsy</b></td>
 <td><a href="https://github.com/s0md3v/Corsy">GitHub</a></td>
 <td>(CORS-Misconfig): CORS Misconfiguration Scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/corstest-logo.jpg"></td>
+<td><img src="assets/exploits/CORStest.png"></td>
 <td><b>CORStest</b></td>
 <td><a href="https://github.com/RUB-NDS/CORStest">GitHub</a></td>
 <td>(CORS-Misconfig): A simple CORS misconfiguration scanner</td>
 </tr>
 
+ 
 <tr>
-<td><img src="assets/cors-scanner-logo.jpg"></td>
-<td><b>cors-scanner</b></td>
-<td><a href="https://github.com/laconicwolf/cors-scanner">GitHub</a></td>
-<td>(CORS-Misconfig): A multi-threaded scanner that helps identify CORS flaws/misconfigurations</td>
-</tr>
-
-<tr>
-<td><img src="assets/corsme-logo.jpg"></td>
+<td><img src="assets/exploits/CorsMe.png"></td>
 <td><b>CorsMe</b></td>
 <td><a href="https://github.com/Shivangx01b/CorsMe">GitHub</a></td>
 <td>(CORS-Misconfig): Cross Origin Resource Sharing MisConfiguration Scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/crlfsuite-logo.jpg"></td>
+<td><img src="assets/exploits/CRLFsuite.png"></td>
 <td><b>CRLFsuite</b></td>
 <td><a href="https://github.com/Nefcore/CRLFsuite">GitHub</a></td>
 <td>(CRLF-Injection): A fast tool specially designed to scan CRLF injection</td>
 </tr>
 
 <tr>
-<td><img src="assets/crlfuzz-logo.jpg"></td>
+<td><img src="assets/exploits/crlfuzz.jpg"></td>
 <td><b>crlfuzz</b></td>
 <td><a href="https://github.com/dwisiswant0/crlfuzz">GitHub</a></td>
 <td>(CRLF-Injection): A fast tool to scan CRLF vulnerability written in Go</td>
 </tr>
 
 <tr>
-<td><img src="assets/crlf-injection-scanner-logo.jpg"></td>
+<td><img src="assets/exploits/CRLF-Injection-Scanner.jpg"></td>
 <td><b>CRLF-Injection-Scanner</b></td>
 <td><a href="https://github.com/MichaelStott/CRLF-Injection-Scanner">GitHub</a></td>
 <td>(CRLF-Injection): Command line tool for testing CRLF injection on a list of domains</td>
@@ -1753,21 +1747,21 @@
 </tr>
 
 <tr>
-<td><img src="assets/xsrfprobe-logo.jpg"></td>
+<td><img src="assets/exploits/XSRFProbe.png"></td>
 <td><b>XSRFProbe</b></td>
 <td><a href="https://github.com/0xInfection/XSRFProbe">GitHub</a></td>
 <td>(CSRF-Injection): The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit</td>
 </tr>
 
 <tr>
-<td><img src="assets/dotdotpwn-logo.jpg"></td>
+<td><img src="assets/exploits/dotdotpwn.jpg"></td>
 <td><b>dotdotpwn</b></td>
 <td><a href="https://github.com/wireghoul/dotdotpwn">GitHub</a></td>
 <td>(Directory-Traversal): DotDotPwn - The Directory Traversal Fuzzer</td>
 </tr>
 
 <tr>
-<td><img src="assets/fd-sploit-logo.jpg"></td>
+<td><img src="assets/exploits/FDsploit.jpg"></td>
 <td><b>FDsploit</b></td>
 <td><a href="https://github.com/chrispetrou/FDsploit">GitHub</a></td>
 <td>(Directory-Traversal): File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool.</td>
@@ -1779,75 +1773,41 @@
 <td><a href="https://github.com/bayotop/off-by-slash">GitHub</a></td>
 <td>(Directory-Traversal): Burp extension to detect alias traversal via NGINX misconfiguration at scale.</td>
 </tr>
+ 
 
 <tr>
-<td><img src="assets/liffier-logo.jpg"></td>
-<td><b>liffier</b></td>
-<td><a href="https://github.com/momenbasel/liffier">GitHub</a></td>
-<td>(Directory-Traversal): Tired of manually adding dot-dot-slash to your possible path traversal? This short snippet will increment ../ on the URL.</td>
-</tr>
-
-<tr>
-<td><img src="assets/liffy-logo.jpg"></td>
+<td><img src="assets/exploits/liffy.png"></td>
 <td><b>liffy</b></td>
 <td><a href="https://github.com/mzfr/liffy">GitHub</a></td>
 <td>(File-Inclusion): Local file inclusion exploitation tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/burp-lfi-tests-logo.jpg"></td>
-<td><b>Burp-LFI-tests</b></td>
-<td><a href="https://github.com/Team-Firebugs/Burp-LFI-tests">GitHub</a></td>
-<td>(File-Inclusion): Fuzzing for LFI using Burpsuite</td>
-</tr>
-
-<tr>
-<td><img src="assets/lfi-enum-logo.jpg"></td>
-<td><b>LFI-Enum</b></td>
-<td><a href="https://github.com/mthbernardes/LFI-Enum">GitHub</a></td>
-<td>(File-Inclusion): Scripts to execute enumeration via LFI</td>
-</tr>
-
-<tr>
-<td><img src="assets/lfi-suite-logo.jpg"></td>
+<td><img src="assets/exploits/LFISuite.png"></td>
 <td><b>LFISuite</b></td>
 <td><a href="https://github.com/D35m0nd142/LFISuite">GitHub</a></td>
 <td>(File-Inclusion): Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/lfi-files-logo.jpg"></td>
+<td><img src="assets/exploits/LFI-files.png"></td>
 <td><b>LFI-files</b></td>
 <td><a href="https://github.com/hussein98d/LFI-files">GitHub</a></td>
 <td>(File-Inclusion): Wordlist to bruteforce for LFI</td>
 </tr>
 
 <tr>
-<td><img src="assets/inql-logo.jpg"></td>
+<td><img src="assets/exploits/inql.png"></td>
 <td><b>inql</b></td>
 <td><a href="https://github.com/doyensec/inql">GitHub</a></td>
 <td>(GraphQL-Injection): InQL - A Burp Extension for GraphQL Security Testing</td>
 </tr>
 
 <tr>
-<td><img src="assets/graphqlmap-logo.jpg"></td>
+<td><img src="assets/exploits/GraphQLmap.jpg"></td>
 <td><b>GraphQLmap</b></td>
 <td><a href="https://github.com/swisskyrepo/GraphQLmap">GitHub</a></td>
 <td>(GraphQL-Injection): GraphQLmap is a scripting engine to interact with a GraphQL endpoint for pentesting purposes.</td>
-</tr>
-
-<tr>
-<td><img src="assets/shapeshifter-logo.jpg"></td>
-<td><b>shapeshifter</b></td>
-<td><a href="https://github.com/szski/shapeshifter">GitHub</a></td>
-<td>(GraphQL-Injection): GraphQL security testing tool</td>
-</tr>
-
-<tr>
-<td><img src="assets/graphql-beautifier-logo.jpg"></td>
-<td><b>graphql_beautifier</b></td>
-<td><a href="https://github.com/zidekmat/graphql_beautifier">GitHub</a></td>
-<td>(GraphQL-Injection): Burp Suite extension to help make GraphQL requests more readable</td>
 </tr>
 
 <tr>
@@ -1908,7 +1868,7 @@
 
 
 <tr>
-<td><img src="assets/injectus-logo.jpg"></td>
+<td><img src="assets/exploits/Injectus.jpg"></td>
 <td><b>Injectus</b></td>
 <td><a href="https://github.com/BountyStrike/Injectus">GitHub</a></td>
 <td>(Open-Redirect): CRLF and open redirect fuzzer</td>
