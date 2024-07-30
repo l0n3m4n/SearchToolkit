@@ -1757,7 +1757,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/clairvoyance-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>clairvoyance</b></td>
 <td><a href="https://github.com/nikitastupin/clairvoyance">GitHub</a></td>
 <td>(GraphQL-Injection): Obtain GraphQL API schema despite disabled introspection!</td>
@@ -1835,14 +1835,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/razzer-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>razzer</b></td>
 <td><a href="https://github.com/compsec-snu/razzer">GitHub</a></td>
 <td>(Race-Condition): A Kernel fuzzer focusing on race bugs</td>
 </tr>
 
 <tr>
-<td><img src="assets/racepwn-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>racepwn</b></td>
 <td><a href="https://github.com/racepwn/racepwn">GitHub</a></td>
 <td>(Race-Condition): Race Condition framework</td>
@@ -1863,7 +1863,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/race-the-web-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>race-the-web</b></td>
 <td><a href="https://github.com/TheHackerDev/race-the-web">GitHub</a></td>
 <td>(Race-Condition): Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline</td>
@@ -1905,7 +1905,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/gopherus-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Gopherus</b></td>
 <td><a href="https://github.com/tarunkant/Gopherus">GitHub</a></td>
 <td>(SSRF): This tool generates gopher link for exploiting SSRF and gaining RCE in various servers</td>
@@ -1948,7 +1948,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/extended-ssrf-search-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>extended-ssrf-search</b></td>
 <td><a href="https://github.com/Damian89/extended-ssrf-search">GitHub</a></td>
 <td>(SSRF): Smart SSRF scanner using different methods like parameter brute forcing in POST and GET</td>
@@ -1969,13 +1969,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/grafana-ssrf-logo.jpg"></td>
-<td><b>grafana-ssrf</b></td>
-<td><a href="https://github.com/RandomRobbieBF/grafana-ssrf">GitHub</a></td>
-<td>(SSRF): Authenticated SSRF in Grafana</td>
-</tr>
-
-<tr>
 <td><img src="assets/sentrySSRF-logo.jpg"></td>
 <td><b>sentrySSRF</b></td>
 <td><a href="https://github.com/xawdxawdx/sentrySSRF">GitHub</a></td>
@@ -1990,13 +1983,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/pulse.jpg"></td>
-<td><b>Pulse</b></td>
-<td><a href="https://github.com/pulse/pulse">GitHub</a></td>
-<td>(Web): Real-time vulnerability detection for web applications.</td>
-</tr>
-
-<tr>
 <td><img src="assets/exploits/">
 <td><b>Singularity</b></td>
 <td><a href="https://github.com/nccgroup/singularity">GitHub</a></td>
@@ -2004,14 +1990,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/whonow-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>whonow</b></td>
 <td><a href="https://github.com/brannondorsey/whonow">GitHub</a></td>
 <td>(SSRF): A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)</td>
 </tr>
 
 <tr>
-<td><img src="assets/dns-rebind-toolkit-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>dns-rebind-toolkit</b></td>
 <td><a href="https://github.com/brannondorsey/dns-rebind-toolkit">GitHub</a></td>
 <td>(SSRF): A front-end JavaScript toolkit for creating DNS rebinding attacks</td>
@@ -2025,7 +2011,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/rbndr-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>rbndr</b></td>
 <td><a href="https://github.com/taviso/rbndr">GitHub</a></td>
 <td>(SSRF): Simple DNS Rebinding Service</td>
@@ -2050,13 +2036,6 @@
 <td><b>surf</b></td>
 <td><a href="https://github.com/assetnote/surf">GitHub</a></td>
 <td>(SSRF): Escalate your SSRF vulnerabilities on modern cloud environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/sqlmap.jpg"></td>
-<td><b>sqlmap</b></td>
-<td><a href="https://github.com/sqlmapproject/sqlmap">GitHub</a></td>
-<td>(SQL Injection): Automatic SQL injection and database takeover tool</td>
 </tr>
 
 <tr>
@@ -2130,7 +2109,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/blinder.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Blinder</b></td>
 <td><a href="https://github.com/mhaskar/Blinder">GitHub</a></td>
 <td>(SQL Injection): A python library to automate time-based blind SQL injection</td>
@@ -2634,7 +2613,7 @@
 </table>
 
 
-[🔝 Back to top](#Main-Menu)
+[🔝 Back to top](#Search-Navigation)
 
 ## Code Search
 
@@ -4179,6 +4158,12 @@ made to help you during your investigations</td>
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td><img src="assets/server/phonebook.png"></td>
+      <td><b>urlencoder</b></td>
+      <td><a href="https://urlencoder.org/">Website</a></td>
+      <td>URL encoder and decoder used for bug-hunting and penetration testing</td>
+    </tr>
     <tr>
       <td><img src="assets/server/phonebook.png"></td>
       <td><b>PhoneBook</b></td>
