@@ -50,7 +50,7 @@
 <br/>
 
 <h2 align="center">Search Navigation</h2>
-<p>
+
   <a href="#osint"><b>OSINT</b></a> |
   <a href="#server"><b>Servers</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
@@ -66,9 +66,8 @@
   <a href="#ioc-scanner"><b>IOC Scanner</b></a> |
   <a href="#steganography"><b>Steganography</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
-  <a href="#ctf"><b>CTF Platform</b></a> |  
   <a href="#android"><b>Android</b></a> |
-</p>
+  <a href="#ctf"><b>CTF Platform</b></a> |  
 
   <h3 align="center">Attack Cycle</h3>
 
