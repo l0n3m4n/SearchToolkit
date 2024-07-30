@@ -8,14 +8,7 @@
 <p align="center">
   <a href="https://github.com/l0n3m4n"><img src="https://readme-typing-svg.herokuapp.com?font=Fera+code&weight=435&duration=3100&pause=300&color=19FF31&random=false&width=435&lines=Who+Am+I%3F+Hi!+my+name+is+Aldrin%2C;I'm+a+former+member+of+EHPH+group;I+develop+these+tool+to+enhanced;penetration+testing%2C+red+teaming+and;Cybersecurity+related.+feel+free+;to+add+in+your+favorites."></a>
 </p>
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Ethical Hacking 
-                <b><a target="_blank" href="https://en.wikipedia.org/wiki/Penetration_test">Engine</a></b>
-        </samp>
-</h3>
-
+ 
 
 <p align="center">
     <img src="assets/logo.png">
@@ -1698,7 +1691,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/injectus-logo.jpg"></td>
+<td><img src="assets/exploits/Injectus.jpg"></td>
 <td><b>Injectus</b></td>
 <td><a href="https://github.com/BountyStrike/Injectus">GitHub</a></td>
 <td>(CRLF-Injection): CRLF and open redirect fuzzer</td>
@@ -1726,7 +1719,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/off-by-slash-logo.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>off-by-slash</b></td>
 <td><a href="https://github.com/bayotop/off-by-slash">GitHub</a></td>
 <td>(Directory-Traversal): Burp extension to detect alias traversal via NGINX misconfiguration at scale.</td>
