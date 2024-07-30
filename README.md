@@ -2001,12 +2001,16 @@
 <td>(SSRF): Bruteforcing on hidden parameters to find SSRF vulnerability using GET and POST methods</td>
 </tr>
 
-<tr><tr>
+<tr>
 <td><img src="assets/vulnerability-scanner/pulse.jpg"></td>
 <td><b>Pulse</b></td>
 <td><a href="https://github.com/pulse/pulse">GitHub</a></td>
 <td>(Web): Real-time vulnerability detection for web applications.</td>
 </tr>
+
+<tr>
+<td><img src="assets/exploits/">
+<td><b>Singularity</b></td>
 <td><a href="https://github.com/nccgroup/singularity">GitHub</a></td>
 <td>(SSRF): A DNS rebinding attack framework</td>
 </tr>
@@ -2121,13 +2125,6 @@
 <td><b>mssqli-duet</b></td>
 <td><a href="https://github.com/Keramas/mssqli-duet">GitHub</a></td>
 <td>(SQL Injection): script for MSSQL that extracts domain users from an Active Directory environment based on RID bruteforcing</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/burp-to-sqlmap.jpg"></td>
-<td><b>burp-to-sqlmap</b></td>
-<td>GitHub</td>
-<td>(SQL Injection): Performing SQLInjection test on Burp Suite Bulk Requests using SQLMap</td>
 </tr>
 
 <tr>
