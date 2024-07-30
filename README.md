@@ -1216,14 +1216,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/vulnscan.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Vulnscan.png"></td>
 <td><b>Vulnscan</b></td>
 <td><a href="https://github.com/scipag/vulscan">GitHub</a></td>
 <td>(Network-Web): Vulnerability scanning and management tool.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/vulnscan.jpg"></td>
+<td><img src="assets/vulnerability-scanner/Vulners.png"></td>
 <td><b>vulners</b></td>
 <td><a href="https://github.com/vulnersCom/nmap-vulners">GitHub</a></td>
 <td>(Network-Web):  NSE script based on Vulners.com API </td>
@@ -1444,7 +1444,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/whitewidow.jpg"></td>
+<td><img src="assets/vulnerability-scanner/whitewidow.png"></td>
 <td><b>WhiteWidow</b></td>
 <td><a href="https://github.com/WhitewidowScanner/whitewidow  ">GitHub</a></td>
 <td>(Web):  SQL Vulnerability Scanner </td>
