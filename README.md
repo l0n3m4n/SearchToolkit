@@ -1381,7 +1381,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/vulnerability-scanner/commix.png"></td>
+<td><img src="assets/exploits/commix.png"></td>
 <td><b>commix</b></td>
 <td><a href="https://github.com/commixproject/commix">GitHub</a></td>
 <td>(Web): Automated All-in-One OS Command Injection Exploitation Tool.</td>
