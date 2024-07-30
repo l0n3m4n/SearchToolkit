@@ -6101,8 +6101,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 </tbody>
 </table>
-<br>
-
 
 [🔝 Back to top](#Search-Navigation)
 
@@ -6183,10 +6181,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </table>
 <br>
 
-
 [🔝 Back to top](#Search-Navigation)
 
-<br>
 <!--CTF Platform-->
 <h1 align="center">Android</h1>
 
