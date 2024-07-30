@@ -52,7 +52,7 @@
 <h2 align="center">Search Navigation</h2>
 
   <a href="#osint"><b>OSINT</b></a> |
-  <a href="#server"><b>Servers</b></a> |
+  <a href="#devices-and-services"><b>Devices and Services</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
   <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#domains"><b>Domains</b></a> | 
@@ -863,7 +863,7 @@
 
 [🔝 Back to top](#Search-Navigation)
 
-## Server
+## Devices and Services
 
 <table>
 <thead>
