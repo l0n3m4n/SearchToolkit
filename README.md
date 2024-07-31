@@ -1447,13 +1447,12 @@
 
 </tbody>
 </table>
+<br>
 
 
+[🔝 Back to top](#Search-Navigation)
 
 ## Exploitations
-
- [🔝 Back to top](#Search-Navigation)
-
 
 <table>
 <thead>
