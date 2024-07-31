@@ -65,12 +65,14 @@
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#ioc-scanner"><b>IOC Scanner</b></a> |
   <a href="#steganography"><b>Steganography</b></a> |
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> | 
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
+  <a href="#programming"><b>Programming</b></a> |  
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf"><b>CTF Platform</b></a> |  
 
   <h3 align="center">Attack Cycle</h3>
 
+  <a href="#cheatsheets"><b>Cheatsheets</b></a> | 
   <a href="#discovery"><b>Discovery</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#vulnerability-scanner"><b>Vulnerability Scanner</b></a> | 
