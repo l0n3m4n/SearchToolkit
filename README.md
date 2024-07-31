@@ -5183,7 +5183,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/credential-dumping/SharpChromium.jpgs"></td>
+<td><img src="assets/credential-dumping/SharpChromium.jpg"></td>
 <td>SharpChromium</td>
 <td><a href="https://github.com/djhohnstein/SharpChromium">Github</a></td>
 <td>.NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.</td>
