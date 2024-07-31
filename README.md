@@ -2121,7 +2121,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>nosqli</b></td>
 <td><a href="https://github.com/Charlie-belmer/nosqli">GitHub</a></td>
 <td>(SQL Injection): NoSql Injection CLI tool, for finding vulnerable websites using MongoDB.</td>
@@ -2157,13 +2157,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/sleepy-puppy.jpg"></td>
-<td><b>sleepy-puppy</b></td>
-<td><a href="https://github.com/Netflix-Skunkworks/sleepy-puppy">GitHub</a></td>
-<td>(XSS Injection): Sleepy Puppy XSS Payload Management Framework</td>
-</tr>
-
-<tr>
 <td><img src="assets/cheatsheets/ezxss.jpg"></td>
 <td><b>ezXSS</b></td>
 <td><a href="https://github.com/ssl/ezXSS">GitHub</a></td>
@@ -2171,7 +2164,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xsshunter.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>xsshunter</b></td>
 <td><a href="https://github.com/mandatoryprogrammer/xsshunter">GitHub</a></td>
 <td>(XSS Injection): The XSS Hunter service - a portable version of XSSHunter.com</td>
@@ -2199,7 +2192,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/weaponised-xss-payloads.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>weaponised-XSS-payloads</b></td>
 <td><a href="https://github.com/hakluke/weaponised-XSS-payloads">GitHub</a></td>
 <td>(XSS Injection): XSS payloads designed to turn alert(1) into P1</td>
@@ -2217,13 +2210,6 @@
 <td><b>ground-control</b></td>
 <td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
 <td>(XSS Injection): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/xssvalidator.jpg"></td>
-<td><b>xssValidator</b></td>
-<td><a href="https://github.com/nVisium/xssValidator">GitHub</a></td>
-<td>(XSS Injection): This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.</td>
 </tr>
 
 <tr>
@@ -2255,13 +2241,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/brutexss.jpg"></td>
-<td><b>BruteXSS</b></td>
-<td><a href="https://github.com/rajeshmajumdar/BruteXSS">GitHub</a></td>
-<td>(XSS Injection): BruteXSS is a tool written in python simply to find XSS vulnerabilities in web application.</td>
-</tr>
-
-<tr>
 <td><img src="assets/cheatsheets/findom-xss.jpg"></td>
 <td><b>findom-xss</b></td>
 <td><a href="https://github.com/dwisiswant0/findom-xss">GitHub</a></td>
@@ -2283,33 +2262,12 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/b-xssrf.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>B-XSSRF</b></td>
 <td><a href="https://github.com/SpiderMate/B-XSSRF">GitHub</a></td>
 <td>(XSS Injection): Toolkit to detect and keep track on Blind XSS, XXE & SSRF</td>
 </tr>
-
-<tr>
-<td><img src="assets/cheatsheets/domxssscanner.jpg"></td>
-<td><b>domxssscanner</b></td>
-<td><a href="https://github.com/yaph/domxssscanner">GitHub</a></td>
-<td>(XSS Injection): DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/xsshunter-client.jpg"></td>
-<td><b>xsshunter_client</b></td>
-<td><a href="https://github.com/mandatoryprogrammer/xsshunter_client">GitHub</a></td>
-<td>(XSS Injection): Correlated injection proxy tool for XSS Hunter</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/extended-xss-search.jpg"></td>
-<td><b>extended-xss-search</b></td>
-<td><a href="https://github.com/Damian89/extended-xss-search">GitHub</a></td>
-<td>(XSS Injection): A better version of my xssfinder tool - scans for different types of xss on a list of urls.</td>
-</tr>
-
+ 
 <tr>
 <td><img src="assets/cheatsheets/xssmap.jpg"></td>
 <td><b>xssmap</b></td>
@@ -2332,61 +2290,12 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xss-oauth-persistence.jpg"></td>
-<td><b>XSSOauthPersistence</b></td>
-<td><a href="https://github.com/dxa4481/XSSOauthPersistence">GitHub</a></td>
-<td>(XSS  Injection): Maintaining account persistence via XSS and Oauth</td>
-</tr>
-
-<tr>
 <td><img src="assets/cheatsheets/shadow-workers.jpg"></td>
 <td><b>shadow-workers</b></td>
 <td><a href="https://github.com/shadow-workers/shadow-workers">GitHub</a></td>
 <td>(XSS Injection): Shadow Workers is a free and open source C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)</td>
 </tr>
-
-<tr>
-<td><img src="assets/cheatsheets/rexsser.jpg"></td>
-<td><b>rexsser</b></td>
-<td><a href="https://github.com/profmoriarity/rexsser">GitHub</a></td>
-<td>(XSS  Injection): This is a burp plugin that extracts keywords from response using regexes and test for reflected XSS on the target scope.</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/xss-flare.jpg"></td>
-<td><b>xss-flare</b></td>
-<td><a href="https://github.com/EgeBalci/xss-flare">GitHub</a></td>
-<td>(XSS Injection): XSS hunter on cloudflare serverless workers.</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/xss-sql-fuzz.jpg"></td>
-<td><b>Xss-Sql-Fuzz</b></td>
-<td><a href="https://github.com/jiangsir404/Xss-Sql-Fuzz">GitHub</a></td>
-<td>(XSS Injection): Burpsuite 插件对GP所有参数(过滤特殊参数)一键自动添加xss sql payload 进行fuzz</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/vaya-ciego-nen.jpg"></td>
-<td><b>vaya-ciego-nen</b></td>
-<td><a href="https://github.com/hipotermia/vaya-ciego-nen">GitHub</a></td>
-<td>(XSS Injeciton): Detect, manage and exploit Blind Cross-site scripting (XSS) vulnerabilities.</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/dom-based-xss-finder.jpg"></td>
-<td><b>dom-based-xss-finder</b></td>
-<td><a href="https://github.com/AsaiKen/dom-based-xss-finder">GitHub</a></td>
-<td>(XSS Injection): DOM-based XSS Finder</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/ground-control.jpg"></td>
-<td><b>ground-control</b></td>
-<td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
-<td>(XXE Toolkit): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.</td>
-</tr>
-
+ 
 <tr>
 <td><img src="assets/cheatsheets/dtd-finder.jpg"></td>
 <td><b>dtd-finder</b></td>
@@ -2395,14 +2304,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/docem.jpg"></td>
-<td><b>docem</b></td>
-<td><a href="https://github.com/whitel1st/docem">GitHub</a></td>
-<td>(XXE Injection): Utility to embed XXE and XSS payloads in docx, odt, pptx, etc (OXML_XEE on steroids)</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/xxeserv.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>xxeserv</b></td>
 <td><a href="https://github.com/staaldraad/xxeserv">GitHub</a></td>
 <td>(XXE Injection): A mini webserver with FTP support for XXE payloads</td>
@@ -2416,33 +2318,19 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/b-xssrf.jpg"></td>
-<td><b>B-XSSRF</b></td>
-<td><a href="https://github.com/SpiderMate/B-XSSRF">GitHub</a></td>
-<td>(XXE Injection): Toolkit to detect and keep track on Blind XSS, XXE & SSRF</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/xxeinjector.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>XXEinjector</b></td>
 <td><a href="https://github.com/enjoiz/XXEinjector">GitHub</a></td>
 <td>(XXE Injection): Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/oxml-xxe.jpg"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>oxml_xxe</b></td>
 <td><a href="https://github.com/BuffaloWill/oxml_xxe">GitHub</a></td>
 <td>(XXE Injection): A tool for embedding XXE/XML exploits into different filetypes</td>
 </tr>
-
-<tr>
-<td><img src="assets/cheatsheets/metahttp.jpg"></td>
-<td><b>metahttp</b></td>
-<td><a href="https://github.com/vp777/metahttp">GitHub</a></td>
-<td>(XXE Injection): A bash script that automates the scanning of a target network for HTTP resources through XXE</td>
-</tr>
-
+ 
 <tr>
 <td><img src="assets/cheatsheets/tplmap.jpg"></td>
 <td><b>tplmap</b></td>
@@ -2458,24 +2346,10 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xssterminal.jpg"></td>
-<td><b>XSSTerminal</b></td>
-<td><a href="https://github.com/machinexa2/XSSTerminal">GitHub</a></td>
-<td>(XSS): Develop your own XSS Payload using interactive typing</td>
-</tr>
-
-<tr>
 <td><img src="assets/cheatsheets/xss2png.jpg"></td>
 <td><b>xss2png</b></td>
 <td><a href="https://github.com/vavkamil/xss2png">GitHub</a></td>
 <td>(XSS): PNG IDAT chunks XSS payload generator</td>
-</tr>
-
-<tr>
-<td><img src="assets/cheatsheets/xsswagger.jpg"></td>
-<td><b>XSSwagger</b></td>
-<td><a href="https://github.com/vavkamil/XSSwagger">GitHub</a></td>
-<td>(XSS): A simple Swagger-ui scanner that can detect old versions vulnerable to various XSS attacks</td>
 </tr>
 
 </tbody>
