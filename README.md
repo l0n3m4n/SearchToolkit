@@ -1600,7 +1600,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/"></td>
+<td><img src="assets/exploits/nanorobeus.png"></td>
 <td><b>nanorobeus</b></td>
 <td><a href="https://github.com/wavvs/nanorobeus">Github</a></td>
 <td>(Windows): A minimalistic tool for managing Kerberos tickets. Supports redteam frameworks</td>
