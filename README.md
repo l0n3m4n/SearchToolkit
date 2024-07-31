@@ -5092,140 +5092,140 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/Mimikatz.jpg"></td>
 <td>Mimikatz</td>
 <td><a href="https://github.com/gentilkiwi/mimikatz">Github</a></td>
 <td>Mimikatz is an open-source application that allows users to view and save authentication credentials like Kerberos tickets.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/Dumpert.png"></td>
 <td>Dumpert</td>
 <td><a href="https://github.com/outflanknl/Dumpert">Github</a></td>
 <td>LSASS memory dumper using direct system calls and API unhooking.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/CredBandit.png"></td>
 <td>CredBandit</td>
 <td><a href="https://github.com/xforcered/CredBandit">Github</a></td>
 <td>CredBandit is a proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/CloneVault.png"></td>
 <td>CloneVault</td>
 <td><a href="https://github.com/mdsecactivebreach/CloneVault">Github</a></td>
 <td>CloneVault allows a red team operator to export and import entries including attributes from Windows Credential Manager.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/SharpLAPS.jpg"></td>
 <td>SharpLAPS</td>
 <td><a href="https://github.com/swisskyrepo/SharpLAPS">Github</a></td>
 <td>Retrieve LAPS password from LDAP.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/SharpDPAPI.jpg"></td>
 <td>SharpDPAPI</td>
 <td><a href="https://github.com/GhostPack/SharpDPAPI">Github</a></td>
 <td>SharpDPAPI is a C# port of some DPAPI functionality from @gentilkiwi's Mimikatz project.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/KeeThief.jpg"></td>
 <td>KeeThief</td>
 <td><a href="https://github.com/GhostPack/KeeThief">Github</a></td>
 <td>Allows for the extraction of KeePass 2.X key material from memory, as well as the backdooring and enumeration of the KeePass trigger system.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/SafetyKatz.jpg"></td>
 <td>SafetyKatz</td>
 <td><a href="https://github.com/GhostPack/SafetyKatz">Github</a></td>
 <td>SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subtee's .NET PE Loader.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>forkatz</td>
 <td><a href="https://github.com/Barbarisch/forkatz">Github</a></td>
 <td>Credential dump using forshaw technique using SeTrustedCredmanAccessPrivilege.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/PPLKiller.jpg"></td>
 <td>PPLKiller</td>
 <td><a href="https://github.com/RedCursorSecurityConsulting/PPLKiller">Github</a></td>
 <td>Tool to bypass LSA Protection (aka Protected Process Light).</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/LaZagne.jpg"></td>
 <td>LaZagne</td>
 <td><a href="https://github.com/AlessandroZ/LaZagne">Github</a></td>
 <td>The LaZagne project is an open-source application used to retrieve lots of passwords stored on a local computer.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>AndrewSpecial</td>
 <td><a href="https://github.com/hoangprod/AndrewSpecial">Github</a></td>
 <td>AndrewSpecial, dumping lsass' memory stealthily and bypassing "Cilence" since 2019.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/Net-GPPPassword.png"></td>
 <td>Net-GPPPassword</td>
 <td><a href="https://github.com/outflanknl/Net-GPPPassword">Github</a></td>
 <td>.NET implementation of Get-GPPPassword. Retrieves the plaintext password and other information for accounts pushed through Group Policy Preferences.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/SharpChromium.jpgs"></td>
 <td>SharpChromium</td>
 <td><a href="https://github.com/djhohnstein/SharpChromium">Github</a></td>
 <td>.NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>Chlonium</td>
 <td><a href="https://github.com/rxwx/chlonium">Github</a></td>
 <td>Chlonium is an application designed for cloning Chromium Cookies.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>SharpCloud</td>
 <td><a href="https://github.com/chrismaddalena/SharpCloud">Github</a></td>
 <td>SharpCloud is a simple C# utility for checking for the existence of credential files related to Amazon Web Services, Microsoft Azure, and Google Compute.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/pypykatz.jpg"></td>
 <td>pypykatz</td>
 <td><a href="https://github.com/skelsec/pypykatz">Github</a></td>
 <td>Mimikatz implementation in pure Python. At least a part of it :)</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/nanodump.png"></td>
 <td>nanodump</td>
 <td><a href="https://github.com/helpsystems/nanodump">Github</a></td>
 <td>A Beacon Object File that creates a minidump of the LSASS process.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/credential-dumping/Koh.jpg"></td>
 <td>Koh</td>
 <td><a href="https://github.com/GhostPack/Koh">Github</a></td>
 <td>Koh is a C# and Beacon Object File (BOF) toolset that allows for the capture of user credential material via purposeful token/logon session leakage.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>PPLBlade</td>
 <td><a href="https://github.com/tastypepperoni/PPLBlade">Github</a></td>
 <td>Protected Process Dumper Tool that supports obfuscating memory dumps and transferring them to remote workstations without dropping them onto the disk.</td>
