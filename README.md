@@ -2128,7 +2128,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/ghauri.jpg"></td>
+<td><img src="assets/exploits/ghauri.jpg"></td>
 <td><b>ghauri</b></td>
 <td><a href="https://github.com/r0oth3x49/ghauri">GitHub</a></td>
 <td>(SQL Injection): An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</td>
@@ -2136,28 +2136,28 @@
 
 <!-- XSS Injection Tools -->
 <tr>
-<td><img src="assets/cheatsheets/xsstrike.jpg"></td>
+<td><img src="assets/exploits/XSStrike.png"></td>
 <td><b>XSStrike</b></td>
 <td><a href="https://github.com/s0md3v/XSStrike">GitHub</a></td>
 <td>(XSS Injection):  Most advanced XSS scanner.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xssor2.jpg"></td>
+<td><img src="assets/exploits/xssor2.png"></td>
 <td><b>xssor2</b></td>
 <td><a href="https://github.com/evilcos/xssor2">GitHub</a></td>
 <td>(XSS  Injection): XSS'OR - Hack with JavaScript.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xsscrapy.jpg"></td>
+<td><img src="assets/exploits/xsscrapy.jpg"></td>
 <td><b>xsscrapy</b></td>
 <td><a href="https://github.com/DanMcInerney/xsscrapy">GitHub</a></td>
 <td>(XSS Injection): wavsep XSS detected</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/ezxss.jpg"></td>
+<td><img src="assets/exploits/ezXSS.jpg"></td>
 <td><b>ezXSS</b></td>
 <td><a href="https://github.com/ssl/ezXSS">GitHub</a></td>
 <td>(XSS Injection): ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.</td>
@@ -2171,21 +2171,21 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/dalfox.jpg"></td>
+<td><img src="assets/exploits/dalfox.png"></td>
 <td><b>dalfox</b></td>
 <td><a href="https://github.com/hahwul/dalfox">GitHub</a></td>
 <td>(XSS Injection): DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xsser.jpg"></td>
+<td><img src="assets/exploits/xsser.jpg"></td>
 <td><b>xsser</b></td>
 <td><a href="https://github.com/epsylon/xsser">GitHub</a></td>
 <td>(XSS Injection): Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xspear.jpg"></td>
+<td><img src="assets/exploits/XSpear.png"></td>
 <td><b>XSpear</b></td>
 <td><a href="https://github.com/hahwul/XSpear">GitHub</a></td>
 <td>(XSS Injection): Powerful XSS Scanning and Parameter analysis tool&gem</td>
@@ -2199,105 +2199,105 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/tracy.jpg"></td>
+<td><img src="assets/exploits/tracy.png"></td>
 <td><b>tracy</b></td>
 <td><a href="https://github.com/nccgroup/tracy">GitHub</a></td>
 <td>(XSS Injection): A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/ground-control.jpg"></td>
+<td><img src="assets/exploits/ground-control.png"></td>
 <td><b>ground-control</b></td>
 <td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
 <td>(XSS Injection): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/jsshell.jpg"></td>
+<td><img src="assets/exploits/JSShell.jpg"></td>
 <td><b>JSShell</b></td>
 <td><a href="https://github.com/Den1al/JSShell">GitHub</a></td>
 <td>(XSS Injection): An interactive multi-user web JS shell</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/bxss.jpg"></td>
+<td><img src="assets/exploits/bXSS.jpg"></td>
 <td><b>bXSS</b></td>
 <td><a href="https://github.com/LewisArdern/bXSS">GitHub</a></td>
 <td>(XSS Injection): bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/docem.jpg"></td>
+<td><img src="assets/exploits/docem.jpg"></td>
 <td><b>docem</b></td>
 <td><a href="https://github.com/whitel1st/docem">GitHub</a></td>
 <td>(XSS Injection): Utility to embed XXE and XSS payloads in docx, odt, pptx, etc (OXML_XEE on steroids)</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xss-radar.jpg"></td>
+<td><img src="assets/exploits/XSS-Radar.png"></td>
 <td><b>XSS-Radar</b></td>
 <td><a href="https://github.com/bugbountyforum/XSS-Radar">GitHub</a></td>
 <td>(XSS Injection): XSS Radar is a tool that detects parameters and fuzzes them for cross-site scripting vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/findom-xss.jpg"></td>
+<td><img src="assets/exploits/findom-xss.png"></td>
 <td><b>findom-xss</b></td>
 <td><a href="https://github.com/dwisiswant0/findom-xss">GitHub</a></td>
 <td>(XSS  Injection): A fast DOM based XSS vulnerability scanner with simplicity.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/domdig.jpg"></td>
+<td><img src="assets/exploits/domdig.jpg"></td>
 <td><b>domdig</b></td>
 <td><a href="https://github.com/fcavallarin/domdig">GitHub</a></td>
 <td>(XSS Injection): DOM XSS scanner for Single Page Applications</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/femida.jpg"></td>
+<td><img src="assets/exploits/femida.png"></td>
 <td><b>femida</b></td>
 <td><a href="https://github.com/wish-i-was/femida">GitHub</a></td>
 <td>(XSS Injection): Automated blind-xss search for Burp Suite</td>
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
+<td><img src="assets/exploits/B-XSSRF.png"></td>
 <td><b>B-XSSRF</b></td>
 <td><a href="https://github.com/SpiderMate/B-XSSRF">GitHub</a></td>
 <td>(XSS Injection): Toolkit to detect and keep track on Blind XSS, XXE & SSRF</td>
 </tr>
  
 <tr>
-<td><img src="assets/cheatsheets/xssmap.jpg"></td>
+<td><img src="assets/exploits/xssmap.png"></td>
 <td><b>xssmap</b></td>
 <td><a href="https://github.com/Jewel591/xssmap">GitHub</a></td>
 <td>(XSS Injection): XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xsscon.jpg"></td>
+<td><img src="assets/exploits/XSSCon.png"></td>
 <td><b>XSSCon</b></td>
 <td><a href="https://github.com/menkrep1337/XSSCon">GitHub</a></td>
 <td>(XSS Injection): Simple XSS Scanner tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/bitblinder.jpg"></td>
+<td><img src="assets/exploits/BitBlinder.png"></td>
 <td><b>BitBlinder</b></td>
 <td><a href="https://github.com/BitTheByte/BitBlinder">GitHub</a></td>
 <td>(XSS Injection):BurpSuite extension to inject custom cross-site scripting payloads on every form/request submitted to detect blind XSS vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/shadow-workers.jpg"></td>
+<td><img src="assets/exploits/shadow-workers.png"></td>
 <td><b>shadow-workers</b></td>
 <td><a href="https://github.com/shadow-workers/shadow-workers">GitHub</a></td>
 <td>(XSS Injection): Shadow Workers is a free and open source C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)</td>
 </tr>
  
 <tr>
-<td><img src="assets/cheatsheets/dtd-finder.jpg"></td>
+<td><img src="assets/exploits/dtd-finder.png"></td>
 <td><b>dtd-finder</b></td>
 <td><a href="https://github.com/GoSecure/dtd-finder">GitHub</a></td>
 <td>(XXE  Injection): List DTDs and generate XXE payloads using those local DTDs.</td>
@@ -2311,7 +2311,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xxexploiter.jpg"></td>
+<td><img src="assets/exploits/xxexploiter.png"></td>
 <td><b>xxexploiter</b></td>
 <td><a href="https://github.com/luisfontes19/xxexploiter">GitHub</a></td>
 <td>(XXE Injection): Tool to help exploit XXE vulnerabilities</td>
@@ -2332,21 +2332,21 @@
 </tr>
  
 <tr>
-<td><img src="assets/exploits/"></td>
+<td><img src="assets/exploits/tplmap.jpg"></td>
 <td><b>tplmap</b></td>
 <td><a href="https://github.com/epinna/tplmap">GitHub</a></td>
 <td>(SSTI): Server-Side Template Injection and Code Injection Detection and Exploitation Tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/sstimap.jpg"></td>
+<td><img src="assets/exploits/SSTImap.png"></td>
 <td><b>SSTImap</b></td>
 <td><a href="https://github.com/vladko312/SSTImap">GitHub</a></td>
 <td>(SSTI): Automatic SSTI detection tool with interactive interface</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/xss2png.jpg"></td>
+<td><img src="assets/exploits/xss2png.jpg"></td>
 <td><b>xss2png</b></td>
 <td><a href="https://github.com/vavkamil/xss2png">GitHub</a></td>
 <td>(XSS): PNG IDAT chunks XSS payload generator</td>
