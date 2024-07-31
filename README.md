@@ -51,6 +51,7 @@
 
 <h2 align="center">Search Navigation</h2>
 
+  <a href="#cheatsheets"><b>Cheatsheets</b></a> |  
   <a href="#osint"><b>OSINT</b></a> |
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
