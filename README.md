@@ -1764,49 +1764,49 @@
 </tr>
 
 <tr>
-<td><img src="assets/headi-logo.jpg"></td>
+<td><img src="assets/exploits/headi.jpg"></td>
 <td><b>headi</b></td>
 <td><a href="https://github.com/mlcsec/headi">GitHub</a></td>
 <td>(Header-Injection): Customisable and automated HTTP header injection.</td>
 </tr>
 
 <tr>
-<td><img src="assets/ysoserial-logo.jpg"></td>
+<td><img src="assets/exploits/ysoserial.png"></td>
 <td><b>ysoserial</b></td>
 <td><a href="https://github.com/frohoff/ysoserial">GitHub</a></td>
 <td>(Deserialization): A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.</td>
 </tr>
 
 <tr>
-<td><img src="assets/gadgetprobe-logo.jpg"></td>
+<td><img src="assets/exploits/GadgetProbe.png"></td>
 <td><b>GadgetProbe</b></td>
 <td><a href="https://github.com/BishopFox/GadgetProbe">GitHub</a></td>
 <td>(Deserialization): Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.</td>
 </tr>
 
 <tr>
-<td><img src="assets/ysoserial-net-logo.jpg"></td>
+<td><img src="assets/exploits/ysoserial.net.png"></td>
 <td><b>ysoserial.net</b></td>
 <td><a href="https://github.com/pwntester/ysoserial.net">GitHub</a></td>
 <td>(Deserialization): payload generator for a variety of .NET formatters</td>
 </tr>
 
 <tr>
-<td><img src="assets/phpggc-logo.jpg"></td>
+<td><img src="assets/exploits/phpggc.png"></td>
 <td><b>phpggc</b></td>
 <td><a href="https://github.com/ambionics/phpggc">GitHub</a></td>
 <td>(Deserialization): PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
 </tr>
 
 <tr>
-<td><img src="assets/autorize-logo.jpg"></td>
+<td><img src="assets/exploits/Autorize.png"></td>
 <td><b>Autorize</b></td>
 <td><a href="https://github.com/Quitten/Autorize">GitHub</a></td>
 <td>(IDOR): Automatic authorization enforcement detection extension for Burp Suite written in Jython developed by Barak Tawily</td>
 </tr>
 
 <tr>
-<td><img src="assets/oralyzer-logo.jpg"></td>
+<td><img src="assets/exploits/Oralyzer.jpg"></td>
 <td><b>Oralyzer</b></td>
 <td><a href="https://github.com/r0075h3ll/Oralyzer">GitHub</a></td>
 <td>(Open-Redirect): Open Redirection Analyzer</td>
@@ -1821,14 +1821,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/dom-red-logo.jpg"></td>
+<td><img src="assets/exploits/dom-red.jpg"></td>
 <td><b>dom-red</b></td>
 <td><a href="https://github.com/Naategh/dom-red">GitHub</a></td>
 <td>(Open-Redirect): Small script to check a list of domains against open redirect vulnerability</td>
 </tr>
 
 <tr>
-<td><img src="assets/openredirex-logo.jpg"></td>
+<td><img src="assets/exploits/OpenRedireX.jpg"></td>
 <td><b>OpenRedireX</b></td>
 <td><a href="https://github.com/devanshbatham/OpenRedireX">GitHub</a></td>
 <td>(Open-Redirect): A Fuzzer for OpenRedirect issues</td>
@@ -1849,14 +1849,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/requests-racer-logo.jpg"></td>
+<td><img src="assets/exploits/requests-racer.png"></td>
 <td><b>requests-racer</b></td>
 <td><a href="https://github.com/nccgroup/requests-racer">GitHub</a></td>
 <td>(Race-Condition): Small Python library that makes it easy to exploit race conditions in web apps with Requests</td>
 </tr>
 
 <tr>
-<td><img src="assets/turbo-intruder-logo.jpg"></td>
+<td><img src="assets/exploits/turbo-intruder.png"></td>
 <td><b>turbo-intruder</b></td>
 <td><a href="https://github.com/PortSwigger/turbo-intruder">GitHub</a></td>
 <td>(Race-Condition): Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results</td>
@@ -1870,35 +1870,35 @@
 </tr>
 
 <tr>
-<td><img src="assets/http-request-smuggling-logo.jpg"></td>
+<td><img src="assets/exploits/http-request-smuggling.png"></td>
 <td><b>http-request-smuggling</b></td>
 <td><a href="https://github.com/anshumanpattnaik/http-request-smuggling">GitHub</a></td>
 <td>HTTP Request Smuggling Detection Tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/smuggler-logo.jpg"></td>
+<td><img src="assets/exploits/smuggler.jpg"></td>
 <td><b>smuggler</b></td>
 <td><a href="https://github.com/defparam/smuggler">GitHub</a></td>
 <td>Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3</td>
 </tr>
 
 <tr>
-<td><img src="assets/h2csmuggler-logo.jpg"></td>
+<td><img src="assets/exploits/h2csmuggler.png"></td>
 <td><b>h2csmuggler</b></td>
 <td><a href="https://github.com/BishopFox/h2csmuggler">GitHub</a></td>
 <td>(Request-Smuggling): HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
 </tr>
 
 <tr>
-<td><img src="assets/tiscripts-logo.jpg"></td>
+<td><img src="assets/exploits/tiscripts.jpg"></td>
 <td><b>tiscripts</b></td>
 <td><a href="https://github.com/defparam/tiscripts">GitHub</a></td>
 <td>(Request-Smuggling): These scripts I use to create Request Smuggling Desync payloads for CLTE and TECL style attacks</td>
 </tr>
 
 <tr>
-<td><img src="assets/ssrfmap-logo.jpg"></td>
+<td><img src="assets/exploits/SSRFmap.jpg"></td>
 <td><b>SSRFmap</b></td>
 <td><a href="https://github.com/swisskyrepo/SSRFmap">GitHub</a></td>
 <td>(SSRF): Automatic SSRF fuzzer and exploitation tool</td>
@@ -1912,36 +1912,35 @@
 </tr>
 
 <tr>
-<td><img src="assets/ground-control-logo.jpg"></td>
+<td><img src="assets/exploits/ground-control.png"></td>
 <td><b>ground-control</b></td>
 <td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
 <td>(SSRF): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/ssrfire-logo.jpg"></td>
+<td><img src="assets/exploits/SSRFire.jpg"></td>
 <td><b>SSRFire</b></td>
 <td><a href="https://github.com/micha3lb3n/SSRFire">GitHub</a></td>
 <td>(SSRF): An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects</td>
 </tr>
 
 <tr>
-<td><img src="assets/httprebind-logo.jpg"></td>
+<td><img src="assets/exploits/httprebind.jpg"></td>
 <td><b>httprebind</b></td>
 <td><a href="https://github.com/daeken/httprebind">GitHub</a></td>
 <td>(SSRF): Automatic tool for DNS rebinding-based SSRF attacks</td>
 </tr>
 
 <tr>
-<td><img src="assets/ssrf-sheriff-logo.jpg"></td>
+<td><img src="assets/exploits/ssrf-sheriff.jpg"></td>
 <td><b>ssrf-sheriff</b></td>
 <td><a href="https://github.com/teknogeek/ssrf-sheriff">GitHub</a></td>
 <td>(SSRF): A simple SSRF-testing sheriff written in Go</td>
 </tr>
 
-
 <tr>
-<td><img src="assets/B-XSSRF-logo.jpg"></td>
+<td><img src="assets/exploits/B-XSSRF.png"></td>
 <td><b>B-XSSRF</b></td>
 <td><a href="https://github.com/SpiderMate/B-XSSRF">GitHub</a></td>
 <td>(SSRF): Toolkit to detect and keep track on Blind XSS, XXE & SSRF</td>
@@ -1955,35 +1954,35 @@
 </tr>
 
 <tr>
-<td><img src="assets/gaussrf-logo.jpg"></td>
+<td><img src="assets/exploits/gaussrf.jpg"></td>
 <td><b>gaussrf</b></td>
 <td><a href="https://github.com/KathanP19/gaussrf">GitHub</a></td>
 <td>(SSRF): Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and filter URLs with OpenRedirection or SSRF Parameters</td>
 </tr>
 
 <tr>
-<td><img src="assets/ssrfDetector-logo.jpg"></td>
+<td><img src="assets/exploits/ssrfDetector.png"></td>
 <td><b>ssrfDetector</b></td>
 <td><a href="https://github.com/JacobReynolds/ssrfDetector">GitHub</a></td>
 <td>(SSRF): Server-side request forgery detector</td>
 </tr>
 
 <tr>
-<td><img src="assets/sentrySSRF-logo.jpg"></td>
+<td><img src="assets/exploits/sentrySSRF.jpg"></td>
 <td><b>sentrySSRF</b></td>
 <td><a href="https://github.com/xawdxawdx/sentrySSRF">GitHub</a></td>
 <td>(SSRF): Tool to search sentry config on page or in javascript files and check blind SSRF</td>
 </tr>
 
 <tr>
-<td><img src="assets/lorsrf-logo.jpg"></td>
+<td><img src="assets/exploits/lorsrf.jpg"></td>
 <td><b>lorsrf</b></td>
 <td><a href="https://github.com/knassar702/lorsrf">GitHub</a></td>
 <td>(SSRF): Bruteforcing on hidden parameters to find SSRF vulnerability using GET and POST methods</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/">
+<td><img src="assets/exploits/Singularity.png">
 <td><b>Singularity</b></td>
 <td><a href="https://github.com/nccgroup/singularity">GitHub</a></td>
 <td>(SSRF): A DNS rebinding attack framework</td>
@@ -2004,7 +2003,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/dref-logo.jpg"></td>
+<td><img src="assets/exploits/dref.png"></td>
 <td><b>dref</b></td>
 <td><a href="https://github.com/FSecureLABS/dref">GitHub</a></td>
 <td>(SSRF): DNS Rebinding Exploitation Framework</td>
@@ -2018,91 +2017,91 @@
 </tr>
 
 <tr>
-<td><img src="assets/httprebind-logo.jpg"></td>
+<td><img src="assets/exploits/httprebind.jpg"></td>
 <td><b>httprebind</b></td>
 <td><a href="https://github.com/daeken/httprebind">GitHub</a></td>
 <td>(SSRF): Automatic tool for DNS rebinding-based SSRF attacks</td>
 </tr>
 
 <tr>
-<td><img src="assets/dnsFookup-logo.jpg"></td>
+<td><img src="assets/exploits/dnsFookup.jpg"></td>
 <td><b>dnsFookup</b></td>
 <td><a href="https://github.com/makuga01/dnsFookup">GitHub</a></td>
 <td>(SSRF): DNS rebinding toolkit</td>
 </tr>
 
 <tr>
-<td><img src="assets/surf-logo.jpg"></td>
+<td><img src="assets/exploits/surf.png"></td>
 <td><b>surf</b></td>
 <td><a href="https://github.com/assetnote/surf">GitHub</a></td>
 <td>(SSRF): Escalate your SSRF vulnerabilities on modern cloud environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/nosqlmap.jpg"></td>
+<td><img src="assets/exploits/NoSQLMap.png"></td>
 <td><b>NoSQLMap</b></td>
 <td><a href="https://github.com/codingo/NoSQLMap">GitHub</a></td>
 <td>(SQL Injection): Automated NoSQL database enumeration and web application exploitation tool.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/sqliscanner.jpg"></td>
+<td><img src="assets/exploits/SQLiScanner.jpg"></td>
 <td><b>SQLiScanner</b></td>
 <td><a href="https://github.com/0xbug/SQLiScanner">GitHub</a></td>
 <td>(SQL Injection): Automatic SQL injection with Charles and sqlmap api</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/sleuthql.jpg"></td>
+<td><img src="assets/exploits/SleuthQL.png"></td>
 <td><b>SleuthQL</b></td>
 <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">GitHub</a></td>
 <td>(SQL Injection): Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/mssqlproxy.jpg"></td>
+<td><img src="assets/exploits/mssqlproxy.png"></td>
 <td><b>mssqlproxy</b></td>
 <td><a href="https://github.com/blackarrowsec/mssqlproxy">GitHub</a></td>
 <td>(SQL Injection): Toolkit aimed to perform lateral movement in restricted environments through a compromised Microsoft SQL Server via socket reuse</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/sqli-hunter.jpg"></td>
+<td><img src="assets/exploits/sqli-hunter.jpg"></td>
 <td><b>sqli-hunter</b></td>
 <td><a href="https://github.com/zt2/sqli-hunter">GitHub</a></td>
 <td>(SQL Injection): Simple HTTP / HTTPS proxy server and a SQLMAP API wrapper that makes digging SQLi easy.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/waybacksqliscanner.jpg"></td>
+<td><img src="assets/exploits/waybackSqliScanner.jpg"></td>
 <td><b>waybackSqliScanner</b></td>
 <td><a href="https://github.com/ghostlulzhacks/waybackSqliScanner">GitHub</a></td>
 <td>(SQL Injection): Gather urls from wayback machine then test each GET parameter for sql injection.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/esc.jpg"></td>
+<td><img src="assets/exploits/ESC.jpg"></td>
 <td><b>ESC</b></td>
 <td><a href="https://github.com/NetSPI/ESC">GitHub</a></td>
 <td>(SQL Injection): Evil SQL Client (ESC) is an interactive .NET SQL console client with enhanced SQL Server discovery, access, and data exfiltration features.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/mssqli-duet.jpg"></td>
+<td><img src="assets/exploits/mssqli-duet.png"></td>
 <td><b>mssqli-duet</b></td>
 <td><a href="https://github.com/Keramas/mssqli-duet">GitHub</a></td>
 <td>(SQL Injection): script for MSSQL that extracts domain users from an Active Directory environment based on RID bruteforcing</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/burp-sqltruncscanner.jpg"></td>
+<td><img src="assets/exploits/BurpSQLTruncSanner.jpg"></td>
 <td><b>BurpSQLTruncSanner</b></td>
 <td><a href="https://github.com/InitRoot/BurpSQLTruncSanner">GitHub</a></td>
 <td>(SQL Injection): Messy BurpSuite plugin for SQL Truncation vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/andor.jpg"></td>
+<td><img src="assets/exploits/andor.png"></td>
 <td><b>andor</b></td>
 <td><a href="https://github.com/sadicann/andor">GitHub</a></td>
 <td>(SQL Injection): Blind SQL Tool with Golang</td>
@@ -2116,14 +2115,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/sqliv.jpg"></td>
+<td><img src="assets"></td>
 <td><b>sqliv</b></td>
 <td><a href="https://github.com/the-robot/sqliv">GitHub</a></td>
 <td>(SQL Injection): Massive SQL injection vulnerability scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/nosqli.jpg"></td>
+<td><img src="assets/exploits"></td>
 <td><b>nosqli</b></td>
 <td><a href="https://github.com/Charlie-belmer/nosqli">GitHub</a></td>
 <td>(SQL Injection): NoSql Injection CLI tool, for finding vulnerable websites using MongoDB.</td>
