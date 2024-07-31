@@ -2115,7 +2115,7 @@
 </tr>
 
 <tr>
-<td><img src="assets"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>sqliv</b></td>
 <td><a href="https://github.com/the-robot/sqliv">GitHub</a></td>
 <td>(SQL Injection): Massive SQL injection vulnerability scanner</td>
