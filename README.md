@@ -2332,7 +2332,7 @@
 </tr>
  
 <tr>
-<td><img src="assets/cheatsheets/tplmap.jpg"></td>
+<td><img src="assets/exploits/"></td>
 <td><b>tplmap</b></td>
 <td><a href="https://github.com/epinna/tplmap">GitHub</a></td>
 <td>(SSTI): Server-Side Template Injection and Code Injection Detection and Exploitation Tool</td>
