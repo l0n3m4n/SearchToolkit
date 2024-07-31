@@ -50,7 +50,7 @@
 <br/>
 
 <h2 align="center">Search Navigation</h2>
-
+<p>
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
   <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#domains"><b>Domains</b></a> | 
@@ -92,7 +92,7 @@
   <a href="#securing-data"><b>Securing Data</b></a> |
   <a href="#covering-tracks"><b>Covering Tracks</b></a> |
   <a href="#reports"><b>Reports</b></a>
-
+</p>
 
 
 ## Cheatsheets
