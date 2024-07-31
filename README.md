@@ -51,7 +51,7 @@
 
 <h2 align="center">Search Navigation</h2>
 
-  <a href="#cheatsheets"><b>Cheatsheets</b></a> |  
+  <a href="#cheatsheets"><b>Cheatsheets</b></a> |   
   <a href="#osint"><b>OSINT</b></a> |
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
   <a href="#attack-surface"><b>Attack Surface</b></a> |
@@ -74,7 +74,6 @@
 
   <h3 align="center">Attack Cycle</h3>
 
-  <a href="#cheatsheets"><b>Cheatsheets</b></a> | 
   <a href="#discovery"><b>Discovery</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#vulnerability-scanner"><b>Vulnerability Scanner</b></a> | 
