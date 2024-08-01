@@ -52,6 +52,7 @@
 <h2 align="center">Search Navigation</h2>
 <p>
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
+  <a href="#geolocation=tracking"><b>Geolocation Tracking</b></a> | 
   <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#domains"><b>Domains</b></a> | 
   <a href="#dorking"><b>Dorking</b></a> |
@@ -3788,7 +3789,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <h2 align="center">OSINT</h2>
 
 <p align="center">
-  <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> |
   <a href="#special-osint-tools"><b>Special OSINT Tools</b></a> |
   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
   <a href="#mail-address"><b>Mail Address</b></a> | 
