@@ -52,7 +52,7 @@
 <h2 align="center">Search Navigation</h2>
 <p>
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
-  <a href="#geolocation=tracking"><b>Geolocation Tracking</b></a> | 
+  <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> | 
   <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#domains"><b>Domains</b></a> | 
   <a href="#dorking"><b>Dorking</b></a> |
