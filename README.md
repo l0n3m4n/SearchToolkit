@@ -3968,12 +3968,6 @@ made to help you during your investigations</td>
     </tr>
     <tr>
       <td><img src="assets/server/shodan.png"></td>
-      <td><b>usphonebook.com</b></td>
-      <td><a href="https://www.usphonebook.com/">Website</a></td>
-      <td>Free Reverse Phone Number Lookup</td>
-    </tr>
-    <tr>
-      <td><img src="assets/server/shodan.png"></td>
       <td><b>truepeoplesearch.com</b></td>
       <td><a href="https://www.truepeoplesearch.com/#">Website</a></td>
       <td>Get current address, cell phone number, email address, relatives, friends and a lot more</td>
