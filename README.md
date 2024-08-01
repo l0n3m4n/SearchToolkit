@@ -67,7 +67,6 @@
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf"><b>CTF Platform</b></a> |  
-  <a href="#ioc-scanner"><b>IOC Scanner</b></a> |
   <a href="#steganography"><b>Steganography</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
   <a href="#cheatsheets"><b>Cheatsheets</b></a> |   
