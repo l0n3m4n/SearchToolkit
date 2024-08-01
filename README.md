@@ -4047,61 +4047,61 @@ made to help you during your investigations</td>
   </thead>
   <tbody>
    <tr>
-      <td><img src="assets/server/phonebook.png"></td>
+      <td><img src="assets/url/urlencoder.jpg"></td>
       <td><b>urlencoder</b></td>
       <td><a href="https://urlencoder.org/">Website</a></td>
       <td>URL encoder and decoder used for bug-hunting and penetration testing</td>
     </tr>
     <tr>
-      <td><img src="assets/server/phonebook.png"></td>
+      <td><img src="assets/url/PhoneBook.png"></td>
       <td><b>PhoneBook</b></td>
       <td><a href="https://phonebook.cz/">Website</a></td>
       <td>Lists all domains, email addresses, or URLs for the given input domain</td>
     </tr>
     <tr>
-      <td><img src="assets/server/intelx.png"></td>
+      <td><img src="assets/url/IntelligenceX.png"></td>
       <td><b>IntelligenceX</b></td>
       <td><a href="https://intelx.io/">Website</a></td>
       <td>Search engine and data archive</td>
     </tr>
     <tr>
-      <td><img src="assets/server/urlscan.png"></td>
+      <td><img src="assets/url/URLScan.jpg"></td>
       <td><b>URLScan</b></td>
       <td><a href="https://urlscan.io/">Website</a></td>
       <td>A sandbox for the web</td>
     </tr>
     <tr>
-      <td><img src="assets/server/hackertarget.png"></td>
+      <td><img src="assets/url/HackerTarget.jpg"></td>
       <td><b>HackerTarget</b></td>
       <td><a href="https://hackertarget.com/ip-tools/">Website</a></td>
       <td>Collect information about IP Addresses, Networks, Web Pages, and DNS records</td>
     </tr>
     <tr>
-      <td><img src="assets/server/moz.png"></td>
+      <td><img src="assets/url/MOZ Link Explorer.jpg"></td>
       <td><b>MOZ Link Explorer</b></td>
       <td><a href="https://moz.com/link-explorer">Website</a></td>
       <td>The world's best backlink checker with over 40 trillion links</td>
     </tr>
     <tr>
-      <td><img src="assets/server/shorteners.png"></td>
+      <td><img src="assets/url/shorteners.grayhatwarfare.com.jpg"></td>
       <td><b>shorteners.grayhatwarfare.com</b></td>
       <td><a href="https://shorteners.grayhatwarfare.com/">Website</a></td>
       <td>Search URLs exposed by Shortener services</td>
     </tr>
     <tr>
-      <td><img src="assets/server/commoncrawl.png"></td>
+      <td><img src="assets/url/CommonCrawl Index.jpg"></td>
       <td><b>CommonCrawl Index</b></td>
       <td><a href="http://index.commoncrawl.org/">Website</a></td>
       <td>Open repository of web crawl data</td>
     </tr>
     <tr>
-      <td><img src="assets/server/urlvoid.png"></td>
+      <td><img src="assets/url/URLVoid.jpg"></td>
       <td><b>URLVoid</b></td>
       <td><a href="https://www.urlvoid.com/">Website</a></td>
       <td>Check the online reputation/safety of a website</td>
     </tr>
     <tr>
-      <td><img src="assets/server/norton.png"></td>
+      <td><img src="assets/url/Norton SafeWeb.png"></td>
       <td><b>Norton SafeWeb</b></td>
       <td><a href="https://safeweb.norton.com/">Website</a></td>
       <td>Look up a site, Get our rating</td>
