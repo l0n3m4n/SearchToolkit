@@ -6721,14 +6721,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/reports/APTRS.png"></td>
 <td><b>APTRS</b></td>
 <td><a href="https://github.com/Anof-cyber/APTRS">GitHub</a></td>
-<td>APTRS (Automated Penetration Testing Reporting System) is an automated reporting tool in Python and Django. The tool allows Penetration testers to create a report directly without using the traditional Docx file. It also provides an approach to keeping track of the projects and vulnerabilities.</td>
+<td>APTRS (Automated Penetration Testing Reporting System) is an automated reporting tool in Python and Django.</td>
 </tr>
 
 <tr>
 <td><img src="assets/reports/AttackForge.png"></td>
 <td><b>AttackForge</b></td>
 <td><a href="https://attackforge.com/">Website</a></td>
-<td>AttackForge helps you manage your penetration testing programs, and deliver large-scale pentesting services. Pentest Management and Reporting Made Easy, A Platform Built for Productivity, Collaboration and Visibility.</td>
+<td>AttackForge helps you manage your penetration testing programs, and deliver large-scale pentesting services.</td>
 </tr>
 
 <tr>
@@ -6763,14 +6763,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/reports/HaxHQ.png"></td>
 <td><b>HaxHQ</b></td>
 <td><a href="https://haxhq.com">Website</a></td>
-<td>Fast and easy to use, with PingCastle support, streamlined library and an integrated CA for client certificate authentication. Host locally with full visibility into the source code. Unrestricted, free version at demo.haxhq.com.</td>
+<td>Fast and easy to use, with PingCastle support, streamlined library and an integrated CA for client certificate authentication.</td>
 </tr>
 
 <tr>
 <td><img src="assets/reports/Hexway Hive & Apiary.png"></td>
 <td><b>Hexway Hive & Apiary</b></td>
 <td><a href="https://hexway.io/">Website</a></td>
-<td>Hive is the ultimate solution to bring penetration testing to the next level. One platform to rule them all. Penetration Testing as a Service (PTaaS) platform to aggregate and work with data from security tools in a common environment.</td>
+<td>Hive is the ultimate solution to bring penetration testing to the next level.</td>
 </tr>
 
 <tr>
@@ -6784,7 +6784,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/reports/PeTeReport.png"></td>
 <td><b>PeTeReport</b></td>
 <td><a href="https://github.com/1modm/petereport">GitHub</a></td>
-<td>PeTeReport (PenTest Report) is an open-source application vulnerability reporting tool designed to assist pentesting/redteaming efforts, by simplifying the task of writing and generation of reports.</td>
+<td>PeTeReport (PenTest Report) is an open-source application vulnerability reporting tool designed to assist pentesting/redteaming.</td>
 </tr>
 
 <tr>
@@ -6805,7 +6805,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/reports/reconmap.png"></td>
 <td><b>Reconmap</b></td>
 <td><a href="https://github.com/reconmap/reconmap">GitHub</a></td>
-<td>Reconmap is an open-source penetration testing and report generation tool for Infosec teams that uses templating, automation and machine learning to streamline the delivery of security projects.</td>
+<td>Reconmap is an open-source penetration testing and report generation tool for Infosec teams</td>
 </tr>
 
 <tr>
@@ -6819,14 +6819,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/reports/securityreporter.png"></td>
 <td><b>Reporter</b></td>
 <td><a href="https://securityreporter.app">Website</a></td>
-<td>Reporter is an all-in-one pentest reporting workspace to boost quality and efficiency to a higher level with collaboration tools, retest/review flows, templates, a client portal, and more.</td>
+<td>Reporter is an all-in-one pentest reporting workspace to boost quality and efficiency to a higher level with collaboration tools</td>
 </tr>
 
 <tr>
 <td><img src="assets/reports/SysReptor.jpg"></td>
 <td><b>SysReptor</b></td>
 <td><a href="https://github.com/syslifters/sysreptor/">GitHub</a></td>
-<td>Easy pentest reporting tool to write findings in markdown, design and customize reports in HTML and VueJS, render to PDF. Additional features MFA, note-taking, collaboration, data encryption at rest, SSO.</td>
+<td>Easy pentest reporting tool to write findings in markdown, design and customize reports in HTML and VueJS, render to PDF.</td>
 </tr>
 
 <tr>
