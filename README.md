@@ -6448,10 +6448,17 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
+<td><img src="assets/"></td>
+<td><b>Ghidra</b></td>
+<td><a href="https://ghidra-sre.org/">Website</a></td>
+<td>(Disassemblers & Decompilers): Open-source reverse engineering tool developed by NSA</td>
+</tr>
+
+<tr>
 <td><img src="assets/dfir/pwndbg.png"></td>
 <td><b>pwndbg</b></td>
 <td><a href="https://github.com/pwndbg/pwndbg">Github</a></td>
-<td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
+<td>(Debuggers): Exploit Development and Reverse Engineering with GDB Made Easy</td>
 </tr>
 
 <tr>
@@ -6487,13 +6494,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><b>Hiew</b></td>
 <td><a href="http://www.hiew.ru/">Website</a></td>
 <td>(Hex Editor) hex and Disassembler</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td><b>Ghidra</b></td>
-<td><a href="https://ghidra-sre.org/">Website</a></td>
-<td>(Disassemblers & Decompilers): Open-source reverse engineering tool developed by NSA</td>
 </tr>
 
 <tr>
