@@ -6006,10 +6006,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 [🔝 Back to top](#Search-Navigation)
 
-<!--CTF Platform-->
-<h1 align="center">Android</h1>
-
-## Andriod
+## Android
 
 <table>
   <thead>
