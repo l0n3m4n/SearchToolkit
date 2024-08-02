@@ -80,7 +80,7 @@
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#initial-access"><b>Initial Access</b></a> |
   <a href="#payload-and-staging"><b>Payload and Staging</b></a> |
-  <a href="#exploitation"><b>Exploitation</b></a> |
+  <a href="#exploitations"><b>Exploitation</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
   <a href="#credential-dumping"><b>Credential Dumping</b></a> |
@@ -4155,7 +4155,7 @@ made to help you during your investigations</td>
       <td>Search URLs exposed by Shortener services</td>
     </tr>
     <tr>
-      <td><img src="assets/url/CommonCrawl Index.jpg"></td>
+      <td><img src="assets/url/common crawl.png"></td>
       <td><b>CommonCrawl Index</b></td>
       <td><a href="http://index.commoncrawl.org/">Website</a></td>
       <td>Open repository of web crawl data</td>
@@ -4234,7 +4234,7 @@ made to help you during your investigations</td>
       <td>Website where you can store text online for a set period of time</td>
     </tr>
     <tr>
-      <td><img src="assets/dorking"></td>
+      <td><img src="assets/dorking/pagodo.jpg"></td>
       <td><b>pagodo</b></td>
       <td><a href="https://github.com/opsdisk/pagodo">Github</a></td>
       <td>pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching</td>
