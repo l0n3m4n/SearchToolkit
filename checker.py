@@ -96,7 +96,7 @@ def main():
                             print(f"{COLORS.LIGHTYELLOW}⚠️ {COLORS.RESET} {url}")
 
         if not found_any:
-            print(f"\n{COLORS.LIGHTCYAN}No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}.{COLORS.RESET}")
+            print(f"\n{COLORS.LIGHTCYAN}No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}")
 
     # Process the file and get results
     errors_count, duplicates_count, duplicate_links, total_urls = process_file(url_file)
