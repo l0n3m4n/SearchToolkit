@@ -67,6 +67,7 @@
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#data-leaks"><b>Data Leaks</b></a> |
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
+  <a href="#malware-analysis"><b>Malware Analysis</b></a> |
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf"><b>CTF Platform</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
@@ -6462,6 +6463,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
+<td><img src="assets/debugging/x64dbg.png"></td>
+<td><b>x64dbg</b></td>
+<td><a href="http://x64dbg.com/#start">Website</a></td>
+<td>(Debugging):  Open-source x64/x32 debugger for Windows</td>
+</tr>
+
+<tr>
 <td><img src="assets/hex-editors/hxd.png"></td>
 <td><b>HxD</b></td>
 <td><a href="https://mh-nexus.de/en/hxd/">Website</a></td>
@@ -6490,7 +6498,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/hex-editors/hiew.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Hiew</b></td>
 <td><a href="http://www.hiew.ru/">Website</a></td>
 <td>(Hex Editor) hex and Disassembler</td>
@@ -6546,14 +6554,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
-<td><b>fREedom</b></td>
-<td><a href="https://github.com/cseagle/fREedom">Github</a></td>
-<td>(Disassemblers): Decompilation framework for research and education</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Retdec</b></td>
 <td><a href="https://retdec.com/">Website</a></td>
 <td>(Disassemblers): Retargetable decompiler with support for multiple architectures</td>
@@ -6567,13 +6568,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/bytecode/dnspy.png"></td>
-<td><b>dnSpy</b></td>
-<td><a href="https://github.com/0xd4d/dnSpy">Github</a></td>
-<td>(Bytecode Analysis): Debugger and .NET assembly editor</td>
-</tr>
-
-<tr>
 <td><img src="assets/bytecode/bytecode-viewer.png"></td>
 <td><b>Bytecode Viewer</b></td>
 <td><a href="https://bytecodeviewer.com/">Website</a></td>
@@ -6581,38 +6575,10 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/bytecode/bytecode-visualizer.png" ></td>
-<td><b>Bytecode Visualizer</b></td>
-<td><a href="http://www.drgarbage.com/bytecode-visualizer/">Website</a></td>
-<td>(Bytecode Analysis): Visualizer for Java bytecode</td>
-</tr>
-
-<tr>
-<td><img src="assets/bytecode/jpexs-flash-decompiler.png" ></td>
+<td><img src="assets/default_logo.png" ></td>
 <td><b>JPEXS Flash Decompiler</b></td>
 <td><a href="https://www.free-decompiler.com/flash/">Website</a></td>
 <td>(Bytecode Analysis): Decompiler for Flash (SWF) files</td>
-</tr>
-
-<tr>
-<td><img src="assets/import-reconstruction/imprec.png"></td>
-<td><b>ImpRec</b></td>
-<td><a href="http://www.woodmann.com/collaborative/tools/index.php/ImpREC">Website</a></td>
-<td>(Import Reconstruction): Tool for reconstructing import tables in PE files</td>
-</tr>
-
-<tr>
-<td><img src="assets/import-reconstruction/scylla.png"></td>
-<td><b>Scylla</b></td>
-<td><a href="https://github.com/NtQuery/Scylla">Github</a></td>
-<td>(Import Reconstruction): Advanced import reconstructor for PE files</td>
-</tr>
-
-<tr>
-<td><img src="assets/import-reconstruction/lordpe.png"></td>
-<td><b>LordPE</b></td>
-<td><a href="http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip">Download</a></td>
-<td>(Import Reconstruction): PE file editor and import table manipulator</td>
 </tr>
 
 <tr>
@@ -6623,55 +6589,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/debugging/ollydbg1.png"></td>
-<td><b>OllyDbg</b></td>
-<td><a href="http://www.ollydbg.de/">Website</a></td>
-<td>(Debugging):  Popular 32-bit debugger for Windows</td>
-</tr>
-
-<tr>
-<td><img src="assets/debugging/ollydbg2.png"></td>
-<td><b>OllyDbg </b></td>
-<td><a href="http://www.ollydbg.de/version2.html">Website</a></td>
-<td>(Debugging): OllyDbg debugger</td>
-</tr>
-
-<tr>
-<td><img src="assets/debugging/ollysnd.png"></td>
-<td><b>OllySnD</b></td>
-<td><a href="https://tuts4you.com/download.php?view.2061">Download</a></td>
-<td>(Debugging):  Plugin for OllyDbg with additional features</td>
-</tr>
-
-<tr>
-<td><img src="assets/debugging/ollyshadow.png"></td>
-<td><b>Olly Shadow</b></td>
-<td><a href="https://tuts4you.com/download.php?view.6">Download</a></td>
-<td>(Debugging):  Plugin for OllyDbg with shadowing capabilities</td>
-</tr>
-
-<tr>
-<td><img src="assets/debugging/ollycims.png"></td>
-<td><b>Olly CiMs</b></td>
-<td><a href="https://tuts4you.com/download.php?view.1206">Website</a></td>
-<td>(Debugging):  Plugin for OllyDbg with custom import features</td>
-</tr>
-
-<tr>
-<td><img src="assets/debugging/ollyust.png"></td>
-<td><b>Olly UST_2bg</b></td>
-<td><a href="https://tuts4you.com/download.php?view.1206">Website</a></td>
-<td>(Debugging):  Plugin for OllyDbg for unique string tables</td>
-</tr>
-
-<tr>
-<td><img src="assets/debugging/x64dbg.png"></td>
-<td><b>x64dbg</b></td>
-<td><a href="http://x64dbg.com/#start">Website</a></td>
-<td>(Debugging):  Open-source x64/x32 debugger for Windows</td>
-</tr>
-
-<tr>
 <td><img src="assets/debugging/gdb.png"></td>
 <td><b>gdb</b></td>
 <td><a href="https://www.gnu.org/software/gdb/">Website</a></td>
@@ -6679,14 +6596,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/debugging/vdb.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>vdb</b></td>
 <td><a href="https://github.com/vivisect/vivisect">Github</a></td>
 <td>(Debugging):  Debugger and disassembler library</td>
 </tr>
 
 <tr>
-<td><img src="assets/debugging/lldb.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>lldb</b></td>
 <td><a href="http://lldb.llvm.org/">Website</a></td>
 <td>(Debugging):  Debugger from the LLVM project</td>
@@ -6705,9 +6622,24 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://github.com/unicorn-engine/unicorn">Github</a></td>
 <td>(Debugging): Lightweight multi-platform, multi-architecture CPU emulator</td>
 </tr>
+</tbody>
+</table>
+<br>
 
+[🔝 Back to top](#Search-Navigation)
 
-<!-- Malware Dynamic analysis Tools-->
+## Malware Analysis
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAMES</th>
+<th>LINKS</th>
+<th>DESCRIPTIONS</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><img src="assets/dynamic-analysis/processhacker.png"></td>
 <td><b>ProcessHacker</b></td>
