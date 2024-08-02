@@ -5610,98 +5610,91 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/SharpStay.jpg"></td>
 <td>SharpStay</td>
 <td><a href="https://github.com/0xthirteen/SharpStay">Github</a></td>
 <td>(windows): .NET project for installing Persistence.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/SharPersist.png"></td>
 <td>SharPersist</td>
 <td><a href="https://github.com/fireeye/SharPersist">Github</a></td>
 <td>(windows): Windows persistence toolkit written in C#.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/SharpHide.png"></td>
 <td>SharpHide</td>
 <td><a href="https://github.com/outflanknl/SharpHide">Github</a></td>
 <td>(windows): Tool to create hidden registry keys.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/DoUCMe.png"></td>
 <td>DoUCMe</td>
 <td><a href="https://github.com/Ben0xA/DoUCMe">Github</a></td>
 <td>(windows): Leverages the NetUserAdd Win32 API to create a new computer account.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/A Black Path Toward The Sun.png"></td>
 <td>A Black Path Toward The Sun</td>
 <td><a href="https://github.com/nccgroup/ABPTTS">Github</a></td>
 <td>(web): TCP tunneling over HTTP for web application servers.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/pivotnacci.png"></td>
 <td>pivotnacci</td>
 <td><a href="https://github.com/blackarrowsec/pivotnacci">Github</a></td>
 <td>(protocols): A tool to make socks connections through HTTP agents.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
-<td>reGeorg</td>
-<td><a href="https://github.com/sensepost/reGeorg">Github</a></td>
-<td>(web): The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>DAMP</td>
 <td><a href="https://github.com/HarmJ0y/DAMP">Github</a></td>
 <td>(host): The Discretionary ACL Modification Project: Persistence Through Host-based Security Descriptor Modification.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>IIS-Raid</td>
 <td><a href="https://github.com/0x09AL/IIS-Raid">Github</a></td>
 <td>(windows): A native backdoor module for Microsoft IIS (Internet Information Services).</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/SharPyShell.png"></td>
 <td>SharPyShell</td>
 <td><a href="https://github.com/antonioCoco/SharPyShell">Github</a></td>
 <td>(web): Tiny and obfuscated ASP.NET webshell for C# web applications.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/ScheduleRunner.png"></td>
 <td>ScheduleRunner</td>
 <td><a href="https://github.com/netero1010/ScheduleRunner">Github</a></td>
 <td>(windows): A C# tool with more flexibility to customize scheduled tasks for both persistence and lateral movement in red team operations.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/SharpEventPersist.png"></td>
 <td>SharpEventPersist</td>
 <td><a href="https://github.com/improsec/SharpEventPersist">Github</a></td>
 <td>(windows): Persistence by writing/reading shellcode from Event Log.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/Kraken.jpg"></td>
 <td>Kraken</td>
 <td><a href="https://github.com/kraken-ng/Kraken">Github</a></td>
 <td>(web): Kraken, a modular multi-language webshell coded by @secu_x11.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/persistence/HiddenDesktop.png"></td>
 <td>HiddenDesktop</td>
 <td><a href="https://github.com/WKL-Sec/HiddenDesktop">Github</a></td>
 <td>(windows): HVNC for Cobalt Strike.</td>
