@@ -3501,7 +3501,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://www.virustotal.com/">Website</a></td>
       <td>Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches</td>
     </tr>
-    <tr>`
+    <tr>
       <td><img src="assets/threat-intelligence/vx-underground.png"></td`>
       <td><b>vx-underground.org</b></td>
       <td><a href="https://www.vx-underground.org/">Website</a></td>
@@ -6791,7 +6791,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/reports/PlexTrac.png"></td>
 <td><b>PlexTrac</b></td>
 <td><a href="https://plextrac.com/">Website</a></td>
-<td>PlexTrac is a cybersecurity reporting and workflow management platform that supercharges security programs, making them more effective, efficient, and proactive.</td>
+<td>PlexTrac is a cybersecurity reporting and workflow management platform that supercharges security programs.</td>
 </tr>
 
 <tr>
