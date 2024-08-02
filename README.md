@@ -6847,11 +6847,10 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html">Man Page</a></td>
 <td>(Dynamic Analysis): Displays the system message buffer</td>
 </tr>
-
-
 </tbody>
 </table>
 <br>
+
 [🔝 Back to top](#Search-Navigation)
 
 ## Securing Data
