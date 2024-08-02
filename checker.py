@@ -43,7 +43,7 @@ def process_file(file_path: str) -> Tuple[int, int, List[str], int]:
                 total_urls += len(urls)
                 for url in urls:
                     if not validate_url(url):
-                        errors.append(f"{Fore.LIGHTRED_EX}Invalid URL: {url}{Style.RESET_ALL}")
+                        errors.append(f"{COLORS.LIGHTRED}Invalid URL: {url}{COLORS.RESET}")
                     if url in url_set:
                         duplicate_links.add(url)
                     url_set.add(url)
