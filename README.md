@@ -6711,67 +6711,12 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/netzob.png"></td>
-<td><b>netzob</b></td>
-<td><a href="https://www.netzob.org/">Website</a></td>
-<td>(Dynamic Analysis): Framework for protocol reverse engineering and analysis</td>
-</tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/dumpit.png"></td>
-<td><b>Dumpit</b></td>
-<td><a href="http://www.moonsols.com/products/">Website</a></td>
-<td>(Dynamic Analysis): Memory dumping tool for forensic analysis</td>
-</tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/lime.png"></td>
-<td><b>LiME</b></td>
-<td><a href="https://github.com/504ensicsLabs/LiME">Github</a></td>
-<td>(Dynamic Analysis): Linux Memory Extractor for acquiring memory dumps</td>
-</tr>
-
-<tr>
 <td><img src="assets/dynamic-analysis/cuckoo.png"></td>
 <td><b>Cuckoo</b></td>
 <td><a href="https://www.cuckoosandbox.org/">Website</a></td>
 <td>(Dynamic Analysis): Automated malware analysis system</td>
 </tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/objective-see.png"></td>
-<td><b>Objective-See Utilities</b></td>
-<td><a href="https://objective-see.com/products.html">Website</a></td>
-<td>(Dynamic Analysis): Security utilities for macOS</td>
-</tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/xcode-instruments.png"></td>
-<td><b>XCode Instruments</b></td>
-<td><a href="https://developer.apple.com/xcode/download/">Website</a></td>
-<td>(Dynamic Analysis): Tool for monitoring files and processes on macOS</td>
-</tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/dtrace.png"></td>
-<td><b>dtrace</b></td>
-<td><a href="http://dtrace.org/blogs/brendan/2011/10/10/top-10-dtrace-scripts-for-mac-os-x/">Website</a></td>
-<td>(Dynamic Analysis): Dynamic tracing framework for macOS, similar to strace</td>
-</tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/fs_usage.png"></td>
-<td><b>fs_usage</b></td>
-<td><a href="https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/fs_usage.1.html">Man Page</a></td>
-<td>(Dynamic Analysis): Reports filesystem activity in real-time</td>
-</tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/dmesg.png"></td>
-<td><b>dmesg</b></td>
-<td><a href="https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html">Man Page</a></td>
-<td>(Dynamic Analysis): Displays the system message buffer</td>
-</tr>
+ 
 </tbody>
 </table>
 <br>
