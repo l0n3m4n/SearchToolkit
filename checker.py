@@ -30,7 +30,7 @@ def validate_url(url: str) -> bool:
     return bool(parsed_url.scheme) and bool(parsed_url.netloc)
 
 def process_file(file_path: str) -> Tuple[int, int, List[str], int]:
-    """check for errors, warnings, and duplicate links."""
+    """check for errors, warnings and duplicate links"""
     errors = []
     duplicate_links = set()
     url_set = set()
@@ -64,7 +64,7 @@ def main():
  |__     ||  -__|  _  |   _|  __||     |  |   |  |  _  |  _  ||  |    < |  |   _|
  |_______||_____|___._|__| |____||__|__|  |___|  |_____|_____||__|__|__||__|____|
  
-                    {COLORS.LIGHTCYAN}Author: l0n3m4n | Version: v1.0.1                                                                                
+            {COLORS.LIGHTCYAN}Author: l0n3m4n | Version: v1.0.1 | Check Duplicates                                                                            
     {COLORS.RESET}"""
     print(banner)
 
@@ -72,7 +72,6 @@ def main():
     url_file = os.path.join(script_dir, '.', 'README.md')
     url_file = os.path.normpath(url_file)
 
-    # Check if the file exists and is readable
     if not os.path.isfile(url_file) or not os.access(url_file, os.R_OK):
         print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' not found or is not readable.{COLORS.RESET}")
         sys.exit(1)
