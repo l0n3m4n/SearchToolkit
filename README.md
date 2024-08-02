@@ -5697,7 +5697,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/persistence/HiddenDesktop.png"></td>
 <td>HiddenDesktop</td>
 <td><a href="https://github.com/WKL-Sec/HiddenDesktop">Github</a></td>
-<td>(windows): HVNC for Cobalt Strike.</td>
+<td>(windows): HVNC for Cobalt Strike BOF.</td>
 </tr>
 </tbody>
 </table>
