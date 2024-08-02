@@ -5264,12 +5264,32 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/privilege-escalation/PEASS-ng.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Checksec.sh </b></td>
 <td><a href="https://github.com/slimm609/checksec.sh">Github</a></td>
 <td>(Linux): Checksec is a bash script to check the properties of executables (like PIE, RELRO, Canaries, ASLR, Fortify Source). </td>
 </tr>
 
+<tr>
+<td><img src="assets/privilege-escalation/LinEnum.png"></td>
+<td><b>LinEnum </b></td>
+<td><a href="https://github.com/rebootuser/LinEnum">Github</a></td>
+<td>(Linux): Scripted Local Linux Enumeration & Privilege Escalation Checks </td>
+</tr>
+
+<tr>
+<td><img src="assets/privilege-escalation/LES.png"></td>
+<td><b>LES</b></td>
+<td><a href="https://github.com/The-Z-Labs/linux-exploit-suggester">Github</a></td>
+<td>(Linux): LES tool is designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine. </td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>linuxprivchecker.py </b></td>
+<td><a href="https://www.securitysift.com/download/linuxprivchecker.py">Wget</a></td>
+<td>(Linux): Linuxprivchecker executed locally on a Linux box to enumerate basic system info and search for common privilege escalation vectors</td>
+</tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/Watson.jpg"></td>
