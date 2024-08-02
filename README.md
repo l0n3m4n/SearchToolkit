@@ -6653,14 +6653,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/debugging/ollycims.png"></td>
 <td><b>Olly CiMs</b></td>
-<td><a href="https://tuts4you.com/download.php?view.1206">Download</a></td>
+<td><a href="https://tuts4you.com/download.php?view.1206">Website</a></td>
 <td>(Debugging):  Plugin for OllyDbg with custom import features</td>
 </tr>
 
 <tr>
 <td><img src="assets/debugging/ollyust.png"></td>
 <td><b>Olly UST_2bg</b></td>
-<td><a href="https://tuts4you.com/download.php?view.1206">Download</a></td>
+<td><a href="https://tuts4you.com/download.php?view.1206">Website</a></td>
 <td>(Debugging):  Plugin for OllyDbg for unique string tables</td>
 </tr>
 
@@ -6816,7 +6816,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/dynamic-analysis/xcode-instruments.png"></td>
 <td><b>XCode Instruments</b></td>
-<td><a href="https://developer.apple.com/xcode/download/">Download</a></td>
+<td><a href="https://developer.apple.com/xcode/download/">Website</a></td>
 <td>(Dynamic Analysis): Tool for monitoring files and processes on macOS</td>
 </tr>
 
