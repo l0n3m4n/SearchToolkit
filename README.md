@@ -4855,7 +4855,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/payload-staging/"></td>
+<td><img src="assets/payload-staging/NimPlant.jpg"></td>
 <td>NimPlant</td>
 <td><a href="https://github.com/chvancooten/NimPlant">Github</a></td>
 <td>A light first-stage C2 implant written in Nim and Python</td>
