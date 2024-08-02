@@ -6071,7 +6071,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td>A free online platform focused on computer security, cryptography, reverse engineering, and web exploitation.</td>
     </tr>
     <tr>
-        <td><img src="assets/ctf-platform/hacking-lab.com.jpg"></td>
+        <td><img src="assets/ctf-platform/Hacking-Lab.png"></td>
         <td><b>Hacking-Lab</b></td>
         <td><a href="https://hacking-lab.com">Online Platform</a></td>
         <td>Offering a blend of challenges and competitions mirroring real-world scenarios</td>
