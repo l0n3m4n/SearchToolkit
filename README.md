@@ -66,7 +66,7 @@
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#android"><b>Android</b></a> |
-  <a href="#ctf"><b>CTF Platform</b></a> |  
+  <a href="#ctf"><b>CTF Platform</b></a> |    
   <a href="#steganography"><b>Steganography</b></a> |
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
   <a href="#cheatsheets"><b>Cheatsheets</b></a> |   
@@ -3339,13 +3339,30 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://bugmenot.com/">Website</a></td>
       <td>Find and share logins</td>
     </tr>
-
   <tr>
         <td><img src="assets/credentials-leaks/LeakSearch.png"></td>
         <td><b>LeakSearch</b></td>
         <td><a href="https://github.com/JoelGMSec/LeakSearch">Github</a></td>
         <td>A tool search and parse plain text passwords using ProxyNova COMB (Combination Of Many Breaches) over the Internet.</td>
     </tr>
+  </tbody>
+</table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
+
+## Data Leaks
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKSS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><img src="assets/credentials-leaks/WikiLeaks.jpg"></td>
       <td><b>WikiLeaks</b></td>
@@ -3353,12 +3370,12 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td>News leaks and classified media provided by anonymous sources</td>
     </tr>
     <tr>
-      <td><img src="assets/credentials-leaks/Leak-Lookup.png"></td>
-      <td><b>Leak-Lookup</b></td>
-      <td><a href="https://leak-lookup.com/">Website</a></td>
-      <td>Search across thousands of data breaches</td>
+      <td><img src="assets/credentials-leaks/BreachForums.jpg"></td>
+      <td><b>BreachForums</b></td>
+      <td><a href="https://breached.to/">Onion Website</a></td>
+      <td>Breaches, Data leaks, databases, and more</td>
     </tr>
-    <tr>
+     <tr>
       <td><img src="assets/credentials-leaks/Snusbase.jpg"></td>
       <td><b>Snusbase</b></td>
       <td><a href="https://snusbase.com/">Website</a></td>
@@ -3371,10 +3388,10 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td>Check if your information was exposed in a data breach</td>
     </tr>
     <tr>
-      <td><img src="assets/credentials-leaks/BreachForums.jpg"></td>
-      <td><b>BreachForums</b></td>
-      <td><a href="https://breached.to/">Onion Website</a></td>
-      <td>Breaches, Data leaks, databases, and more</td>
+      <td><img src="assets/credentials-leaks/Leak-Lookup.png"></td>
+      <td><b>Leak-Lookup</b></td>
+      <td><a href="https://leak-lookup.com/">Website</a></td>
+      <td>Search across thousands of data breaches</td>
     </tr>
   </tbody>
 </table>
