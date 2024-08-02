@@ -51,6 +51,7 @@
 
 <h2 align="center">Search Navigation</h2>
 <p>
+  <a href="#cheatsheets"><b>Cheatsheets</b></a> |   
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
   <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> | 
   <a href="#code-search"><b>Code Search</b></a> | 
@@ -69,8 +70,6 @@
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf"><b>CTF Platform</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
-  <a href="#cheatsheets"><b>Cheatsheets</b></a> |   
-
 
   <h3 align="center">Attack Cycle</h3>
 
