@@ -144,6 +144,20 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/Active Directory cheatsheets.png"></td>
+<td><b>Activate Directory Cheatsheets</b></td>
+<td><a href="https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet">Github</a></td>
+<td>A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. </td>
+</tr>
+
+<tr>
+<td><img src="assets/cheatsheets/cloudpentest.png"></td>
+<td><b>CloudPentest: Resources & cheatsheets</b></td>
+<td><a href="https://github.com/4ndersonLin/awesome-cloud-security">Github</a></td>
+<td>🛡️ Awesome Cloud Security Resources ⚔️</td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/RedTeam Guide.png"></td>
 <td><b>RedTeam Guide</b></td>
 <td><a href="https://github.com/RistBS/Awesome-RedTeam-Cheatsheet">Github</a></td>
