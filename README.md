@@ -64,6 +64,7 @@
   <a href="#certificates"><b>Certificates</b></a> |
   <a href="#wifi-networks"><b>WiFi</b></a> |
   <a href="#credential-leaks"><b>Credential Leaks</b></a> |
+  <a href="#data-leaks"><b>Data Leaks</b></a> |
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf"><b>CTF Platform</b></a> |    
