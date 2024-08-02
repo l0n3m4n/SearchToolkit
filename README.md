@@ -4418,27 +4418,27 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="image_url_for_Katana"></td>
+<td><img src="assets/darkweb-search-engine/Katana.jpg"></td>
 <td><b>Katana</b></td>
 <td><a href="https://github.com/adnane-X-tebbaa/Katana">GitHub</a></td>
 <td>Katana is a powerful Dark Web search engine tool designed to help you discover hidden websites and information within the Tor network.</td>
 </tr>
 <tr>
-<td><img src="image_url_for_OnionSearch"></td>
+<td><img src="assets/darkweb-search-engine/OnionSearch.png"></td>
 <td><b>OnionSearch</b></td>
 <td><a href="https://github.com/megadose/OnionSearch">GitHub</a></td>
 <td>OnionSearch is a tool for searching and indexing onion websites on the Dark Web, making it easier to find specific content.</td>
 </tr>
 
 <tr>
-<td><img src="image_url_for_Darkdump"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Darkdump</b></td>
 <td><a href="https://github.com/josh0xA/darkdump">GitHub</a></td>
 <td>Darkdump is an open source intelligence tool that scrapes information about Tor websites, including website titles, IPs, and more, helping you gather data from the Dark Web.</td>
 </tr>
 
 <tr>
-<td><img src="image_url_for_Ahmia_Search_Engine"></td>
+<td><img src="assets/darkweb-search-engine/Ahmia.fi .jpg"></td>
 <td><b>Ahmia Search Engine</b></td>
 <td><a href="http://ahmia.fi/">Website</a>, <a href="https://github.com/ahmia/ahmia-site">GitHub</a></td>
 <td>Ahmia is a privacy-focused search engine for the Tor network. It helps users find onion websites while respecting their anonymity.</td>
