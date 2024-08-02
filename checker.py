@@ -72,6 +72,7 @@ def main():
     url_file = os.path.join(script_dir, '.', 'README.md')
     url_file = os.path.normpath(url_file)
 
+
     if not os.path.isfile(url_file) or not os.access(url_file, os.R_OK):
         print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' not found or is not readable.{COLORS.RESET}")
         sys.exit(1)
@@ -95,25 +96,25 @@ def main():
                             print(f"{COLORS.LIGHTYELLOW}⚠️ {COLORS.RESET} {url}")
 
         if not found_any:
-            print(f"\n{COLORS.LIGHTCYAN}✅ No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}.{COLORS.RESET}")
+            print(f"\n{COLORS.LIGHTCYAN} No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}.{COLORS.RESET}")
 
     # Process the file and get results
-    duplicates_count, duplicate_links, total_urls = process_file(url_file)
+    errors_count, duplicates_count, duplicate_links, total_urls = process_file(url_file)
 
-    # # Print results
-    # if errors_count:
-    #     print(f"{COLORS.LIGHTRED} {errors_count}:{COLORS.RESET}")
-    #     for error in errors_count:
-    #         print(f"❌  {error}")
-    # else:
-    #     print(f"\n{COLORS.LIGHTGREEN}✅ No errors found.{COLORS.RESET}")
+    # Print results
+    if errors_count:
+        print(f"{COLORS.LIGHTRED} {errors_count}:{COLORS.RESET}")
+        for error in errors_count:
+            print(f"❌ {error}")
+    else:
+        print(f"\n{COLORS.LIGHTGREEN} No errors found.{COLORS.RESET}")
 
     if duplicates_count:
         print(f"\n{COLORS.LIGHTRED}Duplicate Links{COLORS.RESET}: {COLORS.LIGHTGREEN}{duplicates_count}{COLORS.RESET}\n")
         for link in duplicate_links:
             print(f"- {link}")
     else:
-        print(f"{COLORS.LIGHTGREEN}✅ No duplicate links found.{COLORS.RESET}")
+        print(f"{COLORS.LIGHTGREEN} No duplicate links found.{COLORS.RESET}")
 
     print(f"\n{COLORS.LIGHTBLUE}Total URLs Processed{COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
 
