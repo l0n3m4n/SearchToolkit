@@ -6168,22 +6168,23 @@ It's currently focused on OSINT, but any use related with Google is possible.
     </tr>
   </thead>
   <tbody>
-<tr>
-<td><img src="assets/lateral_movement/logo-ng.png"></td>
-<td><b>Ligolo-ng </b></td>
-<td><a href="https://github.com/nicocha30/ligolo-ng.git">Github</a></td>
-<td>An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface. </td>
-</tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/tunnelling-pivoting/Chisel.png"></td>
 <td>Chisel</td>
 <td><a href="https://github.com/jpillora/chisel">Github</a></td>
 <td>Fast TCP/UDP tunnel transported over HTTP, secured via SSH. Single executable includes both client and server.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/tunnelling-pivoting/Ligolo-ng .jpg"></td>
+<td><b>Ligolo-ng </b></td>
+<td><a href="https://github.com/nicocha30/ligolo-ng.git">Github</a></td>
+<td>An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface. </td>
+</tr>
+
+<tr>
+<td><img src="assets/tunnelling-pivoting/frp.jpg"></td>
 <td>frp</td>
 <td><a href="https://github.com/fatedier/frp">Github</a></td>
 <td>Fast reverse proxy for exposing a local server behind a NAT or firewall to the Internet.</td>
