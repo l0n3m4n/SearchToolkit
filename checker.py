@@ -48,7 +48,7 @@ def process_file(file_path: str) -> Tuple[int, int, List[str], int]:
                         duplicate_links.add(url)
                     url_set.add(url)
     except FileNotFoundError:
-        print(f"{COLORS.LIGHTRED}Error: {COLORS.LIGHTGREEN}File '{file_path}' not found.{COLORS.RESET}")
+        print(f"{COLORS.LIGHTRED}Error: {COLORS.LIGHTGREEN}File '{file_path}' not found{COLORS.RESET}")
         sys.exit(1)
     except IOError as e:
         print(f"{COLORS.LIGHTRED}Error: {COLORS.LIGHTGREEN}Unable to read file '{file_path}': {e}{COLORS.RESET}")
@@ -74,11 +74,11 @@ def main():
 
 
     if not os.path.isfile(url_file) or not os.access(url_file, os.R_OK):
-        print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' not found or is not readable.{COLORS.RESET}")
+        print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' not found or is not readable{COLORS.RESET}")
         sys.exit(1)
 
     if os.path.getsize(url_file) == 0:
-        print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' is empty.{COLORS.RESET}")
+        print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' is empty{COLORS.RESET}")
         sys.exit(1)
     
     search_term = input(f"{COLORS.LIGHTGREEN}Search specific tool:{COLORS.RESET} ").strip()
@@ -107,14 +107,14 @@ def main():
         for error in errors_count:
             print(f"❌ {error}")
     else:
-        print(f"\n{COLORS.LIGHTGREEN}No errors found.{COLORS.RESET}")
+        print(f"\n{COLORS.LIGHTGREEN}No errors found{COLORS.RESET}")
 
     if duplicates_count:
         print(f"\n{COLORS.LIGHTRED}Duplicate Links{COLORS.RESET}: {COLORS.LIGHTGREEN}{duplicates_count}{COLORS.RESET}\n")
         for link in duplicate_links:
             print(f"- {link}")
     else:
-        print(f"{COLORS.LIGHTGREEN}No duplicate links found.{COLORS.RESET}")
+        print(f"{COLORS.LIGHTGREEN}No duplicate links found{COLORS.RESET}")
 
     print(f"\n{COLORS.LIGHTBLUE}Total URLs {COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
 
