@@ -4468,39 +4468,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
   </tbody>
 </table>
 <br>
-
-[⬆️ Back to OSINT](#OSINT)
-
-## Adversaries Monitoring
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAMES</th>
-<th>LINKS</th>
-<th>DESCRIPTIONS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="image_url_for_TorBot"></td>
-<td><b>RansomLook</b></td>
-<td><a href="https://ransomlook.io">Website</a></td>
-<td>RansomLook is an open-source project aimed at assisting users in tracking ransomware-group related posts and activities across various sites, forums, and Telegram channels.</td>
-</tr>
-
-<tr>
-<td><img src="image_url_for_TorBot"></td>
-<td><b>Ransomwhere</b></td>
-<td><a href="https://ransomwhe.re">Website</a></td>
-<td>Ransomwhere Monitoring Cryptocurrencies, a crowdsourced ransomware payment tracker. Browse and download ransomware payment data or help build our dataset by reporting ransomware demands you have received.</td>
-</tr>
-
-</tbody>
-</table>
-<br>
-
+ 
 [🔝 Back to top](#Search-Navigation)
 
 ## Social Engineering 
