@@ -4596,7 +4596,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/social-engineering/Gophish.png">
 <td>Gophish</td>
 <td><a href="https://getgophish.com/">Website</a></td>
-<td>Open-Source Phishing Framework (Best Phishing Website)</td>
+<td>Open-Source Phishing Framework (Phishing Website)</td>
 </tr>
 
 <tr>
@@ -6210,7 +6210,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
   <tbody>
 <tr>
 <td><img src="assets/covering-tracks/Privacy.sexy.jpg"></td>
-<td><b>Privacy.sexy (Best)</b></td>
+<td><b>Privacy.sexy</b></td>
 <td><a href="https://privacy.sexy">Website</a>
 <a href="https://github.com/undergroundwires/privacy.sexy">Github</td>
 <td>(Windows, Linux, macOS): An online/offline and open-source tool that can clean up logs and personal activities.</td>
@@ -6561,7 +6561,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <tr>
 <td><img src="assets/securing-data/OpenSSL.png"></td>
-<td><b>OpenSSL (best)</b></td>
+<td><b>OpenSSL</b></td>
 <td>Cross Platform</td>
 <td><a href="https://www.openssl.org">Website</a></td>
 <td>Toolkit for SSL/TLS protocols, can also be used for data encryption.</td>
