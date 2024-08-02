@@ -6456,6 +6456,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
+<td><img src="assets/reverse-engineering/IDA Pro.jpg"></td>
+<td><b>IDA Pro</b></td>
+<td><a href="https://www.hex-rays.com/products/ida/index.shtml">Website</a></td>
+<td>(Disassemblers): Interactive DisAssembler with a powerful analysis engine</td>
+</tr>
+
+<tr>
 <td><img src="assets/dfir/pwndbg.png"></td>
 <td><b>pwndbg</b></td>
 <td><a href="https://github.com/pwndbg/pwndbg">Github</a></td>
@@ -6467,6 +6474,20 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><b>x64dbg</b></td>
 <td><a href="http://x64dbg.com/#start">Website</a></td>
 <td>(Debugging):  Open-source x64/x32 debugger for Windows</td>
+</tr>
+
+<tr>
+<td><img src="assets/reverse-engineering/objdump.jpg"></td>
+<td><b>objdump</b></td>
+<td><a href="http://linux.die.net/man/1/objdump">Website</a></td>
+<td>(Disassemblers): Utility to display information from object files</td>
+</tr>
+
+<tr>
+<td><img src="assets/reverse-engineering/gdb.jpg"></td>
+<td><b>gdb</b></td>
+<td><a href="https://www.gnu.org/software/gdb/">Website</a></td>
+<td>(Debugging):  GNU Debugger for various programming languages</td>
 </tr>
 
 <tr>
@@ -6505,13 +6526,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/reverse-engineering/IDA Pro.jpg"></td>
-<td><b>IDA Pro</b></td>
-<td><a href="https://www.hex-rays.com/products/ida/index.shtml">Website</a></td>
-<td>(Disassemblers): Interactive DisAssembler with a powerful analysis engine</td>
-</tr>
-
-<tr>
 <td><img src="assets/reverse-engineering/Binary Ninja.png"></td>
 <td><b>Binary Ninja</b></td>
 <td><a href="https://binary.ninja/">Website</a></td>
@@ -6547,13 +6561,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/reverse-engineering/objdump.jpg"></td>
-<td><b>objdump</b></td>
-<td><a href="http://linux.die.net/man/1/objdump">Website</a></td>
-<td>(Disassemblers): Utility to display information from object files</td>
-</tr>
-
-<tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>Retdec</b></td>
 <td><a href="https://retdec.com/">Website</a></td>
@@ -6586,13 +6593,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><b>WinDbg</b></td>
 <td><a href="https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx">Website</a></td>
 <td>(Debugging): Powerful debugger for Windows from Microsoft</td>
-</tr>
-
-<tr>
-<td><img src="assets/reverse-engineering/gdb.jpg"></td>
-<td><b>gdb</b></td>
-<td><a href="https://www.gnu.org/software/gdb/">Website</a></td>
-<td>(Debugging):  GNU Debugger for various programming languages</td>
 </tr>
 
 <tr>
