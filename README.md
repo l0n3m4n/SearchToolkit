@@ -5424,189 +5424,168 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/RefleXXion.png"></td>
 <td>RefleXXion</td>
 <td><a href="https://github.com/hlldz/RefleXXion">Github</a></td>
 <td>RefleXXion is a utility designed to aid in bypassing user-mode hooks utilized by AV/EPP/EDR etc.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/EDRSandBlast.png"></td>
 <td>EDRSandBlast</td>
 <td><a href="https://github.com/wavestone-cdt/EDRSandblast">Github</a></td>
 <td>EDRSandBlast is a tool written in C that weaponizes a vulnerable signed driver to bypass EDR detections (Kernel callbacks and ETW TI provider) and LSASS protections.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/unDefender.png"></td>
 <td>unDefender</td>
 <td><a href="https://github.com/APTortellini/unDefender">Github</a></td>
 <td>Killing your preferred antimalware by abusing native symbolic links and NT paths.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/Backstab.png"></td>
 <td>Backstab</td>
 <td><a href="https://github.com/Yaxser/Backstab">Github</a></td>
 <td>A tool to kill antimalware protected processes.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>SPAWN - Cobalt Strike BOF</td>
 <td><a href="https://github.com/boku7/spawn">Github</a></td>
 <td>Cobalt Strike BOF that spawns a sacrificial process, injects it with shellcode, and executes payload. Built to evade EDR/UserLand hooks by spawning sacrificial process with Arbitrary Code Guard (ACG), BlockDll, and PPID spoofing.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
-<td>BOF.NET - A .NET Runtime for Cobalt Strike's Beacon Object Files</td>
+<td><img src="assets/evasion/NetCobaltStrike BOF.png"></td>
+<td>.NET CobaltStrike BOF</td>
 <td><a href="https://github.com/CCob/BOF.NET">Github</a></td>
 <td>BOF.NET is a small native BOF object combined with the BOF.NET managed runtime that enables the development of Cobalt Strike BOFs directly in .NET. BOF.NET removes the complexity of native compilation along with the headaches of manually importing native API.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>NetLoader</td>
 <td><a href="https://github.com/Flangvik/NetLoader">Github</a></td>
 <td>Loads any C# binary from filepath or URL, patching AMSI and bypassing Windows Defender on runtime.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/FindObjects-BOF.png"></td>
 <td>FindObjects-BOF</td>
 <td><a href="https://github.com/outflanknl/FindObjects-BOF">Github</a></td>
 <td>A Cobalt Strike Beacon Object File (BOF) project which uses direct system calls to enumerate processes for specific modules or process handles.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/SharpUnhooker.jpg"></td>
 <td>SharpUnhooker</td>
 <td><a href="https://github.com/GetRektBoy724/SharpUnhooker">Github</a></td>
 <td>C# Based Universal API Unhooker - Automatically Unhook API Hives (ntdll.dll, kernel32.dll, user32.dll, advapi32.dll, and kernelbase.dll).</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/EvtMute.png"></td>
 <td>EvtMute</td>
 <td><a href="https://github.com/bats3c/EvtMute">Github</a></td>
 <td>Apply a filter to the events being reported by Windows event logging.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/InlineExecute-Assembly.png"></td>
 <td>InlineExecute-Assembly</td>
 <td><a href="https://github.com/xforcered/InlineExecute-Assembly">Github</a></td>
 <td>InlineExecute-Assembly is a proof of concept Beacon Object File (BOF) that allows security professionals to perform in-process .NET assembly execution as an alternative to Cobalt Strike's traditional fork and run execute-assembly module.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/Phant0m.png"></td>
 <td>Phant0m</td>
 <td><a href="https://github.com/hlldz/Phant0m">Github</a></td>
 <td>Windows Event Log Killer.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/SharpBlock.png"></td>
 <td>SharpBlock</td>
 <td><a href="https://github.com/CCob/SharpBlock">Github</a></td>
 <td>A method of bypassing EDR's active protection DLLs by preventing entry point execution.</td>
 </tr>
-
+ 
 <tr>
-<td><img src="assets/"></td>
-<td>NtdllUnpatcher</td>
-<td><a href="https://github.com/Kharos102/NtdllUnpatcher">Github</a></td>
-<td>Example code for EDR bypassing, please use this for testing blue team detection capabilities against this type of malware that will bypass EDR's userland hooks.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/DarkLoadLibrary.png"></td>
 <td>DarkLoadLibrary</td>
 <td><a href="https://github.com/bats3c/DarkLoadLibrary">Github</a></td>
 <td>LoadLibrary for offensive operations.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
-<td>BlockETW</td>
-<td><a href="https://github.com/Soledge/BlockEtw">Github</a></td>
-<td>.NET 3.5 / 4.5 Assembly to block ETW telemetry in a process.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>firewalker</td>
-<td><a href="https://github.com/mdsecactivebreach/firewalker">Github</a></td>
-<td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing code.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/KillDefenderBOF.png"></td>
 <td>KillDefenderBOF</td>
 <td><a href="https://github.com/Cerbersec/KillDefenderBOF">Github</a></td>
 <td>Beacon Object File PoC implementation of KillDefender.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/Mangle.png"></td>
 <td>Mangle</td>
 <td><a href="https://github.com/optiv/Mangle">Github</a></td>
 <td>Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/AceLdr.jpg"></td>
 <td>AceLdr</td>
 <td><a href="https://github.com/kyleavery/AceLdr">Github</a></td>
 <td>Cobalt Strike UDRL for memory scanner evasion.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/AtomLdr.png"></td>
 <td>AtomLdr</td>
 <td><a href="https://github.com/NUL0x4C/AtomLdr">Github</a></td>
 <td>CA DLL loader with advanced evasive features.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>Inline-Execute-PE</td>
 <td><a href="https://github.com/Octoberfest7/Inline-Execute-PE">Github</a></td>
 <td>Execute unmanaged Windows executables in CobaltStrike Beacons.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/SigFlip.jpg"></td>
 <td>SigFlip</td>
 <td><a href="https://github.com/med0x2e/SigFlip">Github</a></td>
 <td>SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/Blackout.png"></td>
 <td>Blackout</td>
 <td><a href="https://github.com/ZeroMemoryEx/Blackout">Github</a></td>
 <td>Kill anti-malware protected processes (BYOVD).</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/ShellGhost.png"></td>
 <td>ShellGhost</td>
 <td><a href="https://github.com/lem0nSec/ShellGhost">Github</a></td>
 <td>A memory-based evasion technique which makes shellcode invisible from process start to end.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/PoolPartyBof.jpg"></td>
 <td>PoolPartyBof</td>
 <td><a href="https://github.com/0xEr3bus/PoolPartyBof">Github</a></td>
 <td>A beacon object file implementation of PoolParty Process Injection Technique by @SafeBreach and @0xDeku, that abuses Windows Thread Pools.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/evasion/EDRSilencer.png"></td>
 <td>EDRSilencer</td>
 <td><a href="https://github.com/netero1010/EDRSilencer">Github</a></td>
 <td>A tool that uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.</td>
