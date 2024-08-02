@@ -4165,7 +4165,7 @@ made to help you during your investigations</td>
 <td><img src="assets/hidden-services/deepweblinks.net.jpg"></td>
 <td><b>deepweblinks.net</b></td>
 <td><a href="https://deepweblinks.net/">Website</a></td>
-<td>Onion Links</td>
+<td>(Onion Links): Darkweb links and services</td>
 </tr>
 
 <tr>
