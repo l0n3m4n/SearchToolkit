@@ -3691,8 +3691,19 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><img src="assets/threat-intelligence/C2-Trackers.png"></td>
       <td><b>C2-Trackers</b></td>
       <td><a href="https://github.com/montysecurity/C2-Tracker">Github</a></td>
-      <td>Free to use IOC feed for various tools/malware. It started out for just C2 tools but has morphed into tracking infostealers and botnets as well. It uses Shodan searches to collect the IPs. The most recent collection is always stored in data; the IPs are broken down by tool and there is an all.txt.</td>
+      <td>Free to use IOC feed for various tools/malware. It started out for just C2 tools but has morphed into tracking infostealers and botnets as well.</td>
     </tr>
+    <td><img src="image_url_for_TorBot"></td>
+      <td><b>RansomLook</b></td>
+      <td><a href="https://ransomlook.io">Website</a></td>
+      <td>(Adversaries Monitoring): RansomLook is an open-source project aimed at assisting users in tracking ransomware-group related posts and activities across various sites</td>
+    </tr>
+  <tr>
+    <td><img src="image_url_for_TorBot"></td>
+    <td><b>Ransomwhere</b></td>
+    <td><a href="https://ransomwhe.re">Website</a></td>
+    <td>(Adversaries Monitoring): Ransomwhere Monitoring Cryptocurrencies, a crowdsourced ransomware payment tracker.</td>
+  </tr>
   </tbody>
 </table>
 <br>
@@ -4138,21 +4149,21 @@ made to help you during your investigations</td>
 <td><img src="assets/hidden-services/AHMIA.jpg"></td>
 <td><b>AHMIA</b></td>
 <td><a href="https://ahmia.fi/">Website</a></td>
-<td>Search hidden services on the Tor network</td>
+<td>(Search Engine): Search hidden services on the Tor network</td>
 </tr>
 
 <tr>
 <td><img src="assets/hidden-services/thehiddenwiki.png"></td>
 <td><b>thehiddenwiki.org</b></td>
 <td><a href="https://thehiddenwiki.org/">Website</a></td>
-<td>The darknet guide</td>
+<td>(Onion Links): The darknet guide</td>
 </tr>
 
 <tr>
 <td><img src="assets/hidden-services/tor.link.png"></td>
 <td><b>tor.link</b></td>
 <td><a href="https://tor.link/">Website</a></td>
-<td>Free anonymous deepweb / Darknet search engine</td>
+<td>(Search Engine): Free anonymous deepweb / Darknet search engine</td>
 </tr>
 
 <tr>
@@ -4166,35 +4177,67 @@ made to help you during your investigations</td>
 <td><img src="assets/hidden-services/onionengine.com.png"></td>
 <td><b>onionengine.com</b></td>
 <td><a href="https://onionengine.com/">Website</a></td>
-<td>A search engine for services accessible on the Tor network</td>
+<td>(Search Engine): A search engine for services accessible on the Tor network</td>
 </tr>
 
 <tr>
 <td><img src="assets/hidden-services/OnionLand.png"></td>
 <td><b>OnionLand</b></td>
 <td><a href="https://onionlandsearchengine.com/">Website</a></td>
-<td>Discover Hidden Services and access to Tor's onion sites</td>
+<td>(Onion Links): Discover Hidden Services and access to Tor's onion sites</td>
 </tr>
 
 <tr>
 <td><img src="assets/darkweb-search-engine/Katana.jpg"></td>
 <td><b>Katana</b></td>
 <td><a href="https://github.com/adnane-X-tebbaa/Katana">GitHub</a></td>
-<td>Katana is a powerful Dark Web search engine tool designed to help you discover hidden websites and information within the Tor network.</td>
+<td>(Search Engine): Katana is a powerful Dark Web search engine tool designed to help you discover hidden websites and information within the Tor network.</td>
 </tr>
 
 <tr>
 <td><img src="assets/darkweb-search-engine/OnionSearch.png"></td>
 <td><b>OnionSearch</b></td>
 <td><a href="https://github.com/megadose/OnionSearch">GitHub</a></td>
-<td>OnionSearch is a tool for searching and indexing onion websites on the Dark Web, making it easier to find specific content.</td>
+<td>(Onion Indexing): OnionSearch is a tool for searching and indexing onion websites on the Dark Web, making it easier to find specific content.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>Darkdump</b></td>
 <td><a href="https://github.com/josh0xA/darkdump">GitHub</a></td>
-<td>Darkdump is an open source intelligence tool that scrapes information about Tor websites, including website titles, IPs, and more, helping you gather data from the Dark Web.</td>
+<td>(Onion Crawler): Darkdump is an open source intelligence tool that scrapes information about Tor websites, including website titles, IPs, and more, helping you gather data from the Dark Web.</td>
+</tr>
+
+<tr>
+<td><img src="image_url_for_Onionscan"></td>
+<td><b>Onionscan</b></td>
+<td><a href="https://github.com/s-rah/onionscan">GitHub</a></td>
+<td>(Onion Links): Onionscan is a powerful tool for scanning onion websites, helping you identify potential vulnerabilities and security issues.</td>
+</tr>
+<tr>
+<td><img src="image_url_for_Onioff"></td>
+<td><b>Onioff</b></td>
+<td><a href="https://github.com/k4m4/onioff">GitHub</a></td>
+<td>(Onion Links): Onioff is an OSINT tool designed to analyze and extract information from onion websites, providing insights into their characteristics and content.</td>
+</tr>
+<tr>
+<td><img src="image_url_for_Onion-nmap"></td>
+<td><b>Onion-nmap</b></td>
+<td><a href="https://github.com/milesrichardson/docker-onion-nmap">GitHub</a></td>
+<td>(Onion Links): Onion-nmap is a Docker container for running Nmap scans on onion websites, helping you gather information about open ports and services.</td>
+</tr>
+<tr>
+<td><img src="image_url_for_Hunchly"></td>
+<td><b>Hunchly</b></td>
+<td><a href="https://www.hunch.ly/darkweb-osint/">Website</a></td>
+<td>(Onion Links): Hunchly is a comprehensive OSINT platform that includes features for collecting and tracking onion links and Dark Web content.</td>
+</tr>
+
+<tr>
+<td><img src="image_url_for_TorBot"></td>
+<td><b>TorBot</b></td>
+<td><a href="https://github.com/DedSecInside/TorBot">GitHub</a></td>
+<td>(Onion Crawling): TorBot is an OSINT tool designed for crawling and collecting data from the Dark Web.</td>
 </tr>
 
 </tbody>
@@ -4423,72 +4466,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>Cameras and guards watching you almost everywhere</td>
     </tr>
   </tbody>
-</table>
-<br>
-
-[⬆️ Back to OSINT](#OSINT)
-
-## Onion Links
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAMES</th>
-<th>LINKS</th>
-<th>DESCRIPTIONS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="image_url_for_Onionscan"></td>
-<td><b>Onionscan</b></td>
-<td><a href="https://github.com/s-rah/onionscan">GitHub</a></td>
-<td>Onionscan is a powerful tool for scanning onion websites, helping you identify potential vulnerabilities and security issues.</td>
-</tr>
-<tr>
-<td><img src="image_url_for_Onioff"></td>
-<td><b>Onioff</b></td>
-<td><a href="https://github.com/k4m4/onioff">GitHub</a></td>
-<td>Onioff is an OSINT tool designed to analyze and extract information from onion websites, providing insights into their characteristics and content.</td>
-</tr>
-<tr>
-<td><img src="image_url_for_Onion-nmap"></td>
-<td><b>Onion-nmap</b></td>
-<td><a href="https://github.com/milesrichardson/docker-onion-nmap">GitHub</a></td>
-<td>Onion-nmap is a Docker container for running Nmap scans on onion websites, helping you gather information about open ports and services.</td>
-</tr>
-<tr>
-<td><img src="image_url_for_Hunchly"></td>
-<td><b>Hunchly</b></td>
-<td><a href="https://www.hunch.ly/darkweb-osint/">Website</a></td>
-<td>Hunchly is a comprehensive OSINT platform that includes features for collecting and tracking onion links and Dark Web content.</td>
-</tr>
-</tbody>
-</table>
-<br>
-
-[⬆️ Back to OSINT](#OSINT)
-
-## Darkweb Data Crawling
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAMES</th>
-<th>LINKS</th>
-<th>DESCRIPTIONS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="image_url_for_TorBot"></td>
-<td><b>TorBot</b></td>
-<td><a href="https://github.com/DedSecInside/TorBot">GitHub</a></td>
-<td>TorBot is an OSINT tool designed for crawling and collecting data from the Dark Web.</td>
-</tr>
-</tbody>
 </table>
 <br>
 
