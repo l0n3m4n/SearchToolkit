@@ -6208,33 +6208,27 @@ It's currently focused on OSINT, but any use related with Google is possible.
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/privacy-sexy.jpg"></td>
+<td><img src="assets/covering-tracks/Privacy.sexy.jpg"></td>
 <td><b>Privacy.sexy (Best)</b></td>
 <td><a href="https://privacy.sexy">Website</a></td>
-<td>Online/offline and open-source tool that can clean up logs and personal activities. (Windows, Linux, macOS)</td>
+<td>Note: some country blocked this website, an online/offline and open-source tool that can clean up logs and personal activities. (Windows, Linux, macOS)</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>moonwalk</b></td>
 <td><a href="https://github.com/mufeedvh/moonwalk">Github</a></td>
-<td>Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. </td>
+<td>(Linux): Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. </td>
 </tr>
 
 <tr>
-<td><img src="assets/auditpol.jpg"></td>
+<td><img src="assets/covering-tracks/auditpol.png"></td>
 <td><b>Auditpol</b></td>
 <td><a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/auditpol">Website</a></td>
-<td>Microsoft tool to manipulate audit policies.</td>
+<td>(Windows): Microsoft tool to manipulate audit policies.</td>
 </tr>
 
-<tr>
-<td><img src="assets/mru-blaster.jpg"></td>
-<td><b>MRU-blaster</b></td>
-<td><a href="https://www.brightfort.com/mrublaster.html">Website</a></td>
-<td>Find and remove 30,000 MRU lists.</td>
-</tr>
-
+</tbody>
 </table>
 <br>
 
