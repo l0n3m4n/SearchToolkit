@@ -5455,14 +5455,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/default_logo.png"></td>
 <td>SPAWN - Cobalt Strike BOF</td>
 <td><a href="https://github.com/boku7/spawn">Github</a></td>
-<td>Cobalt Strike BOF that spawns a sacrificial process, injects it with shellcode, and executes payload. Built to evade EDR/UserLand hooks by spawning sacrificial process with Arbitrary Code Guard (ACG), BlockDll, and PPID spoofing.</td>
+<td>Cobalt Strike BOF that spawns a sacrificial process, injects it with shellcode, and executes payload.</td>
 </tr>
 
 <tr>
 <td><img src="assets/evasion/SharpBlock.png"></td>
 <td>.NET CobaltStrike BOF</td>
 <td><a href="https://github.com/CCob/BOF.NET">Github</a></td>
-<td>BOF.NET is a small native BOF object combined with the BOF.NET managed runtime that enables the development of Cobalt Strike BOFs directly in .NET. BOF.NET removes the complexity of native compilation along with the headaches of manually importing native API.</td>
+<td>BOF.NET is a small native BOF object combined with the BOF.NET managed runtime that enables the development of Cobalt Strike BOFs.</td>
 </tr>
 
 <tr>
@@ -5497,7 +5497,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/evasion/InlineExecute-Assembly.png"></td>
 <td>InlineExecute-Assembly</td>
 <td><a href="https://github.com/xforcered/InlineExecute-Assembly">Github</a></td>
-<td>InlineExecute-Assembly is a proof of concept Beacon Object File (BOF) that allows security professionals to perform in-process .NET assembly execution as an alternative to Cobalt Strike's traditional fork and run execute-assembly module.</td>
+<td>InlineExecute-Assembly is a proof of concept Beacon Object File (BOF)</td>
 </tr>
 
 <tr>
