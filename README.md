@@ -5718,66 +5718,66 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/impacket.png"></td>
+<td>impacket</td>
+<td><a href="https://github.com/SecureAuthCorp/impacket">Github</a></td>
+<td>A collection of Python classes for working with network protocols, focusing on low-level access to SMB1-3 and MSRPC.</td>
+</tr>
+
+<tr>
+<td><img src="assets/lateral-movement/Liquid Snake.png"></td>
 <td>Liquid Snake</td>
 <td><a href="https://github.com/RiccardoAncarani/LiquidSnake">Github</a></td>
 <td>Fileless lateral movement tool using WMI Event Subscriptions and GadgetToJScript.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/PowerUpSQL.jpg"></td>
 <td>PowerUpSQL</td>
 <td><a href="https://github.com/NetSPI/PowerUpSQL">Github</a></td>
 <td>A PowerShell Toolkit for Attacking SQL Server.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/SQLRecon.png"></td>
 <td>SQLRecon</td>
 <td><a href="https://github.com/skahwah/SQLRecon">Github</a></td>
 <td>A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>SCShell</td>
 <td><a href="https://github.com/Mr-Un1k0d3r/SCShell">Github</a></td>
 <td>Fileless lateral movement tool using ChangeServiceConfigA to run commands.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/SharpRDP.jpg"></td>
 <td>SharpRDP</td>
 <td><a href="https://github.com/0xthirteen/SharpRDP">Github</a></td>
 <td>Remote Desktop Protocol Console Application for Authenticated Command Execution.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/MoveKit.jpg"></td>
 <td>MoveKit</td>
 <td><a href="https://github.com/0xthirteen/MoveKit">Github</a></td>
 <td>An extension of built-in Cobalt Strike lateral movement leveraging SharpMove and SharpRDP .NET assemblies.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/SharpNoPSExec.png"></td>
 <td>SharpNoPSExec</td>
 <td><a href="https://github.com/juliourena/SharpNoPSExec">Github</a></td>
 <td>Fileless command execution tool for lateral movement.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>Responder/MultiRelay</td>
 <td><a href="https://github.com/lgandx/Responder">Github</a></td>
 <td>LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay.</td>
-</tr>
-
-<tr>
-<td><img src="assets/"></td>
-<td>impacket</td>
-<td><a href="https://github.com/SecureAuthCorp/impacket">Github</a></td>
-<td>A collection of Python classes for working with network protocols, focusing on low-level access to SMB1-3 and MSRPC.</td>
 </tr>
 
 <tr>
@@ -5788,84 +5788,84 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/CIMplant.png"></td>
 <td>CIMplant</td>
 <td><a href="https://github.com/FortyNorthSecurity/CIMplant">Github</a></td>
 <td>C# port of WMImplant using CIM or WMI to query remote systems.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>PowerLessShell</td>
 <td><a href="https://github.com/Mr-Un1k0d3r/PowerLessShell">Github</a></td>
 <td>Relies on MSBuild.exe to remotely execute PowerShell scripts without spawning powershell.exe.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/SharpGPOAbuse.png"></td>
 <td>SharpGPOAbuse</td>
 <td><a href="https://github.com/FSecureLABS/SharpGPOAbuse">Github</a></td>
 <td>Exploits user's edit rights on a Group Policy Object (GPO) to compromise controlled objects.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/kerbrute.jpg"></td>
 <td>kerbrute</td>
 <td><a href="https://github.com/ropnop/kerbrute">Github</a></td>
 <td>Tool for bruteforcing and enumerating valid Active Directory accounts through Kerberos Pre-Authentication.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/mssqlproxy.png"></td>
 <td>mssqlproxy</td>
 <td><a href="https://github.com/blackarrowsec/mssqlproxy">Github</a></td>
 <td>Toolkit for lateral movement through a compromised Microsoft SQL Server via socket reuse.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/Invoke-TheHash.png"></td>
 <td>Invoke-TheHash</td>
 <td><a href="https://github.com/Kevin-Robertson/Invoke-TheHash">Github</a></td>
 <td>PowerShell utilities for Pass The Hash techniques.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/InveighZero.png"></td>
 <td>InveighZero</td>
 <td><a href="https://github.com/Kevin-Robertson/InveighZero">Github</a></td>
 <td>.NET IPv4/IPv6 machine-in-the-middle tool for penetration testers.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>SharpSpray</td>
 <td><a href="https://github.com/jnqpblc/SharpSpray">Github</a></td>
 <td>Windows domain password spraying tool written in .NET C#.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/MalSCCM.png"></td>
 <td>MalSCCM</td>
 <td><a href="https://github.com/nettitude/MalSCCM">Github</a></td>
 <td>Abuses SCCM servers to deploy malicious applications to managed hosts.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/Coercer.png"></td>
 <td>Coercer</td>
 <td><a href="https://github.com/p0dalirius/Coercer">Github</a></td>
 <td>Python script for coercing Windows server authentication on arbitrary machines through multiple methods.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/SharpSploit.png"></td>
 <td>SharpSploit</td>
 <td><a href="https://github.com/cobbr/SharpSploit">Github</a></td>
 <td>.NET post-exploitation library for highlighting .NET attack surface and making offensive .NET easier.</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/orpheus.jpg"></td>
 <td>orpheus</td>
 <td><a href="https://github.com/trustedsec/orpheus">Github</a></td>
 <td>Bypasses Kerberoast detections with modified KDC options and encryption types.</td>
