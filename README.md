@@ -6744,13 +6744,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/process-monitor.png"></td>
-<td><b>Process Monitor</b></td>
-<td><a href="https://technet.microsoft.com/en-us/sysinternals/processmonitor">Website</a></td>
-<td>(Dynamic Analysis): Real-time system monitoring tool from Microsoft</td>
-</tr>
-
-<tr>
 <td><img src="assets/dynamic-analysis/autoruns.png"></td>
 <td><b>Autoruns</b></td>
 <td><a href="https://technet.microsoft.com/en-us/sysinternals/bb963902">Website</a></td>
