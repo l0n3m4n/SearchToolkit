@@ -6210,8 +6210,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tr>
 <td><img src="assets/covering-tracks/Privacy.sexy.jpg"></td>
 <td><b>Privacy.sexy (Best)</b></td>
-<td><a href="https://privacy.sexy">Website</a></td>
-<td>Note: some country blocked this website, an online/offline and open-source tool that can clean up logs and personal activities. (Windows, Linux, macOS)</td>
+<td><a href="https://privacy.sexy">Website</a>
+<a href="https://github.com/undergroundwires/privacy.sexy">Github</td>
+<td>(Windows, Linux, macOS): An online/offline and open-source tool that can clean up logs and personal activities.</td>
 </tr>
 
 <tr>
