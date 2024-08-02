@@ -4124,52 +4124,80 @@ made to help you during your investigations</td>
 ## Hidden Services
 
 <table>
-  <thead>
-    <tr>
-      <th>IMAGE</th>
-      <th>NAMES</th>
-      <th>LINKSS</th>
-      <th>DESCRIPTIONS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="assets/hidden-services/AHMIA.jpg"></td>
-      <td><b>AHMIA</b></td>
-      <td><a href="https://ahmia.fi/">Website</a></td>
-      <td>Search hidden services on the Tor network</td>
-    </tr>
-    <tr>
-      <td><img src="assets/hidden-services/thehiddenwiki.png"></td>
-      <td><b>thehiddenwiki.org</b></td>
-      <td><a href="https://thehiddenwiki.org/">Website</a></td>
-      <td>The darknet guide</td>
-    </tr>
-    <tr>
-      <td><img src="assets/hidden-services/tor.link.png"></td>
-      <td><b>tor.link</b></td>
-      <td><a href="https://tor.link/">Website</a></td>
-      <td>Free anonymous deepweb / Darknet search engine</td>
-    </tr>
-    <tr>
-      <td><img src="assets/hidden-services/deepweblinks.net.jpg"></td>
-      <td><b>deepweblinks.net</b></td>
-      <td><a href="https://deepweblinks.net/">Website</a></td>
-      <td>Onion Links</td>
-    </tr>
-    <tr>
-      <td><img src="assets/hidden-services/onionengine.com.png"></td>
-      <td><b>onionengine.com</b></td>
-      <td><a href="https://onionengine.com/">Website</a></td>
-      <td>A search engine for services accessible on the Tor network</td>
-    </tr>
-    <tr>
-      <td><img src="assets/hidden-services/OnionLand.png"></td>
-      <td><b>OnionLand</b></td>
-      <td><a href="https://onionlandsearchengine.com/">Website</a></td>
-      <td>Discover Hidden Services and access to Tor's onion sites</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAMES</th>
+<th>LINKSS</th>
+<th>DESCRIPTIONS</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><img src="assets/hidden-services/AHMIA.jpg"></td>
+<td><b>AHMIA</b></td>
+<td><a href="https://ahmia.fi/">Website</a></td>
+<td>Search hidden services on the Tor network</td>
+</tr>
+
+<tr>
+<td><img src="assets/hidden-services/thehiddenwiki.png"></td>
+<td><b>thehiddenwiki.org</b></td>
+<td><a href="https://thehiddenwiki.org/">Website</a></td>
+<td>The darknet guide</td>
+</tr>
+
+<tr>
+<td><img src="assets/hidden-services/tor.link.png"></td>
+<td><b>tor.link</b></td>
+<td><a href="https://tor.link/">Website</a></td>
+<td>Free anonymous deepweb / Darknet search engine</td>
+</tr>
+
+<tr>
+<td><img src="assets/hidden-services/deepweblinks.net.jpg"></td>
+<td><b>deepweblinks.net</b></td>
+<td><a href="https://deepweblinks.net/">Website</a></td>
+<td>Onion Links</td>
+</tr>
+
+<tr>
+<td><img src="assets/hidden-services/onionengine.com.png"></td>
+<td><b>onionengine.com</b></td>
+<td><a href="https://onionengine.com/">Website</a></td>
+<td>A search engine for services accessible on the Tor network</td>
+</tr>
+
+<tr>
+<td><img src="assets/hidden-services/OnionLand.png"></td>
+<td><b>OnionLand</b></td>
+<td><a href="https://onionlandsearchengine.com/">Website</a></td>
+<td>Discover Hidden Services and access to Tor's onion sites</td>
+</tr>
+
+<tr>
+<td><img src="assets/darkweb-search-engine/Katana.jpg"></td>
+<td><b>Katana</b></td>
+<td><a href="https://github.com/adnane-X-tebbaa/Katana">GitHub</a></td>
+<td>Katana is a powerful Dark Web search engine tool designed to help you discover hidden websites and information within the Tor network.</td>
+</tr>
+
+<tr>
+<td><img src="assets/darkweb-search-engine/OnionSearch.png"></td>
+<td><b>OnionSearch</b></td>
+<td><a href="https://github.com/megadose/OnionSearch">GitHub</a></td>
+<td>OnionSearch is a tool for searching and indexing onion websites on the Dark Web, making it easier to find specific content.</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>Darkdump</b></td>
+<td><a href="https://github.com/josh0xA/darkdump">GitHub</a></td>
+<td>Darkdump is an open source intelligence tool that scrapes information about Tor websites, including website titles, IPs, and more, helping you gather data from the Dark Web.</td>
+</tr>
+
+</tbody>
 </table>
 <br>
 
@@ -4395,51 +4423,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>Cameras and guards watching you almost everywhere</td>
     </tr>
   </tbody>
-</table>
-<br>
-
-[⬆️ Back to OSINT](#OSINT)
-
-## Darkweb Search Engine
-
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAMES</th>
-<th>LINKS</th>
-<th>DESCRIPTIONS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="assets/darkweb-search-engine/Katana.jpg"></td>
-<td><b>Katana</b></td>
-<td><a href="https://github.com/adnane-X-tebbaa/Katana">GitHub</a></td>
-<td>Katana is a powerful Dark Web search engine tool designed to help you discover hidden websites and information within the Tor network.</td>
-</tr>
-<tr>
-<td><img src="assets/darkweb-search-engine/OnionSearch.png"></td>
-<td><b>OnionSearch</b></td>
-<td><a href="https://github.com/megadose/OnionSearch">GitHub</a></td>
-<td>OnionSearch is a tool for searching and indexing onion websites on the Dark Web, making it easier to find specific content.</td>
-</tr>
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>Darkdump</b></td>
-<td><a href="https://github.com/josh0xA/darkdump">GitHub</a></td>
-<td>Darkdump is an open source intelligence tool that scrapes information about Tor websites, including website titles, IPs, and more, helping you gather data from the Dark Web.</td>
-</tr>
-
-<tr>
-<td><img src="assets/darkweb-search-engine/Ahmia.fi .jpg"></td>
-<td><b>Ahmia Search Engine</b></td>
-<td><a href="http://ahmia.fi/">Website</a>, <a href="https://github.com/ahmia/ahmia-site">GitHub</a></td>
-<td>Ahmia is a privacy-focused search engine for the Tor network. It helps users find onion websites while respecting their anonymity.</td>
-</tr>
-</tbody>
 </table>
 <br>
 
