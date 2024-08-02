@@ -6564,7 +6564,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tbody>
 
 <tr>
-<td><img src="assets/openssl.jpg"></td>
+<td><img src="assets/securing-data/OpenSSL.png"></td>
 <td><b>OpenSSL (best)</b></td>
 <td>Cross Platform</td>
 <td><a href="https://www.openssl.org">Website</a></td>
@@ -6572,7 +6572,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/veracrypt.jpg"></td>
+<td><img src="assets/securing-data/VeraCrypt.png"></td>
 <td><b>VeraCrypt</b></td>
 <td>Cross Platform</td>
 <td><a href="https://www.veracrypt.fr">Website</a></td>
@@ -6580,7 +6580,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/keepass.jpg"></td>
+<td><img src="assets/securing-data/KeePass.jpg"></td>
 <td><b>KeePass</b></td>
 <td>Cross Platform</td>
 <td><a href="https://keepass.info">Website</a></td>
@@ -6588,7 +6588,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/tar.jpg"></td>
+<td><img src="assets/securing-data/TAR.jpg"></td>
 <td><b>TAR</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://www.gnu.org/software/tar">Website</a></td>
@@ -6596,7 +6596,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/rar.jpg"></td>
+<td><img src="assets/securing-data/RAR.jpg"></td>
 <td><b>RAR</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://www.rarlab.com">Website</a></td>
@@ -6604,7 +6604,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/bitlocker.jpg"></td>
+<td><img src="assets/securing-data/BitLocker.jpg"></td>
 <td><b>BitLocker</b></td>
 <td>Windows</td>
 <td><a href="https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview">Website</a></td>
@@ -6612,7 +6612,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/gpg4win.jpg"></td>
+<td><img src="assets/securing-data/Gpg4win.png"></td>
 <td><b>Gpg4win</b></td>
 <td>Windows</td>
 <td><a href="https://gpg4win.org">Website</a></td>
@@ -6620,7 +6620,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/cryptsetup.jpg"></td>
+<td><img src="assets/securing-data/Cryptsetup.png"></td>
 <td><b>Cryptsetup</b></td>
 <td>Linux</td>
 <td><a href="https://gitlab.com/cryptsetup/cryptsetup">Website</a></td>
@@ -6628,14 +6628,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/openssh.jpg"></td>
+<td><img src="assets/securing-data/OpenSSH.jpg"></td>
 <td><b>OpenSSH</b></td>
 <td>Cross-Platform</td>
 <td><a href="https://www.openssh.com">Website</a></td>
 <td>Suite of secure networking utilities based on the SSH protocol, including secure file transfers.</td>
 
 <tr>
-<td><img src="assets/axcrypt.jpg"></td>
+<td><img src="assets/securing-data/AxCrypt.png"></td>
 <td><b>AxCrypt</b></td>
 <td>Windows</td>
 <td><a href="https://www.axcrypt.net">Website</a></td>
@@ -6643,7 +6643,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/7-zip.jpg"></td>
+<td><img src="assets/securing-data/7-Zip.jpg"></td>
 <td><b>7-Zip</b></td>
 <td>Cross Platform</td>
 <td><a href="https://www.7-zip.org">Website</a></td>
@@ -6651,7 +6651,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/gpg.jpg"></td>
+<td><img src="assets/securing-data/GPG (GNU Privacy Guard).png"></td>
 <td><b>GPG (GNU Privacy Guard)</b></td>
 <td>Cross Platform</td>
 <td><a href="https://gnupg.org">Website</a></td>
@@ -6659,15 +6659,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/encfs.jpg"></td>
-<td><b>EncFS</b></td>
-<td>Linux</td>
-<td><a href="https://github.com/vgough/encfs">GitHub</a></td>
-<td>Encrypted filesystem for Linux using FUSE (Filesystem in Userspace).</td>
-</tr>
-
-<tr>
-<td><img src="assets/cryptomator.jpg"></td>
+<td><img src="assets/securing-data/Cryptomator.png"></td>
 <td><b>Cryptomator</b></td>
 <td>Cross Platform</td>
 <td><a href="https://cryptomator.org">Website</a></td>
@@ -6675,19 +6667,11 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/filevault.jpg"></td>
+<td><img src="assets/securing-data/FileVault.jpg"></td>
 <td><b>FileVault</b></td>
 <td>macOS</td>
 <td><a href="https://support.apple.com/en-us/HT204837">Website</a></td>
 <td>Built-in disk encryption program for macOS that encrypts the entire startup disk.</td>
-</tr>
-
-<tr>
-<td><img src="assets/encfs.jpg"></td>
-<td><b>EncFS</b></td>
-<td>Cross Platform</td>
-<td><a href="https://github.com/vgough/encfs">GitHub</a></td>
-<td>Encrypted filesystem using FUSE (Filesystem in Userspace), available on Linux and macOS.</td>
 </tr>
 
 </tbody>
