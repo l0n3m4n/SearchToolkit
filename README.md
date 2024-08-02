@@ -5280,8 +5280,8 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/privilege-escalation/"></td>
-<td><b>pspy: unpriv Linux proc snooping</b></td>
+<td><img src="assets/privilege-escalation/pspy.png"></td>
+<td><b>pspy: funpriv Linux proc snooping</b></td>
 <td><a href="https://github.com/DominicBreuker/pspy/">Github</a></td>
 <td>(Linux): pspy is a command line tool designed to snoop on processes without need for root permissions. It allows you to see commands run by other users, cron jobs, etc.</td>
 </tr>
