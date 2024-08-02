@@ -5231,21 +5231,21 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/privilege-escalation/PEASS-ng.png"></td>
 <td><b>PEASS-ng</b></td>
 <td><a href="https://github.com/carlospolop/PEASS-ng">Github</a></td>
-<td>(windows-linux-mac): PEASS-ng is tools search for local privilege escalation</td>
+<td>(Windows, Linux, Mac): PEASS-ng is tools search for local privilege escalation</td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/WLPE.png"></td>
 <td><b>WLPE</b></td>
 <td><a href="https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook">Github</a></td>
-<td>(windows): Local Privilege Escalation Cookbook </td>
+<td>(Windows): Local Privilege Escalation Cookbook </td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/activedirectory.jpg"></td>
 <td><b>LinWinPwn</b></td> 
 <td><a href="https://github.com/lefayjey/linWinPwn">Github</a></td>
-<td>(linux): Swiss-Army knife for Active Directory Pentesting using Linux</td> 
+<td>(Linux): Swiss-Army knife for Active Directory Pentesting using Linux</td> 
 </tr>
 
 
@@ -5253,70 +5253,78 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/privilege-escalation/ADCPwn.png"></td>
 <td><b>ADCPwn</b></td> 
 <td><a href="https://github.com/bats3c/ADCSPwn">Github</a></td>
-<td>(linux): A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts (Petitpotam) and relaying to the certificate service.</td> 
+<td>(Linux): A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts (Petitpotam) and relaying to the certificate service.</td> 
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td>ElevateKit</td>
 <td><a href="https://github.com/rsmudge/ElevateKit">Github</a></td>
-<td>(windows-linux): The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.</td>
+<td>(Windows-Linux): The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.</td>
 </tr>
+
+<tr>
+<td><img src="assets/privilege-escalation/PEASS-ng.png"></td>
+<td><b>Checksec.sh </b></td>
+<td><a href="https://github.com/slimm609/checksec.sh">Github</a></td>
+<td>(Linux): Checksec is a bash script to check the properties of executables (like PIE, RELRO, Canaries, ASLR, Fortify Source). </td>
+</tr>
+
 
 <tr>
 <td><img src="assets/privilege-escalation/Watson.jpg"></td>
 <td>Watson</td>
 <td><a href="https://github.com/rasta-mouse/Watson">Github</a></td>
-<td>(windows): Watson is a .NET tool designed to enumerate missing KBs and suggest exploits for Privilege Escalation vulnerabilities.</td>
+<td>(Windows): Watson is a .NET tool designed to enumerate missing KBs and suggest exploits for Privilege Escalation vulnerabilities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/SharpUp.jpg"></td>
 <td>SharpUp</td>
 <td><a href="https://github.com/GhostPack/SharpUp">Github</a></td>
-<td>(windows): SharpUp is a C# port of various PowerUp functionality. Currently, only the most common checks have been ported; no weaponization functions have yet been implemented.</td>
+<td>(Windows): SharpUp is a C# port of various PowerUp functionality. Currently, only the most common checks have been ported; no weaponization functions have yet been implemented.</td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/dazzleUP.png"></td>
 <td>dazzleUP</td>
 <td><a href="https://github.com/hlldz/dazzleUP">Github</a></td>
-<td>(windows): A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
+<td>(Windows): A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/SweetPotato.png"></td>
 <td>SweetPotato</td>
 <td><a href="https://github.com/CCob/SweetPotato">Github</a></td>
-<td>(windows): A collection of various native Windows privilege escalation techniques from service accounts to SYSTEM.</td>
+<td>(Windows): A collection of various native Windows privilege escalation techniques from service accounts to SYSTEM.</td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/MultiPotato.jpg"></td>
 <td>MultiPotato</td>
 <td><a href="https://github.com/S3cur3Th1sSh1t/MultiPotato">Github</a></td>
-<td>(windows): Another Potato to get SYSTEM via SeImpersonate privileges.</td>
+<td>(Windows): Another Potato to get SYSTEM via SeImpersonate privileges.</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td>KrbRelayUp</td>
 <td><a href="https://github.com/Dec0ne/KrbRelayUp">Github</a></td>
-<td>(windows): A universal no-fix local privilege escalation in Windows domain environments where LDAP signing is not enforced (the default settings).</td>
+<td>(Windows): A universal no-fix local privilege escalation in Windows domain environments where LDAP signing is not enforced (the default settings).</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td>GodPotato</td>
 <td><a href="https://github.com/BeichenDream/GodPotato">Github</a></td>
-<td>(windows): As Long as You Have the ImpersonatePrivilege Permission, Then You are the SYSTEM!</td>
+<td>(Windows): As Long as You Have the ImpersonatePrivilege Permission, Then You are the SYSTEM!</td>
 </tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/PrivKit.jpg"></td>
 <td>PrivKit</td>
 <td><a href="https://github.com/mertdas/PrivKit">Github</a></td>
-<td>(windows): PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.</td>
+<td>(Windows): PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.</td>
 </tr>
 </tbody>
 </table>
