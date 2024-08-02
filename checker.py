@@ -64,7 +64,7 @@ def main():
  |__     ||  -__|  _  |   _|  __||     |  |   |  |  _  |  _  ||  |    < |  |   _|
  |_______||_____|___._|__| |____||__|__|  |___|  |_____|_____||__|__|__||__|____|
  
-            {COLORS.LIGHTCYAN}Author: l0n3m4n | Version: v1.0.1 | Check Duplicates                                                                            
+            {COLORS.LIGHTCYAN}Author: l0n3m4n | Version: v1.0.1 | Check Duplicates Links                                                                           
     {COLORS.RESET}"""
     print(banner)
 
