@@ -3297,6 +3297,12 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td><img src="assets/credentials-leaks/Have-I-Been-Pwned.jpg"></td>
+      <td><b>Weakpass: wordlist - dicassassin</b></td>
+      <td><a href="https://weakpass.com/wordlist/1946">Website</a></td>
+      <td>weakpass unleash the power of them all at once</td>
+    </tr>
     <tr>
       <td><img src="assets/credentials-leaks/Have-I-Been-Pwned.jpg"></td>
       <td><b>Have I Been Pwned</b></td>
@@ -6705,133 +6711,133 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tbody>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Public Pentest Reports (PDF)</b></td>
 <td><a href="https://github.com/juliocesarfort/public-pentesting-reports">GitHub</a></td>
 <td>A list of public penetration test reports published by several consulting firms and academic security groups. </td>
 </tr>
 
 <tr>
-<td><img src="assets/aptrs.jpg"></td>
+<td><img src="assets/reports/APTRS.png"></td>
 <td><b>APTRS</b></td>
 <td><a href="https://github.com/Anof-cyber/APTRS">GitHub</a></td>
 <td>APTRS (Automated Penetration Testing Reporting System) is an automated reporting tool in Python and Django. The tool allows Penetration testers to create a report directly without using the traditional Docx file. It also provides an approach to keeping track of the projects and vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/attackforge.jpg"></td>
+<td><img src="assets/reports/AttackForge.png"></td>
 <td><b>AttackForge</b></td>
 <td><a href="https://attackforge.com/">Website</a></td>
 <td>AttackForge helps you manage your penetration testing programs, and deliver large-scale pentesting services. Pentest Management and Reporting Made Easy, A Platform Built for Productivity, Collaboration and Visibility.</td>
 </tr>
 
 <tr>
-<td><img src="assets/cyver-core.jpg"></td>
+<td><img src="assets/reports/Cyver Core.jpg"></td>
 <td><b>Cyver Core</b></td>
 <td><a href="https://core.cyver.io">Website</a></td>
 <td>Change the way you deliver pentests, with cloud pentest management tools, complete with automated reporting & everything you need to deliver Pentest-as-a-Service.</td>
 </tr>
 
 <tr>
-<td><img src="assets/dradis-framework.jpg"></td>
+<td><img src="assets/reports/dradis.png"></td>
 <td><b>Dradis Framework</b></td>
 <td><a href="https://dradis.com">Website</a></td>
 <td>Dradis is an open-source reporting and collaboration tool trusted by 1,000s of InfoSec professionals around the world.</td>
 </tr>
 
 <tr>
-<td><img src="assets/faction.jpg"></td>
+<td><img src="assets/reports/factionsecurity.jpg"></td>
 <td><b>FACTION</b></td>
 <td><a href="https://www.factionsecurity.com/">Website</a></td>
 <td>PenTesting Report Generation and Collaboration Framework</td>
 </tr>
 
 <tr>
-<td><img src="assets/faraday.jpg"></td>
+<td><img src="assets/reports/faraday.png"></td>
 <td><b>Faraday</b></td>
 <td><a href="https://faradaysec.com">Website</a></td>
 <td>Faraday normalizes, tracks, and identifies assets and vulnerability data coming from more than +80 security tools.</td>
 </tr>
 
 <tr>
-<td><img src="assets/haxhq.jpg"></td>
+<td><img src="assets/reports/HaxHQ.png"></td>
 <td><b>HaxHQ</b></td>
 <td><a href="https://haxhq.com">Website</a></td>
 <td>Fast and easy to use, with PingCastle support, streamlined library and an integrated CA for client certificate authentication. Host locally with full visibility into the source code. Unrestricted, free version at demo.haxhq.com.</td>
 </tr>
 
 <tr>
-<td><img src="assets/hexway-hive-apiary.jpg"></td>
+<td><img src="assets/reports/Hexway Hive & Apiary.png"></td>
 <td><b>Hexway Hive & Apiary</b></td>
 <td><a href="https://hexway.io/">Website</a></td>
-<td>Hive is the ultimate solution to bring penetration testing to the next level. One platform to rule them all. Penetration Testing as a Service (PTaaS) platform to aggregate and work with data from security tools in a common environment. Enjoy custom docx reports, quick imports, checklists, and modern collaborative tools.</td>
+<td>Hive is the ultimate solution to bring penetration testing to the next level. One platform to rule them all. Penetration Testing as a Service (PTaaS) platform to aggregate and work with data from security tools in a common environment.</td>
 </tr>
 
 <tr>
-<td><img src="assets/pentest-collaboration-framework.jpg"></td>
+<td><img src="assets/reports/Pentest-Collaboration-Framework.jpg"></td>
 <td><b>Pentest-Collaboration-Framework</b></td>
 <td><a href="https://gitlab.com/invuls/pentest-projects/pcf">GitLab</a></td>
 <td>Opensource, cross-platform and portable toolkit for automating routine processes when carrying out various works for testing!</td>
 </tr>
 
 <tr>
-<td><img src="assets/petereport.jpg"></td>
+<td><img src="assets/reports/PeTeReport.png"></td>
 <td><b>PeTeReport</b></td>
 <td><a href="https://github.com/1modm/petereport">GitHub</a></td>
 <td>PeTeReport (PenTest Report) is an open-source application vulnerability reporting tool designed to assist pentesting/redteaming efforts, by simplifying the task of writing and generation of reports.</td>
 </tr>
 
 <tr>
-<td><img src="assets/plextrac.jpg"></td>
+<td><img src="assets/reports/PlexTrac.png"></td>
 <td><b>PlexTrac</b></td>
 <td><a href="https://plextrac.com/">Website</a></td>
 <td>PlexTrac is a cybersecurity reporting and workflow management platform that supercharges security programs, making them more effective, efficient, and proactive.</td>
 </tr>
 
 <tr>
-<td><img src="assets/pwndoc.jpg"></td>
+<td><img src="assets/reports/PwnDoc.png"></td>
 <td><b>PwnDoc</b></td>
 <td><a href="https://github.com/pwndoc/pwndoc">GitHub</a></td>
 <td>PwnDoc is a pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report.</td>
 </tr>
 
 <tr>
-<td><img src="assets/reconmap.jpg"></td>
+<td><img src="assets/reports/reconmap.png"></td>
 <td><b>Reconmap</b></td>
 <td><a href="https://github.com/reconmap/reconmap">GitHub</a></td>
 <td>Reconmap is an open-source penetration testing and report generation tool for Infosec teams that uses templating, automation and machine learning to streamline the delivery of security projects.</td>
 </tr>
 
 <tr>
-<td><img src="assets/rengine.jpg"></td>
+<td><img src="assets/reports/reNgine.jpg"></td>
 <td><b>reNgine</b></td>
 <td><a href="https://github.com/yogeshojha/rengine">GitHub</a></td>
 <td>reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process.</td>
 </tr>
 
 <tr>
-<td><img src="assets/reporter.jpg"></td>
+<td><img src="assets/reports/securityreporter.png"></td>
 <td><b>Reporter</b></td>
 <td><a href="https://securityreporter.app">Website</a></td>
 <td>Reporter is an all-in-one pentest reporting workspace to boost quality and efficiency to a higher level with collaboration tools, retest/review flows, templates, a client portal, and more.</td>
 </tr>
 
 <tr>
-<td><img src="assets/sysreptor.jpg"></td>
+<td><img src="assets/reports/SysReptor.jpg"></td>
 <td><b>SysReptor</b></td>
 <td><a href="https://github.com/syslifters/sysreptor/">GitHub</a></td>
 <td>Easy pentest reporting tool to write findings in markdown, design and customize reports in HTML and VueJS, render to PDF. Additional features MFA, note-taking, collaboration, data encryption at rest, SSO.</td>
 </tr>
 
 <tr>
-<td><img src="assets/vulnrepo.jpg"></td>
+<td><img src="assets/reports/VULNRΞPO.png"></td>
 <td><b>VULNRΞPO</b></td>
 <td><a href="https://github.com/kac89/vulnrepo">GitHub</a></td>
 <td>Free vulnerability report generator and repository end-to-end encrypted.</td>
 </tr>
 
 <tr>
-<td><img src="assets/writehat.jpg"></td>
+<td><img src="assets/reports/WriteHat.png"></td>
 <td><b>WriteHat</b></td>
 <td><a href="https://github.com/blacklanternsecurity/writehat">GitHub</a></td>
 <td>A pentest reporting tool written in Python. Free yourself from Microsoft Word.</td>
