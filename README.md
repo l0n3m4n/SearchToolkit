@@ -6641,77 +6641,70 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/dynamic-analysis/processhacker.png"></td>
+<td><img src="assets/malware-analysis/ProcessHacker.jpg"></td>
 <td><b>ProcessHacker</b></td>
 <td><a href="http://processhacker.sourceforge.net/">Website</a></td>
 <td>(Dynamic Analysis - Windows ): Powerful tool for viewing and managing processes</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/processhacker.png"></td>
+<td><img src="assets/malware-analysis/Process Monitor.jpg"></td>
 <td><b>Process Monitor</b></td>
 <td><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">Website</a></td>
 <td>(Dynamic Analysis - Windows): Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/process-explorer.png"></td>
+<td><img src="assets/malware-analysis/Process Explorer.jpg"></td>
 <td><b>Process Explorer</b></td>
 <td><a href="https://technet.microsoft.com/en-us/sysinternals/processexplorer">Website</a></td>
 <td>(Dynamic Analysis - Windows): Advanced process management tool from Microsoft</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/process-explorer.png"></td>
+<td><img src="assets/malware-analysis/systinternals.jpg"></td>
 <td><b>systinternals</b></td>
 <td><a href="https://learn.microsoft.com/en-us/sysinternals/">Website</a></td>
 <td>(Dynamic Analysis - Windows): Sysinternals Live is a service that enables you to run Sysinternals tools directly from the Web without manually downloading them.</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/process-explorer.png"></td>
+<td><img src="assets/malware-analysis/TcpView.jpg"></td>
 <td><b>TcpView</b></td>
 <td><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview">Website</a></td>
 <td>(Dynamic Analysis - Windows): TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system.</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/autoruns.png"></td>
+<td><img src="assets/malware-analysis/Autoruns.jpg"></td>
 <td><b>Autoruns</b></td>
 <td><a href="https://technet.microsoft.com/en-us/sysinternals/bb963902">Website</a></td>
 <td>(Dynamic Analysis): Shows which programs are configured to run at system boot</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/noriben.png"></td>
+<td><img src="assets/malware-analysis/Noriben.png"></td>
 <td><b>Noriben</b></td>
 <td><a href="https://github.com/Rurik/Noriben">Github</a></td>
 <td>(Dynamic Analysis): Malware analysis sandbox tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/api-monitor.png"></td>
+<td><img src="assets/malware-analysis/API Monitor.png"></td>
 <td><b>API Monitor</b></td>
 <td><a href="http://www.rohitab.com/apimonitor">Website</a></td>
 <td>(Dynamic Analysis): Tool for monitoring API calls and other system interactions</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/inetsim.png"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>iNetSim</b></td>
 <td><a href="http://www.inetsim.org/">Website</a></td>
 <td>(Dynamic Analysis): Network simulation tool for malware analysis</td>
 </tr>
 
 <tr>
-<td><img src="assets/dynamic-analysis/fakenet.png"></td>
-<td><b>Fakenet</b></td>
-<td><a href="http://practicalmalwareanalysis.com/fakenet/">Website</a></td>
-<td>(Dynamic Analysis): Network simulation tool for capturing and analyzing network traffic</td>
-</tr>
-
-<tr>
-<td><img src="assets/dynamic-analysis/cuckoo.png"></td>
+<td><img src="assets/malware-analysis/Cuckoo.jpg"></td>
 <td><b>Cuckoo</b></td>
 <td><a href="https://www.cuckoosandbox.org/">Website</a></td>
 <td>(Dynamic Analysis): Automated malware analysis system</td>
