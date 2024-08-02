@@ -6029,61 +6029,61 @@ It's currently focused on OSINT, but any use related with Google is possible.
   </thead>
   <tbody>
     <tr>
-        <td><img src="assets/server/aptsimulator.png"></td>
+        <td><img src="assets/ctf-platform/HackTheBox.png"></td>
         <td><b>HackTheBox</b></td>
         <td><a href="https://hackthebox.com">Online Platform</a></td>
         <td>An acclaimed platform where users refine their penetration testing skills by maneuvering through a variety of virtual machines (VMs) primed for exploitation.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/TryHackMe.jpg"></td>
         <td><b>TryHackMe</b></td>
         <td><a href="https://tryhackme.com">Online Platform</a></td>
         <td>Distinguished for its range of virtual machines, TryHackMe is a popular platform catering to all expertise levels.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/PentesterLab.png"></td>
         <td><b>PentesterLab</b></td>
         <td><a href="https://pentesterlab.com">Online Platform</a></td>
         <td>This platform specializes in web application security challenges, serving as an adept learning ground for both novices and experts.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/VulnHub.png"></td>
         <td><b>VulnHub</b></td>
         <td><a href="https://vulnhub.com">Offline Platform</a></td>
         <td>Offering an extensive collection of real-world scenario-based VMs, VulnHub invites users to explore and exploit.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/OverTheWire.png"></td>
         <td><b>OverTheWire</b></td>
         <td><a href="https://overthewire.org">Online Platform</a></td>
         <td>Known for its assorted challenges spanning network security, cryptography, and web exploitation.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/Root-Me.png"></td>
         <td><b>Root-Me</b></td>
         <td><a href="https://root-me.org/en/">Online Platform</a></td>
         <td>Root-Me covers diverse domains like web application security, cryptography, and reverse engineering.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/picoCTF.jpg"></td>
         <td><b>picoCTF</b></td>
         <td><a href="https://picoctf.org">Online Platform</a></td>
         <td>A free online platform focused on computer security, cryptography, reverse engineering, and web exploitation.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/hacking-lab.com.jpg"></td>
         <td><b>Hacking-Lab</b></td>
         <td><a href="https://hacking-lab.com">Online Platform</a></td>
         <td>Offering a blend of challenges and competitions mirroring real-world scenarios</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/DVWA.png"></td>
         <td><b>DVWA</b></td>
         <td><a href="https://github.com/digininja/DVWA">Offline Platform</a></td>
         <td>An intentionally vulnerable web application designed for honing web application security skills.</td>
     </tr>
     <tr>
-        <td><img src="assets/servers"></td>
+        <td><img src="assets/ctf-platform/WebGoat.jpg"></td>
         <td><b>WebGoat</b></td>
         <td><a href="https://github.com/WebGoat/WebGoat">Ofline Platform</a></td>
         <td>Another deliberately vulnerable web application designed for hands-on teaching of web application security.</td>
