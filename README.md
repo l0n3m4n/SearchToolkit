@@ -3693,13 +3693,13 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://github.com/montysecurity/C2-Tracker">Github</a></td>
       <td>Free to use IOC feed for various tools/malware. It started out for just C2 tools but has morphed into tracking infostealers and botnets as well.</td>
     </tr>
-    <td><img src="image_url_for_TorBot"></td>
+    <td><img src="assets/threat-intelligence/ransomlook.jpg"></td>
       <td><b>RansomLook</b></td>
       <td><a href="https://ransomlook.io">Website</a></td>
       <td>(Adversaries Monitoring): RansomLook is an open-source project aimed at assisting users in tracking ransomware-group related posts and activities across various sites</td>
     </tr>
   <tr>
-    <td><img src="image_url_for_TorBot"></td>
+    <td><img src="assets/threat-intelligence/Ransomwhere.png"></td>
     <td><b>Ransomwhere</b></td>
     <td><a href="https://ransomwhe.re">Website</a></td>
     <td>(Adversaries Monitoring): Ransomwhere Monitoring Cryptocurrencies, a crowdsourced ransomware payment tracker.</td>
