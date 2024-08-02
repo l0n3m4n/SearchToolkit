@@ -6438,25 +6438,420 @@ It's currently focused on OSINT, but any use related with Google is possible.
 ## Reverse Engineering
 
 <table>
-  <thead>
-    <tr>
-      <th>IMAGE</th>
-      <th>NAMES</th>
-      <th>LINKS</th>
-      <th>DESCRIPTIONS</th>
-    </tr>
-  </thead>
-  <tbody>
+<thead>
 <tr>
-    <td><img src="assets/dfir/pwndbg.png"></td>
-    <td><b>pwndbg</b></td>
-    <td><a href="https://github.com/pwndbg/pwndbg">Github</a></td>
-    <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
+<th>IMAGE</th>
+<th>NAMES</th>
+<th>LINKS</th>
+<th>DESCRIPTIONS</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/dfir/pwndbg.png"></td>
+<td><b>pwndbg</b></td>
+<td><a href="https://github.com/pwndbg/pwndbg">Github</a></td>
+<td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
+</tr>
+
+<tr>
+<td><img src="assets/hex-editors/hxd.png"></td>
+<td><b>HxD</b></td>
+<td><a href="https://mh-nexus.de/en/hxd/">Website</a></td>
+<td>(Hex Editor):  Hex and Disk Editor</td>
+</tr>
+
+<tr>
+<td><img src="assets/hex-editors/010-editor.png"></td>
+<td><b>010 Editor</b></td>
+<td><a href="http://www.sweetscape.com/010editor/">Website</a></td>
+<td>(Hex Editor): Advanced Hex Editor with Template System</td>
+</tr>
+
+<tr>
+<td><img src="assets/hex-editors/hex-workshop.png"></td>
+<td><b>Hex Workshop</b></td>
+<td><a href="http://www.hexworkshop.com/">Website</a></td>
+<td>(Hex Editor):  Hexworkshop is and hex editor with Advanced Features</td>
+</tr>
+
+<tr>
+<td><img src="assets/hex-editors/hex-fiend.png"></td>
+<td><b>HexFiend</b></td>
+<td><a href="http://ridiculousfish.com/hexfiend/">Website</a></td>
+<td>(Hex Editor): Hex edit for macOS</td>
+</tr>
+
+<tr>
+<td><img src="assets/hex-editors/hiew.png"></td>
+<td><b>Hiew</b></td>
+<td><a href="http://www.hiew.ru/">Website</a></td>
+<td>(Hex Editor) hex and Disassembler</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Ghidra</b></td>
+<td><a href="https://ghidra-sre.org/">Website</a></td>
+<td>(Disassemblers & Decompilers): Open-source reverse engineering tool developed by NSA</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>IDA Pro</b></td>
+<td><a href="https://www.hex-rays.com/products/ida/index.shtml">Website</a></td>
+<td>(Disassemblers): Interactive DisAssembler with a powerful analysis engine</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Binary Ninja</b></td>
+<td><a href="https://binary.ninja/">Website</a></td>
+<td>(Disassemblers): Modern binary analysis platform with a focus on usability</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>JEB</b></td>
+<td><a href="https://www.pnfsoftware.com/jeb2/">Website</a></td>
+<td>(Disassemblers): Decompiler and reverse engineering framework for Android and more</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Radare</b></td>
+<td><a href="http://www.radare.org/r/">Website</a></td>
+<td>(Disassemblers): Open-source framework for reverse engineering and binary analysis</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Hopper</b></td>
+<td><a href="http://hopperapp.com/">Website</a></td>
+<td>(Disassemblers): Disassembler and decompiler for macOS and Linux</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Capstone</b></td>
+<td><a href="http://www.capstone-engine.org/">Website</a></td>
+<td>(Disassemblers): Multi-architecture disassembly framework</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>objdump</b></td>
+<td><a href="http://linux.die.net/man/1/objdump">Website</a></td>
+<td>(Disassemblers): Utility to display information from object files</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>fREedom</b></td>
+<td><a href="https://github.com/cseagle/fREedom">Github</a></td>
+<td>(Disassemblers): Decompilation framework for research and education</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Retdec</b></td>
+<td><a href="https://retdec.com/">Website</a></td>
+<td>(Disassemblers): Retargetable decompiler with support for multiple architectures</td>
+</tr>
+
+<tr>
+<td><img src="assets/"></td>
+<td><b>Snowman</b></td>
+<td><a href="https://derevenets.com/">Website</a></td>
+<td>(Disassemblers): decompilers and reverse engineering tool</td>
+</tr>
+
+<tr>
+<td><img src="assets/bytecode/dnspy.png"></td>
+<td><b>dnSpy</b></td>
+<td><a href="https://github.com/0xd4d/dnSpy">Github</a></td>
+<td>(Bytecode Analysis): Debugger and .NET assembly editor</td>
+</tr>
+
+<tr>
+<td><img src="assets/bytecode/bytecode-viewer.png"></td>
+<td><b>Bytecode Viewer</b></td>
+<td><a href="https://bytecodeviewer.com/">Website</a></td>
+<td>(Bytecode Analysis): Tool for viewing and analyzing Java bytecode</td>
+</tr>
+
+<tr>
+<td><img src="assets/bytecode/bytecode-visualizer.png" ></td>
+<td><b>Bytecode Visualizer</b></td>
+<td><a href="http://www.drgarbage.com/bytecode-visualizer/">Website</a></td>
+<td>(Bytecode Analysis): Visualizer for Java bytecode</td>
+</tr>
+
+<tr>
+<td><img src="assets/bytecode/jpexs-flash-decompiler.png" ></td>
+<td><b>JPEXS Flash Decompiler</b></td>
+<td><a href="https://www.free-decompiler.com/flash/">Website</a></td>
+<td>(Bytecode Analysis): Decompiler for Flash (SWF) files</td>
+</tr>
+
+<tr>
+<td><img src="assets/import-reconstruction/imprec.png"></td>
+<td><b>ImpRec</b></td>
+<td><a href="http://www.woodmann.com/collaborative/tools/index.php/ImpREC">Website</a></td>
+<td>(Import Reconstruction): Tool for reconstructing import tables in PE files</td>
+</tr>
+
+<tr>
+<td><img src="assets/import-reconstruction/scylla.png"></td>
+<td><b>Scylla</b></td>
+<td><a href="https://github.com/NtQuery/Scylla">Github</a></td>
+<td>(Import Reconstruction): Advanced import reconstructor for PE files</td>
+</tr>
+
+<tr>
+<td><img src="assets/import-reconstruction/lordpe.png"></td>
+<td><b>LordPE</b></td>
+<td><a href="http://www.woodmann.com/collaborative/tools/images/Bin_LordPE_2010-6-29_3.9_LordPE_1.41_Deluxe_b.zip">Download</a></td>
+<td>(Import Reconstruction): PE file editor and import table manipulator</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/windbg.png"></td>
+<td><b>WinDbg</b></td>
+<td><a href="https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx">Website</a></td>
+<td>(Debugging): Powerful debugger for Windows from Microsoft</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/ollydbg1.png"></td>
+<td><b>OllyDbg</b></td>
+<td><a href="http://www.ollydbg.de/">Website</a></td>
+<td>(Debugging):  Popular 32-bit debugger for Windows</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/ollydbg2.png"></td>
+<td><b>OllyDbg </b></td>
+<td><a href="http://www.ollydbg.de/version2.html">Website</a></td>
+<td>(Debugging): OllyDbg debugger</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/ollysnd.png"></td>
+<td><b>OllySnD</b></td>
+<td><a href="https://tuts4you.com/download.php?view.2061">Download</a></td>
+<td>(Debugging):  Plugin for OllyDbg with additional features</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/ollyshadow.png"></td>
+<td><b>Olly Shadow</b></td>
+<td><a href="https://tuts4you.com/download.php?view.6">Download</a></td>
+<td>(Debugging):  Plugin for OllyDbg with shadowing capabilities</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/ollycims.png"></td>
+<td><b>Olly CiMs</b></td>
+<td><a href="https://tuts4you.com/download.php?view.1206">Download</a></td>
+<td>(Debugging):  Plugin for OllyDbg with custom import features</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/ollyust.png"></td>
+<td><b>Olly UST_2bg</b></td>
+<td><a href="https://tuts4you.com/download.php?view.1206">Download</a></td>
+<td>(Debugging):  Plugin for OllyDbg for unique string tables</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/x64dbg.png"></td>
+<td><b>x64dbg</b></td>
+<td><a href="http://x64dbg.com/#start">Website</a></td>
+<td>(Debugging):  Open-source x64/x32 debugger for Windows</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/gdb.png"></td>
+<td><b>gdb</b></td>
+<td><a href="https://www.gnu.org/software/gdb/">Website</a></td>
+<td>(Debugging):  GNU Debugger for various programming languages</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/vdb.png"></td>
+<td><b>vdb</b></td>
+<td><a href="https://github.com/vivisect/vivisect">Github</a></td>
+<td>(Debugging):  Debugger and disassembler library</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/lldb.png"></td>
+<td><b>lldb</b></td>
+<td><a href="http://lldb.llvm.org/">Website</a></td>
+<td>(Debugging):  Debugger from the LLVM project</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/qira.png"></td>
+<td><b>qira</b></td>
+<td><a href="http://qira.me/">Website</a></td>
+<td>(Debugging):  Dynamic binary analysis tool</td>
+</tr>
+
+<tr>
+<td><img src="assets/debugging/unicorn.png"></td>
+<td><b>unicorn</b></td>
+<td><a href="https://github.com/unicorn-engine/unicorn">Github</a></td>
+<td>(Debugging): Lightweight multi-platform, multi-architecture CPU emulator</td>
+</tr>
+
+
+<!-- Malware Dynamic analysis Tools-->
+<tr>
+<td><img src="assets/dynamic-analysis/processhacker.png"></td>
+<td><b>ProcessHacker</b></td>
+<td><a href="http://processhacker.sourceforge.net/">Website</a></td>
+<td>(Dynamic Analysis - Windows ): Powerful tool for viewing and managing processes</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/processhacker.png"></td>
+<td><b>Process Monitor</b></td>
+<td><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">Website</a></td>
+<td>(Dynamic Analysis - Windows): Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/process-explorer.png"></td>
+<td><b>Process Explorer</b></td>
+<td><a href="https://technet.microsoft.com/en-us/sysinternals/processexplorer">Website</a></td>
+<td>(Dynamic Analysis - Windows): Advanced process management tool from Microsoft</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/process-explorer.png"></td>
+<td><b>systinternals</b></td>
+<td><a href="https://learn.microsoft.com/en-us/sysinternals/">Website</a></td>
+<td>(Dynamic Analysis - Windows): Sysinternals Live is a service that enables you to run Sysinternals tools directly from the Web without manually downloading them.</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/process-explorer.png"></td>
+<td><b>TcpView</b></td>
+<td><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview">Website</a></td>
+<td>(Dynamic Analysis - Windows): TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system.</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/process-monitor.png"></td>
+<td><b>Process Monitor</b></td>
+<td><a href="https://technet.microsoft.com/en-us/sysinternals/processmonitor">Website</a></td>
+<td>(Dynamic Analysis): Real-time system monitoring tool from Microsoft</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/autoruns.png"></td>
+<td><b>Autoruns</b></td>
+<td><a href="https://technet.microsoft.com/en-us/sysinternals/bb963902">Website</a></td>
+<td>(Dynamic Analysis): Shows which programs are configured to run at system boot</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/noriben.png"></td>
+<td><b>Noriben</b></td>
+<td><a href="https://github.com/Rurik/Noriben">Github</a></td>
+<td>(Dynamic Analysis): Malware analysis sandbox tool</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/api-monitor.png"></td>
+<td><b>API Monitor</b></td>
+<td><a href="http://www.rohitab.com/apimonitor">Website</a></td>
+<td>(Dynamic Analysis): Tool for monitoring API calls and other system interactions</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/inetsim.png"></td>
+<td><b>iNetSim</b></td>
+<td><a href="http://www.inetsim.org/">Website</a></td>
+<td>(Dynamic Analysis): Network simulation tool for malware analysis</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/fakenet.png"></td>
+<td><b>Fakenet</b></td>
+<td><a href="http://practicalmalwareanalysis.com/fakenet/">Website</a></td>
+<td>(Dynamic Analysis): Network simulation tool for capturing and analyzing network traffic</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/netzob.png"></td>
+<td><b>netzob</b></td>
+<td><a href="https://www.netzob.org/">Website</a></td>
+<td>(Dynamic Analysis): Framework for protocol reverse engineering and analysis</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/dumpit.png"></td>
+<td><b>Dumpit</b></td>
+<td><a href="http://www.moonsols.com/products/">Website</a></td>
+<td>(Dynamic Analysis): Memory dumping tool for forensic analysis</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/lime.png"></td>
+<td><b>LiME</b></td>
+<td><a href="https://github.com/504ensicsLabs/LiME">Github</a></td>
+<td>(Dynamic Analysis): Linux Memory Extractor for acquiring memory dumps</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/cuckoo.png"></td>
+<td><b>Cuckoo</b></td>
+<td><a href="https://www.cuckoosandbox.org/">Website</a></td>
+<td>(Dynamic Analysis): Automated malware analysis system</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/objective-see.png"></td>
+<td><b>Objective-See Utilities</b></td>
+<td><a href="https://objective-see.com/products.html">Website</a></td>
+<td>(Dynamic Analysis): Security utilities for macOS</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/xcode-instruments.png"></td>
+<td><b>XCode Instruments</b></td>
+<td><a href="https://developer.apple.com/xcode/download/">Download</a></td>
+<td>(Dynamic Analysis): Tool for monitoring files and processes on macOS</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/dtrace.png"></td>
+<td><b>dtrace</b></td>
+<td><a href="http://dtrace.org/blogs/brendan/2011/10/10/top-10-dtrace-scripts-for-mac-os-x/">Website</a></td>
+<td>(Dynamic Analysis): Dynamic tracing framework for macOS, similar to strace</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/fs_usage.png"></td>
+<td><b>fs_usage</b></td>
+<td><a href="https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/fs_usage.1.html">Man Page</a></td>
+<td>(Dynamic Analysis): Reports filesystem activity in real-time</td>
+</tr>
+
+<tr>
+<td><img src="assets/dynamic-analysis/dmesg.png"></td>
+<td><b>dmesg</b></td>
+<td><a href="https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/dmesg.8.html">Man Page</a></td>
+<td>(Dynamic Analysis): Displays the system message buffer</td>
+</tr>
+
+
 </tbody>
 </table>
 <br>
-
 [🔝 Back to top](#Search-Navigation)
 
 ## Securing Data
