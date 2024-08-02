@@ -6032,61 +6032,61 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td><img src="assets/server/aptsimulator.png"></td>
         <td><b>HackTheBox</b></td>
         <td><a href="https://hackthebox.com">Online Platform</a></td>
-        <td>An acclaimed platform where users refine their penetration testing skills by maneuvering through a variety of virtual machines (VMs) primed for exploitation. Boasting an engaged community, it's a hub for sharing insights and exploring advanced techniques.</td>
+        <td>An acclaimed platform where users refine their penetration testing skills by maneuvering through a variety of virtual machines (VMs) primed for exploitation.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>TryHackMe</b></td>
         <td><a href="https://tryhackme.com">Online Platform</a></td>
-        <td>Distinguished for its range of virtual machines, TryHackMe is a popular platform catering to all expertise levels. It not only offers diverse challenges but also structured learning paths, ideal for both beginners and seasoned practitioners.</td>
+        <td>Distinguished for its range of virtual machines, TryHackMe is a popular platform catering to all expertise levels.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>PentesterLab</b></td>
         <td><a href="https://pentesterlab.com">Online Platform</a></td>
-        <td>This platform specializes in web application security challenges, serving as an adept learning ground for both novices and experts. With an array of labs and exercises, it covers an extensive spectrum of security topics.</td>
+        <td>This platform specializes in web application security challenges, serving as an adept learning ground for both novices and experts.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>VulnHub</b></td>
         <td><a href="https://vulnhub.com">Offline Platform</a></td>
-        <td>Offering an extensive collection of real-world scenario-based VMs, VulnHub invites users to explore and exploit. Its inclusive community forum encourages users to share and learn from each other's experiences.</td>
+        <td>Offering an extensive collection of real-world scenario-based VMs, VulnHub invites users to explore and exploit.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>OverTheWire</b></td>
         <td><a href="https://overthewire.org">Online Platform</a></td>
-        <td>Known for its assorted challenges spanning network security, cryptography, and web exploitation, OverTheWire is an excellent starting point for beginners seeking to develop and practice new skills.</td>
+        <td>Known for its assorted challenges spanning network security, cryptography, and web exploitation.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>Root-Me</b></td>
         <td><a href="https://root-me.org/en/">Online Platform</a></td>
-        <td>Providing challenges across multiple skill levels, Root-Me covers diverse domains like web application security, cryptography, and reverse engineering. Its built-in leaderboard tracks and motivates your progress.</td>
+        <td>Root-Me covers diverse domains like web application security, cryptography, and reverse engineering.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>picoCTF</b></td>
         <td><a href="https://picoctf.org">Online Platform</a></td>
-        <td>A free online platform focused on computer security, cryptography, reverse engineering, and web exploitation. It's an ideal space for honing cybersecurity skills through practical challenges.</td>
+        <td>A free online platform focused on computer security, cryptography, reverse engineering, and web exploitation.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>Hacking-Lab</b></td>
         <td><a href="https://hacking-lab.com">Online Platform</a></td>
-        <td>Offering a blend of challenges and competitions mirroring real-world scenarios, Hacking-Lab provides a wealth of training materials and courses, catering to both beginners and advanced users.</td>
+        <td>Offering a blend of challenges and competitions mirroring real-world scenarios</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>DVWA</b></td>
         <td><a href="https://github.com/digininja/DVWA">Offline Platform</a></td>
-        <td>An intentionally vulnerable web application designed for honing web application security skills. It's a comprehensive resource to practice various attack techniques and grasp web application security.</td>
+        <td>An intentionally vulnerable web application designed for honing web application security skills.</td>
     </tr>
     <tr>
         <td><img src="assets/servers"></td>
         <td><b>WebGoat</b></td>
         <td><a href="https://github.com/WebGoat/WebGoat">Ofline Platform</a></td>
-        <td>Another deliberately vulnerable web application designed for hands-on teaching of web application security. It encompasses challenges and exercises covering various security topics.</td>
+        <td>Another deliberately vulnerable web application designed for hands-on teaching of web application security.</td>
     </tr>
 </table>
 <br>
