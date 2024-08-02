@@ -116,7 +116,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Payloads All The Things.jpg"></td>
+<td><img src="assets/exploitation/Payloads All The Things.jpg"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security and also a cheatsheets</td>
@@ -1410,7 +1410,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/commix.png"></td>
+<td><img src="assets/exploitation/commix.png"></td>
 <td><b>commix</b></td>
 <td><a href="https://github.com/commixproject/commix">GitHub</a></td>
 <td>(Web): Automated All-in-One OS Command Injection Exploitation Tool.</td>
@@ -1507,70 +1507,70 @@
 <tbody>
 
 <tr>
-<td><img src="assets/exploits/Exploit-DB.png"></td>
+<td><img src="assets/exploitation/Exploit-DB.png"></td>
 <td><b>Exploit-DB</b></td>
 <td><a href="https://www.exploit-db.com/">Website</a></td>
 <td>Exploit Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Sploitus.jpg"></td>
+<td><img src="assets/exploitation/Sploitus.jpg"></td>
 <td><b>Sploitus</b></td>
 <td><a href="https://sploitus.com/">Website</a></td>
 <td>(PoC): Convenient central place for identifying the newest exploits</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/rapid7db.png"></td>
+<td><img src="assets/exploitation/rapid7db.png"></td>
 <td><b>Rapid7 - DB</b></td>
 <td><a href="https://www.rapid7.com/db/">Website</a></td>
 <td>(Databse): Vulnerability & Exploit Database</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/vulmon.jpg"></td>
+<td><img src="assets/exploitation/vulmon.jpg"></td>
 <td><b>Vulmon</b></td>
 <td><a href="https://vulmon.com/">Website</a></td>
 <td>(Database): Vulnerability and exploit search engine</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/packetstormsecurity.jpg"></td>
+<td><img src="assets/exploitation/packetstormsecurity.jpg"></td>
 <td><b>packetstormsecurity.com</b></td>
 <td><a href="https://packetstormsecurity.com/">Website</a></td>
 <td>Information Security Services, News, Files, Tools, Exploits, Advisories, and Whitepapers</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/0day.today.jpg"></td>
+<td><img src="assets/exploitation/0day.today.jpg"></td>
 <td><b>0day.today</b></td>
 <td><a href="https://0day.today/">Website</a></td>
 <td>Ultimate database of exploits and vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/LOLBAS.png"></td>
+<td><img src="assets/exploitation/LOLBAS.png"></td>
 <td><b>LOLBAS</b></td>
 <td><a href="https://lolbas-project.github.io/">Github</a></td>
 <td>(Windows): Living Off The Land Binaries, Scripts and Libraries</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/GTFOBins.png"></td>
+<td><img src="assets/exploitation/GTFOBins.png"></td>
 <td><b>GTFOBins</b></td>
 <td><a href="https://gtfobins.github.io/">Github</a></td>
 <td>(Linux-Unix): Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/xss-payloads.jpg"></td>
+<td><img src="assets/exploitation/xss-payloads.jpg"></td>
 <td><b>XSS Payloads</b></td>  
 <td><a href="https://xss.js.org/">Website</a></td>
 <td>(WEB-XSS): The wonderland of JavaScript unexpected usages, and more</td>
 </tr> 
 
 <tr>
-<td><img src="assets/exploits/NetExec.png"></td>
+<td><img src="assets/exploitation/NetExec.png"></td>
 <td><b>NetExec</b></td>
 <td><a href="https://github.com/Pennyw0rth/NetExec">Github</a>
 <a href="https://www.netexec.wiki/">Website</a></td>
@@ -1578,28 +1578,28 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Reverse Shell generator.png"></td>
+<td><img src="assets/exploitation/Reverse Shell generator.png"></td>
 <td><b>Reverse Shell generator</b></td>
 <td><a href="https://www.revshells.com/">Website</a></td>
 <td>(Reverse-Shell): Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/hackerone activity.png"></td>
+<td><img src="assets/exploitation/hackerone activity.png"></td>
 <td><b>HackerOne hacktivity</b></td>
 <td><a href="https://hackerone.com/hacktivity">Website</a></td>
 <td>(Disclosures): See the latest hacker activity on HackerOne</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Bugcrowd.png"></td>
+<td><img src="assets/exploitation/Bugcrowd.png"></td>
 <td><b>Bugcrowd Crowdstream</b></td>
 <td><a href="https://bugcrowd.com/crowdstream">Website</a></td>
 <td>(Disclosures): Showcase of accepted and disclosed submissions on Bugcrowd programs</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/GTFOArgs.png"></td>
+<td><img src="assets/exploitation/GTFOArgs.png"></td>
 <td><b>GTFOArgs</b></td>
 <td><a href="https://gtfoargs.github.io/">Github</a></td>
 <td>(Linux-Unix): Curated list of Unix binaries that can be manipulated for argument injection</td>
@@ -1613,84 +1613,84 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Hacking the Cloud.png"></td>
+<td><img src="assets/exploitation/Hacking the Cloud.png"></td>
 <td><b>Hacking the Cloud</b></td>
 <td><a href="https://hackingthe.cloud/">Website</a></td>
 <td>(TTPs): Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/LOLDrivers.png"></td>
+<td><img src="assets/exploitation/LOLDrivers.png"></td>
 <td><b>LOLDrivers</b></td>
 <td><a href="https://www.loldrivers.io/">Website</a></td>
 <td>(Windows): Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/PwnWiki.jpg"></td>
+<td><img src="assets/exploitation/PwnWiki.jpg"></td>
 <td><b>PwnWiki</b></td>
 <td><a href="http://pwnwiki.io/">Website</a></td>
 <td>(TTPs): Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/CVExploits Search.jpg"></td>
+<td><img src="assets/exploitation/CVExploits Search.jpg"></td>
 <td><b>CVExploits Search</b></td>
 <td><a href="https://cvexploits.io/">Website</a></td>
 <td>(Database): Your comprehensive database for CVE exploits from across the internet</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/nanorobeus.png"></td>
+<td><img src="assets/exploitation/nanorobeus.png"></td>
 <td><b>nanorobeus</b></td>
 <td><a href="https://github.com/wavvs/nanorobeus">Github</a></td>
 <td>(Windows): A minimalistic tool for managing Kerberos tickets. Supports redteam frameworks</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/SploitScan.jpg"></td>
+<td><img src="assets/exploitation/SploitScan.jpg"></td>
 <td><b>SploitScan</b></td>
 <td><a href="https://github.com/xaitax/SploitScan">Github</a></td>
 <td>(PoC): SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/sicat.png"></td>
+<td><img src="assets/exploitation/sicat.png"></td>
 <td><b>Sicat</b></td>
 <td><a href="https://github.com/justakazh/sicat">Github</a></td>
 <td>(PoC): SiCat is an advanced exploit search tool designed to identify and gather information about exploits from both open sources and local repositories effectively.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/DNS Tunnel Keylogger.png"></td>
+<td><img src="assets/exploitation/DNS Tunnel Keylogger.png"></td>
 <td><b>DNS Tunnel Keylogger</b></td>
   <td><a href="https://github.com/Geeoon/DNS-Tunnel-Keylogger">Github</a></td>
 <td>Keylogging server and client that uses DNS tunneling/exfiltration to transmit keystrokes through firewalls. </td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Payloads All The Things.jpg"></td>
+<td><img src="assets/exploitation/Payloads All The Things.jpg"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
 <td>A list of useful payloads and bypasses for Web Application Security</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/commix.png"></td>
+<td><img src="assets/exploitation/commix.png"></td>
 <td><b>Commix</b></td>
 <td><a href="https://github.com/commixproject/commix">GitHub</a></td>
 <td>(Command-Injection): Automated All-in-One OS command injection and exploitation tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/corsy.png"></td>
+<td><img src="assets/exploitation/corsy.png"></td>
 <td><b>Corsy</b></td>
 <td><a href="https://github.com/s0md3v/Corsy">GitHub</a></td>
 <td>(CORS-Misconfig): CORS Misconfiguration Scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/CORStest.png"></td>
+<td><img src="assets/exploitation/CORStest.png"></td>
 <td><b>CORStest</b></td>
 <td><a href="https://github.com/RUB-NDS/CORStest">GitHub</a></td>
 <td>(CORS-Misconfig): A simple CORS misconfiguration scanner</td>
@@ -1698,56 +1698,56 @@
 
  
 <tr>
-<td><img src="assets/exploits/CorsMe.png"></td>
+<td><img src="assets/exploitation/CorsMe.png"></td>
 <td><b>CorsMe</b></td>
 <td><a href="https://github.com/Shivangx01b/CorsMe">GitHub</a></td>
 <td>(CORS-Misconfig): Cross Origin Resource Sharing MisConfiguration Scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/CRLFsuite.png"></td>
+<td><img src="assets/exploitation/CRLFsuite.png"></td>
 <td><b>CRLFsuite</b></td>
 <td><a href="https://github.com/Nefcore/CRLFsuite">GitHub</a></td>
 <td>(CRLF-Injection): A fast tool specially designed to scan CRLF injection</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/crlfuzz.jpg"></td>
+<td><img src="assets/exploitation/crlfuzz.jpg"></td>
 <td><b>crlfuzz</b></td>
 <td><a href="https://github.com/dwisiswant0/crlfuzz">GitHub</a></td>
 <td>(CRLF-Injection): A fast tool to scan CRLF vulnerability written in Go</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/CRLF-Injection-Scanner.jpg"></td>
+<td><img src="assets/exploitation/CRLF-Injection-Scanner.jpg"></td>
 <td><b>CRLF-Injection-Scanner</b></td>
 <td><a href="https://github.com/MichaelStott/CRLF-Injection-Scanner">GitHub</a></td>
 <td>(CRLF-Injection): Command line tool for testing CRLF injection on a list of domains</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Injectus.jpg"></td>
+<td><img src="assets/exploitation/Injectus.jpg"></td>
 <td><b>Injectus</b></td>
 <td><a href="https://github.com/BountyStrike/Injectus">GitHub</a></td>
 <td>(CRLF-Injection): CRLF and open redirect fuzzer</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/XSRFProbe.png"></td>
+<td><img src="assets/exploitation/XSRFProbe.png"></td>
 <td><b>XSRFProbe</b></td>
 <td><a href="https://github.com/0xInfection/XSRFProbe">GitHub</a></td>
 <td>(CSRF-Injection): The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/dotdotpwn.jpg"></td>
+<td><img src="assets/exploitation/dotdotpwn.jpg"></td>
 <td><b>dotdotpwn</b></td>
 <td><a href="https://github.com/wireghoul/dotdotpwn">GitHub</a></td>
 <td>(Directory-Traversal): DotDotPwn - The Directory Traversal Fuzzer</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/FDsploit.jpg"></td>
+<td><img src="assets/exploitation/FDsploit.jpg"></td>
 <td><b>FDsploit</b></td>
 <td><a href="https://github.com/chrispetrou/FDsploit">GitHub</a></td>
 <td>(Directory-Traversal): File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool.</td>
@@ -1762,35 +1762,35 @@
  
 
 <tr>
-<td><img src="assets/exploits/liffy.png"></td>
+<td><img src="assets/exploitation/liffy.png"></td>
 <td><b>liffy</b></td>
 <td><a href="https://github.com/mzfr/liffy">GitHub</a></td>
 <td>(File-Inclusion): Local file inclusion exploitation tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/LFISuite.png"></td>
+<td><img src="assets/exploitation/LFISuite.png"></td>
 <td><b>LFISuite</b></td>
 <td><a href="https://github.com/D35m0nd142/LFISuite">GitHub</a></td>
 <td>(File-Inclusion): Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/LFI-files.png"></td>
+<td><img src="assets/exploitation/LFI-files.png"></td>
 <td><b>LFI-files</b></td>
 <td><a href="https://github.com/hussein98d/LFI-files">GitHub</a></td>
 <td>(File-Inclusion): Wordlist to bruteforce for LFI</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/inql.png"></td>
+<td><img src="assets/exploitation/inql.png"></td>
 <td><b>inql</b></td>
 <td><a href="https://github.com/doyensec/inql">GitHub</a></td>
 <td>(GraphQL-Injection): InQL - A Burp Extension for GraphQL Security Testing</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/GraphQLmap.jpg"></td>
+<td><img src="assets/exploitation/GraphQLmap.jpg"></td>
 <td><b>GraphQLmap</b></td>
 <td><a href="https://github.com/swisskyrepo/GraphQLmap">GitHub</a></td>
 <td>(GraphQL-Injection): GraphQLmap is a scripting engine to interact with a GraphQL endpoint for pentesting purposes.</td>
@@ -1804,49 +1804,49 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/headi.jpg"></td>
+<td><img src="assets/exploitation/headi.jpg"></td>
 <td><b>headi</b></td>
 <td><a href="https://github.com/mlcsec/headi">GitHub</a></td>
 <td>(Header-Injection): Customisable and automated HTTP header injection.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ysoserial.png"></td>
+<td><img src="assets/exploitation/ysoserial.png"></td>
 <td><b>ysoserial</b></td>
 <td><a href="https://github.com/frohoff/ysoserial">GitHub</a></td>
 <td>(Deserialization): A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/GadgetProbe.png"></td>
+<td><img src="assets/exploitation/GadgetProbe.png"></td>
 <td><b>GadgetProbe</b></td>
 <td><a href="https://github.com/BishopFox/GadgetProbe">GitHub</a></td>
 <td>(Deserialization): Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ysoserial.net.png"></td>
+<td><img src="assets/exploitation/ysoserial.net.png"></td>
 <td><b>ysoserial.net</b></td>
 <td><a href="https://github.com/pwntester/ysoserial.net">GitHub</a></td>
 <td>(Deserialization): payload generator for a variety of .NET formatters</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/phpggc.png"></td>
+<td><img src="assets/exploitation/phpggc.png"></td>
 <td><b>phpggc</b></td>
 <td><a href="https://github.com/ambionics/phpggc">GitHub</a></td>
 <td>(Deserialization): PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Autorize.png"></td>
+<td><img src="assets/exploitation/Autorize.png"></td>
 <td><b>Autorize</b></td>
 <td><a href="https://github.com/Quitten/Autorize">GitHub</a></td>
 <td>(IDOR): Automatic authorization enforcement detection extension for Burp Suite written in Jython developed by Barak Tawily</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Oralyzer.jpg"></td>
+<td><img src="assets/exploitation/Oralyzer.jpg"></td>
 <td><b>Oralyzer</b></td>
 <td><a href="https://github.com/r0075h3ll/Oralyzer">GitHub</a></td>
 <td>(Open-Redirect): Open Redirection Analyzer</td>
@@ -1854,21 +1854,21 @@
 
 
 <tr>
-<td><img src="assets/exploits/Injectus.jpg"></td>
+<td><img src="assets/exploitation/Injectus.jpg"></td>
 <td><b>Injectus</b></td>
 <td><a href="https://github.com/BountyStrike/Injectus">GitHub</a></td>
 <td>(Open-Redirect): CRLF and open redirect fuzzer</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/dom-red.jpg"></td>
+<td><img src="assets/exploitation/dom-red.jpg"></td>
 <td><b>dom-red</b></td>
 <td><a href="https://github.com/Naategh/dom-red">GitHub</a></td>
 <td>(Open-Redirect): Small script to check a list of domains against open redirect vulnerability</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/OpenRedireX.jpg"></td>
+<td><img src="assets/exploitation/OpenRedireX.jpg"></td>
 <td><b>OpenRedireX</b></td>
 <td><a href="https://github.com/devanshbatham/OpenRedireX">GitHub</a></td>
 <td>(Open-Redirect): A Fuzzer for OpenRedirect issues</td>
@@ -1889,14 +1889,14 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/requests-racer.png"></td>
+<td><img src="assets/exploitation/requests-racer.png"></td>
 <td><b>requests-racer</b></td>
 <td><a href="https://github.com/nccgroup/requests-racer">GitHub</a></td>
 <td>(Race-Condition): Small Python library that makes it easy to exploit race conditions in web apps with Requests</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/turbo-intruder.png"></td>
+<td><img src="assets/exploitation/turbo-intruder.png"></td>
 <td><b>turbo-intruder</b></td>
 <td><a href="https://github.com/PortSwigger/turbo-intruder">GitHub</a></td>
 <td>(Race-Condition): Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results</td>
@@ -1910,35 +1910,35 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/http-request-smuggling.png"></td>
+<td><img src="assets/exploitation/http-request-smuggling.png"></td>
 <td><b>http-request-smuggling</b></td>
 <td><a href="https://github.com/anshumanpattnaik/http-request-smuggling">GitHub</a></td>
 <td>HTTP Request Smuggling Detection Tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/smuggler.jpg"></td>
+<td><img src="assets/exploitation/smuggler.jpg"></td>
 <td><b>smuggler</b></td>
 <td><a href="https://github.com/defparam/smuggler">GitHub</a></td>
 <td>Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/h2csmuggler.png"></td>
+<td><img src="assets/exploitation/h2csmuggler.png"></td>
 <td><b>h2csmuggler</b></td>
 <td><a href="https://github.com/BishopFox/h2csmuggler">GitHub</a></td>
 <td>(Request-Smuggling): HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/tiscripts.jpg"></td>
+<td><img src="assets/exploitation/tiscripts.jpg"></td>
 <td><b>tiscripts</b></td>
 <td><a href="https://github.com/defparam/tiscripts">GitHub</a></td>
 <td>(Request-Smuggling): These scripts I use to create Request Smuggling Desync payloads for CLTE and TECL style attacks</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/SSRFmap.jpg"></td>
+<td><img src="assets/exploitation/SSRFmap.jpg"></td>
 <td><b>SSRFmap</b></td>
 <td><a href="https://github.com/swisskyrepo/SSRFmap">GitHub</a></td>
 <td>(SSRF): Automatic SSRF fuzzer and exploitation tool</td>
@@ -1952,35 +1952,35 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ground-control.png"></td>
+<td><img src="assets/exploitation/ground-control.png"></td>
 <td><b>ground-control</b></td>
 <td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
 <td>(SSRF): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/SSRFire.jpg"></td>
+<td><img src="assets/exploitation/SSRFire.jpg"></td>
 <td><b>SSRFire</b></td>
 <td><a href="https://github.com/micha3lb3n/SSRFire">GitHub</a></td>
 <td>(SSRF): An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/httprebind.jpg"></td>
+<td><img src="assets/exploitation/httprebind.jpg"></td>
 <td><b>httprebind</b></td>
 <td><a href="https://github.com/daeken/httprebind">GitHub</a></td>
 <td>(SSRF): Automatic tool for DNS rebinding-based SSRF attacks</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ssrf-sheriff.jpg"></td>
+<td><img src="assets/exploitation/ssrf-sheriff.jpg"></td>
 <td><b>ssrf-sheriff</b></td>
 <td><a href="https://github.com/teknogeek/ssrf-sheriff">GitHub</a></td>
 <td>(SSRF): A simple SSRF-testing sheriff written in Go</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/B-XSSRF.png"></td>
+<td><img src="assets/exploitation/B-XSSRF.png"></td>
 <td><b>B-XSSRF</b></td>
 <td><a href="https://github.com/SpiderMate/B-XSSRF">GitHub</a></td>
 <td>(SSRF): Toolkit to detect and keep track on Blind XSS, XXE & SSRF</td>
@@ -1994,35 +1994,35 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/gaussrf.jpg"></td>
+<td><img src="assets/exploitation/gaussrf.jpg"></td>
 <td><b>gaussrf</b></td>
 <td><a href="https://github.com/KathanP19/gaussrf">GitHub</a></td>
 <td>(SSRF): Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and filter URLs with OpenRedirection or SSRF Parameters</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ssrfDetector.png"></td>
+<td><img src="assets/exploitation/ssrfDetector.png"></td>
 <td><b>ssrfDetector</b></td>
 <td><a href="https://github.com/JacobReynolds/ssrfDetector">GitHub</a></td>
 <td>(SSRF): Server-side request forgery detector</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/sentrySSRF.jpg"></td>
+<td><img src="assets/exploitation/sentrySSRF.jpg"></td>
 <td><b>sentrySSRF</b></td>
 <td><a href="https://github.com/xawdxawdx/sentrySSRF">GitHub</a></td>
 <td>(SSRF): Tool to search sentry config on page or in javascript files and check blind SSRF</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/lorsrf.jpg"></td>
+<td><img src="assets/exploitation/lorsrf.jpg"></td>
 <td><b>lorsrf</b></td>
 <td><a href="https://github.com/knassar702/lorsrf">GitHub</a></td>
 <td>(SSRF): Bruteforcing on hidden parameters to find SSRF vulnerability using GET and POST methods</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Singularity.png">
+<td><img src="assets/exploitation/Singularity.png">
 <td><b>Singularity</b></td>
 <td><a href="https://github.com/nccgroup/singularity">GitHub</a></td>
 <td>(SSRF): A DNS rebinding attack framework</td>
@@ -2043,7 +2043,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/dref.png"></td>
+<td><img src="assets/exploitation/dref.png"></td>
 <td><b>dref</b></td>
 <td><a href="https://github.com/FSecureLABS/dref">GitHub</a></td>
 <td>(SSRF): DNS Rebinding Exploitation Framework</td>
@@ -2057,91 +2057,91 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/httprebind.jpg"></td>
+<td><img src="assets/exploitation/httprebind.jpg"></td>
 <td><b>httprebind</b></td>
 <td><a href="https://github.com/daeken/httprebind">GitHub</a></td>
 <td>(SSRF): Automatic tool for DNS rebinding-based SSRF attacks</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/dnsFookup.jpg"></td>
+<td><img src="assets/exploitation/dnsFookup.jpg"></td>
 <td><b>dnsFookup</b></td>
 <td><a href="https://github.com/makuga01/dnsFookup">GitHub</a></td>
 <td>(SSRF): DNS rebinding toolkit</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/surf.png"></td>
+<td><img src="assets/exploitation/surf.png"></td>
 <td><b>surf</b></td>
 <td><a href="https://github.com/assetnote/surf">GitHub</a></td>
 <td>(SSRF): Escalate your SSRF vulnerabilities on modern cloud environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/NoSQLMap.png"></td>
+<td><img src="assets/exploitation/NoSQLMap.png"></td>
 <td><b>NoSQLMap</b></td>
 <td><a href="https://github.com/codingo/NoSQLMap">GitHub</a></td>
 <td>(SQL Injection): Automated NoSQL database enumeration and web application exploitation tool.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/SQLiScanner.jpg"></td>
+<td><img src="assets/exploitation/SQLiScanner.jpg"></td>
 <td><b>SQLiScanner</b></td>
 <td><a href="https://github.com/0xbug/SQLiScanner">GitHub</a></td>
 <td>(SQL Injection): Automatic SQL injection with Charles and sqlmap api</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/SleuthQL.png"></td>
+<td><img src="assets/exploitation/SleuthQL.png"></td>
 <td><b>SleuthQL</b></td>
 <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">GitHub</a></td>
 <td>(SQL Injection): Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/mssqlproxy.png"></td>
+<td><img src="assets/exploitation/mssqlproxy.png"></td>
 <td><b>mssqlproxy</b></td>
 <td><a href="https://github.com/blackarrowsec/mssqlproxy">GitHub</a></td>
 <td>(SQL Injection): Toolkit aimed to perform lateral movement in restricted environments through a compromised Microsoft SQL Server via socket reuse</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/sqli-hunter.jpg"></td>
+<td><img src="assets/exploitation/sqli-hunter.jpg"></td>
 <td><b>sqli-hunter</b></td>
 <td><a href="https://github.com/zt2/sqli-hunter">GitHub</a></td>
 <td>(SQL Injection): Simple HTTP / HTTPS proxy server and a SQLMAP API wrapper that makes digging SQLi easy.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/waybackSqliScanner.jpg"></td>
+<td><img src="assets/exploitation/waybackSqliScanner.jpg"></td>
 <td><b>waybackSqliScanner</b></td>
 <td><a href="https://github.com/ghostlulzhacks/waybackSqliScanner">GitHub</a></td>
 <td>(SQL Injection): Gather urls from wayback machine then test each GET parameter for sql injection.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ESC.jpg"></td>
+<td><img src="assets/exploitation/ESC.jpg"></td>
 <td><b>ESC</b></td>
 <td><a href="https://github.com/NetSPI/ESC">GitHub</a></td>
 <td>(SQL Injection): Evil SQL Client (ESC) is an interactive .NET SQL console client with enhanced SQL Server discovery, access, and data exfiltration features.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/mssqli-duet.png"></td>
+<td><img src="assets/exploitation/mssqli-duet.png"></td>
 <td><b>mssqli-duet</b></td>
 <td><a href="https://github.com/Keramas/mssqli-duet">GitHub</a></td>
 <td>(SQL Injection): script for MSSQL that extracts domain users from an Active Directory environment based on RID bruteforcing</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/BurpSQLTruncSanner.jpg"></td>
+<td><img src="assets/exploitation/BurpSQLTruncSanner.jpg"></td>
 <td><b>BurpSQLTruncSanner</b></td>
 <td><a href="https://github.com/InitRoot/BurpSQLTruncSanner">GitHub</a></td>
 <td>(SQL Injection): Messy BurpSuite plugin for SQL Truncation vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/andor.png"></td>
+<td><img src="assets/exploitation/andor.png"></td>
 <td><b>andor</b></td>
 <td><a href="https://github.com/sadicann/andor">GitHub</a></td>
 <td>(SQL Injection): Blind SQL Tool with Golang</td>
@@ -2169,7 +2169,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ghauri.jpg"></td>
+<td><img src="assets/exploitation/ghauri.jpg"></td>
 <td><b>ghauri</b></td>
 <td><a href="https://github.com/r0oth3x49/ghauri">GitHub</a></td>
 <td>(SQL Injection): An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</td>
@@ -2177,28 +2177,28 @@
 
 <!-- XSS Injection Tools -->
 <tr>
-<td><img src="assets/exploits/XSStrike.png"></td>
+<td><img src="assets/exploitation/XSStrike.png"></td>
 <td><b>XSStrike</b></td>
 <td><a href="https://github.com/s0md3v/XSStrike">GitHub</a></td>
 <td>(XSS Injection):  Most advanced XSS scanner.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/xssor2.png"></td>
+<td><img src="assets/exploitation/xssor2.png"></td>
 <td><b>xssor2</b></td>
 <td><a href="https://github.com/evilcos/xssor2">GitHub</a></td>
 <td>(XSS  Injection): XSS'OR - Hack with JavaScript.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/xsscrapy.jpg"></td>
+<td><img src="assets/exploitation/xsscrapy.jpg"></td>
 <td><b>xsscrapy</b></td>
 <td><a href="https://github.com/DanMcInerney/xsscrapy">GitHub</a></td>
 <td>(XSS Injection): wavsep XSS detected</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ezXSS.jpg"></td>
+<td><img src="assets/exploitation/ezXSS.jpg"></td>
 <td><b>ezXSS</b></td>
 <td><a href="https://github.com/ssl/ezXSS">GitHub</a></td>
 <td>(XSS Injection): ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.</td>
@@ -2212,21 +2212,21 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/dalfox.png"></td>
+<td><img src="assets/exploitation/dalfox.png"></td>
 <td><b>dalfox</b></td>
 <td><a href="https://github.com/hahwul/dalfox">GitHub</a></td>
 <td>(XSS Injection): DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/xsser.jpg"></td>
+<td><img src="assets/exploitation/xsser.jpg"></td>
 <td><b>xsser</b></td>
 <td><a href="https://github.com/epsylon/xsser">GitHub</a></td>
 <td>(XSS Injection): Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/XSpear.png"></td>
+<td><img src="assets/exploitation/XSpear.png"></td>
 <td><b>XSpear</b></td>
 <td><a href="https://github.com/hahwul/XSpear">GitHub</a></td>
 <td>(XSS Injection): Powerful XSS Scanning and Parameter analysis tool&gem</td>
@@ -2240,105 +2240,105 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/tracy.png"></td>
+<td><img src="assets/exploitation/tracy.png"></td>
 <td><b>tracy</b></td>
 <td><a href="https://github.com/nccgroup/tracy">GitHub</a></td>
 <td>(XSS Injection): A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/ground-control.png"></td>
+<td><img src="assets/exploitation/ground-control.png"></td>
 <td><b>ground-control</b></td>
 <td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
 <td>(XSS Injection): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/JSShell.jpg"></td>
+<td><img src="assets/exploitation/JSShell.jpg"></td>
 <td><b>JSShell</b></td>
 <td><a href="https://github.com/Den1al/JSShell">GitHub</a></td>
 <td>(XSS Injection): An interactive multi-user web JS shell</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/bXSS.jpg"></td>
+<td><img src="assets/exploitation/bXSS.jpg"></td>
 <td><b>bXSS</b></td>
 <td><a href="https://github.com/LewisArdern/bXSS">GitHub</a></td>
 <td>(XSS Injection): bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/docem.jpg"></td>
+<td><img src="assets/exploitation/docem.jpg"></td>
 <td><b>docem</b></td>
 <td><a href="https://github.com/whitel1st/docem">GitHub</a></td>
 <td>(XSS Injection): Utility to embed XXE and XSS payloads in docx, odt, pptx, etc (OXML_XEE on steroids)</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/XSS-Radar.png"></td>
+<td><img src="assets/exploitation/XSS-Radar.png"></td>
 <td><b>XSS-Radar</b></td>
 <td><a href="https://github.com/bugbountyforum/XSS-Radar">GitHub</a></td>
 <td>(XSS Injection): XSS Radar is a tool that detects parameters and fuzzes them for cross-site scripting vulnerabilities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/findom-xss.png"></td>
+<td><img src="assets/exploitation/findom-xss.png"></td>
 <td><b>findom-xss</b></td>
 <td><a href="https://github.com/dwisiswant0/findom-xss">GitHub</a></td>
 <td>(XSS  Injection): A fast DOM based XSS vulnerability scanner with simplicity.</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/domdig.jpg"></td>
+<td><img src="assets/exploitation/domdig.jpg"></td>
 <td><b>domdig</b></td>
 <td><a href="https://github.com/fcavallarin/domdig">GitHub</a></td>
 <td>(XSS Injection): DOM XSS scanner for Single Page Applications</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/femida.png"></td>
+<td><img src="assets/exploitation/femida.png"></td>
 <td><b>femida</b></td>
 <td><a href="https://github.com/wish-i-was/femida">GitHub</a></td>
 <td>(XSS Injection): Automated blind-xss search for Burp Suite</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/B-XSSRF.png"></td>
+<td><img src="assets/exploitation/B-XSSRF.png"></td>
 <td><b>B-XSSRF</b></td>
 <td><a href="https://github.com/SpiderMate/B-XSSRF">GitHub</a></td>
 <td>(XSS Injection): Toolkit to detect and keep track on Blind XSS, XXE & SSRF</td>
 </tr>
  
 <tr>
-<td><img src="assets/exploits/xssmap.png"></td>
+<td><img src="assets/exploitation/xssmap.png"></td>
 <td><b>xssmap</b></td>
 <td><a href="https://github.com/Jewel591/xssmap">GitHub</a></td>
 <td>(XSS Injection): XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/XSSCon.png"></td>
+<td><img src="assets/exploitation/XSSCon.png"></td>
 <td><b>XSSCon</b></td>
 <td><a href="https://github.com/menkrep1337/XSSCon">GitHub</a></td>
 <td>(XSS Injection): Simple XSS Scanner tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/BitBlinder.png"></td>
+<td><img src="assets/exploitation/BitBlinder.png"></td>
 <td><b>BitBlinder</b></td>
 <td><a href="https://github.com/BitTheByte/BitBlinder">GitHub</a></td>
 <td>(XSS Injection):BurpSuite extension to inject custom cross-site scripting payloads on every form/request submitted to detect blind XSS vulnerabilities</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/shadow-workers.png"></td>
+<td><img src="assets/exploitation/shadow-workers.png"></td>
 <td><b>shadow-workers</b></td>
 <td><a href="https://github.com/shadow-workers/shadow-workers">GitHub</a></td>
 <td>(XSS Injection): Shadow Workers is a free and open source C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)</td>
 </tr>
  
 <tr>
-<td><img src="assets/exploits/dtd-finder.png"></td>
+<td><img src="assets/exploitation/dtd-finder.png"></td>
 <td><b>dtd-finder</b></td>
 <td><a href="https://github.com/GoSecure/dtd-finder">GitHub</a></td>
 <td>(XXE  Injection): List DTDs and generate XXE payloads using those local DTDs.</td>
@@ -2352,7 +2352,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploits/xxexploiter.png"></td>
+<td><img src="assets/exploitation/xxexploiter.png"></td>
 <td><b>xxexploiter</b></td>
 <td><a href="https://github.com/luisfontes19/xxexploiter">GitHub</a></td>
 <td>(XXE Injection): Tool to help exploit XXE vulnerabilities</td>
@@ -2373,21 +2373,21 @@
 </tr>
  
 <tr>
-<td><img src="assets/exploits/tplmap.jpg"></td>
+<td><img src="assets/exploitation/tplmap.jpg"></td>
 <td><b>tplmap</b></td>
 <td><a href="https://github.com/epinna/tplmap">GitHub</a></td>
 <td>(SSTI): Server-Side Template Injection and Code Injection Detection and Exploitation Tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/SSTImap.png"></td>
+<td><img src="assets/exploitation/SSTImap.png"></td>
 <td><b>SSTImap</b></td>
 <td><a href="https://github.com/vladko312/SSTImap">GitHub</a></td>
 <td>(SSTI): Automatic SSTI detection tool with interactive interface</td>
 </tr>
 
 <tr>
-<td><img src="assets/exploits/xss2png.jpg"></td>
+<td><img src="assets/exploitation/xss2png.jpg"></td>
 <td><b>xss2png</b></td>
 <td><a href="https://github.com/vavkamil/xss2png">GitHub</a></td>
 <td>(XSS): PNG IDAT chunks XSS payload generator</td>
@@ -6257,7 +6257,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/exploits/Villain C2 Framework.jpg"></td>
+<td><img src="assets/exploitation/Villain C2 Framework.jpg"></td>
 <td><b> Villain C2 Framework</b></td>
 <td><a href="https://github.com/t3l3machus/Villain">Github</a></td>
 <td>Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells .</td>
