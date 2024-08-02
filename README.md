@@ -3298,7 +3298,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
    <tr>
-      <td><img src="assets/credentials-leaks/Have-I-Been-Pwned.jpg"></td>
+      <td><img src="assets/credentials-leaks/weakpass.png"></td>
       <td><b>Weakpass: wordlist - dicassassin</b></td>
       <td><a href="https://weakpass.com/wordlist/1946">Website</a></td>
       <td>weakpass unleash the power of them all at once</td>
