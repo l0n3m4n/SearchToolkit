@@ -116,7 +116,7 @@ def main():
     else:
         print(f"{COLORS.LIGHTGREEN}No duplicate links found.{COLORS.RESET}")
 
-    print(f"\n{COLORS.LIGHTBLUE}Total URLs Processed{COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
+    print(f"\n{COLORS.LIGHTBLUE}Total URLs {COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
 
 if __name__ == "__main__":
     main()
