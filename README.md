@@ -3767,49 +3767,49 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
    <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/stackoverflow.png"></td>
       <td><b>stackoverflow</b></td>
       <td><a href="https://stackoverflow.com/">Website</a></td>
       <td>Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.</td>
     </tr>
     <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/GeeksforGeeks.png"></td>
       <td><b>GeeksforGeeks</b></td>
       <td><a href="https://www.geeksforgeeks.org/">Website</a></td>
       <td>A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming.</td>
     </tr>
      <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/W3Schools.png"></td>
       <td><b>W3Schools</b></td>
       <td><a href="https://www.w3schools.com/">Website</a></td>
       <td>W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.</td>
     </tr>
     <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/DEV.png"></td>
       <td><b>DEV</b></td>
       <td><a href="https://dev.to/">Website</a></td>
       <td>A constructive and inclusive social network for software developers. With you every step of your journey.</td>
     </tr>
       <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/tutorialspoint.png"></td>
       <td><b>tutorialspoint</b></td>
       <td><a href="https://www.tutorialspoint.com">Website</a></td>
       <td>Learn the latest technologies and programming languages including Smart Grid Technology, Prompt Engineering, Generative AI, Python, DSA, C, C++, Java, PHP, etc.</td>
     </tr>
      <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/pythondocs.png"></td>
       <td><b>Python Docs</b></td>
       <td><a href="https://docs.python.org">Website</a></td>
       <td>Python documentation and tutorials, search lib, modules, environment variables and etc.</td>
     </tr>
     <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/js-beautify .png"></td>
       <td><b>code beautifier</b></td>
       <td><a href="https://beautifier.io">Website</a></td>
       <td>js-beautify (v1.15.1). Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, SASS and etc.</td>
     </tr>
      <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><img src="assets/programming/JavaScript Obfuscator.png"></td>
       <td><b>JavaScript Obfuscator</b></td>
       <td><a href="https://obfuscator.io/">Website</a></td>
       <td>A free and efficient obfuscator for JavaScript (including support of ES2022). Make your code harder to copy and prevent people from stealing your work. </td>
