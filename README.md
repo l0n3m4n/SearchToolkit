@@ -6109,13 +6109,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
   </thead>
   <tbody>
     <tr>
-        <td><img src="assets/android/APK_assets/default_logo.png"></td>
+        <td><img src="assets/android/Moukthar RAT.png"></td>
         <td><b>Moukthar RAT</b></td>
         <td><a href="https://github.com/Tomiwa-Ot/moukthar">Github</a></td>
         <td>Android remote administration tool </td>
     </tr>
     <tr>
-        <td><img src="assets/android/APK_assets/default_logo.png"></td>
+        <td><img src="assets/default_logo.png"></td>
         <td><b>APKDeepLens</b></td>
         <td><a href="https://github.com/d78ui98/APKDeepLens">Github</a></td>
         <td>APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities</td>
@@ -6127,13 +6127,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td>A tool for reverse engineering Android apk files.</td>
     </tr>
      <tr>
-        <td><img src="assets/android/APK_assets/default_logo.png"></td>
+        <td><img src="assets/android/Apk2url.png"></td>
         <td><b>Apk2url</b></td>
         <td><a href="https://github.com/n0mi1k/apk2url">Github</a></td>
         <td>An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling </td>
     </tr>
      <tr>
-        <td><img src="assets/android/APK_assets/default_logo.png"></td>
+        <td><img src="assets/android/DroidLysis.png"></td>
         <td><b>DroidLysis</b></td>
         <td><a href="https://github.com/cryptax/droidlysis"></a>Github</td>
         <td>Property extractor for Android apps </td>
@@ -6145,7 +6145,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td>drozer allows you to search for security vulnerabilities in apps and devices by assuming the role of an app and interacting with the Android Runtime, other apps' IPC endpoints and the underlying OS.</td>
     </tr>
       <tr>
-        <td><img src="assets/android/APK_assets/default_logo.png"></td>
+        <td><img src="assets/android/apkmonk.png"></td>
         <td><b>apkmonk</b></td>
         <td><a href="https://www.apkmonk.com"></a>Website</td>
         <td>Download APK from Desktop browser</td>
