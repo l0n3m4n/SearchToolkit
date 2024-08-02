@@ -3891,15 +3891,14 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <h2 align="center">OSINT</h2>
 
 <p align="center">
-  <a href="#special-osint-tools"><b>Special OSINT Tools</b></a> |
+  <a href="#misc"><b>Misc</b></a> |
   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
   <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#url"><b>URL</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
   <a href="#device-information"><b>Device Information</b></a> | 
   <a href="#darkweb-search-engine"><b>Darkweb Search Engine</b></a> |
-  <a href="#discovering-onion-links"><b>Discovering Onion Links</b></a> |
-  <a href="#scanning-onion-links"><b>Scanning Onions Links</b></a> |
+  <a href="#onion-links"><b>Onions Links</b></a> |
   <a href="#surveillance-cameras"><b>Surveillance Cameras</b></a> |
   <a href="#darkweb-data-crawling"><b>Darkweb Data Crawling</b></a> 
   <a href="#adversaries-monitoring"><b>Adversaries Monitoring</b></a>
@@ -4449,31 +4448,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 [⬆️ Back to OSINT](#OSINT)
 
-## Discovering Onion Links
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAMES</th>
-<th>LINKS</th>
-<th>DESCRIPTIONS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="image_url_for_Hunchly"></td>
-<td><b>Hunchly</b></td>
-<td><a href="https://www.hunch.ly/darkweb-osint/">Website</a></td>
-<td>Hunchly is a comprehensive OSINT platform that includes features for collecting and tracking onion links and Dark Web content.</td>
-</tr>
-</tbody>
-</table>
-<br>
-
-[⬆️ Back to OSINT](#OSINT)
-
-## Scanning Onion Links
+## Onion Links
 
 <table>
 <thead>
@@ -4502,6 +4477,12 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><b>Onion-nmap</b></td>
 <td><a href="https://github.com/milesrichardson/docker-onion-nmap">GitHub</a></td>
 <td>Onion-nmap is a Docker container for running Nmap scans on onion websites, helping you gather information about open ports and services.</td>
+</tr>
+<tr>
+<td><img src="image_url_for_Hunchly"></td>
+<td><b>Hunchly</b></td>
+<td><a href="https://www.hunch.ly/darkweb-osint/">Website</a></td>
+<td>Hunchly is a comprehensive OSINT platform that includes features for collecting and tracking onion links and Dark Web content.</td>
 </tr>
 </tbody>
 </table>
