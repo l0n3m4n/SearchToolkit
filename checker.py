@@ -15,7 +15,7 @@ class COLORS:
     RESET = "\033[0m"
  
 def extract_urls(line: str) -> List[str]:
-    """Extract URLs"""
+    """Extract URLs regex"""
     url_pattern = re.compile(
     r'http(?:s)?://'                         # http or https
     r'(?:www\.)?'                            # match www
@@ -98,10 +98,8 @@ def main():
         if not found_any:
             print(f"\n{COLORS.LIGHTCYAN}No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}")
 
-    # Process the file and get results
     errors_count, duplicates_count, duplicate_links, total_urls = process_file(url_file)
 
-    # Print results
     if errors_count:
         print(f"{COLORS.LIGHTRED} {errors_count}:{COLORS.RESET}")
         for error in errors_count:
@@ -116,7 +114,7 @@ def main():
     else:
         print(f"{COLORS.LIGHTGREEN}No duplicate links found{COLORS.RESET}")
 
-    print(f"\n{COLORS.LIGHTBLUE}Total URLs {COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
+    print(f"\n{COLORS.LIGHTBLUE}Total URLs{COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
 
 if __name__ == "__main__":
     main()
