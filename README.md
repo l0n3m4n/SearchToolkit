@@ -6449,7 +6449,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </thead>
 <tbody>
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/Ghidra.png"></td>
 <td><b>Ghidra</b></td>
 <td><a href="https://ghidra-sre.org/">Website</a></td>
 <td>(Disassemblers & Decompilers): Open-source reverse engineering tool developed by NSA</td>
@@ -6463,35 +6463,35 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/debugging/x64dbg.png"></td>
+<td><img src="assets/reverse-engineering/x64dbg.jpg"></td>
 <td><b>x64dbg</b></td>
 <td><a href="http://x64dbg.com/#start">Website</a></td>
 <td>(Debugging):  Open-source x64/x32 debugger for Windows</td>
 </tr>
 
 <tr>
-<td><img src="assets/hex-editors/hxd.png"></td>
+<td><img src="assets/reverse-engineering/HxD.png"></td>
 <td><b>HxD</b></td>
 <td><a href="https://mh-nexus.de/en/hxd/">Website</a></td>
 <td>(Hex Editor):  Hex and Disk Editor</td>
 </tr>
 
 <tr>
-<td><img src="assets/hex-editors/010-editor.png"></td>
+<td><img src="assets/reverse-engineering/010 Editor.jpg"></td>
 <td><b>010 Editor</b></td>
 <td><a href="http://www.sweetscape.com/010editor/">Website</a></td>
 <td>(Hex Editor): Advanced Hex Editor with Template System</td>
 </tr>
 
 <tr>
-<td><img src="assets/hex-editors/hex-workshop.png"></td>
+<td><img src="assets/reverse-engineering/Hex Workshop.jpg"></td>
 <td><b>Hex Workshop</b></td>
 <td><a href="http://www.hexworkshop.com/">Website</a></td>
 <td>(Hex Editor):  Hexworkshop is and hex editor with Advanced Features</td>
 </tr>
 
 <tr>
-<td><img src="assets/hex-editors/hex-fiend.png"></td>
+<td><img src="assets/reverse-engineering/HexFiend.jpg"></td>
 <td><b>HexFiend</b></td>
 <td><a href="http://ridiculousfish.com/hexfiend/">Website</a></td>
 <td>(Hex Editor): Hex edit for macOS</td>
@@ -6505,49 +6505,49 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/IDA Pro.jpg"></td>
 <td><b>IDA Pro</b></td>
 <td><a href="https://www.hex-rays.com/products/ida/index.shtml">Website</a></td>
 <td>(Disassemblers): Interactive DisAssembler with a powerful analysis engine</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/Binary Ninja.png"></td>
 <td><b>Binary Ninja</b></td>
 <td><a href="https://binary.ninja/">Website</a></td>
 <td>(Disassemblers): Modern binary analysis platform with a focus on usability</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/Jeb.png"></td>
 <td><b>JEB</b></td>
 <td><a href="https://www.pnfsoftware.com/jeb2/">Website</a></td>
 <td>(Disassemblers): Decompiler and reverse engineering framework for Android and more</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/Radare.jpg"></td>
 <td><b>Radare</b></td>
 <td><a href="http://www.radare.org/r/">Website</a></td>
 <td>(Disassemblers): Open-source framework for reverse engineering and binary analysis</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/Hopper.png"></td>
 <td><b>Hopper</b></td>
 <td><a href="http://hopperapp.com/">Website</a></td>
 <td>(Disassemblers): Disassembler and decompiler for macOS and Linux</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/Capston.jpg"></td>
 <td><b>Capstone</b></td>
 <td><a href="http://www.capstone-engine.org/">Website</a></td>
 <td>(Disassemblers): Multi-architecture disassembly framework</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/reverse-engineering/objdump.jpg"></td>
 <td><b>objdump</b></td>
 <td><a href="http://linux.die.net/man/1/objdump">Website</a></td>
 <td>(Disassemblers): Utility to display information from object files</td>
@@ -6561,14 +6561,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Snowman</b></td>
 <td><a href="https://derevenets.com/">Website</a></td>
 <td>(Disassemblers): decompilers and reverse engineering tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/bytecode/bytecode-viewer.png"></td>
+<td><img src="assets/reverse-engineering/Bytecode Viewer.jpg"></td>
 <td><b>Bytecode Viewer</b></td>
 <td><a href="https://bytecodeviewer.com/">Website</a></td>
 <td>(Bytecode Analysis): Tool for viewing and analyzing Java bytecode</td>
@@ -6582,14 +6582,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/debugging/windbg.png"></td>
+<td><img src="assets/reverse-engineering/wdk.jpg"></td>
 <td><b>WinDbg</b></td>
 <td><a href="https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx">Website</a></td>
 <td>(Debugging): Powerful debugger for Windows from Microsoft</td>
 </tr>
 
 <tr>
-<td><img src="assets/debugging/gdb.png"></td>
+<td><img src="assets/reverse-engineering/gdb.jpg"></td>
 <td><b>gdb</b></td>
 <td><a href="https://www.gnu.org/software/gdb/">Website</a></td>
 <td>(Debugging):  GNU Debugger for various programming languages</td>
@@ -6610,14 +6610,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/debugging/qira.png"></td>
+<td><img src="assets/reverse-engineering/qira.png"></td>
 <td><b>qira</b></td>
 <td><a href="http://qira.me/">Website</a></td>
 <td>(Debugging):  Dynamic binary analysis tool</td>
 </tr>
 
 <tr>
-<td><img src="assets/debugging/unicorn.png"></td>
+<td><img src="assets/reverse-engineering/unicorn.png"></td>
 <td><b>unicorn</b></td>
 <td><a href="https://github.com/unicorn-engine/unicorn">Github</a></td>
 <td>(Debugging): Lightweight multi-platform, multi-architecture CPU emulator</td>
