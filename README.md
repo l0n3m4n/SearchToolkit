@@ -5271,11 +5271,19 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>(Linux): Checksec is a bash script to check the properties of executables (like PIE, RELRO, Canaries, ASLR, Fortify Source). </td>
 </tr>
 
-<tr>
+
+ <tr>
 <td><img src="assets/privilege-escalation/LinEnum.png"></td>
 <td><b>LinEnum </b></td>
 <td><a href="https://github.com/rebootuser/LinEnum">Github</a></td>
 <td>(Linux): Scripted Local Linux Enumeration & Privilege Escalation Checks </td>
+</tr>
+
+<tr>
+<td><img src="assets/privilege-escalation/"></td>
+<td><b> pspy </b></td>
+<td><a href="https://github.com/DominicBreuker/pspy/">Github</a></td>
+<td>(Linux): pspy is a command line tool designed to snoop on processes without need for root permissions. It allows you to see commands run by other users, cron jobs, etc.</td>
 </tr>
 
 <tr>
