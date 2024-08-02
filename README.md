@@ -153,7 +153,7 @@
 <td><img src="assets/cheatsheets/cloudpentest.png"></td>
 <td><b>CloudPentest</b></td>
 <td><a href="https://github.com/4ndersonLin/awesome-cloud-security">Github</a></td>
-<td>🛡️ Awesome Cloud Security Resources resourcs and cheatsheets ⚔️</td>
+<td>🛡️ Awesome Cloud Security Resources and cheatsheets ⚔️</td>
 </tr>
 
 <tr>
