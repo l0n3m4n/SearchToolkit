@@ -3878,14 +3878,14 @@ made to help you during your investigations</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/misc/linkedin2username.jpg"></td>
 <td><b>linkedin2username</b></td>
 <td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
 <td>OSINT Tool: Generate username lists for companies on LinkedIn</td>
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/misc/linkedint.png"></td>
 <td><b>linkedint</b></td>
 <td><a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
 <td>LinkedIn Recon Tool</td>
