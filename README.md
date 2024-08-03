@@ -10,7 +10,7 @@
  
 
 <p align="center">
-    <img src="assets/logo.png">
+    <img src="">
     <br>
      <b>「 Author 」</b>
   <samp>
