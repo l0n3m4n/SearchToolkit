@@ -3585,7 +3585,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 [🔝 Back to top](#Search-Navigation)
 
-## Programming
+## Programming & Script 
 
 <table>
   <thead>
@@ -3644,6 +3644,12 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><b>JavaScript Obfuscator</b></td>
       <td><a href="https://obfuscator.io/">Website</a></td>
       <td>A free and efficient obfuscator for JavaScript (including support of ES2022). Make your code harder to copy and prevent people from stealing your work. </td>
+    </tr>
+     <tr>
+      <td><img src="assets/programming/"></td>
+      <td><b>explainshell</b></td>
+      <td><a href="https://explainshell.com/">Website</a></td>
+      <td>explainshell is a tool (with a web interface) capable of parsing man pages, extracting options and explaining a given command-line by matching each argument</td>
     </tr>
   </tbody>
 </table>
