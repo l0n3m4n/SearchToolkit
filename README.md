@@ -6570,6 +6570,21 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://any.run/">Website</a></td>
 <td>(Sandbox/Commercial): Interactive malware Hunting service, Innovative cloud-based sandbox with full interactive access, Track behavior activities</td>
 </tr>
+
+<tr>
+<td><img src="assets/malware-analysis/Anyrun.jpg"></td>
+<td><b>triage/</b></td>
+<td><a href="https://tria.ge/">Website</a></td>
+<td>(Sandbox): Analyze malware samples free. A state-of-the–art malware analysis sandbox, with all the features you need. </td>
+</tr>
+ 
+<tr>
+<td><img src="assets/malware-analysis/Anyrun.jpg"></td>
+<td><b>Intezer Analyze </b></td>
+<td><a href="https://analyze.intezer.com/">Website</a></td>
+<td>(Sandbox): The Autonomous SOC platform triages alerts and investigates incidents for your team 24/7. Using AI-powered analysis, smart recommendations, and auto remediation ...</td>
+</tr>
+ 
  
 </tbody>
 </table>
