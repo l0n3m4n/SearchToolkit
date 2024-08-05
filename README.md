@@ -6544,9 +6544,9 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/malware-analysis/Cuckoo.jpg"></td>
+<td><img src="assets/malware-analysis/Virustotal.png"></td>
 <td><b>Virustotal</b></td>
-<td><a href="https://www.cuckoosandbox.org/">Website</a></td>
+<td><a href="https://www.virustotal.com">Website</a></td>
 <td>(Sandbox): Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community. </td>
 </tr>
 
@@ -6558,14 +6558,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/malware-analysis/Cuckoo.jpg"></td>
+<td><img src="assets/malware-analysis/Joesandbox.png"></td>
 <td><b>Joesandbox</b></td>
 <td><a href="https://www.joesandbox.com">Website</a></td>
 <td>(Sandbox): Automated malware analysis system, detects and analyzes potential malicious files and URLs on Windows, Mac OS, and Linux for suspicious activities.</td>
 </tr>
 
 <tr>
-<td><img src="assets/malware-analysis/Cuckoo.jpg"></td>
+<td><img src="assets/malware-analysis/Anyrun.jpg"></td>
 <td><b>Anyrun</b></td>
 <td><a href="https://any.run/">Website</a></td>
 <td>(Sandbox/Commercial): Interactive malware Hunting service, Innovative cloud-based sandbox with full interactive access, Track behavior activities</td>
