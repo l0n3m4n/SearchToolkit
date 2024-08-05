@@ -6056,6 +6056,12 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td><a href="https://github.com/WebGoat/WebGoat">Ofline Platform</a></td>
         <td>Another deliberately vulnerable web application designed for hands-on teaching of web application security.</td>
     </tr>
+       <tr>
+        <td><img src="assets/ctf-platform/"></td>
+        <td><b>OWASP Juice Shop</b></td>
+        <td><a href="https://github.com/juice-shop/juice-shop">Ofline Platform</a></td>
+        <td>OWASP Juice Shop: Probably the most modern and sophisticated insecure web application </td>
+    </tr>
 
 </table>
 <br>
