@@ -24,10 +24,10 @@
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit">
         <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit  &label=Visitors&countColor=%2337d67a" />
     </a>
-    <a href="https://www.facebook.com/l0n3m4n">
+    <a href="https://www.facebook.com/UEVOLVJU">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
-      <a href="https://www.twitter.com/l0n3m4n">
+      <a href="https://www.twitter.com/UEVOLVJU">
         <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
     </a>
     <a href="https://medium.com/@l0n3m4n">
