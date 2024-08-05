@@ -808,7 +808,7 @@
 <td><b>fuzzilli</b></td>
 <td><a href="https://github.com/googleprojectzero/fuzzilli">GitHub</a></td>
 <td>(Fuzzing): JavaScript Engine Fuzzer.</td>
-</tr>
+</tr> 
 
 <tr>
 <td><img src="assets/discovery/qsfuzz.jpg"></td>
@@ -1420,13 +1420,6 @@
 <td><b>Golismero</b></td>
 <td><a href="https://github.com/golismero/golismero">GitHub</a></td>
 <td>(Web): Open-source security tool for web application assessment.</td>
-</tr>
-
-<tr>
-<td><img src="assets/vulnerability-scanner/PunkSpider.png"></td>
-<td><b>PunkSpider</b></td>
-<td><a href="https://github.com/punkspider/punkspider">GitHub</a></td>
-<td>(Web): application vulnerability scanner and search engine.</td>
 </tr>
 
 <tr>
