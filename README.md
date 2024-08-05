@@ -97,6 +97,8 @@
 
 ## Cheatsheets
 
+> cheatsheets, notes, guides, techniques and etc.
+
 <table>
 <thead>
 <tr>
@@ -113,6 +115,13 @@
 <td><b>HackTricks</b></td>
 <td><a href="https://book.hacktricks.xyz/">Website</a></td>
 <td>The Best hacking cheatsheets</td>
+</tr>
+
+<tr>
+<td><img src="assets/cheatsheets/atomicredteam.png"></td>
+<td><b>Atomic RedTeam</b></td>
+<td><a href="https://atomicredteam.io/atomics/">Website</a></td>
+<td>Atomic Red Team can be used as a reference for cheatsheets. It provides detailed examples of specific commands, scripts, and guides that can be used to simulate various adversary techniques (TTPs).</td>
 </tr>
 
 <tr>
@@ -5670,116 +5679,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 [🔝 Back to top](#Search-Navigation)
 
-## Data Exfiltration
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAMES</th>
-<th>LINKS</th>
-<th>DESCRIPTIONS</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<td><img src="assets/data-exfiltration/PyExfil.png"></td>
-<td>PyExfil</td>
-<td><a href="https://github.com/ytisf/PyExfil">GitHub</a></td>
-<td>(protocols) - Python tool for exfiltration using different protocols including HTTP, FTP, DNS, ICMP, and custom TCP/UDP.</td>
-</tr>
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td>CovertUtils</td>
-<td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
-<td>(protocols) - Tools for covert communication over various protocols including HTTP, ICMP, DNS, and more.</td>
-</tr>
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td>DNSExfiltrator</td>
-<td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
-<td>(protocols) - Data exfiltration over DNS request covert channel </td>
-</tr>
-
-<tr>
-<td><img src="assets/data-exfiltration/Egress-Assess.jpg"></td>
-<td>Egress-Assess</td>
-<td><a href="https://github.com/RedSiege/Egress-Assess">GitHub</a></td>
-<td>(protocols) - Egress-Assess is a tool used to test egress data detection capabilities</td>
-</tr>
-
-<tr>
-<td><img src="assets/data-exfiltration/PacketWhisper.png"></td>
-<td>PacketWhisper</td>
-<td><a href="https://github.com/TryCatchHCF/PacketWhisper">GitHub</a></td>
-<td>(protocols) - Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods.</td>
-</tr>
-
-<tr>
-<td><img src="assets/data-exfiltration/Tunna.png"></td>
-<td>Tunna</td>
-<td><a href="https://github.com/SECFORCE/Tunna">GitHub</a></td>
-<td>(protocols) - Network tunneling tool that uses HTTP/HTTPS for data exfiltration.</td>
-</tr>
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td>Badcookie</td>
-<td><a href="https://github.com/akbarq/Red-Team-Operations/blob/master/badcookie.py">GitHub</a></td>
-<td>(base64) - exfiltrates d  ata via base64 encoded HTTP cookies.</td>
-</tr>
- 
-<tr>
-<td><img src="assets/data-exfiltration/Powershell-RAT.jpg"></td>
-<td>Powershell-RAT</td>
-<td><a href="https://github.com/Viralmaniar/Powershell-RAT">GitHub</a></td>
-<td>(e-mail) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment. </td>
-</tr>
-
-<tr>
-<td><img src="assets/data-exfiltration/StegCloak.png"></td>
-<td>StegCloak</td>
-<td><a href="https://github.com/KuroLabs/stegcloak">GitHub</a></td>
-<td>(encrypted-data) - Hide secrets with invisible characters in plain text securely using password-based encryption.</td>
-</tr>
- 
-<tr>
-<td><img src="assets/data-exfiltration/Iodine.jpg"></td>
-<td>Iodine</td>
-<td><a href="https://github.com/yarrick/iodine">GitHub</a></td>
-<td>(protocols) - Tunnel IPv4 data through a DNS server. It allows you to send data between systems that are behind firewalls.</td>
-</tr>
-
-<tr>
-<td><img src="assets/data-exfiltration/WebExfil.jpg"></td>
-<td>WebExfil</td>
-<td><a href="https://gist.github.com/ssherei/0504fb041f8e4c0f4b7f3854481fdfcf">GitHub</a></td>
-<td>(protocols) - A tool for data exfiltration through HTTP and HTTPS connections.</td>
-</tr>
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td>Dnscat2</td>
-<td><a href="https://github.com/iagox86/dnscat2">GitHub</a></td>
-<td>(protocols) - A DNS covert channel tool that can send data between a client and a server using DNS requests and responses.</td>
-</tr>
-
-<tr>
-<td><img src="assets/data-exfiltration/SMBetray.jpg"></td>
-<td>SMBetray</td>
-<td><a href="https://github.com/quickbreach/SMBetray">GitHub</a></td>
-<td>(protocols) - A tool to exfiltrate data over SMB protocol.</td>
-</tr>
-
-</tbody>
-</table>
-<br>
-
-[🔝 Back to top](#Search-Navigation)
-
 ## CTF Challenges 
 
 <table>
@@ -6457,6 +6356,116 @@ It's currently focused on OSINT, but any use related with Google is possible.
     <td><a href="https://github.com/byt3bl33d3r/gcat">Github</a></td>
     <td>Stealthy Python based backdoor that uses Gmail as a command and control server.</td>
 </tr>
+</tbody>
+</table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
+
+## Data Exfiltration
+
+<table>
+<thead>
+<tr>
+<th>IMAGE</th>
+<th>NAMES</th>
+<th>LINKS</th>
+<th>DESCRIPTIONS</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><img src="assets/data-exfiltration/PyExfil.png"></td>
+<td>PyExfil</td>
+<td><a href="https://github.com/ytisf/PyExfil">GitHub</a></td>
+<td>(protocols) - Python tool for exfiltration using different protocols including HTTP, FTP, DNS, ICMP, and custom TCP/UDP.</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td>CovertUtils</td>
+<td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
+<td>(protocols) - Tools for covert communication over various protocols including HTTP, ICMP, DNS, and more.</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td>DNSExfiltrator</td>
+<td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
+<td>(protocols) - Data exfiltration over DNS request covert channel </td>
+</tr>
+
+<tr>
+<td><img src="assets/data-exfiltration/Egress-Assess.jpg"></td>
+<td>Egress-Assess</td>
+<td><a href="https://github.com/RedSiege/Egress-Assess">GitHub</a></td>
+<td>(protocols) - Egress-Assess is a tool used to test egress data detection capabilities</td>
+</tr>
+
+<tr>
+<td><img src="assets/data-exfiltration/PacketWhisper.png"></td>
+<td>PacketWhisper</td>
+<td><a href="https://github.com/TryCatchHCF/PacketWhisper">GitHub</a></td>
+<td>(protocols) - Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods.</td>
+</tr>
+
+<tr>
+<td><img src="assets/data-exfiltration/Tunna.png"></td>
+<td>Tunna</td>
+<td><a href="https://github.com/SECFORCE/Tunna">GitHub</a></td>
+<td>(protocols) - Network tunneling tool that uses HTTP/HTTPS for data exfiltration.</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td>Badcookie</td>
+<td><a href="https://github.com/akbarq/Red-Team-Operations/blob/master/badcookie.py">GitHub</a></td>
+<td>(base64) - exfiltrates d  ata via base64 encoded HTTP cookies.</td>
+</tr>
+ 
+<tr>
+<td><img src="assets/data-exfiltration/Powershell-RAT.jpg"></td>
+<td>Powershell-RAT</td>
+<td><a href="https://github.com/Viralmaniar/Powershell-RAT">GitHub</a></td>
+<td>(e-mail) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment. </td>
+</tr>
+
+<tr>
+<td><img src="assets/data-exfiltration/StegCloak.png"></td>
+<td>StegCloak</td>
+<td><a href="https://github.com/KuroLabs/stegcloak">GitHub</a></td>
+<td>(encrypted-data) - Hide secrets with invisible characters in plain text securely using password-based encryption.</td>
+</tr>
+ 
+<tr>
+<td><img src="assets/data-exfiltration/Iodine.jpg"></td>
+<td>Iodine</td>
+<td><a href="https://github.com/yarrick/iodine">GitHub</a></td>
+<td>(protocols) - Tunnel IPv4 data through a DNS server. It allows you to send data between systems that are behind firewalls.</td>
+</tr>
+
+<tr>
+<td><img src="assets/data-exfiltration/WebExfil.jpg"></td>
+<td>WebExfil</td>
+<td><a href="https://gist.github.com/ssherei/0504fb041f8e4c0f4b7f3854481fdfcf">GitHub</a></td>
+<td>(protocols) - A tool for data exfiltration through HTTP and HTTPS connections.</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td>Dnscat2</td>
+<td><a href="https://github.com/iagox86/dnscat2">GitHub</a></td>
+<td>(protocols) - A DNS covert channel tool that can send data between a client and a server using DNS requests and responses.</td>
+</tr>
+
+<tr>
+<td><img src="assets/data-exfiltration/SMBetray.jpg"></td>
+<td>SMBetray</td>
+<td><a href="https://github.com/quickbreach/SMBetray">GitHub</a></td>
+<td>(protocols) - A tool to exfiltrate data over SMB protocol.</td>
+</tr>
+
 </tbody>
 </table>
 <br>
