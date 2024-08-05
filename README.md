@@ -232,7 +232,7 @@
 
 ## Discovery
 
-> reconnaissance, enumeration and etc.
+> reconnaissance, enumeration, fuzzing and etc.
 
 <table>
 <thead>
@@ -934,7 +934,7 @@
 
 ### Geolocation Tracking
 
-> desktop, laptop, mobiles, pyshical and etc.
+> desktop, laptop, mobile and etc.
 
 <table>
   <thead>
@@ -974,8 +974,6 @@
 
 
 ## Vulnerability Identification
-
-> database
 
 <table>
 <thead>
