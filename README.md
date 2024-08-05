@@ -459,27 +459,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>as3nt</b></td>
-<td><a href="https://github.com/cinerieus/as3nt">GitHub</a></td>
-<td>(Subdomain): Another Subdomain Enumeration Tool</td>
-</tr>
-
-<tr>
-<td><img src="assets/discovery/Subra.png"></td>
-<td><b>Subra</b></td>
-<td><a href="https://github.com/si9int/Subra">GitHub</a></td>
-<td>(Subdomain): Web-UI for subdomain enumeration using subfinder</td>
-</tr>
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>Substr3am</b></td>
-<td><a href="https://github.com/nexxai/Substr3am">GitHub</a></td>
-<td>(Subdomain): Passive reconnaissance/enumeration using SSL certificates</td>
-</tr>
-
-<tr>
 <td><img src="assets/discovery/domain.png"></td>
 <td><b>domain</b></td>
 <td><a href="https://github.com/jhaddix/domain/">GitHub</a></td>
@@ -550,13 +529,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/discovery/crtndstry.png"></td>
-<td><b>crtndstry</b></td>
-<td><a href="https://github.com/nahamsec/crtndstry">GitHub</a></td>
-<td>(Subdomain): Yet another subdomain finder</td>
-</tr>
-
-<tr>
 <td><img src="assets/discovery/VHostScan.png"></td>
 <td><b>VHostScan</b></td>
 <td><a href="https://github.com/codingo/VHostScan">GitHub</a></td>
@@ -605,14 +577,7 @@
 <td><a href="https://github.com/rverton/webanalyze">GitHub</a></td>
 <td>(Technologies): Port of Wappalyzer to automate mass scanning.</td>
 </tr>
-
-<tr>
-<td><img src="assets/discovery/python-builtwith.jpg"></td>
-<td><b>python-builtwith</b></td>
-<td><a href="https://github.com/claymation/python-builtwith">GitHub</a></td>
-<td>(Technologies): BuiltWith API client.</td>
-</tr>
-
+ 
 <tr>
 <td><img src="assets/discovery/whatweb.png"></td>
 <td><b>whatweb</b></td>
@@ -710,13 +675,6 @@
 <td><b>JS-Scan</b></td>
 <td><a href="https://github.com/zseano/JS-Scan">GitHub</a></td>
 <td>(Links): A .js scanner built in PHP, designed to scrape URLs and other information.</td>
-</tr>
-
-<tr>
-<td><img src="assets/discovery/LinksDumper.jpg"></td>
-<td><b>LinksDumper</b></td>
-<td><a href="https://github.com/arbazkiraak/LinksDumper">GitHub</a></td>
-<td>(Links): Extracts links/possible endpoints from responses & filters them via decoding/sorting.</td>
 </tr>
 
 <tr>
@@ -850,13 +808,6 @@
 <td><b>fuzzilli</b></td>
 <td><a href="https://github.com/googleprojectzero/fuzzilli">GitHub</a></td>
 <td>(Fuzzing): JavaScript Engine Fuzzer.</td>
-</tr>
-
-<tr>
-<td><img src="assets/discovery/fuzzapi.png"></td>
-<td><b>fuzzapi</b></td>
-<td><a href="https://github.com/Fuzzapi/fuzzapi">GitHub</a></td>
-<td>(Fuzzing): REST API pentesting tool that uses API_Fuzzer gem.</td>
 </tr>
 
 <tr>
