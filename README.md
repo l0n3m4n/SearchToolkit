@@ -1449,7 +1449,7 @@
 <td><img src="assets/vulnerability-scanner/whitewidow.png"></td>
 <td><b>WhiteWidow</b></td>
 <td><a href="https://github.com/WhitewidowScanner/whitewidow  ">GitHub</a></td>
-<td>(Web):  SQL Vulnerability Scanner </td>
+<td>(Web): SQL Vulnerability Scanner </td>
 </tr>
 
 <tr>
