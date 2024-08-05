@@ -6744,7 +6744,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/malware-analysis/Virustotal.png"></td>
 <td><b>Virustotal</b></td>
 <td><a href="https://www.virustotal.com">Website</a></td>
-<td>(Behavior analysis): Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community. </td>
+<td>(Behavior Analysis): Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community. </td>
 </tr>
 
 <tr>
