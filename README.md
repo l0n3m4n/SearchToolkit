@@ -70,7 +70,7 @@
   <a href="#cryptography"><b>Cryptography</b></a> |
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> 
 
   <h3 align="center">Attack Cycle</h3>
 
