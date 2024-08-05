@@ -5829,19 +5829,19 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td>A free online platform focused on computer security, cryptography, reverse engineering, and web exploitation.</td>
     </tr>
      <tr>
-      <td><img src="assets/ctf-platform/0x0539.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>0x0539</b></td>
       <td><a href="https://0x0539.net/">Online Platform</a></td>
       <td>Online CTF challenges.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/247CTF.png"></td>
+      <td><img src="assets/ctf-platform/247CTF.jpg"></td>
       <td><b>247CTF</b></td>
       <td><a href="https://247ctf.com/">Online Platform</a></td>
       <td>Free Capture The Flag Hacking Environment.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Archive.ooo.png"></td>
+      <td><img src="assets/ctf-platform/Archive.ooo.jpg"></td>
       <td><b>Archive.ooo</b></td>
       <td><a href="https://archive.ooo/">Online Platform</a></td>
       <td>Live, playable archive of DEF CON CTF challenges.</td>
@@ -5859,37 +5859,37 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>Online platform built to help ethical hackers learn, practice, and compete.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/CTF365.png"></td>
+      <td><img src="assets/ctf-platform/CTF365.jpg"></td>
       <td><b>CTF365</b></td>
       <td><a href="https://ctf365.com/">Online Platform</a></td>
       <td>Security Training Platform.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Crackmes.One.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>Crackmes.One</b></td>
       <td><a href="https://crackmes.one/">Online Platform</a></td>
       <td>Reverse Engineering Challenges.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/CryptoHack.png"></td>
+      <td><img src="assets/ctf-platform/CryptoHack.jpg"></td>
       <td><b>CryptoHack</b></td>
       <td><a href="https://cryptohack.org/">Online Platform</a></td>
       <td>Cryptography Challenges.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Cryptopals.png"></td>
+      <td><img src="assets/default_logo.png "></td>
       <td><b>Cryptopals</b></td>
       <td><a href="https://cryptopals.com/">Online Platform</a></td>
       <td>Cryptography Challenges.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Defend_the_Web.png"></td>
+      <td><img src="assets/ctf-platform/Defend the Web.png"></td>
       <td><b>Defend the Web</b></td>
       <td><a href="https://defendtheweb.net/?hackthis">Online Platform</a></td>
       <td>An Interactive Cyber Security Platform.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Dreamhack.io.png"></td>
+      <td><img src="assets/ctf-platform/Dreamhack.io.jpg"></td>
       <td><b>Dreamhack.io</b></td>
       <td><a href="https://dreamhack.io/wargame">Online Platform</a></td>
       <td>Online wargame.</td>
@@ -5901,7 +5901,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>Online Hacking Laboratories.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Flagyard.png"></td>
+      <td><img src="assets/ctf-platform/Flagyard.jpg"></td>
       <td><b>Flagyard</b></td>
       <td><a href="https://flagyard.com/">Online Platform</a></td>
       <td>An Online Playground of Hands-on Cybersecurity Challenges.</td>
@@ -5913,13 +5913,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>Online wargame.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Hacker101.png"></td>
+      <td><img src="assets/ctf-platform/Hacker101.jpg"></td>
       <td><b>Hacker101</b></td>
       <td><a href="https://www.hacker101.com/">Online Platform</a></td>
-      <td>CTF Platform by <a href="https://www.hackerone.com/">HackerOne</a>.</td>
+      <td>CTF Platform by HackerOne.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Hackropole.png"></td>
+      <td><img src="assets/ctf-platform/Hackropole.jpg"></td>
       <td><b>Hackropole</b></td>
       <td><a href="https://hackropole.fr/en/">Online Platform</a></td>
       <td>This platform allows you to replay the challenges of the France Cybersecurity Challenge.</td>
@@ -5937,37 +5937,31 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>Community designed to teach methods and tactics used by malicious hackers to access systems and sensitive information.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/Komodo.png"></td>
+      <td><img src="assets/ctf-platform/Komodo.jpg"></td>
       <td><b>Komodo</b></td>
       <td><a href="http://ctf.komodosec.com/">Online Platform</a></td>
       <td>This is a game designed to challenge your application hacking skills.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/MicroCorruption.png"></td>
+      <td><img src="assets/ctf-platform/MicroCorruption.jpg"></td>
       <td><b>MicroCorruption</b></td>
       <td><a href="https://microcorruption.com/">Online Platform</a></td>
       <td>Embedded Security CTF.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/MNCTF.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>MNCTF</b></td>
       <td><a href="https://mnctf.info/">Online Platform</a></td>
       <td>Online cybersecurity challenges.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/OverTheWire.png"></td>
-      <td><b>OverTheWire</b></td>
-      <td><a href="https://overthewire.org/wargames/">Online Platform</a></td>
-      <td>Wargame offered by the OverTheWire community.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/ctf-platform/Pwn.college.png"></td>
+      <td><img src="assets/ctf-platform/Pwn.college.jpg"></td>
       <td><b>Pwn.college</b></td>
       <td><a href="https://pwn.college/">Online Platform</a></td>
       <td>Education platform to learn about, and practice, core cybersecurity concepts.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/PWN.TN.png"></td>
+      <td><img src="assets/ctf-platform/pwn.tn.png"></td>
       <td><b>PWN.TN</b></td>
       <td><a href="https://pwn.tn/">Online Platform</a></td>
       <td>Educational and non-commercial wargame.</td>
@@ -5991,13 +5985,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>Pwn/Exploiting platform.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/PWNChallenge.png"></td>
-      <td><b>PWNChallenge</b></td>
-      <td><a href="http://pwn.eonew.cn/">Online Platform</a></td>
-      <td>Pwn/Exploiting platform.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/ctf-platform/Reversing.kr.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>Reversing.kr</b></td>
       <td><a href="http://reversing.kr/">Online Platform</a></td>
       <td>Reverse Engineering platform.</td>
@@ -6009,34 +5997,10 @@ It's currently focused on OSINT, but any use related with Google is possible.
       <td>CTF training platform.</td>
     </tr>
     <tr>
-      <td><img src="assets/ctf-platform/W3Challs.png"></td>
+      <td><img src="assets/ctf-platform/W3Challs.jpg"></td>
       <td><b>W3Challs</b></td>
       <td><a href="https://w3challs.com/">Online Platform</a></td>
       <td>Hacking/CTF platform.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/ctf-platform/WebHacking.png"></td>
-      <td><b>WebHacking</b></td>
-      <td><a href="https://webhacking.kr/">Online Platform</a></td>
-      <td>Web challenges platform.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/ctf-platform/Websec.fr.png"></td>
-      <td><b>Websec.fr</b></td>
-      <td><a href="http://websec.fr/">Online Platform</a></td>
-      <td>Web challenges platform.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/ctf-platform/WeChall.png"></td>
-      <td><b>WeChall</b></td>
-      <td><a href="https://www.wechall.net/active_sites">Online Platform</a></td>
-      <td>Challenge sites directory & forum.</td>
-    </tr>
-    <tr>
-      <td><img src="assets/ctf-platform/YEHD_2015.png"></td>
-      <td><b>YEHD 2015</b></td>
-      <td><a href="https://2015-yehd-ctf.meiji-ncc.tech/">Online Platform</a></td>
-      <td>YEHD CTF 2015 online challenges.</td>
     </tr>
     <tr>
         <td><img src="assets/ctf-platform/Hacking-Lab.png"></td>
@@ -6057,7 +6021,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td>Another deliberately vulnerable web application designed for hands-on teaching of web application security.</td>
     </tr>
        <tr>
-        <td><img src="assets/ctf-platform/"></td>
+        <td><img src="assets/ctf-platform/JuiceShop.png"></td>
         <td><b>OWASP Juice Shop</b></td>
         <td><a href="https://github.com/juice-shop/juice-shop">Ofline Platform</a></td>
         <td>OWASP Juice Shop: Probably the most modern and sophisticated insecure web application </td>
