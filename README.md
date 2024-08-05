@@ -232,6 +232,8 @@
 
 ## Discovery
 
+> reconnaissance, enumeration and etc.
+
 <table>
 <thead>
 <tr>
@@ -842,6 +844,8 @@
 
 ## Devices and Services
 
+> servers, IoT, routers and etc.
+
 <table>
 <thead>
 <tr>
@@ -930,6 +934,8 @@
 
 ### Geolocation Tracking
 
+> desktop, laptop, mobiles, pyshical and etc.
+
 <table>
   <thead>
     <tr>
@@ -968,6 +974,8 @@
 
 
 ## Vulnerability Identification
+
+> database
 
 <table>
 <thead>
