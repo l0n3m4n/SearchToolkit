@@ -114,7 +114,7 @@
 <td><img src="assets/cheatsheets/hacktricks.jpg"></td>
 <td><b>HackTricks</b></td>
 <td><a href="https://book.hacktricks.xyz/">Website</a></td>
-<td>The Best hacking cheatsheets</td>
+<td>HackTricks is a comprehensive resource that provides a wide range of information and tips related to pentesting, redteaming, techniques and etc. </td>
 </tr>
 
 <tr>
