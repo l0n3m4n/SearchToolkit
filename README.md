@@ -4078,32 +4078,32 @@ made to help you during your investigations</td>
 </tr>
 
 <tr>
-<td><img src="image_url_for_Onionscan"></td>
+<td><img src="assets/hidden-services/Onionscan.png"></td>
 <td><b>Onionscan</b></td>
 <td><a href="https://github.com/s-rah/onionscan">GitHub</a></td>
 <td>(Onion Links): Onionscan is a powerful tool for scanning onion websites, helping you identify potential vulnerabilities and security issues.</td>
 </tr>
 <tr>
-<td><img src="image_url_for_Onioff"></td>
+<td><img src="assets/hidden-services/Onioff.jpg"></td>
 <td><b>Onioff</b></td>
 <td><a href="https://github.com/k4m4/onioff">GitHub</a></td>
 <td>(Onion Links): Onioff is an OSINT tool designed to analyze and extract information from onion websites, providing insights into their characteristics and content.</td>
 </tr>
 <tr>
-<td><img src="image_url_for_Onion-nmap"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Onion-nmap</b></td>
 <td><a href="https://github.com/milesrichardson/docker-onion-nmap">GitHub</a></td>
 <td>(Onion Links): Onion-nmap is a Docker container for running Nmap scans on onion websites, helping you gather information about open ports and services.</td>
 </tr>
 <tr>
-<td><img src="image_url_for_Hunchly"></td>
+<td><img src="assets/hidden-services/Hunchly.png"></td>
 <td><b>Hunchly</b></td>
 <td><a href="https://www.hunch.ly/darkweb-osint/">Website</a></td>
 <td>(Onion Links): Hunchly is a comprehensive OSINT platform that includes features for collecting and tracking onion links and Dark Web content.</td>
 </tr>
 
 <tr>
-<td><img src="image_url_for_TorBot"></td>
+<td><img src="assets/hidden-services/TorBot.jpg"></td>
 <td><b>TorBot</b></td>
 <td><a href="https://github.com/DedSecInside/TorBot">GitHub</a></td>
 <td>(Onion Crawling): TorBot is an OSINT tool designed for crawling and collecting data from the Dark Web.</td>
