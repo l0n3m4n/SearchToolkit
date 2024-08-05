@@ -97,7 +97,7 @@
 
 ## Cheatsheets
 
-> notes, guides,resources, techniques and etc.
+> notes, guides, resources, techniques and etc.
 
 <table>
 <thead>
