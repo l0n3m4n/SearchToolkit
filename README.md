@@ -1420,7 +1420,7 @@
 <td><b>Golismero</b></td>
 <td><a href="https://github.com/golismero/golismero">GitHub</a></td>
 <td>(Web): Open-source security tool for web application assessment.</td>
-</tr>
+</tr> 
 
 <tr>
 <td><img src="assets/vulnerability-scanner/Sn1per.png"></td>
@@ -1683,13 +1683,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploitation/Injectus.jpg"></td>
-<td><b>Injectus</b></td>
-<td><a href="https://github.com/BountyStrike/Injectus">GitHub</a></td>
-<td>(CRLF-Injection): CRLF and open redirect fuzzer</td>
-</tr>
-
-<tr>
 <td><img src="assets/exploitation/XSRFProbe.png"></td>
 <td><b>XSRFProbe</b></td>
 <td><a href="https://github.com/0xInfection/XSRFProbe">GitHub</a></td>
@@ -1730,13 +1723,6 @@
 <td><b>LFISuite</b></td>
 <td><a href="https://github.com/D35m0nd142/LFISuite">GitHub</a></td>
 <td>(File-Inclusion): Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/LFI-files.png"></td>
-<td><b>LFI-files</b></td>
-<td><a href="https://github.com/hussein98d/LFI-files">GitHub</a></td>
-<td>(File-Inclusion): Wordlist to bruteforce for LFI</td>
 </tr>
 
 <tr>
@@ -1807,21 +1793,6 @@
 <td><b>Oralyzer</b></td>
 <td><a href="https://github.com/r0075h3ll/Oralyzer">GitHub</a></td>
 <td>(Open-Redirect): Open Redirection Analyzer</td>
-</tr>
-
-
-<tr>
-<td><img src="assets/exploitation/Injectus.jpg"></td>
-<td><b>Injectus</b></td>
-<td><a href="https://github.com/BountyStrike/Injectus">GitHub</a></td>
-<td>(Open-Redirect): CRLF and open redirect fuzzer</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/dom-red.jpg"></td>
-<td><b>dom-red</b></td>
-<td><a href="https://github.com/Naategh/dom-red">GitHub</a></td>
-<td>(Open-Redirect): Small script to check a list of domains against open redirect vulnerability</td>
 </tr>
 
 <tr>
@@ -1956,21 +1927,7 @@
 <td><a href="https://github.com/KathanP19/gaussrf">GitHub</a></td>
 <td>(SSRF): Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and filter URLs with OpenRedirection or SSRF Parameters</td>
 </tr>
-
-<tr>
-<td><img src="assets/exploitation/ssrfDetector.png"></td>
-<td><b>ssrfDetector</b></td>
-<td><a href="https://github.com/JacobReynolds/ssrfDetector">GitHub</a></td>
-<td>(SSRF): Server-side request forgery detector</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/sentrySSRF.jpg"></td>
-<td><b>sentrySSRF</b></td>
-<td><a href="https://github.com/xawdxawdx/sentrySSRF">GitHub</a></td>
-<td>(SSRF): Tool to search sentry config on page or in javascript files and check blind SSRF</td>
-</tr>
-
+ 
 <tr>
 <td><img src="assets/exploitation/lorsrf.jpg"></td>
 <td><b>lorsrf</b></td>
@@ -2070,13 +2027,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploitation/waybackSqliScanner.jpg"></td>
-<td><b>waybackSqliScanner</b></td>
-<td><a href="https://github.com/ghostlulzhacks/waybackSqliScanner">GitHub</a></td>
-<td>(SQL Injection): Gather urls from wayback machine then test each GET parameter for sql injection.</td>
-</tr>
-
-<tr>
 <td><img src="assets/exploitation/ESC.jpg"></td>
 <td><b>ESC</b></td>
 <td><a href="https://github.com/NetSPI/ESC">GitHub</a></td>
@@ -2088,27 +2038,6 @@
 <td><b>mssqli-duet</b></td>
 <td><a href="https://github.com/Keramas/mssqli-duet">GitHub</a></td>
 <td>(SQL Injection): script for MSSQL that extracts domain users from an Active Directory environment based on RID bruteforcing</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/BurpSQLTruncSanner.jpg"></td>
-<td><b>BurpSQLTruncSanner</b></td>
-<td><a href="https://github.com/InitRoot/BurpSQLTruncSanner">GitHub</a></td>
-<td>(SQL Injection): Messy BurpSuite plugin for SQL Truncation vulnerabilities.</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/andor.png"></td>
-<td><b>andor</b></td>
-<td><a href="https://github.com/sadicann/andor">GitHub</a></td>
-<td>(SQL Injection): Blind SQL Tool with Golang</td>
-</tr>
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>Blinder</b></td>
-<td><a href="https://github.com/mhaskar/Blinder">GitHub</a></td>
-<td>(SQL Injection): A python library to automate time-based blind SQL injection</td>
 </tr>
 
 <tr>
@@ -2145,13 +2074,6 @@
 <td><b>xssor2</b></td>
 <td><a href="https://github.com/evilcos/xssor2">GitHub</a></td>
 <td>(XSS  Injection): XSS'OR - Hack with JavaScript.</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/xsscrapy.jpg"></td>
-<td><b>xsscrapy</b></td>
-<td><a href="https://github.com/DanMcInerney/xsscrapy">GitHub</a></td>
-<td>(XSS Injection): wavsep XSS detected</td>
 </tr>
 
 <tr>
@@ -2343,12 +2265,6 @@
 <td>(SSTI): Automatic SSTI detection tool with interactive interface</td>
 </tr>
 
-<tr>
-<td><img src="assets/exploitation/xss2png.jpg"></td>
-<td><b>xss2png</b></td>
-<td><a href="https://github.com/vavkamil/xss2png">GitHub</a></td>
-<td>(XSS): PNG IDAT chunks XSS payload generator</td>
-</tr>
 
 </tbody>
 </table>
@@ -4547,30 +4463,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://github.com/chris-short/sptoolkit">Github</a></td>
 <td>sptoolkit is a phishing toolkit for social engineering.</td>
 </tr>
-
-<tr>
-<td><img src="assets/social-engineering/SpearPhisher.png"></td>
-<td>SpearPhisher</td>
-<td><a href="https://github.com/kevthehermit/SpearPhisher">Github</a></td>
-<td>SpearPhisher is a toolkit for spear phishing attacks.</td>
-</tr>
-
-
-<tr>
-<td><img src="assets/social-engineering/Ares.png"></td>
-<td>Ares</td>
-<td><a href="https://github.com/dutchcoders/ares">Github</a></td>
-<td>Ares is a phishing toolkit for managing attack responses.</td>
-</tr>
-
-
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td>SPF</td>
-<td><a href="https://github.com/tatanus/SPF">Github</a></td>
-<td>SPF is a phishing toolkit for spoofing email.</td>
-</tr>
-
+ 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td>Phishing pretexts</td>
@@ -5784,6 +5677,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <tbody>
 
 <tr>
+<td><img src="assets/data-exfiltration/PyExfil.png"></td>
+<td>PyExfil</td>
+<td><a href="https://github.com/ytisf/PyExfil">GitHub</a></td>
+<td>(protocols) - Python tool for exfiltration using different protocols including HTTP, FTP, DNS, ICMP, and custom TCP/UDP.</td>
+</tr>
+
+<tr>
 <td><img src="assets/default_logo.png"></td>
 <td>CovertUtils</td>
 <td><a href="https://github.com/operatorequals/covertutils">GitHub</a></td>
@@ -5825,13 +5725,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>(base64) - exfiltrates d  ata via base64 encoded HTTP cookies.</td>
 </tr>
  
-<tr>
-<td><img src="assets/data-exfiltration/PyExfil.png"></td>
-<td>PyExfil</td>
-<td><a href="https://github.com/ytisf/PyExfil">GitHub</a></td>
-<td>(protocols) - Python tool for exfiltration using different protocols including HTTP, FTP, DNS, ICMP, and custom TCP/UDP.</td>
-</tr>
-
 <tr>
 <td><img src="assets/data-exfiltration/Powershell-RAT.jpg"></td>
 <td>Powershell-RAT</td>
