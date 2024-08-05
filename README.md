@@ -67,8 +67,9 @@
   <a href="#data-leaks"><b>Data Leaks</b></a> |
   <a href="#reverse-engineering"><b>Reverse Engineering</b></a> |
   <a href="#malware-analysis"><b>Malware Analysis</b></a> |
+  <a href="#cryptography"><b>Cryptography</b></a> |
   <a href="#android"><b>Android</b></a> |
-  <a href="#ctf-labs"><b>CTF Labs</b></a> |    
+  <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |
 
   <h3 align="center">Attack Cycle</h3>
@@ -5773,7 +5774,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 [🔝 Back to top](#Search-Navigation)
 
-## CTF Labs 
+## CTF Challenges 
 
 <table>
   <thead>
