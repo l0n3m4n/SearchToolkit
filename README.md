@@ -6479,18 +6479,19 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><img src="assets/malware-analysis/ProcessHacker.jpg"></td>
-<td><b>ProcessHacker</b></td>
-<td><a href="http://processhacker.sourceforge.net/">Website</a></td>
-<td>(Dynamic Analysis - Windows ): Powerful tool for viewing and managing processes</td>
-</tr>
 
 <tr>
 <td><img src="assets/malware-analysis/Process Monitor.jpg"></td>
 <td><b>Process Monitor</b></td>
 <td><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">Website</a></td>
 <td>(Dynamic Analysis - Windows): Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.</td>
+</tr>
+
+<tr>
+<td><img src="assets/malware-analysis/ProcessHacker.jpg"></td>
+<td><b>ProcessHacker</b></td>
+<td><a href="http://processhacker.sourceforge.net/">Website</a></td>
+<td>(Dynamic Analysis - Windows ): Powerful tool for viewing and managing processes</td>
 </tr>
 
 <tr>
@@ -6525,7 +6526,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/malware-analysis/Noriben.png"></td>
 <td><b>Noriben</b></td>
 <td><a href="https://github.com/Rurik/Noriben">Github</a></td>
-<td>(Dynamic Analysis): Malware analysis sandbox tool</td>
+<td>(Sandbox): Malware analysis sandbox tool</td>
 </tr>
 
 <tr>
