@@ -224,6 +224,13 @@
 <td>Personal notes on red teaming / pentest and malware analysis, various techniques used during assessments.</td>
 </tr>
 
+<tr>
+<td><img src="assets/cheatsheets/offensive-security-cheatsheet.png"></td>
+<td><b>Offensive Security Cheatsheet</b></td>
+<td><a href="https://cheatsheet.haax.fr/">Website</a></td>
+<td>Their are few useful resources for penetration testing and enumerations staff. </td>
+</tr>
+
 </tbody>
 </table>
 <br>
