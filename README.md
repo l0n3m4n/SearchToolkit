@@ -80,7 +80,7 @@
   <a href="#social-engineering"><b>Social Engineering</b></a> |
   <a href="#initial-access"><b>Initial Access</b></a> |
   <a href="#payload-and-staging"><b>Payload and Staging</b></a> |
-  <a href="#exploitations"><b>Exploitation</b></a> |
+  <a href="#exploitation"><b>Exploitation</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
   <a href="#evasion"><b>Evasion</b></a> |
   <a href="#credential-dumping"><b>Credential Dumping</b></a> |
