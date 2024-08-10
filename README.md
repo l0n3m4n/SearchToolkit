@@ -1747,7 +1747,7 @@
 <td><a href="https://github.com/D35m0nd142/LFISuite">GitHub</a></td>
 <td>(File-Inclusion): Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner</td>
 </tr>
-
+ 
 <tr>
 <td><img src="assets/exploitation/inql.png"></td>
 <td><b>inql</b></td>
