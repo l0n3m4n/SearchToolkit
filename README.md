@@ -3620,15 +3620,38 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
-      <td><b>simple badges</b></td>
-      <td><a href="https://simpleicons.org/">Website</a></td>
-      <td>3161+ awesome Simple Icons on your favorite Shields.io Badges</td>
-    </tr>
-  </tbody>
+<tr>
+<td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+<td><b>simple badges</b></td>
+<td><a href="https://simpleicons.org/">Website</a></td>
+<td>3161+ awesome Simple Icons on your favorite Shields.io Badges</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>OSINT Map</b></td>
+<td><a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
+<td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
+made to help you during your investigations</td>
+</tr>
+
+<tr>
+<td><img src="assets/misc/linkedin2username.jpg"></td>
+<td><b>linkedin2username</b></td>
+<td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
+<td>OSINT Tool: Generate username lists for companies on LinkedIn</td>
+</tr>
+
+<tr>
+<td><img src="assets/misc/linkedint.png"></td>
+<td><b>linkedint</b></td>
+<td><a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
+<td>LinkedIn Recon Tool</td>
+</tr>
+</tbody>
 </table>
 <br>
+ 
 
 [🔝 Back to top](#Search-Navigation)
 
@@ -3773,7 +3796,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <h2 align="center">OSINT</h2>
 
 <p align="center">
-  <a href="#misc"><b>Misc</b></a> |
   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
   <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#url"><b>URL</b></a> |
@@ -3781,45 +3803,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   <a href="#device-information"><b>Device Information</b></a> | 
   <a href="#surveillance-cameras"><b>Surveillance Cameras</b></a> |
 </p>
-<br>
-<br>
-
-### Misc
-
-<table>
-  <thead>
-    <tr>
-      <th>IMAGE</th>
-      <th>NAMES</th>
-      <th>LINKS</th>
-      <th>DESCRIPTIONS</th>
-    </tr>
-  </thead>
-  <tbody>
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>OSINT Map</b></td>
-<td><a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
-<td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
-made to help you during your investigations</td>
-</tr>
-
-<tr>
-<td><img src="assets/misc/linkedin2username.jpg"></td>
-<td><b>linkedin2username</b></td>
-<td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
-<td>OSINT Tool: Generate username lists for companies on LinkedIn</td>
-</tr>
-
-<tr>
-<td><img src="assets/misc/linkedint.png"></td>
-<td><b>linkedint</b></td>
-<td><a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
-<td>LinkedIn Recon Tool</td>
-</tr>
-
-</tbody>
-</table>
 <br>
 
 [⬆️ Back to OSINT](#OSINT)
