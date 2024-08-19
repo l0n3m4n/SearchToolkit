@@ -3624,7 +3624,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><img src="assets/misc/simplebadges.png"></td>
 <td><b>simple badges</b></td>
 <td><a href="https://badges.pages.dev/">Github badges</a>
-<a href="https://simpleicons.org/">Icons svg</a></td>
+<a href="https://simpleicons.org/">Icons</a></td>
 <td>3161+ awesome Simple Icons on your favorite Shields.io Badges</td>
 </tr>
 
