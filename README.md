@@ -70,8 +70,9 @@
   <a href="#cryptography"><b>Cryptography</b></a> |
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
-  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> 
-
+  <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
+  <a href="#misc"><b>Misc</b></a> 
+  
   <h3 align="center">Attack Cycle</h3>
 
   <a href="#discovery"><b>Discovery</b></a> |
@@ -3604,6 +3605,30 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+
+[🔝 Back to top](#Search-Navigation)
+
+## Misc
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKSS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+      <td><b>simple badges</b></td>
+      <td><a href="https://simpleicons.org/">Website</a></td>
+      <td>3161+ awesome Simple Icons on your favorite Shields.io Badges</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 [🔝 Back to top](#Search-Navigation)
 
