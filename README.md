@@ -3621,7 +3621,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/threat-intelligence/mitre-att&ck.jpg"></td>
+<td><img src="assets/misc/simplebadges.png"></td>
 <td><b>simple badges</b></td>
 <td><a href="https://simpleicons.org/">Website</a></td>
 <td>3161+ awesome Simple Icons on your favorite Shields.io Badges</td>
