@@ -5123,6 +5123,12 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>(Linux): Swiss-Army knife for Active Directory Pentesting using Linux</td> 
 </tr>
 
+<tr>
+<td><img src="assets/privilege-escalation/PrivescCheck.png"></td>
+<td><b>PrivescCheck</b></td> 
+<td><a href="https://github.com/itm4n/PrivescCheck">Github</a></td>
+<td>(Windows): Privilege Escalation Enumeration Script for Windows </td> 
+</tr>
 
 <tr>
 <td><img src="assets/privilege-escalation/ADCPwn.png"></td>
