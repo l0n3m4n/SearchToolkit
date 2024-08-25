@@ -129,7 +129,7 @@
 <td><img src="assets/cheatsheets/cheat-sh.png"></td>
 <td><b>cheat.sh</b></td>
 <td><a href="https://cheat.sh">Website</a></td>
-<td>Unified access to the best community driven cheat sheets repositories of the world.Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.</td>
+<td>Unified access to the best community driven cheat sheets repositories of the world. Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.</td>
 </tr>
 
 <tr>
