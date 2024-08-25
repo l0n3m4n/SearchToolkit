@@ -126,6 +126,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/cheat-sh.png"></td>
+<td><b>cheat.sh</b></td>
+<td><a href="https://cheat.sh">website</a></td>
+<td>Unified access to the best community driven cheat sheets repositories of the world.Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.</td>
+</tr>
+
+<tr>
 <td><img src="assets/exploitation/Payloads All The Things.jpg"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
