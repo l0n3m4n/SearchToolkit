@@ -14,4 +14,4 @@ For suggestions or any other inquiries, please reach out to us via [email](mailt
 
 Thank you for your understanding and support!
 
-— ***l0n3m4n: EHPH Member**
+— **l0n3m4n: EHPH Member**
