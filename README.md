@@ -36,7 +36,7 @@
     <a href="https://www.buymeacoffee.com/l0n3m4n">
         <img src="https://img.shields.io/badge/Buy%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
     </a>  
-    <a href="mailto:l0n3m4n@proton.me">
+    <a href="mailto:ehph@proton.me">
       <img src="https://img.shields.io/badge/ProtonMail-6001D2?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
     </a>
    <a href="https://github.com/l0n3m4n/SearchToolkit/pulls">
