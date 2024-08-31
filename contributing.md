@@ -2,7 +2,7 @@
 
 ## Contribution Policy
 
-Thank you for your interest in contributing to **SearchToolkit**. Currently, we are not accepting external contributors for the meantime due to team policy and only they have permission to make changes at this time. This policy is strictly enforced by our team leader, and as such, external contributions are not permitted at the moment. This policy may change in the future, and we will update our guidelines accordingly.
+Thank you for your interest in contributing to **SearchToolkit**. At present, we are not accepting external contributions due to our team policy, which restricts changes to team members only. This policy is strictly enforced by our team leader. However, this policy may change in the future, and we will update our guidelines accordingly.
 
 ## Suggesting New Tools
 
