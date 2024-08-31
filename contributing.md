@@ -6,7 +6,7 @@ Thank you for your interest in contributing to **SearchToolkit**. At present, we
 
 ## Suggesting New Tools
 
-If you come across any tools or resources that you believe could be valuable for penetration testing, red teamingm, threat intel, we would love to hear about them! Please feel free to drop us an email with the details of the tool and how it could benefit our **infosec** community. While we are not accepting direct contributions, your suggestions are highly appreciated and may influence our future developments.
+If you come across any tools or resources that you believe could be valuable for penetration testing, red teamingm, threat intel, etc., we would love to hear about them! Please feel free to drop us an email with the details of the tool and how it could benefit our **infosec** community. While we are not accepting direct contributions, your suggestions are highly appreciated and may influence our future developments.
 
 ## Contact
 
