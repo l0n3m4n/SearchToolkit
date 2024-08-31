@@ -39,10 +39,7 @@
     <a href="mailto:ehph@proton.me">
       <img src="https://img.shields.io/badge/ProtonMail-6001D2?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
     </a>
-   <a href="https://github.com/l0n3m4n/SearchToolkit/pulls">
-      <img src="https://img.shields.io/badge/Pull Request-05192D?style=for-the-badge&logo=github&logoColor=03E860" alt="Pull Request">
-  </a>
-  <a href="https://github.com/l0n3m4n/SearchToolkit/blob/main/CONTRIBUTING.md">
+    <a href="https://github.com/l0n3m4n/SearchToolkit/blob/main/contributing.md">
       <img src="https://img.shields.io/badge/Contribute-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
