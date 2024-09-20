@@ -5735,6 +5735,12 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td><a href="https://tryhackme.com">Online Platform</a></td>
         <td>Distinguished for its range of virtual machines, TryHackMe is a popular platform catering to all expertise levels.</td>
     </tr>
+     <tr>
+        <td><img src="assets/ctf-platform/Root-Me.png"></td>
+        <td><b>Root-Me</b></td>
+        <td><a href="https://root-me.org/en/">Online Platform</a></td>
+        <td>Root-Me covers diverse domains like web application security, cryptography, and reverse engineering.</td>
+    </tr>
     <tr>
         <td><img src="assets/ctf-platform/PentesterLab.png"></td>
         <td><b>PentesterLab</b></td>
@@ -5752,12 +5758,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td><b>OverTheWire</b></td>
         <td><a href="https://overthewire.org">Online Platform</a></td>
         <td>Known for its assorted challenges spanning network security, cryptography, and web exploitation.</td>
-    </tr>
-    <tr>
-        <td><img src="assets/ctf-platform/Root-Me.png"></td>
-        <td><b>Root-Me</b></td>
-        <td><a href="https://root-me.org/en/">Online Platform</a></td>
-        <td>Root-Me covers diverse domains like web application security, cryptography, and reverse engineering.</td>
     </tr>
     <tr>
         <td><img src="assets/ctf-platform/picoCTF.jpg"></td>
