@@ -3605,6 +3605,12 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <td><a href="https://ransomwhe.re">Website</a></td>
     <td>(Adversaries Monitoring): Ransomwhere Monitoring Cryptocurrencies, a crowdsourced ransomware payment tracker.</td>
   </tr>
+   <tr>
+    <td><img src="assets/malware-analysis/Virustotal.png"></td>
+    <td><b>yara</b></td>
+    <td><a href="https://github.com/VirusTotal/yara">Github</a></td>
+    <td>(Yara rules): YARA is a tool aimed helping malware researchers to identify and classify malware samples.</td>
+  </tr>
   </tbody>
 </table>
 <br>
