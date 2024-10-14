@@ -68,7 +68,8 @@
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
-  <a href="#misc"><b>Misc</b></a> 
+  <a href="#misc"><b>Misc</b></a> | 
+  <a href="#bugbounty"><b>Bugbounty</b></a> 
   
   <h3 align="center">Attack Cycle</h3>
 
@@ -3659,6 +3660,46 @@ made to help you during your investigations</td>
 <td><a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
 <td>LinkedIn Recon Tool</td>
 </tr>
+</tbody>
+</table>
+<br>
+ 
+
+[🔝 Back to top](#Search-Navigation)
+
+## Bugbounty
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>Bugbounty-Platform</b></td>
+<td><a href="https://platforms.disclose.io/">Github Page</a>
+<td>Bug Bounty Platforms: Open-Sourced Collection of Bug Bounty Platforms</td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>bounty-targets-data</b></td>
+<td><a href="https://github.com/arkadiyt/bounty-targets-data">Github</a>
+<td> This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports </td>
+</tr>
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>Hackerone-reports</b></td>
+<td><a href="https://github.com/reddelexc/hackerone-reports">Github</a>
+<td>Tops of HackerOne reports</td>
+</tr>
+
 </tbody>
 </table>
 <br>
