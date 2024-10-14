@@ -5622,7 +5622,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/"></td>
+<td><img src="assets/lateral-movement/mdsec_farmer.png"></td>
 <td>Farmer</td>
 <td><a href="https://github.com/mdsecactivebreach/Farmer">Github</a></td>
 <td>Project for collecting NetNTLM hashes in a Windows domain.</td>
@@ -5711,6 +5711,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><a href="https://github.com/trustedsec/orpheus">Github</a></td>
 <td>Bypasses Kerberoast detections with modified KDC options and encryption types.</td>
 </tr>
+
+<tr>
+<td><img src="assets/lateral-movement/sharpwsus.png"></td>
+<td>SharpWSUS</td>
+<td><a href="https://github.com/nettitude/SharpWSUS">Github</a></td>
+<td>SharpWSUS is a CSharp tool for lateral movement through WSUS.</td>
+</tr>
+
 </tbody>
 </table>
 <br>
