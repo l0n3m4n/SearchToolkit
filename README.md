@@ -3280,7 +3280,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <tr>
       <td><img src="assets/credentials-leaks/BreachForums.jpg"></td>
       <td><b>BreachForums</b></td>
-      <td><a href="https://breached.to/">Onion Website</a></td>
+      <td><a href="http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/">Onion Website</a></td>
       <td>Breaches, Data leaks, databases, and more</td>
     </tr>
      <tr>
