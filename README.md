@@ -245,7 +245,7 @@
 
 ## Discovery
 
-> reconnaissance, enumeration, fuzzing and etc.
+> reconnaissance, enumeration, fuzzing, cms and etc.
 
 <table>
 <thead>
@@ -847,6 +847,13 @@
 <td><b>vaf</b></td>
 <td><a href="https://github.com/d4rckh/vaf">GitHub</a></td>
 <td>(Fuzzing): Very advanced (web) fuzzer written in Nim.</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/CMSeeK.jpg"></td>
+<td><b>CMSeeK</b></td>
+<td><a href="https://github.com/Tuhinshubhra/CMSeeK">GitHub</a></td>
+<td>(CMS Detection): Scan WordPress, Joomla, Drupal and over 180 other CMSs </td>
 </tr>
 
 </tbody>
