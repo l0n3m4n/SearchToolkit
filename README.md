@@ -69,7 +69,8 @@
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
   <a href="#misc"><b>Misc</b></a> | 
-  <a href="#bugbounty"><b>Bugbounty</b></a> 
+  <a href="#bugbounty"><b>Bugbounty</b></a> | 
+   <a href="#resources"><b>Resources</b></a> 
   
   <h3 align="center">Attack Cycle</h3>
 
@@ -3706,6 +3707,35 @@ made to help you during your investigations</td>
 <td><a href="https://github.com/reddelexc/hackerone-reports">Github</a>
 <td>Tops of HackerOne reports</td>
 </tr>
+
+</tbody>
+</table>
+<br>
+ 
+
+[🔝 Back to top](#Search-Navigation)
+
+
+
+## Resources
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/resources/infosecmatter.png"></td>
+<td><b>Infosecmatter</b></td>
+<td><a href="https://www.infosecmatter.com/">Website</a>
+<td>Blog: Sharing knowledge about cyber security, writing howtos, tips and tricks about penetration testing, red teaming, but also defense.</td>
+</tr>
+ 
 
 </tbody>
 </table>
