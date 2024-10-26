@@ -132,6 +132,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/cheat.png"></td>
+<td><b>cheat</b></td>
+<td><a href="https://github.com/cheat/cheat">Github</a></td>
+<td>cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.</td>
+</tr>
+
+<tr>
 <td><img src="assets/exploitation/Payloads All The Things.jpg"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
