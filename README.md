@@ -3741,14 +3741,15 @@ made to help you during your investigations</td>
 <td><b>Infosecmatter</b></td>
 <td><a href="https://www.infosecmatter.com/">Website</a>
 <td>Blog: Sharing knowledge about cyber security, writing howtos, tips and tricks about penetration testing, red teaming, but also defense.</td>
+</tr>
 
+<tr>
 <td><img src="assets/resources/hackingarticles.jpg"></td>
 <td><b>Hacking Articles</b></td>
 <td><a href="https://www.hackingarticles.in/">Website</a>
 <td>Blog: Hacking Articles is a discursive source of knowledge on cyber security including Penetration Testing, Red teaming, Web pentesting, CTF challenge.</td>
 </tr>
  
-
 </tbody>
 </table>
 <br>
