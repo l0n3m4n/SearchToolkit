@@ -864,6 +864,20 @@
 <td>(CMS Detection): Scan WordPress, Joomla, Drupal and over 180 other CMSs </td>
 </tr>
 
+<tr>
+<td><img src="assets/discovery/GitFive.jpg"></td>
+<td><b>GitFive</b></td>
+<td><a href="https://github.com/mxrch/GitFive">GitHub</a></td>
+<td>(Git/OSINT): GitFive is an OSINT tool to investigate GitHub profiles.</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/gixposed.jpg"></td>
+<td><b>gixposed</b></td>
+<td><a href="https://github.com/WH1T3-E4GL3/gixposed?">GitHub</a></td>
+<td>(Git/OSINT): Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. </td>
+</tr>
+
 </tbody>
 </table>
 <br>
