@@ -3769,7 +3769,7 @@ made to help you during your investigations</td>
 <td><img src="assets/resources/anonymousplanet.png"></td>
 <td><b>Anonymousplanet</b></td>
 <td><a href="https://anonymousplanet.org/ ">Website</a>
-<td>Anonymity/Privacy: The comprehensive guide for online anonymity and OpSec.</td>
+<td>Anonymity: The comprehensive guide for online anonymity and OpSec.</td>
 </tr>
 
 </tbody>
