@@ -3765,6 +3765,13 @@ made to help you during your investigations</td>
 <td>Blog: Hacking Articles is a discursive source of knowledge on cyber security including Penetration Testing, Red teaming, Web pentesting, CTF challenge.</td>
 </tr>
  
+<tr>
+<td><img src="assets/resources/anonymousplanet.png"></td>
+<td><b>Anonymousplanet</b></td>
+<td><a href="https://anonymousplanet.org/ ">Website</a>
+<td>Anonymity/Privacy: The comprehensive guide for online anonymity and OpSec.</td>
+</tr>
+
 </tbody>
 </table>
 <br>
