@@ -3933,7 +3933,7 @@ made to help you during your investigations</td>
 
 [⬆️ Back to OSINT](#OSINT)
 
-## Tools 
+## Investigation 
 
 <table>
   <thead>
