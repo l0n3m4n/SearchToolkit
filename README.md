@@ -3920,16 +3920,53 @@ made to help you during your investigations</td>
 <h2 align="center">OSINT</h2>
 
 <p align="center">
+  <a href="#tools"><b>Tools</b></a> 
   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
   <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#url"><b>URL</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
   <a href="#device-information"><b>Device Information</b></a> | 
   <a href="#surveillance-cameras"><b>Surveillance Cameras</b></a> |
+  
 </p>
 <br>
 
 [⬆️ Back to OSINT](#OSINT)
+
+## Tools 
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="assets/investigation-tools/sherlock.png"></td>
+      <td><b>sherlock</b></td>
+      <td><a href="https://github.com/sherlock-project/sherlock">Github</a></td>
+      <td>Hunt down social media accounts by username across social networks</td>
+    </tr>
+    <tr>
+      <td><img src="assets/investigation-tools/osint-framework.jpg"></td>
+      <td><b>OSINT Framework</b></td>
+      <td><a href="https://osintframework.com/">Website</a></td>
+      <td>OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. </td>
+    </tr>
+    <tr>
+      <td><img src="assets/investigation-tools/linkscope.png"></td>
+      <td><b>linkscope</b></td>
+      <td><a href="https://github.com/AccentuSoft/LinkScope_Client">Github</a></td>
+      <td> LinkScope Client Online Investigation software that allows you to perform online investigations by representing information as discrete pieces of data, called Entities.</td>
+    </tr>
+     </tbody>
+</table>
+<br>
+
 
 ## Phone Numbers 
 
