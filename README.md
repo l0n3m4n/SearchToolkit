@@ -3945,23 +3945,29 @@ made to help you during your investigations</td>
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td><img src="assets/investigation-tools/spiderfoot.jpg"></td>
+      <td><b>spiderfoot</b></td>
+      <td><a href="https://github.com/smicallef/spiderfoot">Github</a></td>
+      <td>(Attack surface): SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. </td>
+    </tr>
     <tr>
       <td><img src="assets/investigation-tools/sherlock.png"></td>
       <td><b>sherlock</b></td>
       <td><a href="https://github.com/sherlock-project/sherlock">Github</a></td>
-      <td>Hunt down social media accounts by username across social networks</td>
+      <td>(Username): Hunt down social media accounts by username across social networks</td>
     </tr>
     <tr>
       <td><img src="assets/investigation-tools/osint-framework.jpg"></td>
       <td><b>OSINT Framework</b></td>
       <td><a href="https://osintframework.com/">Website</a></td>
-      <td>OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. </td>
+      <td>(General): OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. </td>
     </tr>
     <tr>
       <td><img src="assets/investigation-tools/linkscope.png"></td>
       <td><b>linkscope</b></td>
       <td><a href="https://github.com/AccentuSoft/LinkScope_Client">Github</a></td>
-      <td> LinkScope Client Online Investigation software that allows you to perform online investigations by representing information as discrete pieces of data, called Entities.</td>
+      <td>(Entities): LinkScope Client Online Investigation software that allows you to perform online investigations by representing information as discrete pieces of data, called Entities.</td>
     </tr>
      </tbody>
 </table>
