@@ -8,8 +8,8 @@ from urllib.parse import urlparse
 # Description: ST_duplicate Checker  #
 # Date Creation: 10/23/2023          #
 # Last update: 08/2/2024             #
-# Author: AL Drin / @l0n3m4n         #
-# Version: v1.0.1                    #
+# Author: @l0n3m4n                   #
+# Version: v.0.1                     #
 ######################################
 
  
