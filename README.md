@@ -78,7 +78,6 @@
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
   <a href="#vulnerability-scanner"><b>Vulnerability Scanner</b></a> | 
   <a href="#social-engineering"><b>Social Engineering</b></a> |
-  <a href="#initial-access"><b>Initial Access</b></a> |
   <a href="#payload-and-staging"><b>Payload and Staging</b></a> |
   <a href="#exploitation"><b>Exploitation</b></a> |
   <a href="#privilege-escalation"><b>Privilege Escalation</b></a> |
@@ -2111,8 +2110,7 @@
 <td><a href="https://github.com/r0oth3x49/ghauri">GitHub</a></td>
 <td>(SQL Injection): An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</td>
 </tr>
-
-<!-- XSS Injection Tools -->
+ 
 <tr>
 <td><img src="assets/exploitation/XSStrike.png"></td>
 <td><b>XSStrike</b></td>
@@ -2316,8 +2314,27 @@
 <td>(SSTI): Automatic SSTI detection tool with interactive interface</td>
 </tr>
 
+<tr>
+<td><img src="assets/initial-access/SprayingToolkit.jpg"></td>
+<td>SprayingToolkit</td>
+<td><a href="https://github.com/byt3bl33d3r/SprayingToolkit">Github</a></td>
+<td>(Password): Scripts to make password spraying attacks against Lync/S4B, OWA & O365 quicker, less painful, and more efficient.</td>
+</tr>
 
+<tr>
+<td><img src="assets/initial-access/o365recon.jpg"></td>
+<td>o365recon</td>
+<td><a href="https://github.com/nyxgeek/o365recon">Github</a></td>
+<td>(Cloud/AD): retrieve information via O365 and AzureAD with a valid cred </td>
+</tr>
 
+<tr>
+<td><img src="assets/initial-access/CredMaster.jpg"></td>
+<td>CredMaster</td>
+<td><a href="https://github.com/knavesec/CredMaster">Github</a></td>
+<td>(Password): Refactored & improved CredKing password spraying tool. Uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling.</td>
+</tr>
+ 
 </tbody>
 </table>
 <br>
@@ -4712,44 +4729,6 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 </tbody>
 </table>
-
-[🔝 Back to top](#Search-Navigation)
-
-## Initial Access
-
-<table>
-<thead>
-<tr>
-<th>IMAGE</th>
-<th>NAMES</th>
-<th>LINKS</th>
-<th>DESCRIPTIONS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="assets/initial-access/SprayingToolkit.jpg"></td>
-<td>SprayingToolkit</td>
-<td><a href="https://github.com/byt3bl33d3r/SprayingToolkit">Github</a></td>
-<td>Scripts to make password spraying attacks against Lync/S4B, OWA & O365 quicker, less painful, and more efficient.</td>
-</tr>
-
-<tr>
-<td><img src="assets/initial-access/o365recon.jpg"></td>
-<td>o365recon</td>
-<td><a href="https://github.com/nyxgeek/o365recon">Github</a></td>
-<td>Retrieve information via O365 with valid credentials.</td>
-</tr>
-
-<tr>
-<td><img src="assets/initial-access/CredMaster.jpg"></td>
-<td>CredMaster</td>
-<td><a href="https://github.com/knavesec/CredMaster">Github</a></td>
-<td>Refactored & improved CredKing password spraying tool. Uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling.</td>
-</tr>
-</tbody>
-</table>
-<br>
 
 [🔝 Back to top](#Search-Navigation)
 
