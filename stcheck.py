@@ -71,7 +71,7 @@ def main():
  |__     ||  -__|  _  |   _|  __||     |  |   |  |  _  |  _  ||  |    < |  |   _|
  |_______||_____|___._|__| |____||__|__|  |___|  |_____|_____||__|__|__||__|____|
  
-            {COLORS.LIGHTCYAN}Author: l0n3m4n | Version: v1.0.1 | Check Duplicates Links                                                                           
+            {COLORS.LIGHTCYAN}Author: l0n3m4n | Version: v0.2 | Check Duplicates Links                                                                           
     {COLORS.RESET}"""
     print(banner)
 
@@ -88,7 +88,7 @@ def main():
         print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' is empty{COLORS.RESET}")
         sys.exit(1)
     
-    search_term = input(f"{COLORS.LIGHTGREEN}Search specific tool:{COLORS.RESET} ").strip()
+    search_term = input(f"{COLORS.LIGHTGREEN}Search specific toolname:{COLORS.RESET} ").strip()
     found_any = False
 
     if search_term:
