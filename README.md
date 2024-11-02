@@ -1938,13 +1938,6 @@
 </tr>
 
 <tr>
-<td><img src="assets/exploitation/ground-control.png"></td>
-<td><b>ground-control</b></td>
-<td><a href="https://github.com/jobertabma/ground-control">GitHub</a></td>
-<td>(SSRF): A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities</td>
-</tr>
-
-<tr>
 <td><img src="assets/exploitation/SSRFire.jpg"></td>
 <td><b>SSRFire</b></td>
 <td><a href="https://github.com/micha3lb3n/SSRFire">GitHub</a></td>
