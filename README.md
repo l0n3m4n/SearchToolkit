@@ -73,6 +73,7 @@
    <a href="#resources"><b>Resources</b></a> 
   
   <h3 align="center">Attack Cycle</h3>
+ <!--- If you think this attack cycle could be improved or does not fully align based on your perspective and experience, please feel free to submit a pull request. :) -->
 
   <a href="#discovery"><b>Discovery</b></a> |
   <a href="#vulnerability-identification"><b>Vulnerability Identification</b></a> | 
