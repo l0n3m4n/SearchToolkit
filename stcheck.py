@@ -65,6 +65,7 @@ def process_file(file_path: str) -> Tuple[int, int, List[str], int]:
 
 
 def main():
+    """main function to execute ST logic"""
     banner = f"""{COLORS.LIGHTGREEN}
   _______                         __     _______               __ __     __ __   
  |     __|.-----.---.-.----.----.|  |--.|_     _|.-----.-----.|  |  |--.|__|  |_ 
@@ -88,40 +89,44 @@ def main():
         print(f"{COLORS.LIGHTRED}❗ {COLORS.RESET} {COLORS.LIGHTGREEN}URL file '{url_file}' is empty{COLORS.RESET}")
         sys.exit(1)
     
-    search_term = input(f"{COLORS.LIGHTGREEN}Search specific toolname:{COLORS.RESET} ").strip()
-    found_any = False
+    try:
+        search_term = input(f"{COLORS.LIGHTGREEN}Search specific toolname:{COLORS.RESET} ").strip()
+        found_any = False
 
-    if search_term:
-        with open(url_file, 'r', encoding='utf-8') as file:
-            for line in file:
-                if search_term.lower() in line.lower():
-                    urls = extract_urls(line)
-                    if urls:
-                        found_any = True
-                        print(f"\n{COLORS.LIGHTCYAN}Links containing '{COLORS.LIGHTGREEN}{search_term}{COLORS.RESET}':{COLORS.RESET}")
-                        for url in urls:
-                            print(f"{COLORS.LIGHTYELLOW}⚠️ {COLORS.RESET} {url}")
+        if search_term:
+            with open(url_file, 'r', encoding='utf-8') as file:
+                for line in file:
+                    if search_term.lower() in line.lower():
+                        urls = extract_urls(line)
+                        if urls:
+                            found_any = True
+                            print(f"\n{COLORS.LIGHTCYAN}Links containing '{COLORS.LIGHTGREEN}{search_term}{COLORS.RESET}':{COLORS.RESET}")
+                            for url in urls:
+                                print(f"{COLORS.LIGHTYELLOW}⚠️ {COLORS.RESET} {url}")
 
-        if not found_any:
-            print(f"\n{COLORS.LIGHTCYAN}No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}")
+            if not found_any:
+                print(f"\n{COLORS.LIGHTCYAN}No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}")
 
-    errors_count, duplicates_count, duplicate_links, total_urls = process_file(url_file)
+        errors_count, duplicates_count, duplicate_links, total_urls = process_file(url_file)
 
-    if errors_count:
-        print(f"{COLORS.LIGHTRED} {errors_count}:{COLORS.RESET}")
-        for error in errors_count:
-            print(f"❌ {error}")
-    else:
-        print(f"\n{COLORS.LIGHTGREEN}No errors found{COLORS.RESET}")
+        if errors_count:
+            print(f"{COLORS.LIGHTRED} {errors_count}:{COLORS.RESET}")
+            for error in errors_count:
+                print(f"❌ {error}")
+        else:
+            print(f"\n{COLORS.LIGHTGREEN}No errors found{COLORS.RESET}")
 
-    if duplicates_count:
-        print(f"\n{COLORS.LIGHTRED}Duplicate Links{COLORS.RESET}: {COLORS.LIGHTGREEN}{duplicates_count}{COLORS.RESET}\n")
-        for link in duplicate_links:
-            print(f"- {link}")
-    else:
-        print(f"{COLORS.LIGHTGREEN}No duplicate links found{COLORS.RESET}")
+        if duplicates_count:
+            print(f"\n{COLORS.LIGHTRED}Duplicate Links{COLORS.RESET}: {COLORS.LIGHTGREEN}{duplicates_count}{COLORS.RESET}\n")
+            for link in duplicate_links:
+                print(f"- {link}")
+        else:
+            print(f"{COLORS.LIGHTGREEN}No duplicate links found{COLORS.RESET}")
 
-    print(f"\n{COLORS.LIGHTBLUE}Total URLs{COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
+        print(f"\n{COLORS.LIGHTBLUE}Total URLs{COLORS.RESET}: {COLORS.LIGHTGREEN}{total_urls}{COLORS.RESET}")
+    except KeyboardInterrupt:
+        print(f"\n{COLORS.LIGHTRED}User interruption: {COLORS.LIGHTGREEN}Session terminated.{COLORS.RESET}")
+        sys.exit(0)
 
 if __name__ == "__main__":
     main()
