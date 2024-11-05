@@ -281,6 +281,13 @@
 </tr> 
 
 <tr>
+<td><img src="assets/discovery/reconftw.png"></td>
+<td><b>reconftw</b></td>
+<td><a href="https://github.com/six2dez/reconftw">GitHub</a></td>
+<td>(General-Recon): Perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities </td>
+</tr> 
+
+<tr>
 <td><img src="assets/discovery/wappalyzer.jpg"></td>
 <td><b>wappalyzer</b></td>
 <td><a href="https://github.com/AliasIO/wappalyzer">GitHub</a></td>
