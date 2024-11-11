@@ -188,6 +188,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/exploits-notes.jpg"></td>
+<td><b>Exploits Notes</b></td>
+<td><a href="https://exploit-notes.hdks.org/">Website</a></td>
+<td>Search hacking techniques and tools for penetration testings, bug bounty, CTFs. </td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/RedTeam-Cheatsheets.jpg"></td>
 <td><b>RedTeam Cheatsheets</b></td>
 <td><a href="https://github.com/wsummerhill/C2_RedTeam_CheatSheets">Github</a></td>
