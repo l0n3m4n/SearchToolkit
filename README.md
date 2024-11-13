@@ -6842,6 +6842,14 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
+<td><img src="assets/reverse-engineering/ILSpy.jpg"></td>
+<td><b>ILSpy</b></td>
+<td><a href="https://github.com/icsharpcode/ILSpy">Github</a></td>
+<td>(Decompiler): ILSpy is the open-source .NET assembly browser and decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! </td>
+</tr>
+
+
+<tr>
 <td><img src="assets/reverse-engineering/unicorn.png"></td>
 <td><b>unicorn</b></td>
 <td><a href="https://github.com/unicorn-engine/unicorn">Github</a></td>
