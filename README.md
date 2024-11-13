@@ -6849,7 +6849,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/reverse-engineering/jwt.pngn"></td>
+<td><img src="assets/reverse-engineering/jwt.png"></td>
 <td><b>JWT</b></td>
 <td><a href="https://jwt.io/">Website</a></td>
 <td>(Debugger/Decoder): JWT.IO allows you to decode, verify and generate JSON Web Tokens.</td>
