@@ -3994,6 +3994,12 @@ made to help you during your investigations</td>
       <td><a href="https://github.com/AccentuSoft/LinkScope_Client">Github</a></td>
       <td>(Entities): LinkScope Client Online Investigation software that allows you to perform online investigations by representing information as discrete pieces of data, called Entities.</td>
     </tr>
+    <tr>
+      <td><img src="assets/osint/urlcrazy.png"></td>
+      <td><b>URLCrazy</b></td>
+      <td><a href="https://github.com/urbanadventurer/urlcrazy">Github</a></td>
+      <td>(OSINT):  Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage. </td>
+    </tr>
      </tbody>
 </table>
 <br>
