@@ -288,6 +288,13 @@
 </tr> 
 
 <tr>
+<td><img src="assets/discovery/axiom.jpeg"></td>
+<td><b>Axiom</b></td>
+<td><a href="https://github.com/pry0cc/axiom">GitHub</a></td>
+<td>(General-Tool): The dynamic infrastructure framework for hacking! different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more! </td>
+</tr> 
+
+<tr>
 <td><img src="assets/discovery/reconftw.png"></td>
 <td><b>reconftw</b></td>
 <td><a href="https://github.com/six2dez/reconftw">GitHub</a></td>
