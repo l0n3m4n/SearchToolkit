@@ -288,7 +288,7 @@
 </tr> 
 
 <tr>
-<td><img src="assets/discovery/axiom.jpeg"></td>
+<td><img src="assets/discovery/axiom.jpg"></td>
 <td><b>Axiom</b></td>
 <td><a href="https://github.com/pry0cc/axiom">GitHub</a></td>
 <td>(General-Tool): The dynamic infrastructure framework for hacking! different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more! </td>
