@@ -4024,6 +4024,12 @@ made to help you during your investigations</td>
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td><img src="assets/phone-numbers/phoneinfoga.png"></td>
+      <td><b>Phoneinfoga</b></td>
+      <td><a href="https://github.com/sundowndev/phoneinfoga">Github</a></td>
+      <td> Information gathering framework for phone numbers </td>
+    </tr>
     <tr>
       <td><img src="assets/phone-numbers/NumLookup.jpg"></td>
       <td><b>NumLookup</b></td>
