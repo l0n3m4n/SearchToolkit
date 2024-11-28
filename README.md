@@ -191,7 +191,7 @@
 <td><img src="assets/cheatsheets/rs0n.png"></td>
 <td><b>Rs0n Methodology</b></td>
 <td><a href="https://rs0n.xyz/pages/methodology">Github</a></td>
-<td>(Cheatsheets): Vulnerability summary and bug hunting methodology</td>
+<td>(Methodology): Vulnerability summary and bug hunting methodology</td>
 </tr>
 
 <tr>
