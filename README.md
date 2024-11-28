@@ -97,7 +97,7 @@
 
 ## Cheatsheets
 
-> notes, guides, resources, techniques and etc.
+> notes, methodology , resources, techniques and etc.
 
 <table>
 <thead>
@@ -114,91 +114,98 @@
 <td><img src="assets/cheatsheets/hacktricks.jpg"></td>
 <td><b>HackTricks</b></td>
 <td><a href="https://book.hacktricks.xyz/">Website</a></td>
-<td>HackTricks is a comprehensive resource that provides a wide range of information and tips related to pentesting, redteaming and etc. </td>
+<td>(General): HackTricks is a comprehensive resource that provides a wide range of information and tips related to pentesting, redteaming and etc. </td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/atomicredteam.png"></td>
 <td><b>Atomic RedTeam</b></td>
 <td><a href="https://atomicredteam.io/atomics/">Website</a></td>
-<td>Atomic Red Team can be used as a reference for cheatsheets. It provides detailed examples of specific commands, scripts, and guides that can be used to simulate various adversary techniques (TTPs).</td>
+<td>(TTPs): Atomic Red Team can be used as a reference for cheatsheets. It provides detailed examples of specific commands, scripts, and guides that can be used to simulate various adversary techniques (TTPs).</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/cheat-sh.png"></td>
 <td><b>cheat.sh</b></td>
 <td><a href="https://cheat.sh">Website</a></td>
-<td>Unified access to the best community driven cheat sheets repositories of the world. Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.</td>
+<td>(Cheatsheets): Unified access to the best community driven cheat sheets repositories of the world. Covers 56 programming languages, several DBMSes, and more than 1000 most important UNIX/Linux commands.</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/cheat.png"></td>
 <td><b>cheat</b></td>
 <td><a href="https://github.com/cheat/cheat">Github</a></td>
-<td>cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.</td>
+<td>(Cheasheets): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.</td>
 </tr>
 
 <tr>
 <td><img src="assets/exploitation/Payloads All The Things.jpg"></td>
 <td><b>Payloads All The Things</b></td>
 <td><a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Github</a></td>
-<td>A list of useful payloads and bypasses for Web Application Security and also a cheatsheets</td>
+<td>(General): A list of useful payloads and bypasses for Web Application Security and also a cheatsheets</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/RedTeam-Tools.png"></td>
 <td><b>RedTeam-Tools</b></td>
 <td><a href="https://github.com/A-poc/RedTeam-Tools">Github</a></td>
-<td>A github repository contains a collection of 130+ tools and resources that can be useful for red teaming activities.</td>
+<td>(Resources): A github repository contains a collection of 130+ tools and resources that can be useful for red teaming activities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/BlueTeam-Tools.png"></td>
 <td><b>BlueTeam-Tools</b></td>
 <td><a href="https://github.com/A-poc/BlueTeam-Tools">Github</a></td>
-<td>A github repository contains a collection of 65+ tools and resources that can be useful for blue teaming activities.</td>
+<td>(Resources): A github repository contains a collection of 65+ tools and resources that can be useful for blue teaming activities.</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/internal-all-the-things.png"></td>
 <td><b>Internall-all-the-things</b></td>
 <td><a href="https://swisskyrepo.github.io/InternalAllTheThings/">Github.io</a></td>
-<td>Active Directory and Internal Pentest Cheatsheets</td>
+<td>(General): Active Directory and Internal Pentest Cheatsheets</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/activate directory cheatsheets.jpg"></td>
 <td><b>Activate Directory Cheatsheets</b></td>
 <td><a href="https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet">Github</a></td>
-<td>A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. </td>
+<td>(Cheatsheets): A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. </td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/cloudpentest.png"></td>
 <td><b>CloudPentest</b></td>
 <td><a href="https://github.com/4ndersonLin/awesome-cloud-security">Github</a></td>
-<td>🛡️ Awesome Cloud Security Resources and cheatsheets ⚔️</td>
+<td>(Cheatsheets): 🛡️ Awesome Cloud Security Resources and cheatsheets ⚔️</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/RedTeam Guide.png"></td>
 <td><b>RedTeam Guide</b></td>
 <td><a href="https://github.com/RistBS/Awesome-RedTeam-Cheatsheet">Github</a></td>
-<td>Red Team Cheatsheet in constant expansion.</td>
+<td>(Cheatsheets): Red Team Cheatsheet in constant expansion.</td>
+</tr>
+
+<tr>
+<td><img src="assets/cheatsheets/rs0n.png"></td>
+<td><b>Rs0n Methodology</b></td>
+<td><a href="https://rs0n.xyz/pages/methodology">Github</a></td>
+<td>(Cheatsheets): Vulnerability summary and bug hunting methodology</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/exploits-notes.jpg"></td>
 <td><b>Exploits Notes</b></td>
 <td><a href="https://exploit-notes.hdks.org/">Website</a></td>
-<td>Search hacking techniques and tools for penetration testings, bug bounty, CTFs. </td>
+<td>(Resources): Search hacking techniques and tools for penetration testings, bug bounty, CTFs. </td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/RedTeam-Cheatsheets.jpg"></td>
 <td><b>RedTeam Cheatsheets</b></td>
 <td><a href="https://github.com/wsummerhill/C2_RedTeam_CheatSheets">Github</a></td>
-<td>Useful C2 techniques and cheatsheets learned from engagements (Cobalt strike and sliver c2)</td>
+<td>(Cheatsheets): Useful C2 techniques and cheatsheets learned from engagements (Cobalt strike and sliver c2)</td>
 </tr>
 
 <tr>
@@ -212,21 +219,21 @@
 <td><img src="assets/cheatsheets/awesome_hacking.jpg"></td>
 <td><b>Awesome-Hacking</b></td>
 <td><a href="https://github.com/Hack-with-Github/Awesome-Hacking">Github</a></td>
-<td>A collection of various awesome lists for hackers, pentesters and security researchers </td>
+<td>(Genreal): A collection of various awesome lists for hackers, pentesters and security researchers </td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/awesome-pentest-cheatsheets.png"></td>
 <td><b>Awesome-Pentest</b></td>
 <td><a href="https://github.com/coreb1t/awesome-pentest-cheat-sheets">Github</a></td>
-<td>Awesome Pentest Cheat Sheets a collection of the cheat sheets useful for pentesting </td>
+<td>(General): Awesome Pentest Cheat Sheets a collection of the cheat sheets useful for pentesting </td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/RedTeam-Notes 2.0.jpg  "></td>
 <td><b>RedTeam Notes 2.0</b></td>
 <td><a href="https://dmcxblue.gitbook.io/red-team-notes-2-0">Gitbook</a></td>
-<td> It is very beginner friendly and have everything from MITRE with more great images and high level explanations</td>
+<td> (General): It is very beginner friendly and have everything from MITRE with more great images and high level explanations</td>
 </tr>
 
 
@@ -234,7 +241,7 @@
 <td><img src="assets/cheatsheets/redteam-1.png"></td>
 <td><b>RedTeam</b></td>
 <td><a href="https://www.ired.team/">Website</a></td>
-<td>These are notes about all things focusing on, but not limited to, red teaming and offensive security.</td>
+<td>(General): These are notes about all things focusing on, but not limited to, red teaming and offensive security.</td>
 </tr>
 
 
@@ -242,14 +249,14 @@
 <td><img src="assets/cheatsheets/redteaming-malwareanalysis.png"></td>
 <td><b>Red Teaming and Malware Analysis</b></td>
 <td><a href="https://gitbook.seguranca-informatica.pt/">Gitbook</a></td>
-<td>Personal notes on red teaming / pentest and malware analysis, various techniques used during assessments.</td>
+<td>(Resources): Personal notes on red teaming / pentest and malware analysis, various techniques used during assessments.</td>
 </tr>
 
 <tr>
 <td><img src="assets/cheatsheets/offensive-security-cheatsheet.png"></td>
 <td><b>Offensive Security Cheatsheet</b></td>
 <td><a href="https://cheatsheet.haax.fr/">Website</a></td>
-<td>Their are few useful resources for penetration testing and enumerations staff. </td>
+<td>(General): Their are few useful resources for penetration testing and enumerations staff. </td>
 </tr>
 
 </tbody>
