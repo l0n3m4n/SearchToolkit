@@ -434,6 +434,14 @@
 <td>(Web): Scan for open S3 buckets and dump the contents</td>
 </tr>
 
+
+<tr>
+<td><img src="assets/discovery/whatwaf.jpg"></td>
+<td><b>Whatwaf</b></td>
+<td><a href="https://github.com/Ekultek/WhatWaf">GitHub</a></td>
+<td>(WAF Detector): Detect and bypass web application firewalls and protection systems </td>
+</tr>
+
 <tr>
 <td><img src="assets/discovery/cloud_enum.jpg"></td>
 <td><b>cloud_enum</b></td>
