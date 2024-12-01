@@ -3848,6 +3848,12 @@ made to help you during your investigations</td>
 <td>(CTF-HTB): Principal Lab Architect at HackTheBox, CTF player, educator</td>
 </tr>
 
+<tr>
+<td><img src="assets/resources/hak5.png"></td>
+<td><b>Hak5</b></td>
+<td><a href="https://shop.hak5.org/">Shop</a>
+<td>(Hardware): leading hardware hacker tools, WiFi Pineapple, USB Rubber Ducky, educator</td>
+</tr>
 
 <tr>
 <td><img src="assets/resources/infosecmatter.png"></td>
