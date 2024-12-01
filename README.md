@@ -3780,7 +3780,7 @@ made to help you during your investigations</td>
 
 
 ## Resources
-
+> resources, blogs, vlogs, ctf-writeups, certifications, tips&tricks, anonymity etc.
 <table>
   <thead>
     <tr>
@@ -3791,25 +3791,83 @@ made to help you during your investigations</td>
     </tr>
   </thead>
   <tbody>
+
+<tr>
+<td><img src="assets/resources/john.jpg"></td>
+<td><b>John Hammond</b></td>
+<td><a href="https://www.youtube.com/@_JohnHammond">YouTube</a>
+<td>(Educational): cybersecurity researcher, educator and content creator.</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/ippsec.jpg"></td>
+<td><b>IppSec</b></td>
+<td><a href="https://www.youtube.com/@ippsec">YouTube</a>
+<td>(CTF-HTB): Cyber Security Trainer at HTB, content creator, CTF player</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/nahamsec.jpg"></td>
+<td><b>NahamSec</b></td>
+<td><a href="https://www.youtube.com/@NahamSec">YouTube</a>
+<td>(Bug-Bounty): security researcher and content creator, educator, trainer</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/cybermentor.jpg"></td>
+<td><b>CyberMentor</b></td>
+<td><a href="https://www.youtube.com/c/thecybermentor">YouTube</a>
+<td>(Pentesting): penetration testing, compliance, content creator, trainer, TCM CEO</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/hackersploit.png"></td>
+<td><b>Hackersploit</b></td>
+<td><a href="https://www.youtube.com/@HackerSploit">YouTube</a>
+<td>(RedTeaming): Provider of free Infosec and cybersecurity training, Red Teamer, Content creator</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/liveoverflow.jpg"></td>
+<td><b>LiveOverflow</b></td>
+<td><a href="https://www.youtube.com/@JackRhysider">YouTube</a>
+<td>(Pwning): Content creator, binary, pwning, crypto, educator</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/JackRhysider.jpg"></td>
+<td><b>Jack Rhysider</b></td>
+<td><a href="https://www.youtube.com/@JackRhysider">YouTube</a>
+<td>(Diaries): Darknet Diaries is an investigative podcast, stories about cybercrime, malware, cryptography, internet privacy, etc.</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/0xdf.jpg"></td>
+<td><b>0xdf</b></td>
+<td><a href="https://0xdf.gitlab.io/about">GitLab</a>
+<td>(CTF-HTB): Principal Lab Architect at HackTheBox, CTF player, educator</td>
+</tr>
+
+
 <tr>
 <td><img src="assets/resources/infosecmatter.png"></td>
 <td><b>Infosecmatter</b></td>
 <td><a href="https://www.infosecmatter.com/">Website</a>
-<td>Blog: Sharing knowledge about cyber security, writing howtos, tips and tricks about penetration testing, red teaming, but also defense.</td>
+<td>(Blog): Sharing knowledge about cyber security, writing howtos, tips and tricks about penetration testing, red teaming, but also defense.</td>
 </tr>
 
 <tr>
 <td><img src="assets/resources/hackingarticles.jpg"></td>
 <td><b>Hacking Articles</b></td>
 <td><a href="https://www.hackingarticles.in/">Website</a>
-<td>Blog: Hacking Articles is a discursive source of knowledge on cyber security including Penetration Testing, Red teaming, Web pentesting, CTF challenge.</td>
+<td>(Blog): Hacking Articles is a discursive source of knowledge on cyber security including Penetration Testing, Red teaming, Web pentesting, CTF challenge.</td>
 </tr>
  
 <tr>
 <td><img src="assets/resources/anonymousplanet.png"></td>
 <td><b>Anonymousplanet</b></td>
 <td><a href="https://anonymousplanet.org/ ">Website</a>
-<td>Anonymity: The comprehensive guide for online anonymity and OpSec.</td>
+<td>(Anonymity): The comprehensive guide for online anonymity and OpSec.</td>
 </tr>
 
 </tbody>
