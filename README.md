@@ -3876,6 +3876,13 @@ made to help you during your investigations</td>
 <td>(Anonymity): The comprehensive guide for online anonymity and OpSec.</td>
 </tr>
 
+<tr>
+<td><img src="assets/resources/infocon.jpg"></td>
+<td><b>InfoCon</b></td>
+<td><a href="https://infocon.org/cons/ ">Website</a>
+<td>(Conference): InfoCon is an archive of hacking and security conference videos from around the world.</td>
+</tr>
+
 </tbody>
 </table>
 <br>
