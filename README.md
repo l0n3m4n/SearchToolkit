@@ -3890,8 +3890,8 @@ made to help you during your investigations</td>
 
 [🔝 Back to top](#Search-Navigation)
 
-## Programming & Script 
-
+## Programming & Scripting
+> programming languages, bootcamp, online GDB, tutorials, documentations and etc.
 <table>
   <thead>
     <tr>
@@ -3951,7 +3951,7 @@ made to help you during your investigations</td>
       <td>A free and efficient obfuscator for JavaScript (including support of ES2022). Make your code harder to copy and prevent people from stealing your work. </td>
     </tr>
      <tr>
-      <td><img src="assets/programming/"></td>
+      <td><img src="assets/programming/explainshell.jpg"></td>
       <td><b>explainshell</b></td>
       <td><a href="https://explainshell.com/">Website</a></td>
       <td>explainshell is a tool (with a web interface) capable of parsing man pages, extracting options and explaining a given command-line by matching each argument</td>
