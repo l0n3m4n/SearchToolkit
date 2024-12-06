@@ -260,7 +260,7 @@
 
 ## Discovery
 
-> reconnaissance, enumeration, fuzzing, cms and etc.
+> reconnaissance, enumeration, fuzzing, AD DC, cms and etc.
 
 <table>
 <thead>
