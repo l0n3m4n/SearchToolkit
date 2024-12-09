@@ -907,6 +907,13 @@
 <td>(Git/OSINT): Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. </td>
 </tr>
 
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>Gitdumper</b></td>
+<td><a href="https://github.com/arthaud/git-dumper">GitHub</a></td>
+<td>(Git): A tool to dump a git repository from a website </td>
+</tr>
+
 </tbody>
 </table>
 <br>
