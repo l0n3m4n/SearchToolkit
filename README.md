@@ -68,7 +68,7 @@
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
-  <a hred="#forensics"><b>Forensics</b></a> |
+  <a href="#forensics"><b>Forensics</b></a> |
   <a href="#misc"><b>Misc</b></a> | 
   <a href="#bugbounty"><b>Bugbounty</b></a> | 
    <a href="#resources"><b>Resources</b></a> 
