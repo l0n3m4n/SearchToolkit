@@ -68,6 +68,7 @@
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
+  <a hred="#forensics"><b>Forensics</b></a> |
   <a href="#misc"><b>Misc</b></a> | 
   <a href="#bugbounty"><b>Bugbounty</b></a> | 
    <a href="#resources"><b>Resources</b></a> 
@@ -3696,6 +3697,41 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 
 [🔝 Back to top](#Search-Navigation)
 
+
+<h2 align="center">Forensics</h2>
+
+<p align="center">
+  <a href="#steganography"><b>Steganography</b></a> |
+  <a href="#title-name"><b>Title</b></a> 
+</p>
+<br>
+
+
+
+## Steganography
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/steganography/depix.png"></td>
+<td><b>Depix</b></td>
+<td><a href="https://github.com/spipm/Depix">Github</a>
+<td>Depix is a PoC for a technique to recover plaintext from pixelized screenshots.</td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+[🔝 Back to top](#Search-Navigation)
+
 ## Misc
 
 <table>
@@ -4044,7 +4080,7 @@ made to help you during your investigations</td>
   <a href="#url"><b>URL</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
   <a href="#device-information"><b>Device Information</b></a> | 
-  <a href="#surveillance-cameras"><b>Surveillance Cameras</b></a> |
+  <a href="#surveillance-cameras"><b>Surveillance Cameras</b></a> 
   
 </p>
 <br>
