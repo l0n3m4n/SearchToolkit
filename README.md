@@ -68,7 +68,7 @@
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
-  <a href="#forensics"><b>Forensics</b></a> |
+  <a href ="#forensics"><b>Forensics</b></a> |
   <a href="#misc"><b>Misc</b></a> | 
   <a href="#bugbounty"><b>Bugbounty</b></a> | 
    <a href="#resources"><b>Resources</b></a> 
@@ -6493,7 +6493,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 
 <tr>
     <td><img src="assets/command-control/Apfell-rebranded-mythic.png"></td>
-    <td><b>Apfell</b></td>
+    <td><b>mythic</b></td>
     <td><a href="https://github.com/its-a-feature/Apfell">Github</a></td>
     <td>Cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI.</td>
 </tr>
