@@ -6321,6 +6321,12 @@ It's currently focused on OSINT, but any use related with Google is possible.
         <td><a href="https://www.apkmonk.com"></a>Website</td>
         <td>Download APK from Desktop browser</td>
     </tr>
+     <tr>
+        <td><img src="assets/default_logo.png"></td>
+        <td><b>APKleaks</b></td>
+        <td><a href="https://github.com/dwisiswant0/apkleaks"></a>Website</td>
+        <td>Scanning APK file for URIs, endpoints & secrets. </td>
+    </tr>
 </tbody>
 </table>
 <br>
