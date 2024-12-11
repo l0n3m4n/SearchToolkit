@@ -126,6 +126,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/owasp-cheatsheets.png"></td>
+<td><b>OWASP Cheatsheet</b></td>
+<td><a href="https://cheatsheetseries.owasp.org/index.html">Website</a></td>
+<td>(Web-APP): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/cheat-sh.png"></td>
 <td><b>cheat.sh</b></td>
 <td><a href="https://cheat.sh">Website</a></td>
