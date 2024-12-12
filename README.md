@@ -922,6 +922,13 @@
 <td>(Git): A tool to dump a git repository from a website </td>
 </tr>
 
+<tr>
+<td><img src="assets/discovery/eviltree.jpg"></td>
+<td><b>Eviltree</b></td>
+<td><a href="https://github.com/t3l3machus/eviltree">GitHub</a></td>
+<td>(Regex): Searching for secrets (passwords/accounts) in files of nested directory structures, being able to visualize which files contain user provided keywords/regex patterns and where those files are located.</td>
+</tr>
+
 </tbody>
 </table>
 <br>
