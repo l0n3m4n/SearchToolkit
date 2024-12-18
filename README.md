@@ -1035,7 +1035,7 @@
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -3185,7 +3185,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -3239,7 +3239,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -3287,7 +3287,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -3359,7 +3359,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -3407,7 +3407,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -3719,7 +3719,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -4144,7 +4144,7 @@ made to help you during your investigations</td>
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -4216,7 +4216,7 @@ made to help you during your investigations</td>
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th> 
     </tr>
   </thead>
@@ -4503,7 +4503,7 @@ made to help you during your investigations</td>
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -4581,7 +4581,7 @@ made to help you during your investigations</td>
 <tr>
 <th>IMAGE</th>
 <th>NAMES</th>
-<th>LINKSS</th>
+<th>LINKS</th>
 <th>DESCRIPTIONS</th>
 </tr>
 </thead>
@@ -4695,7 +4695,7 @@ made to help you during your investigations</td>
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
@@ -4890,7 +4890,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
     <tr>
       <th>IMAGE</th>
       <th>NAMES</th>
-      <th>LINKSS</th>
+      <th>LINKS</th>
       <th>DESCRIPTIONS</th>
     </tr>
   </thead>
