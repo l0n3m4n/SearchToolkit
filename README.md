@@ -7023,7 +7023,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 [🔝 Back to top](#Search-Navigation)
 
 ## Reverse Engineering
-
+> static anaylsis, source code analysis/review, debugging and etc.
 <table>
 <thead>
 <tr>
