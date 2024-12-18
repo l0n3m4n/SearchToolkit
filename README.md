@@ -3963,21 +3963,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 <tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>OSINT Map</b></td>
-<td><a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
-<td>(OSINT): Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
-made to help you during your investigations</td>
-</tr>
-
-<tr>
-<td><img src="assets/misc/linkedin2username.jpg"></td>
-<td><b>linkedin2username</b></td>
-<td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
-<td>(OSINT): Generate username lists for companies on LinkedIn</td>
-</tr>
-
-<tr>
 <td><img src="assets/misc/linkedint.png"></td>
 <td><b>linkedint</b></td>
 <td><a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
@@ -4346,6 +4331,18 @@ made to help you during your investigations</td>
       <td><a href="https://github.com/urbanadventurer/urlcrazy">Github</a></td>
       <td>(OSINT):  Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage. </td>
     </tr>
+    <tr>
+      <td><img src="assets/default_logo.png"></td>
+      <td><b>OSINT Map</b></td>
+      <td><a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
+      <td>(OSINT): Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes, made to help you during your investigations</td>
+    </tr>
+    <tr>
+      <td><img src="assets/misc/linkedin2username.jpg"></td>
+      <td><b>linkedin2username</b></td>
+      <td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
+      <td>(OSINT): Generate username lists for companies on LinkedIn</td>
+    `</tr>
      </tbody>
 </table>
 <br>
