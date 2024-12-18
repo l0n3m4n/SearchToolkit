@@ -68,10 +68,11 @@
   <a href="#android"><b>Android</b></a> |
   <a href="#ctf-challenges"><b>CTF Challenges</b></a> |    
   <a href="#threat-intelligence"><b>Threat Intelligence</b></a> |  
+  <a href="#browser-extensions"><b>Browser Extentions</b></a> | 
   <a href ="#forensics"><b>Forensics</b></a> |
-  <a href="#misc"><b>Misc</b></a> | 
   <a href="#bugbounty"><b>Bugbounty</b></a> | 
-   <a href="#resources"><b>Resources</b></a> 
+  <a href="#resources"><b>Resources</b></a> 
+  <a href="#misc"><b>Misc</b></a> | 
   
   <h3 align="center">Attack Cycle</h3>
  <!--- If you think this attack cycle could be improved or does not fully align based on your perspective and experience, please feel free to submit a pull request. :) -->
