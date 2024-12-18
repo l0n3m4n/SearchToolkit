@@ -3988,7 +3988,7 @@ made to help you during your investigations</td>
 <td><img src="assets/browser-extensions/gologin.jpg"></td>
 <td><b>Gologin</b></td>
 <td><a href="https://gologin.com/">Websites</a></td>
-<td>(browser): GoLogin allows users to create and manage multiple browser profiles, each with a unique digital fingerprint. This feature is essential for those managing multiple online identities or accounts.</td>
+<td>(Browser): GoLogin allows users to create and manage multiple browser profiles, each with a unique digital fingerprint. This feature is essential for those managing multiple online identities or accounts.</td>
 </tr>
 </tbody>
 </table>
