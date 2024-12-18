@@ -3725,169 +3725,169 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/shodan.png"></td>
       <td><b>Shodan</b></td>
       <td><a href="https://addons.mozilla.org/es/firefox/addon/shodan-addon/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap">Chrome</a></td>
       <td>The Shodan plugin tells you where the website is hosted (country, city), who owns the IP and what other services/ ports are open.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/linkgopher.jpg"></td>
       <td><b>Link Gopher</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/link-gopher/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf">Chrome</a></td>
       <td>Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems</td>
     </tr>
     <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/wappalyzer.png"></td>
       <td><b>Wappalyzer</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg">Chrome</a></td>
       <td>Identify technologies on websites</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/foxyproxy.png"></td>
       <td><b>Foxyproxy</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp">Chrome</a></td>
       <td>FoxyProxy is an open-source, advanced proxy management tool that completely replaces Firefox's limited proxying capabilities.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/wayabackmachine.png"></td>
       <td><b>Wayback Machine</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en">Chrome</a></td>
       <td>The Official Wayback Machine Extension - by the Internet Archive.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/temp-email.png"></td>
       <td><b>Temp-mail</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/temp-mail/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj">Chrome</a></td>
       <td>Temporary disposable email address. Protect your email from spam, bots and phishing with Temp-Mail.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/hunterio.png"></td>
       <td><b>Hunter</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/hunterio/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj">Chrome</a></td>
       <td>Find email addresses from anywhere on the web, with just one click.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/hacktools.png"></td>
       <td><b>Hacktools</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/hacktools/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi">Chrome</a></td>
       <td>Hacktools, is a web extension facilitating your web application penetration tests, it includes cheat sheets as well as reverse shells to test your web application.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/cookieeditor-manager.png"></td>
       <td><b>CookieManager</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/edit-cookie/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/cookiemanager-cookie-edit/hdhngoamekjhmnpenphenpaiindoinpo">Chrome</a></td>
       <td>Edit cookies related to the current page and all its sub-frames right from a popup</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/openmultiple-urld.png"></td>
       <td><b>Open-Multiple URLs</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/open-multiple-urls/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=en">Chrome</a></td>
       <td>Opens a list of URLs</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/darkreader.png"></td>
       <td><b>Darkreader</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en">Chrome</a></td>
       <td>Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/grammarchecker.png"></td>
       <td><b>Grammar and Spell Checker </b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/languagetool/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji?hl=en">Chrome</a></td>
       <td>With this extension you can check text with the free style and grammar checker LanguageTool.</td>
     </tr>
     <tr>
-      <td><img src="assets/"></td>  
+      <td><img src="assets/browser-extensions/grammarly.png"></td>  
       <td><b>Grammarly</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en">Chrome</a></td>
       <td>Improve your writing with Grammarly's assistance. Get spell check, grammar check, and punctuation check in one tool. </td>
     </tr>
     <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/useragent-switcher.png"></td>
       <td><b>User-Agent Switcher and Manager</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg?hl=en">Chrome</a></td>
       <td>Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/pwnfox.png"></td>
       <td><b>PwnFox</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/pwnfox/">Firefox</a></td>
       <td>PwnFox is a Firefox/Burp extension that provide usefull tools for your security audit</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/hackbarv2.png"></td>
       <td><b>HackBar v2</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/hackbar-free/">Firefox</a>
       <td>A HackBar for google chrome/firefox browser. Small tool for pentesting websercurity.Load, split, execute url from address bar and etc.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/modify-header.png"></td>
       <td><b>Modify Header Value</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/modify-header-value/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/modify-header-value-http/cbdibdfhahmknbkkojljfncpnhmacdek?hl=en">Chrome</a></td>
       <td>Modify Header Value can add, modify or remove an HTTP-request-header for all requests on a desired website or URL. </td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/retire-js.png"></td>
       <td><b>Retire.js</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/retire-js/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom?hl=en">Chrome</a></td>
       <td>Scan a web app for use of vulnerable JavaScript libraries. The goal of Retire.js is to help you detect use of version with known vulnerabilities.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/brokenlink.png"></td>
       <td><b>Broken Link Checker</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/find-broken-links/">Firefox</a>
       <td>A SEO tool to find broken (404) and redirected (301, 307, 308) links in all frames. Easy way to get some bounties by taking over broken social media handles. </td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/apkdownloader.png"></td>
       <td><b>APK Downloader</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/apkgk-downloader/">Firefox</a>
       <td>If you are into Android pentest or want find some quick bugs with apk static analysis, APK Downloader will make your day. </td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/altair-graph.png"></td>
       <td><b>Altair GraphQL Client</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/altair-graphql-client/">Firefox</a>
       <td>A beautiful feature-rich GraphQL Client for all platforms.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/trufflehog.png"></td>
       <td><b>Trufflehog</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/trufflehog/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/trufflehog/bafhdnhjnlcdbjcdcnafhdcphhnfnhjc?hl=en">Chrome</a></td>
       <td>Sniffing out credentials</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/disableWebRTC.png"></td>
       <td><b>Disable WebRTC</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/">Firefox</a>
       <td>WebRTC leaks your actual IP addresses from behind your VPN, by default.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/dotgit.png"></td>
       <td><b>.Git</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/dotgit/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/dotgit/pampamgoihgcedonnphgehgondkhikel?hl=en">Chrome</a></td>
       <td>An extension to check if .git is exposed in visited websites.</td>
     </tr>
      <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/browser-extensions/ublock-origin.png"></td>
       <td><b>uBlock Origin</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en">Chrome</a></td>
