@@ -71,7 +71,7 @@
   <a href="#browser-extensions"><b>Browser Extentions</b></a> | 
   <a href ="#forensics"><b>Forensics</b></a> |
   <a href="#bugbounty"><b>Bugbounty</b></a> | 
-  <a href="#resources"><b>Resources</b></a> 
+  <a href="#resources"><b>Resources</b></a> |
   <a href="#misc"><b>Misc</b></a> | 
   
   <h3 align="center">Attack Cycle</h3>
@@ -3892,6 +3892,12 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en">Chrome</a></td>
       <td>Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.</td>
+    </tr><tr>
+      <td><img src="assets/browser-extensions/Beautifer.png"></td>
+      <td><b>Code Beautifer/Minifier</b></td>
+      <td><a href="https://addons.mozilla.org/en-US/firefox/addon/js-beautify-css-html/">Firefox</a>
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/beautifer-minify/">Firefox</a></td>
+      <td>This extension For beautify js and css and html. HTML & CSS & JavaScript Beautifier/Minifier</td>
     </tr>
   </tbody>
 </table>
@@ -3953,14 +3959,14 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><b>simple badges</b></td>
 <td><a href="https://badges.pages.dev/">Github badges</a>
 <a href="https://simpleicons.org/">Icons</a></td>
-<td>3161+ awesome Simple Icons on your favorite Shields.io Badges</td>
+<td>(Github-Badge): 3161+ awesome Simple Icons on your favorite Shields.io Badges</td>
 </tr>
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
 <td><b>OSINT Map</b></td>
 <td><a href="https://github.com/Malfrats/OSINT-Map">Github</a></td>
-<td>Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
+<td>(OSINT): Malfrat's OSINT Map is an online tree of selected useful tools made for OSINT purposes,
 made to help you during your investigations</td>
 </tr>
 
@@ -3968,14 +3974,21 @@ made to help you during your investigations</td>
 <td><img src="assets/misc/linkedin2username.jpg"></td>
 <td><b>linkedin2username</b></td>
 <td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
-<td>OSINT Tool: Generate username lists for companies on LinkedIn</td>
+<td>(OSINT): Generate username lists for companies on LinkedIn</td>
 </tr>
 
 <tr>
 <td><img src="assets/misc/linkedint.png"></td>
 <td><b>linkedint</b></td>
 <td><a href="https://github.com/vysecurity/LinkedInt">Github</a></td>
-<td>LinkedIn Recon Tool</td>
+<td>(Recon): LinkedIn Recon Tool</td>
+</tr>
+
+<tr>
+<td><img src="assets/browser-extensions/gologin.jpg"></td>
+<td><b>Gologin</b></td>
+<td><a href="https://gologin.com/">Websites</a></td>
+<td>(browser): GoLogin allows users to create and manage multiple browser profiles, each with a unique digital fingerprint. This feature is essential for those managing multiple online identities or accounts.</td>
 </tr>
 </tbody>
 </table>
