@@ -4305,7 +4305,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><img src="assets/investigation-tools/spiderfoot.jpg"></td>
       <td><b>spiderfoot</b></td>
       <td><a href="https://github.com/smicallef/spiderfoot">Github</a></td>
-      <td>(Attack surface): SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. </td>
+      <td>(Attack surface): SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.</td>
     </tr>
     <tr>
       <td><img src="assets/investigation-tools/sherlock.png"></td>
@@ -4342,7 +4342,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><b>linkedin2username</b></td>
       <td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
       <td>(OSINT): Generate username lists for companies on LinkedIn</td>
-    `</tr>
+    </tr>
      </tbody>
 </table>
 <br>
