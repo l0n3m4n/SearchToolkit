@@ -2387,6 +2387,13 @@
 <td><a href="https://github.com/knavesec/CredMaster">Github</a></td>
 <td>(Password): Refactored & improved CredKing password spraying tool. Uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling.</td>
 </tr>
+
+<tr>
+<td><img src="assets/exploitation/lfimap.png"></td>
+<td>LFImap</td>
+<td><a href="https://github.com/hansmach1ne/LFImap">Github</a></td>
+<td>(LFI): Local File Inclusion discovery and exploitation tool</td>
+</tr>
  
 </tbody>
 </table>
