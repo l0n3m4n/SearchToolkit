@@ -903,6 +903,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/discovery/cms-wordlists.png"></td>
+<td><b>cms-wordlists</b></td>
+<td><a href="https://github.com/p0dalirius/webapp-wordlists">GitHub</a></td>
+<td>(CMS Wordlists): contains wordlists for each versions of common web applications (CMS). Each version contains a wordlist of all the files directories for this version. </td>
+</tr>
+
+<tr>
 <td><img src="assets/discovery/GitFive.jpg"></td>
 <td><b>GitFive</b></td>
 <td><a href="https://github.com/mxrch/GitFive">GitHub</a></td>
@@ -1028,7 +1035,7 @@
 
 ### Geolocation Tracking
 
-> desktop, laptop, mobile and etc.
+> tracking desktop, laptop, mobile network, IoT, RTL/SDR, IMSI, Cell towers and etc.
 
 <table>
   <thead>
@@ -1045,19 +1052,37 @@
       <td><b>HoneyBadgerV3</b></td>
       <td><a href="https://adhdproject.github.io/#!Tools/Attribution/HoneyBadger.md">Website</a>
       <a href="https://github.com/adhdproject/honeybadger">Github</a></td>
-      <td>HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located in realtime locatio (Desktop, Mobile).</td>
+      <td>(Phishing/meterpreter): HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located in realtime locatio (Desktop, Mobile).</td>
     </tr>
     <tr>
       <td><img src="assets/tracking/seeker.png"></td>
       <td><b>Seeker</b></td>
       <td><a href="https://github.com/thewhiteh4t/seeker">Github</a></td>
-      <td>Seeker a is host phishing pages to get credentials by hosting a fake page that requests your location like many popular location based websites.</td>
+      <td>(Phishing)Seeker a is host phishing pages to get credentials by hosting a fake page that requests your location like many popular location based websites.</td>
     </tr>
      <tr>
       <td><img src="assets/tracking/GrabifyIPLogger.png"></td>
       <td><b>Grabify IP Logger</b></td>
       <td><a href="https://grabify.link">Website</a></td>
-      <td>Grabify IP logger will help you find and track the IP address of any person.</td>
+      <td>(SocialEngineering): Grabify IP logger will help you find and track the IP address of any person.</td>
+    </tr>
+      <tr>
+      <td><img src="assets/tracking/qcsuper.png"></td>
+      <td><b>QCSuper</b></td>
+      <td><a href="https://github.com/P1sec/QCSuper">Github</a></td>
+      <td>(hardware/triangulation): QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things. </td>
+    </tr>
+     <tr>
+      <td><img src="assets/tracking/ss7.jpg"></td>
+      <td><b>SigPloit </b></td>
+      <td><a href="https://github.com/SigPloiter/SigPloit">Github</a></td>
+      <td>(hardware/ISMI/SS7): SigPloit: Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP </td>
+    </tr>
+      <tr>
+      <td><img src="assets/tracking/silent-sms-attack.jpg"></td>
+      <td><b>Silent SMS Ping</b></td>
+      <td><a href="https://github.com/MatejKovacic/silent-sms-ping">Github</a></td>
+      <td>(Tracking/Detector/Ping):  Silent SMS ping and detector an android application for detecting (and sending) Class-0 silent SMS messages (binary messages) that does not require rooted device.</td>
     </tr>
     </tbody>
     </table>
@@ -7079,6 +7104,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><b>IDA Pro</b></td>
 <td><a href="https://www.hex-rays.com/products/ida/index.shtml">Website</a></td>
 <td>(Disassemblers): Interactive DisAssembler with a powerful analysis engine</td>
+</tr>
+
+<tr>
+<td><img src="assets/reverse-engineering/ImHexLogoSVGBG.png"></td>
+<td><b>ImHex</b></td>
+<td><a href="https://github.com/WerWolv/ImHex">Github</a></td>
+<td>(HexEditor): a tool to display, decode and analyze binary data to reverse engineer their format, extract informations and etc.</td>
 </tr>
 
 <tr>
