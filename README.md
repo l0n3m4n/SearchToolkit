@@ -1058,7 +1058,7 @@
       <td><img src="assets/tracking/seeker.png"></td>
       <td><b>Seeker</b></td>
       <td><a href="https://github.com/thewhiteh4t/seeker">Github</a></td>
-      <td>(Phishing)Seeker a is host phishing pages to get credentials by hosting a fake page that requests your location like many popular location based websites.</td>
+      <td>(Phishing): Seeker a is host phishing pages to get credentials by hosting a fake page that requests your location like many popular location based websites.</td>
     </tr>
      <tr>
       <td><img src="assets/tracking/GrabifyIPLogger.png"></td>
