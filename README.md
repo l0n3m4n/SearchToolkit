@@ -1076,13 +1076,13 @@
       <td><img src="assets/tracking/ss7.jpg"></td>
       <td><b>SigPloit </b></td>
       <td><a href="https://github.com/SigPloiter/SigPloit">Github</a></td>
-      <td>(hardware/ISMI/SS7): SigPloit: Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP </td>
+      <td>(Mobile/ISMI/SS7): SigPloit: Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP </td>
     </tr>
       <tr>
       <td><img src="assets/tracking/silent-sms-attack.jpg"></td>
       <td><b>Silent SMS Ping</b></td>
       <td><a href="https://github.com/MatejKovacic/silent-sms-ping">Github</a></td>
-      <td>(Tracking/Detector/Ping):  Silent SMS ping and detector an android application for detecting (and sending) Class-0 silent SMS messages (binary messages) that does not require rooted device.</td>
+      <td>(Mobile/Detector/Ping):  Silent SMS ping and detector an android application for detecting (and sending) Class-0 silent SMS messages (binary messages) that does not require rooted device.</td>
     </tr>
     </tbody>
     </table>
