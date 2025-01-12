@@ -1674,21 +1674,7 @@
 <td><b>Reverse Shell generator</b></td>
 <td><a href="https://www.revshells.com/">Website</a></td>
 <td>(Reverse-Shell): Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/hackerone activity.png"></td>
-<td><b>HackerOne hacktivity</b></td>
-<td><a href="https://hackerone.com/hacktivity">Website</a></td>
-<td>(Disclosures): See the latest hacker activity on HackerOne</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/Bugcrowd.png"></td>
-<td><b>Bugcrowd Crowdstream</b></td>
-<td><a href="https://bugcrowd.com/crowdstream">Website</a></td>
-<td>(Disclosures): Showcase of accepted and disclosed submissions on Bugcrowd programs</td>
-</tr>
+</tr> 
 
 <tr>
 <td><img src="assets/exploitation/GTFOArgs.png"></td>
@@ -4045,6 +4031,20 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><b>Hackerone-reports</b></td>
 <td><a href="https://github.com/reddelexc/hackerone-reports">Github</a>
 <td>Tops of HackerOne reports</td>
+</tr>
+
+<tr>
+<td><img src="assets/exploitation/hackerone activity.png"></td>
+<td><b>HackerOne hacktivity</b></td>
+<td><a href="https://hackerone.com/hacktivity">Website</a></td>
+<td>(Disclosures): See the latest hacker activity on HackerOne</td>
+</tr>
+
+<tr>
+<td><img src="assets/exploitation/Bugcrowd.png"></td>
+<td><b>Bugcrowd Crowdstream</b></td>
+<td><a href="https://bugcrowd.com/crowdstream">Website</a></td>
+<td>(Disclosures): Showcase of accepted and disclosed submissions on Bugcrowd programs</td>
 </tr>
 
 </tbody>
