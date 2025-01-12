@@ -1052,7 +1052,7 @@
       <td><b>HoneyBadgerV3</b></td>
       <td><a href="https://adhdproject.github.io/#!Tools/Attribution/HoneyBadger.md">Website</a>
       <a href="https://github.com/adhdproject/honeybadger">Github</a></td>
-      <td>(Phishing/meterpreter): HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located in realtime locatio (Desktop, Mobile).</td>
+      <td>(WIFI/Phishing/meterpreter): HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located in realtime locatio (Desktop, Mobile).</td>
     </tr>
     <tr>
       <td><img src="assets/tracking/seeker.png"></td>
