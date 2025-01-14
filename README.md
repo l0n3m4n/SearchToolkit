@@ -148,6 +148,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/arsenal.png"></td>
+<td><b>Arsenal</b></td>
+<td><a href="https://github.com/Orange-Cyberdefense/arsenal?tab=readme-ov-file">Github</a></td>
+<td>(Cheatsheets): In arsenal you can search for a command, select one and it's prefilled directly in your terminal. This functionality is independent of the shell used.</td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/cheat-sh.png"></td>
 <td><b>cheat.sh</b></td>
 <td><a href="https://cheat.sh">Website</a></td>
