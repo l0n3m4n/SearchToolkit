@@ -1122,7 +1122,7 @@
     </tr>
     <tr>
       <td><img src="assets"></td>
-      <td><b>SDR OS</b></td>
+      <td><b>DragonOS SDR </b></td>
       <td><a href="https://cemaxecuter.com/">Website</a>
       <td>(SDR/OS/Linux): specifically designed for (SDR) enthusiasts, pre-installed with a wide range of open-source SDR tools and software like GNU Radio, GQRX, easily capture, analyz.</td>
     </tr>
