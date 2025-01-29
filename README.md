@@ -1043,7 +1043,7 @@
 
 ### Geolocation Tracking
 
-> tracking desktop, laptop, mobile network, 
+> tracking computers, laptop, Androids, iOS, Bluetooth, Realtime tracking, IoT devices, Social Engineering monitoring.  
 
 <table>
   <thead>
@@ -1102,7 +1102,7 @@
 
 ### Intelligence and surveillance
 
-> Telco, IMSI catcher, Drones Interception, Cellular Interception, WIFI Interception, SMS senders, Jammer, Polygraph, VoIP, LRF, Bluetooth 
+> HUMINT, SIGINT, COMINT, Telcos, IMSI catcher, Drones Interception, Cellular Interception, WIFI Interception, SMS senders, Jammer, Polygraph, VoIP, LRF, Bluetooth and etc.
 
 <table>
   <thead>
