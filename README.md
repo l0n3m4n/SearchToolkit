@@ -50,7 +50,7 @@
   <a href="#cheatsheets"><b>Cheatsheets</b></a> |   
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
   <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> | 
-  <a href="#intelligence-surveillance"><b>Intelligence & surveillance</b></a> | 
+  <a href="#intelligence-surveillance"><b>Intelligence surveillance</b></a> | 
   <a href="#code-search"><b>Code Search</b></a> | 
   <a href="#domains"><b>Domains</b></a> | 
   <a href="#dorking"><b>Dorking</b></a> |
