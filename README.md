@@ -7025,7 +7025,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
     <td><b>c2-redirectors</b></td>
     <td><a href="https://github.com/BuildAndDestroy/c2-redirectors">Github</a></td>
     <td>(redirector): Automate c2 redirector deployments.</td>
-</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/redgurad.png"></td>
+    <td><b>RedGuard</b></td>
+    <td><a href="https://github.com/wikiZ/RedGuard">Github</a></td>
+    <td>(redirector): RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check. </td>
 </tr>
 
 </tbody>
