@@ -6999,13 +6999,35 @@ It's currently focused on OSINT, but any use related with Google is possible.
     <td>Modular C2 framework designed to use a range of methods to evade EDR and AV.</td>
 </tr>
 
-
 <tr>
     <td><img src="assets/command-control/Gcat.jpg"></td>
     <td><b>Gcat</b></td>
     <td><a href="https://github.com/byt3bl33d3r/gcat">Github</a></td>
     <td>Stealthy Python based backdoor that uses Gmail as a command and control server.</td>
 </tr>
+
+<tr>
+    <td><img src="assets/command-control/cloudflare-redirector.jpg"></td>
+    <td><b>Cloudflare redirector</b></td>
+    <td><a href="https://github.com/som3canadian/Cloudflare-Redirector">Github</a></td>
+    <td>(redirector): command and control Redirector using CloudFlare</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/redcaddy.jpg"></td>
+    <td><b>RedCaddy</b></td>
+    <td><a href="https://github.com/XiaoliChan/RedCaddy">Github</a></td>
+    <td>(redirector): Block IP by GEOIP country, Allow requests by header matcher, User-agent & IP blacklist, Support multiple redirection, TeamServer port warden</td>
+</tr>
+
+<tr>
+    <td><img src="assets/command-control/c2-redirector.png"></td>
+    <td><b>c2-redirectors</b></td>
+    <td><a href="https://github.com/BuildAndDestroy/c2-redirectors">Github</a></td>
+    <td>(redirector): Automate c2 redirector deployments.</td>
+</td>
+</tr>
+
 </tbody>
 </table>
 <br>
