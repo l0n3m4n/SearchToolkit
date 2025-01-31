@@ -6728,7 +6728,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 [🔝 Back to top](#Search-Navigation)
 
 ## Command and Control
-
+> client-server, redirectors, BoF, container, provisioning, workflow, cloud, local, configuration, shops, domain, VPS
 <table>
   <thead>
     <tr>
