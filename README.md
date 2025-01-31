@@ -1100,7 +1100,7 @@
 
 [🔝 Back to top](#Search-Navigation)
 
-### Intelligence and surveillance
+### Intelligence surveillance
 
 > HUMINT, SIGINT, COMINT, Telcos, IMSI catcher, Drones Interception, Cellular Interception, WIFI Interception, SMS senders, Jammer, Polygraph, VoIP, LRF, Bluetooth and etc.
 
