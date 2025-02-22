@@ -1121,7 +1121,7 @@
       <td>(Hardware/Software/Resources/Shops): Note: not-verified. Advanced Interception Systems. Intelligence and surveillance etc.</td>
     </tr>
      <tr>
-      <td><img src="assets/intelligence-surveillance/intercept.png"></td>
+      <td><img src="assets/default_logo.png"></td>
       <td><b>Discovery Telecom</b></td>
       <td><a href="https://www.discoverytelecom.eu/">Original Website</a>
       <td>(Note: not-verified Shops): Advanced Interception Systems. Intelligence and surveillance etc.</td>
