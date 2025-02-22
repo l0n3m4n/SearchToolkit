@@ -1118,7 +1118,13 @@
       <td><img src="assets/intelligence-surveillance/intercept.png"></td>
       <td><b>Intercept Monitoring System</b></td>
       <td><a href="https://www.intercept.ws/">Website</a>
-      <td>(Hardware/Software/Resources/Shops): Advanced Interception Systems. Intelligence and surveillance etc.</td>
+      <td>(Hardware/Software/Resources/Shops): Note: not-verified. Advanced Interception Systems. Intelligence and surveillance etc.</td>
+    </tr>
+     <tr>
+      <td><img src="assets/intelligence-surveillance/intercept.png"></td>
+      <td><b>Discovery Telecom</b></td>
+      <td><a href="https://www.discoverytelecom.eu/">Original Website</a>
+      <td>(Note: not-verified Shops): Advanced Interception Systems. Intelligence and surveillance etc.</td>
     </tr>
     <tr>
       <td><img src="assets/intelligence-surveillance/dragonOS.png"></td>
