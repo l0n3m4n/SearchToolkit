@@ -1115,13 +1115,13 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets"></td>
+      <td><img src="assets/intelligence-surveillance/intercept.png"></td>
       <td><b>Intercept Monitoring System</b></td>
       <td><a href="https://www.intercept.ws/">Website</a>
       <td>(Hardware/Software/Resources/Shops): Advanced Interception Systems. Intelligence and surveillance</td>
     </tr>
     <tr>
-      <td><img src="assets"></td>
+      <td><img src="assets/intelligence-surveillance/dragonOS.png"></td>
       <td><b>DragonOS SDR </b></td>
       <td><a href="https://cemaxecuter.com/">Website</a>
       <td>(SDR/OS/Linux): specifically designed for (SDR) enthusiasts, pre-installed with a wide range of open-source SDR tools and software like GNU Radio, GQRX, easily capture, analyz.</td>
