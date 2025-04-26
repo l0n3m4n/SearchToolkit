@@ -3977,8 +3977,26 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <h2 align="center">Forensics</h2>
 
 <p align="center">
+  <a href="#acquisition"><b>Acquisition</b></a> |
+  <a href="#browser-forensics"><b>Browser Forensics</b></a> |
+  <a href="#carving"><b>Carving</b></a> |
+  <a href="#diskimage-handling"><b>Diskimage Handling</b></a> |
+  <a href="#distribution"<b>Distribution</b></a> |
+  <a href="#docker-forensics"><b>Docker Forensics</b></a> |
+  <a href="#frameworks"><b>Frameworks</b></a> |
+  <a href="#imaging"><b>Imaging</b></a> |
+  <a href="#live-forensics"><b>Live Forensics</b></a> |
+  <a href="#management"><b>Manangement</b></a> |
+  <a href="#memory-forensics"><b>Memory Forensics</b></a> |
+  <a href="#metadata-forensics"><b>Metadata Forensics</b></a> |
+  <a href="#mobile-forensics"><b>Mobile Forensics</b></a> |
+  <a href="#network-forensics"><b>Network Forensics</b></a> |
+  <a href="#osx-forensics"><b>OSX Forensics</b></a> |
+  <a href="#picture-analysis"><b>Picture Analysis</b></a> |
+  <a href="#timelime-analysis"><b>Timeline Analysis</b></a> |
+  <a href="#website-forensics"><b>Website Forensics</b></a> |
+  <a href="#windows-artifacts"><b>Windows Artifacts</b></a> |
   <a href="#steganography"><b>Steganography</b></a> |
-  <a href="#title-name"><b>Title</b></a> 
 </p>
 <br>
 
