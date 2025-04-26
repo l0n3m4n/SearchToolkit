@@ -4571,33 +4571,33 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Autopsy</b></td>
+<td><a href="https://www.sleuthkit.org/autopsy/">Github</a>
+<td>Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit®</td>
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>DFF</b></td>
+<td><a href="https://github.com/arxsys/dff">Github</a>
+<td>DFF is a Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.</td>
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>dexter</b></td>
+<td><a href="https://github.com/coinbase/dexter">Github</a>
+<td>Forensics acquisition framework designed to be extensible and secure</td>
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>IntelMQ</b></td>
+<td><a href="https://github.com/certtools/intelmq">Github</a>
+<td>IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.</td>
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Kuiper</b></td>
+<td><a href="https://github.com/DFIRKuiper/Kuiper">Github</a>
+<td>Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences (evidences could be collected by fast triage script like Hoarder)</td>
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
