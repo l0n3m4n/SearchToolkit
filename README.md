@@ -4316,10 +4316,41 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><b>Andriller</b></td>
+<td><a href="https://github.com/den4uk/andriller">Github</a>
+<td>A collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><b>ALEAPP</b></td>
+<td><a href="https://github.com/abrignoni/ALEAPP">Github</a>
+<td>An Android Logs Events and Protobuf Parser</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><b>iOS Frequent Locations Dumper</b></td>
+<td><a href="https://github.com/mac4n6/iOS-Frequent-Locations-Dumper">Github</a>
+<td>Dump the iOS Frequent Location binary plist files</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><b>MEAT</b></td>
+<td><a href="https://github.com/jfarley248/MEAT">Github</a>
+<td>This toolkit aims to help forensicators perform different kinds of acquisitions on iOS devices</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><b>MobSF</b></td>
+<td><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">Github</a>
+<td>About
+Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><b>OpenBackupExtractor</b></td>
+<td><a href="https://github.com/vgmoose/OpenBackupExtractor">Github</a>
+<td>A free program for extracting data (like voicemails) from iPhone and iPad backups.</td>
 </tr>
   </tbody>
 </table>
