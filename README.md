@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/l0n3m4n"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=435&duration=3100&pause=500&color=19FF31&width=435&lines=+ST+is+my+biggest+collection+of+tools%2C;cheatsheets+resources+and+etc.+useful+for;Pentester%2C+Red+Teamer%2C+Bug+Hunter;+Forensics+and+other+related+areas.+Feel+free+to+add+in+your;favorates%2C+happy+hacking+%3A)" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/l0n3m4n"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=435&duration=3100&pause=500&color=19FF31&width=435&lines=+ST+is+my+biggest+collection+of+tools%2C;cheatsheets+resources+and+etc.+useful+for;Pentester%2C+Red+Teamer%2C+Bug+Hunter;+Forensic+and+other+related+areas.+Feel+free+to+add+in+your;favorates%2C+happy+hacking+%3A)" alt="Typing SVG" /></a></a>
 </p>
  
 
@@ -4030,8 +4030,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <br>
 
 
-
-[🔝 Back to top](#Search-Navigation)
+[🔝 Back to forensics](#Forensics)
 
 ## Memory forensics
 
@@ -4054,6 +4053,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Network forensics
 
