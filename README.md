@@ -3983,7 +3983,432 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <br>
 
 
+## Live forensics
 
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/live-forensics/"></td>
+<td><b>grr</b></td>
+<td><a href="https://github.com/google/grr">Github</a>
+<td>GRR Rapid Response: remote live forensics for incident response</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/live-forensics/"></td>
+<td><b>linux explorer</b></td>
+<td><a href="https://github.com/intezer/linux-explorer">Github</a>
+<td>Easy-to-use live forensics toolbox for Linux endpoints</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/live-forensics/"></td>
+<td><b>linux explorer</b></td>
+<td><a href="https://github.com/intezer/linux-explorer">Github</a>
+<td>Easy-to-use live forensics toolbox for Linux endpoints</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/live-forensics/"></td>
+<td><b>mig</b></td>
+<td><a href="https://github.com/mozilla/mig">Github</a>
+<td>Distributed & real time digital forensics at the speed of the cloud</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/live-forensics/"></td>
+<td><b>osquery</b></td>
+<td><a href="https://github.com/osquery/osquery">Github</a>
+<td>SQL powered operating system instrumentation, monitoring, and analytics.</td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+
+
+[🔝 Back to top](#Search-Navigation)
+
+## Memory forensics
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Network forensics
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Windows Artifacts
+
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## OS-X forensics
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Mobile forensics
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Docker forensics
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Browser forensics 
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Metadata forensics 
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Website forensics
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Distributions
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Frameworks
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Acquistion
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Imaging 
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Carving 
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Timeline anaylsis
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Disk image handling 
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Management
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+## Picture analysis
 ## Steganography
 
 <table>
