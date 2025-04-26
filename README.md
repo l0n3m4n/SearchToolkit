@@ -4078,6 +4078,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Windows Artifacts
 
 
@@ -4101,6 +4103,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## OS-X forensics
 
 <table>
@@ -4122,6 +4126,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Mobile forensics
 
@@ -4145,6 +4151,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Docker forensics
 
 <table>
@@ -4166,6 +4174,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Browser forensics 
 
@@ -4189,6 +4199,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Metadata forensics 
 
 <table>
@@ -4210,6 +4222,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Website forensics
 
@@ -4233,6 +4247,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Distributions
 
 <table>
@@ -4254,6 +4270,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Frameworks
 
@@ -4277,6 +4295,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Acquistion
 
 <table>
@@ -4298,6 +4318,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Imaging 
 
@@ -4321,6 +4343,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Carving 
 
 <table>
@@ -4342,6 +4366,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Timeline anaylsis
 
@@ -4365,6 +4391,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Disk image handling 
 
 <table>
@@ -4386,6 +4414,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </tbody>
 </table>
 <br>
+
+[🔝 Back to forensics](#Forensics)
 
 ## Management
 
@@ -4409,7 +4439,32 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </table>
 <br>
 
+[🔝 Back to forensics](#Forensics)
+
 ## Picture analysis
+
+<table>
+  <thead>
+    <tr>
+      <th>IMAGE</th>
+      <th>NAMES</th>
+      <th>LINKS</th>
+      <th>DESCRIPTIONS</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Depix</b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+  </tbody>
+</table>
+<br>
+
+[🔝 Back to forensics](#Forensics)
+
 ## Steganography
 
 <table>
