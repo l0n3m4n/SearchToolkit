@@ -4371,10 +4371,16 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><img src="assets/forensics/docker-forensics/"></td>
+<td><b>DOF</b></td>
+<td><a href="https://github.com/docker-forensics-toolkit/toolkit">Github</a>
+<td>A toolkit for the post-mortem examination of Docker containers from forensic HDD copies</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/docker-forensics/"></td>
+<td><b>Docker Explorer</b></td>
+<td><a href="https://github.com/google/docker-explorer">Github</a>
+<td>A tool to help forensicate offline docker acquisitions</td>
 </tr>
   </tbody>
 </table>
@@ -4395,10 +4401,34 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><img src="assets/forensics/browser-forensics"></td>
+<td><b>ChromeCacheView</b></td>
+<td><a href="https://www.nirsoft.net/utils/chrome_cache_view.html">Website</a>
+<td> by Nirsoft is a small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/browser-forensics"></td>
+<td><b>chrome-url-dumper</b></td>
+<td><a href="https://github.com/eLoopWoo/chrome-url-dumper">Github</a>
+<td>research chrome stored databases - dumping all urls</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/browser-forensics"></td>
+<td><b>Dumpzilla</b></td>
+<td><a href="http://www.dumpzilla.org/">Website</a>
+<td> extract all forensic interesting information of Firefox, Iceweasel and Seamonkey browsers</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/browser-forensics"></td>
+<td><b>Hindsight</b></td>
+<td><a href="https://github.com/obsidianforensics/hindsight">Github</a>
+<td>Web browser forensics for Google Chrome/Chromium</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/browser-forensics"></td>
+<td><b>Unfurl</b></td>
+<td><a href="https://github.com/obsidianforensics/unfurl">Github</a>
+<td>Extract and Visualize Data from URLs using Unfurl</td>
 </tr>
   </tbody>
 </table>
