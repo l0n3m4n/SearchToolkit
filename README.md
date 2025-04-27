@@ -4643,9 +4643,9 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Paraben e3</b></td>
+<td><a href="https://paraben.com/paraben-downloads/">Website</a>
+<td>Paraben Corporation’s E3 Forensic Platform offers DFIR, OSINT, Social Media accounts.</td>
 </tr>
   </tbody>
 </table>
