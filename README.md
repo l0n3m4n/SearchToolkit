@@ -4577,6 +4577,12 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
+<td><b>The Sleuth Kit</b></td>
+<td><a href="https://github.com/sleuthkit/sleuthkit">Github</a>
+<td>The Sleuth Kit is an open source forensic toolkit for analyzing Microsoft and UNIX file systems and disks.</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/frameworkds/"></td>
 <td><b>DFF</b></td>
 <td><a href="https://github.com/arxsys/dff">Github</a>
 <td>DFF is a Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.</td>
@@ -4601,21 +4607,15 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>regrippy </b></td>
+<td><a href="https://github.com/airbus-cert/regrippy">Github</a>
+<td> A modern Python-3-based alternative to RegRipper </td>
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<tr>
-<td><img src="assets/forensics/frameworkds/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Turbinia</b></td>
+<td><a href="https://github.com/google/turbinia">Github</a>
+<td> Automation and Scaling of Digital Forensics Tools </td>
 </tr>
 <tr>
 <td><img src="assets/forensics/frameworkds/"></td>
