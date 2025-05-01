@@ -4775,9 +4775,9 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 <td>recover lost files including video, documents and archives from hard disks (HD,SSD), CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.</td>
 </tr>
 <td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>swap_digger</b></td>
+<td><a href="https://github.com/sevagas/swap_digger">Github</a>
+<td>It automates swap extraction and searches for Linux user credentials, web forms credentials, web forms emails, http basic authentication, Wifi SSID and keys, etc. </td>
 </tr>
 <td><img src="assets/forensics/"></td>
 <td><b></b></td>
