@@ -4686,9 +4686,9 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 </tr>
 <tr>
 <td><img src="assets/forensics/acquisition"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Velociraptor</b></td>
+<td><a href="https://github.com/Velocidex/velociraptor">Github</a>
+<td>a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.</td>
 </tr>
 <tr>
 <td><img src="assets/forensics/acquisition"></td>
@@ -4716,10 +4716,66 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
+<td><b>Belkasoft Acquisition Tool</b></td>
+<td><a href="https://belkasoft.com/es/bat">Website</a>
+<td> by Belkasoft allows you to create images of hard and removable disks, Android and iOS devices and download data from the cloud.</td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b>dc3dd</b></td>
+<td><a href="https://sourceforge.net/projects/dc3dd/">Website</a>
+<td>Improved version of dd</td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b>FTK imager</b></td>
+<td><a href="https://www.exterro.com/">Website</a>
+<td>Free imageing tool for windows</td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Guymager</b></td>
+<td><a href="https://guymager.sourceforge.io/">Website</a>
+<td>Open source version for disk imageing on linux systems</td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
 <td><a href="">Github</a>
 <td></td>
 </tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+
   </tbody>
 </table>
 <br>
