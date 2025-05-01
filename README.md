@@ -4735,47 +4735,6 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 <td><a href="https://guymager.sourceforge.io/">Website</a>
 <td>Open source version for disk imageing on linux systems</td>
 </tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-
   </tbody>
 </table>
 <br>
@@ -4796,7 +4755,47 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
+<td><b>bstrings</b></td>
+<td><a href="https://github.com/EricZimmerman/bstrings">Github</a>
+<td>A better strings utility!</td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b>bulk extractor</b></td>
+<td><a href="https://github.com/simsong/bulk_extractor">Github</a>
+<td>high-performance tool it is a "get evidence" button that rapidly scans any kind of input (disk images, files, directories of files, etc) and extracts structured information such as email addresses, credit card numbers, JPEGs and JSON snippets without parsing the file system or file system structures. </td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b>FLARE-floss</b></td>
+<td><a href="https://github.com/mandiant/flare-floss">Github</a>
+<td>Static analysis tool to automatically deobfuscate strings from malware binaries</td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b>PhotoRec</b></td>
+<td><a href="https://www.cgsecurity.org/wiki/PhotoRec">Website</a>
+<td>recover lost files including video, documents and archives from hard disks (HD,SSD), CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.</td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
+</tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
 <td><a href="">Github</a>
 <td></td>
 </tr>
