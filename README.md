@@ -4418,19 +4418,19 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/metadata-forensics/"></td>
+<td><img src="assets/forensics/metadata-forensics/exiftool.png"></td>
 <td><b>Exiftool</b></td>
 <td><a href="https://exiftool.org/">Github</a>
 <td>Metadata viewer</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/metadata-forensics/"></td>
+<td><img src="assets/forensics/metadata-forensics/Exiv2.png"></td>
 <td><b>Exiv2</b></td>
 <td><a href="https://exiv2.org/">Website</a>
 <td>Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/metadata-forensics/"></td>
+<td><img src="assets/forensics/metadata-forensics/FOCA.jpg"></td>
 <td><b>FOCA</b></td>
 <td><a href="https://github.com/ElevenPaths/FOCA">Github</a>
 <td>Tool to find metadata and hidden information in the documents.</td>
