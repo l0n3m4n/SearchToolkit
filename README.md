@@ -4110,13 +4110,13 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/network-forensics"></td>
+<td><img src="assets/forensics/network-forensics/Netresec.png"></td>
 <td><b>NitworkMiner</b></td>
 <td><a href="https://www.netresec.com/?page=Networkminer">Website</a>
 <td>NetworkMiner is an open source network forensics tool that extracts artifacts, such as files, images, emails and passwords, from captured network traffic in PCAP files.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/network-forensics"></td>
+<td><img src="assets/forensics/network-forensics/xplico.jpg"></td>
 <td><b>xplico</b></td>
 <td><a href="https://www.xplico.org/">Website</a>
 <td>extract from an internet traffic capture the applications data contained. from a pcap file Xplico extracts each email (POP, IMAP, and SMTP protocols), all HTTP contents, each VoIP call (SIP), FTP, TFTP, and so on.</td>
