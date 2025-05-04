@@ -3993,7 +3993,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   <a href="#network-forensics"><b>Network Forensics</b></a> |
   <a href="#osx-forensics"><b>OSX Forensics</b></a> |
   <a href="#picture-analysis"><b>Picture Analysis</b></a> |
-  <a href="#timelime-analysis"><b>Timeline Analysis</b></a> |
+  <a href="#timeline-analysis"><b>Timeline Analysis</b></a> |
   <a href="#website-forensics"><b>Website Forensics</b></a> |
   <a href="#windows-artifacts"><b>Windows Artifacts</b></a> |
   <a href="#steganography"><b>Steganography</b></a> |
@@ -4496,7 +4496,7 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 
 [🔝 Back to forensics](#Forensics)
 
-## Distributions
+## Distribution
 
 <table>
   <thead>
