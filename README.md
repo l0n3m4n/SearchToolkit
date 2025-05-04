@@ -4944,16 +4944,53 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/steganography/depix.png"></td>
-<td><b>Depix</b></td>
-<td><a href="https://github.com/spipm/Depix">Github</a>
-<td>Depix is a PoC for a technique to recover plaintext from pixelized screenshots.</td>
+<td><img src="assets/forensics/"></td>
+<td><b>binwalk</b></td>
+<td><a href="https://github.com/ReFirmLabs/binwalk">Github</a>
+<td>Binwalk can identify, and optionally extract, files and data that have been embedded inside of other files.</td>
 </tr>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>foremost</b></td>
+<td><a href="https://github.com/korczis/foremost">Github</a>
+<td>Foremost is a console program to recover files based on their headers, footers, and internal data structures.</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>sonicvisualiser</b></td>
+<td><a href="https://www.sonicvisualiser.org/">Website</a>
+<td>designed to be the first program you reach for when want to study a music recording closely. It's designed for musicologists, archivists, signal-processing researchers.</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Steghide</b></td>
+<td><a href="https://github.com/StegHigh/steghide">Github</a>
+<td>Steghide is a steganography program that is able to hide data in various kinds
+of image- and audio-files</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>stegsolve</b></td>
+<td><a href="https://github.com/zardus/ctf-tools/blob/master/stegsolve/install">Github</a>
+<td>analyze images in different planes by taking off bits of the image</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>WavSteg</b></td>
+<td><a href="https://github.com/samolds/wavsteg">Github</a>
+<td>A steganographic coder for WAV files</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>zsteg</b></td>
+<td><a href="https://github.com/zed-0xff/zsteg">Github</a>
+<td>detect stegano-hidden data in PNG & BMP</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>Audacity</b></td>
+<td><a href="https://www.audacityteam.org/">Github</a>
+<td>an easy-to-use, multi-track audio editor and recorder</td>
 </tr>
   </tbody>
 </table>
