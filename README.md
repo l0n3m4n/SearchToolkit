@@ -4853,13 +4853,13 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/management/dfirtrack.png"></td>
 <td><b>dfirtrack</b></td>
 <td><a href="https://github.com/dfirtrack/dfirtrack">Github</a>
 <td>Digital Forensics and Incident Response Tracking application, track systems</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>INCIDENTS</b></td>
 <td><a href="https://github.com/veeral-patel/incidents">Github</a>
 <td> Web application for organizing non-trivial security investigations. Built on the idea that incidents are trees of tickets, where some tickets are leads</td>
