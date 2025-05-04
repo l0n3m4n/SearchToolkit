@@ -8,8 +8,9 @@ We welcome contributions to help improve and expand the **SearchToolkit**! Here'
 
     - Clone Your Fork
         - Clone the forked repository to your local machine:
-        - git clone https://github.com/l0n3m4n/SearchToolkit.git
-
+```
+git clone https://github.com/l0n3m4n/SearchToolkit.git
+```
 If you prefer the easiest way, you can use **GitHub Desktop on Linux or Windows** to manage your contributions. However, if you prefer using Git commands, just follow the instructions below. These steps are helpful if you're new to Git.  
 
 ## Create a Branch
