@@ -4766,32 +4766,26 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/timeline-analysis/DFTimewolf.png"></td>
 <td><b>DFTimewolf</b></td>
 <td><a href="https://github.com/log2timeline/dftimewolf">Github</a>
 <td>A framework for orchestrating forensic collection, processing and data export
 </td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/timeline-analysis/Plaso.png"></td>
 <td><b>Plaso</b></td>
 <td><a href="https://github.com/log2timeline/plaso">Github</a>
 <td>Extract timestamps from various files and aggregate them</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/timeline-analysis/timeliner.jpg"></td>
 <td><b>timeliner</b></td>
 <td><a href="https://github.com/airbus-cert/timeliner">Github</a>
 <td>A rewrite of mactime, a bodyfile reader</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/timeline-analysis/Timesketch.png"></td>
 <td><b>Timesketch</b></td>
 <td><a href="https://github.com/google/timesketch">Github</a>
 <td>Collaborative forensic timeline analysis</td>
-</tr>
-<td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
   </tbody>
 </table>
 <br>
