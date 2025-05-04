@@ -4018,13 +4018,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><b>grr</b></td>
 <td><a href="https://github.com/google/grr">Github</a>
 <td>GRR Rapid Response: remote live forensics for incident response</td>
-</tr>
-<tr>
-<td><img src="assets/forensics/live-forensics/"></td>
-<td><b>linux explorer</b></td>
-<td><a href="https://github.com/intezer/linux-explorer">Github</a>
-<td>Easy-to-use live forensics toolbox for Linux endpoints</td>
-</tr>
 <tr>
 <td><img src="assets/forensics/live-forensics/"></td>
 <td><b>linux explorer</b></td>
