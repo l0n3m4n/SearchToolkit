@@ -22,7 +22,7 @@
  
 <p align="center">
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit">
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit  &label=Visitors&countColor=%2337d67a" />
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fl0n3m4n%2FSearchToolkit&label=Visitors&countColor=%2337d67a" />
     </a>
     <a href="https://www.facebook.com/UEVOLVJU">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
