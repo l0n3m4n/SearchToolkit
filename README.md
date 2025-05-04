@@ -4630,7 +4630,6 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 [🔝 Back to forensics](#Forensics)
 
 ## Acquisition
-
 <table>
   <thead>
     <tr>
