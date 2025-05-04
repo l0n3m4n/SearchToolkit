@@ -4056,37 +4056,37 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/memory-forensics/"></td>
+<td><img src="assets/forensics/memory-forensics/fireeye.png"></td>
 <td><b>Fireye redline</b></td>
 <td><a href="https://fireeye.market/">Github</a>
 <td> provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/memory-forensics/"></td>
+<td><img src="assets/forensics/memory-forensics/inVtero.jpg"></td>
 <td><b>inVtero.net</b></td>
 <td><a href="https://github.com/ShaneK2/inVtero.net">Github</a>
 <td> High speed memory analysis framework developed in .NET supports all Windows x64, includes code integrity and write support</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/memory-forensics/"></td>
+<td><img src="assets/forensics/memory-forensics/minprofs.png"></td>
 <td><b>MemProcFS</b></td>
 <td><a href="https://github.com/ufrisk/MemProcFS">Github</a>
 <td>MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/memory-forensics/"></td>
+<td><img src="assets/forensics/memory-forensics/rekall.png"></td>
 <td><b>rekall</b></td>
 <td><a href="https://github.com/google/rekall">Github</a>
 <td>Memory Forensic Framework</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/memory-forensics/"></td>
+<td><img src="assets/forensics/memory-forensics/volatility.png"></td>
 <td><b>volatility</b></td>
 <td><a href="https://github.com/volatilityfoundation/volatility">Github</a>
 <td>An advanced memory forensics framework</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/memory-forensics/"></td>
+<td><img src="assets/forensics/memory-forensics/volutility.png"></td>
 <td><b>VolUtility</b></td>
 <td><a href="https://github.com/kevthehermit/VolUtility">Github</a>
 <td>Web Interface for Volatility Memory Analysis framework</td>
