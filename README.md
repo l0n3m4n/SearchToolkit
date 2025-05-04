@@ -4683,22 +4683,22 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/imaging/Belkasoft-Acquisition-Tool.jpg"></td>
 <td><b>Belkasoft Acquisition Tool</b></td>
 <td><a href="https://belkasoft.com/es/bat">Website</a>
 <td> by Belkasoft allows you to create images of hard and removable disks, Android and iOS devices and download data from the cloud.</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>dc3dd</b></td>
 <td><a href="https://sourceforge.net/projects/dc3dd/">Website</a>
 <td>Improved version of dd</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/imaging/FTK-imager.png"></td>
 <td><b>FTK imager</b></td>
 <td><a href="https://www.exterro.com/">Website</a>
 <td>Free imageing tool for windows</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Guymager</b></td>
 <td><a href="https://guymager.sourceforge.io/">Website</a>
 <td>Open source version for disk imageing on linux systems</td>
@@ -4722,27 +4722,27 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>bstrings</b></td>
 <td><a href="https://github.com/EricZimmerman/bstrings">Github</a>
 <td>A better strings utility!</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>bulk extractor</b></td>
 <td><a href="https://github.com/simsong/bulk_extractor">Github</a>
 <td>high-performance tool it is a "get evidence" button that rapidly scans any kind of input (disk images, files, directories of files, etc) and extracts structured information such as email addresses, credit card numbers, JPEGs and JSON snippets without parsing the file system or file system structures. </td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/carving/FLARE-floss.png"></td>
 <td><b>FLARE-floss</b></td>
 <td><a href="https://github.com/mandiant/flare-floss">Github</a>
 <td>Static analysis tool to automatically deobfuscate strings from malware binaries</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/carving/PhotoRec.png"></td>
 <td><b>PhotoRec</b></td>
 <td><a href="https://www.cgsecurity.org/wiki/PhotoRec">Website</a>
 <td>recover lost files including video, documents and archives from hard disks (HD,SSD), CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.</td>
 </tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/carving/swap_digger.png"></td>
 <td><b>swap_digger</b></td>
 <td><a href="https://github.com/sevagas/swap_digger">Github</a>
 <td>It automates swap extraction and searches for Linux user credentials, web forms credentials, web forms emails, http basic authentication, Wifi SSID and keys, etc. </td>
