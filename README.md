@@ -4784,7 +4784,7 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 
 [🔝 Back to forensics](#Forensics)
 
-## Timeline anaylsis
+## Timeline analysis
 
 <table>
   <thead>
