@@ -4539,55 +4539,55 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/autospy.jpg"></td>
 <td><b>Autopsy</b></td>
 <td><a href="https://www.sleuthkit.org/autopsy/">Github</a>
 <td>Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit®</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/The-Sleuthkit.png"></td>
 <td><b>The Sleuth Kit</b></td>
 <td><a href="https://github.com/sleuthkit/sleuthkit">Github</a>
 <td>The Sleuth Kit is an open source forensic toolkit for analyzing Microsoft and UNIX file systems and disks.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/DFF.png"></td>
 <td><b>DFF</b></td>
 <td><a href="https://github.com/arxsys/dff">Github</a>
 <td>DFF is a Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/dexter.png"></td>
 <td><b>dexter</b></td>
 <td><a href="https://github.com/coinbase/dexter">Github</a>
 <td>Forensics acquisition framework designed to be extensible and secure</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/IntelMQ.png"></td>
 <td><b>IntelMQ</b></td>
 <td><a href="https://github.com/certtools/intelmq">Github</a>
 <td>IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/Kuiper.png"></td>
 <td><b>Kuiper</b></td>
 <td><a href="https://github.com/DFIRKuiper/Kuiper">Github</a>
 <td>Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences (evidences could be collected by fast triage script like Hoarder)</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/regrippy.jpg"></td>
 <td><b>regrippy </b></td>
 <td><a href="https://github.com/airbus-cert/regrippy">Github</a>
 <td> A modern Python-3-based alternative to RegRipper </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/Turbinia.jpg"></td>
 <td><b>Turbinia</b></td>
 <td><a href="https://github.com/google/turbinia">Github</a>
 <td> Automation and Scaling of Digital Forensics Tools </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/frameworkds/"></td>
+<td><img src="assets/forensics/frameworks/IPED.jpg"></td>
 <td><b>IPED Digital Forensic Tool</b></td>
 <td><a href="https://github.com/sepinf-inc/IPED ">Github</a>
 <td>It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. </td>
