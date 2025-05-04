@@ -4610,56 +4610,56 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/paraben.png"></td>
 <td><b>Paraben e3</b></td>
 <td><a href="https://paraben.com/paraben-downloads/">Website</a>
 <td>Paraben Corporation’s E3 Forensic Platform offers DFIR, OSINT, Social Media accounts.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/artifactcollector.png"></td>
 <td><b>artifactcollector</b></td>
 <td><a href="https://github.com/forensicanalysis/artifactcollector">Github</a>
 <td> The artifactcollector is a customizable agent to collect forensic artifacts on any Windows, macOS or Linux system </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/ram-capturer.jpg"></td>
 <td><b>ram-capturer</b></td>
 <td><a href="https://belkasoft.com/ram-capturer">Website</a>
 <td>by Belkasoft is a free tool to dump the data from a computer’s volatile memory. It’s compatible with Windows OS.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/AVML.png"></td>
 <td><b>AVML</b></td>
 <td><a href="https://github.com/microsoft/avml">Github</a>
 <td>Acquire Volatile Memory for Linux </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/FireEye-Memoryze.png"></td>
 <td><b>FireEye Memoryze</b></td>
 <td><a href="https://fireeye.market/apps?query=FireEye%20Memoryze">Website</a>
 <td>Memoryze™ is free memory forensic software that helps incident responders find evil in live memory. </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/Fuji.png"></td>
 <td><b>Fuji: Forensic Unattended Juicy Imaging</b></td>
 <td><a href="https://github.com/Lazza/Fuji">Github</a>
 <td> MacOS forensic acquisition made simple </td>
 </tr>
 
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/LiME.png"></td>
 <td><b>LiME</b></td>
 <td><a href="https://github.com/504ensicsLabs/LiME">Github</a>
 <td>LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/Velociraptor.png"></td>
 <td><b>Velociraptor</b></td>
 <td><a href="https://github.com/Velocidex/velociraptor">Github</a>
 <td>a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/acquisition"></td>
+<td><img src="assets/forensics/acquisition/UFADE.png"></td>
 <td><b>UFADE</b></td>
 <td><a href="https://github.com/prosch88/UFADE">Github</a>
 <td>Extract files from Apple devices on Windows, Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and "advanced logical backups"</td>
