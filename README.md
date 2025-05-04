@@ -4303,7 +4303,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td>A collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><img src="assets/forensics/mobile-forensics/ALEAPP.jpg"></td>
 <td><b>ALEAPP</b></td>
 <td><a href="https://github.com/abrignoni/ALEAPP">Github</a>
 <td>An Android Logs Events and Protobuf Parser</td>
@@ -4321,14 +4321,14 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td>This toolkit aims to help forensicators perform different kinds of acquisitions on iOS devices</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><img src="assets/forensics/mobile-forensics/MobSF.png"></td>
 <td><b>MobSF</b></td>
 <td><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">Github</a>
 <td>About
 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><img src="assets/forensics/mobile-forensics/OpenBackupExtractor.png"></td>
 <td><b>OpenBackupExtractor</b></td>
 <td><a href="https://github.com/vgmoose/OpenBackupExtractor">Github</a>
 <td>A free program for extracting data (like voicemails) from iPhone and iPad backups.</td>
