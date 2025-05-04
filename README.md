@@ -4014,24 +4014,24 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/live-forensics/"></td>
+<td><img src="assets/forensics/live-forensics/grr_logo_real_sm.png"></td>
 <td><b>grr</b></td>
 <td><a href="https://github.com/google/grr">Github</a>
 <td>GRR Rapid Response: remote live forensics for incident response</td>
 <tr>
-<td><img src="assets/forensics/live-forensics/"></td>
+<td><img src="assets/forensics/live-forensics/linux-explorer.png"></td>
 <td><b>linux explorer</b></td>
 <td><a href="https://github.com/intezer/linux-explorer">Github</a>
 <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/live-forensics/"></td>
+<td><img src="assets/forensics/live-forensics/mig.png"></td>
 <td><b>mig</b></td>
 <td><a href="https://github.com/mozilla/mig">Github</a>
 <td>Distributed & real time digital forensics at the speed of the cloud</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/live-forensics/"></td>
+<td><img src="assets/forensics/live-forensics/osquery.png"></td>
 <td><b>osquery</b></td>
 <td><a href="https://github.com/osquery/osquery">Github</a>
 <td>SQL powered operating system instrumentation, monitoring, and analytics.</td>
