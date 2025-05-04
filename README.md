@@ -4141,82 +4141,70 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>beagle</b></td>
 <td><a href="https://github.com/yampelo/beagle">Github</a>
 <td>Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/fred.gif"></td>
 <td><b>Fred</b></td>
 <td><a href="https://www.pinguin.lu/fred">Website</a>
 <td>Cross-platform microsoft registry hive editor</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/nirsoft2.gif"></td>
 <td><b>LastActivityView</b></td>
 <td><a href="https://www.nirsoft.net/utils/computer_activity_view.html">Website</a>
 <td>LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
-</tr>
-<tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/logon-tracer.png"></td>
 <td><b>LogonTracer</b></td>
 <td><a href="https://github.com/JPCERTCC/LogonTracer">Github</a>
 <td>Investigate malicious Windows logon by visualizing and analyzing Windows event log</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>python-evt</b></td>
 <td><a href="https://github.com/williballenthin/python-evt">Github</a>
 <td>Pure Python parser for classic Windows Event Log files (.evt)</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/RegRipper3.0.png"></td>
 <td><b>RegRipper3.0</b></td>
 <td><a href="https://github.com/keydet89/RegRipper3.0">Github</a>
 <td>RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>MFTextractor</b></td>
 <td><a href="https://github.com/aarsakian/MFTExtractor">Github</a>
 <td>extract filesystem information of record or for a range of records</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/Ntfs-linker.png"></td>
 <td><b>Ntfs-linker</b></td>
 <td><a href="https://strozfriedberg.github.io/ntfs-linker/">Github</a>
 <td>ntfs-linker operates off of a directory of input containing $UsnJrnl, $Logfile, and $MFT.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/NTFStool.png"></td>
 <td><b>NTFStool</b></td>
 <td><a href="https://github.com/thewhiteninja/ntfstool">Github</a>
 <td>Forensics tool for NTFS (parser, mft, bitlocker, deleted files<td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/NTFS-USN.jpg"></td>
 <td><b>NTFS USN Journal parser</b></td>
 <td><a href="https://github.com/PoorBillionaire/USN-Journal-Parser">Github</a>
 <td>The NTFS USN Change journal is a volume-specific log which records metadata changes to files. It is a treasure trove of information during a forensic investigation. </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
+<td><img src="assets/forensics/windows-artifacts/RecuperaBit.jpg"></td>
 <td><b>RecuperaBit</b></td>
 <td><a href="https://github.com/Lazza/RecuperaBit">Github</a>
 <td>Reconstruct and recover NTFS data</td>
-</tr>
-<tr>
-<td><img src="assets/forensics/windows-artifacts/"></td>
-<td><b>python-ntfs</b></td>
-<td><a href="https://github.com/williballenthin/python-ntfs">Github</a>
-<td>Open source Python library for NTFS analysis</td>
 </tr>
   </tbody>
 </table>
