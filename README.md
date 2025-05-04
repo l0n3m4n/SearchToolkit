@@ -4243,7 +4243,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td>A Mac OS X forensic utility which manages file system mounting in support of forensic procedures.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics/APOLLO-scraper-parser.png"></td>
+<td><img src="assets/forensics/osx-forensics/mac-osx-artifacts.png"></td>
 <td><b>MAC OSX Artifacts</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/1X2Hu0NE2ptdRj023OVWIGp5dqZOw-CfxHLOW_GNGpX8/edit?gid=1317205466#gid=1317205466">Github</a>
 <td>locations artifacts by mac4n6 group</td>
@@ -4261,7 +4261,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td>macOS/iOS database location scraper to extract location data</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/forensics/osx-forensics/APOLLO-scraper-parser.png"></td>
 <td><b>macMRU-Parser</b></td>
 <td><a href="https://github.com/mac4n6/macMRU-Parser">Github</a>
 <td>Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format.</td>
@@ -4297,7 +4297,7 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Andriller</b></td>
 <td><a href="https://github.com/den4uk/andriller">Github</a>
 <td>A collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.</td>
@@ -4309,13 +4309,13 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td>An Android Logs Events and Protobuf Parser</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><img src="assets/forensics/osx-forensics/APOLLO-scraper-parser.png"></td>
 <td><b>iOS Frequent Locations Dumper</b></td>
 <td><a href="https://github.com/mac4n6/iOS-Frequent-Locations-Dumper">Github</a>
 <td>Dump the iOS Frequent Location binary plist files</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/mobile-forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>MEAT</b></td>
 <td><a href="https://github.com/jfarley248/MEAT">Github</a>
 <td>This toolkit aims to help forensicators perform different kinds of acquisitions on iOS devices</td>
