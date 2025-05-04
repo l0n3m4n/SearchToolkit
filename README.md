@@ -4352,13 +4352,13 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/docker-forensics/"></td>
+<td><img src="assets/forensics/docker-forensics/DOF.png"></td>
 <td><b>DOF</b></td>
 <td><a href="https://github.com/docker-forensics-toolkit/toolkit">Github</a>
 <td>A toolkit for the post-mortem examination of Docker containers from forensic HDD copies</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/docker-forensics/"></td>
+<td><img src="assets/forensics/docker-forensics/Docker-explorer.png"></td>
 <td><b>Docker Explorer</b></td>
 <td><a href="https://github.com/google/docker-explorer">Github</a>
 <td>A tool to help forensicate offline docker acquisitions</td>
