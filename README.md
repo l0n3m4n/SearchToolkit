@@ -4454,7 +4454,7 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/website-forensics/Fit.png"></td>
 <td><b>Fit</b></td>
 <td><a href="https://github.com/fit-project/fit">Github</a>
 <td>FIT is a Python3 application for forensic acquisition of contents like web pages, emails, social media, etc. directly from the internet.</td>
@@ -4478,44 +4478,44 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/distributions/"></td>
+<td><img src="assets/forensics/distribution/bitscout.jpg"></td>
 <td><b>bitscout</b></td>
 <td><a href="https://github.com/vitaly-kamluk/bitscout">Github</a>
 <td>LiveCD/LiveUSB for remote forensic acquisition and analysis
 </td>
 </tr>
 <tr>
-<td><img src="assets/forensics/distributions/"></td>
+<td><img src="assets/forensics/distribution/CAINE.png"></td>
 <td><b>CAINE</b></td>
 <td><a href="https://www.caine-live.net/">Website</a>
 <td>CAINE offers a complete forensic environment that is organized to integrate existing software tools as software modules and to provide a friendly graphical interface.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/distributions/"></td>
+<td><img src="assets/forensics/distribution/GRML-Forensic.png"></td>
 <td><b>GRML-Forensic</b></td>
 <td><a href="https://grml-forensic.org/">Website</a>
 <td>Grml-Forensic is a system designed for forensic investigations and data rescue tasks</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/distributions/"></td>
+<td><img src="assets/forensics/distribution/REMnux.png"></td>
 <td><b>REMnux</b></td>
 <td><a href="https://remnux.org/">Website</a>
 <td>REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/distributions/"></td>
+<td><img src="assets/forensics/distribution/santoku.png"></td>
 <td><b>Santoku</b></td>
 <td><a href="https://santoku-linux.com/">Website</a>
 <td>Santoku is dedicated to mobile forensics, analysis, and security, and packaged in an easy to use, Open Source platform.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/distributions/"></td>
+<td><img src="assets/forensics/distribution/winfe.png"></td>
 <td><b>WINFe</b></td>
 <td><a href="https://www.winfe.net/home">Website</a>
 <td> Windows Forensic Environment</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/distributions/"></td>
+<td><img src="assets/forensics/distribution/Predator-OS.png"></td>
 <td><b>Predator OS</b></td>
 <td><a href="http://predator-os.ir/">Website</a>
 <td>Linux distribution for forensic analysis</td>
