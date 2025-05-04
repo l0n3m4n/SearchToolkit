@@ -5552,7 +5552,7 @@ of image- and audio-files</td>
   </thead>
   <tbody>
    <tr>
-      <td><img src="assets/"></td>
+      <td><img src="assets/reverse-images/TinEye.png"></td>
       <td><b>TinEye</b></td>
       <td><a href="https://tineye.com">Website</a></td>
       <td> TinEye is an image search and recognition company. We are experts in computer vision, pattern recognition, neural networks, and machine learning.</td>
