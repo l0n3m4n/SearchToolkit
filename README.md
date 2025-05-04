@@ -4799,24 +4799,25 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>DFTimewolf</b></td>
+<td><a href="https://github.com/log2timeline/dftimewolf">Github</a>
+<td>A framework for orchestrating forensic collection, processing and data export
+</td>
 </tr>
 <td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Plaso</b></td>
+<td><a href="https://github.com/log2timeline/plaso">Github</a>
+<td>Extract timestamps from various files and aggregate them</td>
 </tr>
 <td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>timeliner</b></td>
+<td><a href="https://github.com/airbus-cert/timeliner">Github</a>
+<td>A rewrite of mactime, a bodyfile reader</td>
 </tr>
 <td><img src="assets/forensics/"></td>
-<td><b></b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Timesketch</b></td>
+<td><a href="https://github.com/google/timesketch">Github</a>
+<td>Collaborative forensic timeline analysis</td>
 </tr>
 <td><img src="assets/forensics/"></td>
 <td><b></b></td>
@@ -4843,9 +4844,33 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>Disk-Arbitrator</b></td>
+<td><a href="https://github.com/aburgh/Disk-Arbitrator">Github</a>
+<td>A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>imagemounter</b></td>
+<td><a href="https://github.com/ralphje/imagemounter">Github</a>
+<td>Command line utility and Python package to ease the (un)mounting of forensic disk images</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>libewf</b></td>
+<td><a href="https://github.com/libyal/libewf">Github</a>
+<td> Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>OSFMount</b></td>
+<td><a href="https://www.osforensics.com/tools/mount-disk-images.html">Github</a>
+<td>It allows you to mount local disk image files (bit-for-bit copies of an entire disk or disk partition) in Windows as a physical disk or a logical drive letter</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>xmount</b></td>
+<td><a href="https://www.pinguin.lu/xmount">Website</a>
+<td>Convert between different disk image formats</td>
 </tr>
   </tbody>
 </table>
@@ -4867,9 +4892,15 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>dfirtrack</b></td>
+<td><a href="https://github.com/dfirtrack/dfirtrack">Github</a>
+<td>Digital Forensics and Incident Response Tracking application, track systems</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b>INCIDENTS</b></td>
+<td><a href="https://github.com/veeral-patel/incidents">Github</a>
+<td> Web application for organizing non-trivial security investigations. Built on the idea that incidents are trees of tickets, where some tickets are leads</td>
 </tr>
   </tbody>
 </table>
@@ -4891,9 +4922,9 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   <tbody>
 <tr>
 <td><img src="assets/forensics/"></td>
-<td><b>Depix</b></td>
-<td><a href="">Github</a>
-<td></td>
+<td><b>sherloq</b></td>
+<td><a href="https://github.com/GuidoBartoli/sherloq">Github</a>
+<td>An open-source digital image forensic toolset</td>
 </tr>
   </tbody>
 </table>
@@ -4918,6 +4949,12 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 <td><b>Depix</b></td>
 <td><a href="https://github.com/spipm/Depix">Github</a>
 <td>Depix is a PoC for a technique to recover plaintext from pixelized screenshots.</td>
+</tr>
+<tr>
+<td><img src="assets/forensics/"></td>
+<td><b></b></td>
+<td><a href="">Github</a>
+<td></td>
 </tr>
   </tbody>
 </table>
