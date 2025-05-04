@@ -4225,37 +4225,37 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/default_logo.png"></td>
 <td>APFS FUSE<b></b></td>
 <td><a href="https://github.com/sgan81/apfs-fuse">Github</a>
 <td>FUSE driver for APFS (Apple File System)</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/forensics/osx-forensics/APOLLO-scraper-parser.png"></td>
 <td><b>APOLLO</b></td>
 <td><a href="https://github.com/mac4n6/APOLLO">Github</a>
 <td>Gather database files on macOS and jailbroken iOS devices, gather_macos and gather_ios (IP/Port required)</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/forensics/osx-forensics/Disk-Arbitrator.png"></td>
 <td><b>Disk-Arbitrator</b></td>
 <td><a href="https://github.com/aburgh/Disk-Arbitrator">Github</a>
 <td>A Mac OS X forensic utility which manages file system mounting in support of forensic procedures.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/forensics/osx-forensics/APOLLO-scraper-parser.png"></td>
 <td><b>MAC OSX Artifacts</b></td>
 <td><a href="https://docs.google.com/spreadsheets/d/1X2Hu0NE2ptdRj023OVWIGp5dqZOw-CfxHLOW_GNGpX8/edit?gid=1317205466#gid=1317205466">Github</a>
 <td>locations artifacts by mac4n6 group</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>mac_apt - macOS (and iOS) Artifact Parsing Tool</b></td>
 <td><a href="https://github.com/ydkhatri/mac_apt">Github</a>
 <td>mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/forensics/osx-forensics/APOLLO-scraper-parser.png"></td>
 <td><b>Mac Locations Scraper</b></td>
 <td><a href="https://github.com/mac4n6/Mac-Locations-Scraper">Github<a>
 <td>macOS/iOS database location scraper to extract location data</td>
@@ -4267,13 +4267,13 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td>Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format.</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/forensics/osx-forensics/OSX-Auditor.png"></td>
 <td><b>OSX-Auditor</b></td>
 <td><a href="https://github.com/jipegit/OSXAuditor">Github</a>
 <td>OS X Auditor is a free Mac OS X computer forensics tool</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/osx-forensics"></td>
+<td><img src="assets/forensics/osx-forensics/OSXCollector.png"></td>
 <td><b>OSXCollector </b></td>
 <td><a href="https://github.com/Yelp/osxcollector">Github</a>
 <td>A forensic evidence collection & analysis toolkit for OS X</td>
