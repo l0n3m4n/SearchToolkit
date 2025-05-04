@@ -4811,25 +4811,25 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 <td>A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/diskimage-handling/imagemounter.png"></td>
 <td><b>imagemounter</b></td>
 <td><a href="https://github.com/ralphje/imagemounter">Github</a>
 <td>Command line utility and Python package to ease the (un)mounting of forensic disk images</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/diskimage-handling/libewf.png"></td>
 <td><b>libewf</b></td>
 <td><a href="https://github.com/libyal/libewf">Github</a>
 <td> Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/diskimage-handling/OSFMount.png"></td>
 <td><b>OSFMount</b></td>
 <td><a href="https://www.osforensics.com/tools/mount-disk-images.html">Github</a>
 <td>It allows you to mount local disk image files (bit-for-bit copies of an entire disk or disk partition) in Windows as a physical disk or a logical drive letter</td>
 </tr>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/forensics/diskimage-handling/xmount.gif"></td>
 <td><b>xmount</b></td>
 <td><a href="https://www.pinguin.lu/xmount">Website</a>
 <td>Convert between different disk image formats</td>
