@@ -4805,7 +4805,7 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
   </thead>
   <tbody>
 <tr>
-<td><img src="assets/forensics/"></td>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Disk-Arbitrator</b></td>
 <td><a href="https://github.com/aburgh/Disk-Arbitrator">Github</a>
 <td>A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device</td>
