@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 # Date Creation: 10/23/2023          #
 # Last update: 08/2/2024             #
 # Author: @l0n3m4n                   #
-# Version: v.0.1                     #
+# Version: v0.1                     #
 ######################################
 
  
