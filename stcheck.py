@@ -102,7 +102,7 @@ def main():
                             found_any = True
                             print(f"\n{COLORS.LIGHTCYAN}Links containing '{COLORS.LIGHTGREEN}{search_term}{COLORS.RESET}':{COLORS.RESET}")
                             for url in urls:
-                                print(f"{COLORS.LIGHTYELLOW}⚠️ {COLORS.RESET} {url}")
+                                print(f"{COLORS.LIGHTYELLOW}✅ {COLORS.RESET} {url}")
 
             if not found_any:
                 print(f"\n{COLORS.LIGHTCYAN}No links found containing {COLORS.LIGHTGREEN}'{search_term}'{COLORS.RESET}")
