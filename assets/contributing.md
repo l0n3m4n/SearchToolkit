@@ -62,4 +62,4 @@ You can always refer to the `README.md` file for detailed information about how 
 
 For further assistance or clarification, feel free to open an issue.
 
-### Thank you for contributing and helping make this toolkit better for everyone!
+### Thank you for contributing and helping make this toolkit better for everyone (wag puro report nakakahiya 😂 pwde ka naman mag contribute kung gusto mo, 别老是举报，太尴尬了 😂 你也可以贡献一下啊，如果你愿意的话。)!
