@@ -368,6 +368,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/discovery/powerview.png"></td>
+<td><b>powerview 3.0</b></td>
+<td><a href="https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993">GitHub</a></td>
+<td>(AD): Active Directory enumeration tools</td>
+</tr>
+
+<tr>
 <td><img src="assets/discovery/ImproHound.png"></td>
 <td><b>ImproHound</b></td>
 <td><a href="https://github.com/improsec/ImproHound">GitHub</a></td>
