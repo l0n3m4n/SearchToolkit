@@ -277,7 +277,7 @@
 
 ## Discovery
 
-> reconnaissance, enumeration, fuzzing, AD DC, cms and etc.
+> reconnaissance, enumeration, fuzzing, AD DC, post-explotation and etc.
 
 <table>
 <thead>
