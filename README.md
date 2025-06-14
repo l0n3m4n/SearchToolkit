@@ -47,7 +47,7 @@
 
 <h2 align="center">Search Navigation</h2>
 <p>
-  <a hred="#pentest-and-redteaming"><b>Pentest and RedTeaming</b></a> |
+  <a href="#pentest-and-redteaming"><b>Pentest and RedTeaming</b></a> |
   <a href="#cheatsheets"><b>Cheatsheets</b></a> |   
   <a href="#devices-and-services"><b>Devices and Services</b></a> |
   <a href="#geolocation-tracking"><b>Geolocation Tracking</b></a> | 
