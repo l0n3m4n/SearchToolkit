@@ -120,6 +120,12 @@
 <td><a href="http://www.pentest-standard.org">Website</a></td>
 <td>(Engagement): A comprehensive framework designed to standardize the process of conducting penetration tests</td>
 </tr>
+<td><img src="assets/pentest-redteaming/redteaminfra.png"></td>
+<td><b>Red-Team-Infra</b></td>
+<td><a href="https://github.com/mantvydasb/Red-Team-Infrastructure-Automation">Github</a></td>
+<td>(Infrastructure): Disposable and resilient red team infrastructure with Terraform
+</td>
+</tr>
 </tbody>
 </table>
 
