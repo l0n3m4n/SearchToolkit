@@ -120,16 +120,23 @@
 <td><a href="http://www.pentest-standard.org">Website</a></td>
 <td>(Engagement): A comprehensive framework designed to standardize the process of conducting penetration tests</td>
 </tr>
+<tr>
 <td><img src="assets/pentest-redteaming/redteaminfra.png"></td>
 <td><b>Red-Team-Infra</b></td>
 <td><a href="https://github.com/mantvydasb/Red-Team-Infrastructure-Automation">Github</a></td>
 <td>(Infrastructure): Disposable and resilient red team infrastructure with Terraform</td>
 </tr>
-</tr>
+<tr>
 <td><img src="assets/pentest-redteaming/redteaminfra-wiki.png"></td>
 <td><b>Red-Team-Infras-Wiki</b></td>
 <td><a href="https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki">Github</a></td>
 <td>(Infrastructure): Wiki to collect Red Team infrastructure hardening resources</td>
+</tr>
+<tr>
+<td><img src="assets/pentest-redteaming/RedinfraCraft_White.png"></td>
+<td><b>RedInfraCraft</b></td>
+<td><a href="https://github.com/RedTeamOperations/Red-Infra-Craft">Github</a></td>
+<td>(Infrastructure):automates the deployment of powerful red team infrastructures! makes it easy to create advanced phishing & payload infras</td>
 </tr>
 </tbody>
 </table>
