@@ -123,8 +123,13 @@
 <td><img src="assets/pentest-redteaming/redteaminfra.png"></td>
 <td><b>Red-Team-Infra</b></td>
 <td><a href="https://github.com/mantvydasb/Red-Team-Infrastructure-Automation">Github</a></td>
-<td>(Infrastructure): Disposable and resilient red team infrastructure with Terraform
-</td>
+<td>(Infrastructure): Disposable and resilient red team infrastructure with Terraform</td>
+</tr>
+</tr>
+<td><img src="assets/pentest-redteaming/redteaminfra-wiki.png"></td>
+<td><b>Red-Team-Infras-Wiki</b></td>
+<td><a href="https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki">Github</a></td>
+<td>(Infrastructure): Wiki to collect Red Team infrastructure hardening resources</td>
 </tr>
 </tbody>
 </table>
