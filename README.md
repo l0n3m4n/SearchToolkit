@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/l0n3m4n"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=435&duration=3100&pause=500&color=19FF31&width=435&lines=+ST+is+my+biggest+collection+of+tools%2C;cheatsheets+resources+and+etc.+useful+for;Pentester%2C+Red+Teamer%2C+Bug+Hunter;+Forensic+and+other+related+areas.+Feel+free+to+add+in+your;favorates%2C+happy+hacking+%3A)" alt="Typing SVG" /></a></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19FF31&width=435&lines=SearchToolkit+is+advanced+collection+;of+tools%2C+hardwares%2C+resources+and+;cheatsheets+useful+for+Pentester;Red+Teamer%2C+Blue+Teamer%2C+Forensics;and+other+related+cybersec+areas%2C+;feel+free+to+add+in+your+favorates;enjoy+and+stay+sharp+%3A)" alt="Typing SVG" /></a>
 </p>
  
 
