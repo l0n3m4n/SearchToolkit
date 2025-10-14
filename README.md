@@ -999,6 +999,20 @@
 <td>(Regex): Searching for secrets (passwords/accounts) in files of nested directory structures, being able to visualize which files contain user provided keywords/regex patterns and where those files are located.</td>
 </tr>
 
+<tr>
+<td><img src="assets/discovery/beeceptor.png"></td>
+<td><b>Beeceptor</b></td>
+<td><a href="https://beeceptor.com/">Website</a></td>
+<td>(webhook): Instantly create a webhook and mock a server over HTTPS</td>
+</tr>
+
+<tr>
+<td><img src="assets/discovery/webhook.png"></td>
+<td><b>webhooks</b></td>
+<td><a href="https://github.com/l0n3m4n/webhook">Github</a></td>
+<td>(webhook): Lightweight HTTP Server with Public Exposure for Pentesting, Red Teaming and Bughunting</td>
+</tr>
+
 </tbody>
 </table>
 <br>
