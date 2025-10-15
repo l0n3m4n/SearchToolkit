@@ -338,9 +338,9 @@
 <tbody>
 
 <tr>
-<td><img src="assets/discovery/"></td>
+<td><img src="assets/discovery/shuffledns.png"></td>
 <td><b>pdtm</b></td>
-<td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
+<td><a href="https://github.com/projectdiscovery/pdtm">GitHub</a></td>
 <td>(General-Recon): ProjectDiscovery's Open Source Tool Manager </td>
 </tr>
 
