@@ -338,6 +338,13 @@
 <tbody>
 
 <tr>
+<td><img src="assets/discovery/"></td>
+<td><b>pdtm</b></td>
+<td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
+<td>(General-Recon): ProjectDiscovery's Open Source Tool Manager </td>
+</tr>
+
+<tr>
 <td><img src="assets/discovery/ffuf.png"></td>
 <td><b>ffuf</b></td>
 <td><a href="https://github.com/ffuf/ffuf">GitHub</a></td>
@@ -1013,6 +1020,13 @@
 <td>(webhook): Lightweight HTTP Server with Public Exposure for Pentesting, Red Teaming and Bughunting</td>
 </tr>
 
+<tr>
+<td><img src="assets/discovery/assetnote.png"></td>
+<td><b>assetnote wordlists</b></td>
+<td><a href="https://wordlists.assetnote.io/">Website</a></td>
+<td>(wordlists): This website provides you with wordlists that are up to date and effective against the most popular technologies on the internet.</td>
+</tr>
+
 </tbody>
 </table>
 <br>
@@ -1563,7 +1577,7 @@
 <td><img src="assets/vulnerability-scanner/SecLists.png"></td>
 <td><b>SecLists</b></td>
 <td><a href="https://github.com/danielmiessler/SecLists">GitHub</a></td>
-<td>(Network-Web): Collection of multiple lists used in security assessments.</td>
+<td>(wordlists): Collection of multiple lists used in security assessments.</td>
 </tr>
 
 <tr>
