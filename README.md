@@ -14,7 +14,7 @@
   <br>
   <samp>
     <a href="https://web.facebook.com/ehphofficial" onclick="window.open(this.href,'_blank');return false;">
-      <b>EHPH member: l0n3m4n</b>
+      <b>EHPH member: L0N3M4N</b>
     </a>
   </samp>
 </p>
