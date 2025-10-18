@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-     <b>「 Author 」</b>
+     <h2>「 Author 」</h2>
   <samp>
     <br>
     <a href="https://web.facebook.com/ehphofficial" onclick="window.open(this.href,'_blank');return false;"><b>EHPH member:l0n3m4n</b>
