@@ -10,11 +10,11 @@
  
 
 <p align="center">
-  <img src="./assets/ehph.png" alt="Logo" width="200" />
+  <img src="./assets/ehph.png" alt="Logo" width="150" />
 </p>
 
 <div align="center">
-  <h2>「 Author 」</h2>
+  <h3>「 Author 」</h3>
   <samp>
     <a href="https://web.facebook.com/ehphofficial" target="_blank">
       <strong>EHPH member: l0n3m4n</strong>
