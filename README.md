@@ -266,6 +266,14 @@
 <td>(Cheatsheets): Useful C2 techniques and cheatsheets learned from engagements (Cobalt strike and sliver c2)</td>
 </tr>
 
+
+<tr>
+<td><img src="assets/cheatsheets/appsecexplained.jpeg"></td>
+<td><b>Appsecexplained</b></td>
+<td><a href="https://appsecexplained.gitbook.io/appsecexplained">Gitbook</a></td>
+<td>(Cheatsheets): This is a curated repository of notes and experience over many years of testing web applications. </td>
+</tr>
+
 <tr>
 <td><img src="assets/cheatsheets/Awesome-Pentest-cheatsheets.png  "></td>
 <td><b>Awesome-Pentest Cheatsheets</b></td>
