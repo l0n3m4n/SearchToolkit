@@ -9,10 +9,10 @@
 </p>
  
 
-<div style="text-align: center; margin-top: 0;">
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 0;">
   <img src="./assets/ehph.png" alt="Logo" style="width: 120px; height: auto; margin-bottom: 10px;" />
-  <strong style="display: block; margin-bottom: 5px;">「 Author 」</strong>
-  <samp>
+  <strong style="margin-bottom: 5px;">「 Author 」</strong>
+  <samp style="text-align: center;">
     <a href="https://web.facebook.com/ehphofficial" target="_blank" style="text-decoration: none; color: inherit;">
       <strong>EHPH member: l0n3m4n</strong>
     </a>
