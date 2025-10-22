@@ -10,7 +10,7 @@
  
 
 <p align="center" style="margin-top: 0;">
-  <img src="/assets/ehph.png" alt="Logo" width="150px" height="145px" style="display: block; margin: 0 auto 5px auto;">
+  <img src="./assets/ehph.png" alt="Logo" width="150px" height="145px" style="display: block; margin: 0 auto 5px auto;">
   <b style="display: block; margin-bottom: 5px;">「 Author 」</b>
   <samp>
     <a href="https://web.facebook.com/ehphofficial" onclick="window.open(this.href,'_blank');return false;">
