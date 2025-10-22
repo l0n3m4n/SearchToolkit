@@ -9,15 +9,16 @@
 </p>
  
 
-<p align="center" style="margin-top: 0;">
-  <img src="./assets/ehph.png" alt="Logo" width="150px" height="145px" style="display: block; margin: 0 auto 5px auto;">
-  <b style="display: block; margin-bottom: 5px;">「 Author 」</b>
+<div style="text-align: center; margin-top: 0;">
+  <img src="./assets/ehph.png" alt="Logo" style="width: 120px; height: auto; margin-bottom: 10px;" />
+  <strong style="display: block; margin-bottom: 5px;">「 Author 」</strong>
   <samp>
-    <a href="https://web.facebook.com/ehphofficial" onclick="window.open(this.href,'_blank');return false;">
-      <b>EHPH member: l0n3m4n</b>
+    <a href="https://web.facebook.com/ehphofficial" target="_blank" style="text-decoration: none; color: inherit;">
+      <strong>EHPH member: l0n3m4n</strong>
     </a>
   </samp>
-</p>
+</div>
+
 
 
  
