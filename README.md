@@ -13,16 +13,15 @@
   <img src="./assets/ehph.png" alt="Logo" width="200" />
 </p>
 
-<p align="center">
-  <strong>「 Author 」</strong>
-</p>
-
-<p align="center">
+<div align="center">
+  <h2>「 Author 」</h2>
   <samp>
-    <a href="https://web.facebook.com/ehphofficial" target="_blank"><strong>EHPH member: l0n3m4n</strong></a>
+    <a href="https://web.facebook.com/ehphofficial" target="_blank">
+      <strong>EHPH member: l0n3m4n</strong>
+      <br><br>
+    </a>
   </samp>
-</p>
-
+</div>
 
 
  
