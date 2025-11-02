@@ -337,7 +337,7 @@
 
 ## Discovery
 
-> reconnaissance, enumeration, fuzzing, AD DC, post-explotation and etc.
+> reconnaissance, enumeration, fuzzing, AD DC etc.
 
 <table>
 <thead>
@@ -349,6 +349,13 @@
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td><img src="assets/discovery/huntools.gif"></td>
+<td><b>huntools</b></td>
+<td><a href="https://github.com/l0n3m4n/huntools">GitHub</a></td>
+<td>(General): streamlined solution for managing your entire arsenal</td>
+</tr>
 
 <tr>
 <td><img src="assets/discovery/shuffledns.png"></td>
