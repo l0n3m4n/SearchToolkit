@@ -10,7 +10,7 @@
  
 
 <p align="center">
-  <img src="./assets/ehph.png" alt="Logo" width="250" />
+  <img src="./assets/ehph.png" alt="Logo" width="200" />
 </p>
 
 <div align="center">
