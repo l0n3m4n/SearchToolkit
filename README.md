@@ -3893,6 +3893,12 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
   </thead>
   <tbody>
     <tr>
+      <td><img src="assets/browser-extensions/rep+.jpg"></td>
+      <td><b>rep+</b></td>
+      <td><a href="https://github.com/bscript/rep.git">chrome extension</a></td>
+      <td>rep+ is a Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks </td>
+    </tr>
+    <tr>
       <td><img src="assets/browser-extensions/shodan.png"></td>
       <td><b>Shodan</b></td>
       <td><a href="https://addons.mozilla.org/es/firefox/addon/shodan-addon/">Firefox</a>
