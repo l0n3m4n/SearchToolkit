@@ -1453,7 +1453,7 @@
 </tr>
 
 <tr>
-<td><img src="assets"></td>
+<td><img src="assets/vulnerability-identification/cvefeed.png"></td>
 <td><b>CVEFeed</b></td>
 <td><a href="https://cvefeed.io/">Website</a></td>
 <td>CVE vulnerability & Threat Intelligence Hub</td>
