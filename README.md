@@ -1452,6 +1452,14 @@
 <td>Known Exploited Vulnerabilities Catalog</td>
 </tr>
 
+<tr>
+<td><img src="assets"></td>
+<td><b>CVEFeed</b></td>
+<td><a href="https://cvefeed.io/">Website</a></td>
+<td>CVE vulnerability & Threat Intelligence Hub</td>
+</tr>
+
+
 </tbody>
 </table>
 <br>
