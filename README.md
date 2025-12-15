@@ -215,6 +215,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/cheatsheets/"></td>
+<td><b>THC cheatshets</b></td>
+<td><a href="https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet">Github</a></td>
+<td>(Cheatsheets): THC's favourite Tips, Tricks & Hacks (Cheat Sheet)</td>
+</tr>
+
+<tr>
 <td><img src="assets/cheatsheets/cheat.png"></td>
 <td><b>cheat</b></td>
 <td><a href="https://github.com/cheat/cheat">Github</a></td>
@@ -2563,6 +2570,8 @@
 <td><a href="https://github.com/hansmach1ne/LFImap">Github</a></td>
 <td>(LFI): Local File Inclusion discovery and exploitation tool</td>
 </tr>
+
+
  
 </tbody>
 </table>
@@ -6917,6 +6926,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>PrivKit</td>
 <td><a href="https://github.com/mertdas/PrivKit">Github</a></td>
 <td>(Windows): PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.</td>
+
+<tr>
+<td><img src="assets/privilege-escalation/"></td>
+<td>hackshell</td>
+<td><a href="https://github.com/hackerschoice/hackshell">Github</a></td>
+<td>(Linux): Make BASH stealthy and hacker friendly with lots of bash functions </td>
+  
 </tr>
 </tbody>
 </table>
@@ -7103,6 +7119,13 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>EDRSilencer</td>
 <td><a href="https://github.com/netero1010/EDRSilencer">Github</a></td>
 <td>A tool that uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.</td>
+</tr>
+
+<tr>
+<td><img src="assets/evasion/"></td>
+<td>bincrypter</td>
+<td><a href="https://github.com/hackerschoice/bincrypter">Github</a></td>
+<td>Pack/Encrypt/Obfuscate ELF + SHELL scripts </td>
 </tr>
 </tbody>
 </table>
