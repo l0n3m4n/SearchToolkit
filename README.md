@@ -215,7 +215,7 @@
 </tr>
 
 <tr>
-<td><img src="assets/cheatsheets/"></td>
+<td><img src="assets/cheatsheets/hackerchoice_logo.jpg"></td>
 <td><b>THC cheatshets</b></td>
 <td><a href="https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet">Github</a></td>
 <td>(Cheatsheets): THC's favourite Tips, Tricks & Hacks (Cheat Sheet)</td>
@@ -6928,7 +6928,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>(Windows): PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.</td>
 
 <tr>
-<td><img src="assets/privilege-escalation/"></td>
+<td><img src="assets/cheatsheets/hackerchoice_logo.jpg"></td>
 <td>hackshell</td>
 <td><a href="https://github.com/hackerschoice/hackshell">Github</a></td>
 <td>(Linux): Make BASH stealthy and hacker friendly with lots of bash functions </td>
@@ -7122,7 +7122,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 </tr>
 
 <tr>
-<td><img src="assets/evasion/"></td>
+<td><img src="assets/cheatsheets/hackerchoice_logo.jpg"></td>
 <td>bincrypter</td>
 <td><a href="https://github.com/hackerschoice/bincrypter">Github</a></td>
 <td>Pack/Encrypt/Obfuscate ELF + SHELL scripts </td>
