@@ -3114,6 +3114,13 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 <td><a href="https://spyonweb.com/">Website</a></td>
 <td>Quick and convenient search for the websites that probably belong to the same owner</td>
 </tr>
+
+<tr>
+<td><img src="assets/domains/criminalIP.png"></td>
+<td><b>CriminaliP</b></td>
+<td><a href="https://www.criminalip.io/">Website</a></td>
+<td>A search engine specialized for device reputation, geolocation, IP for C2 or scanners, domain safety, malicious link detection etc.</td>
+</tr>
 </tbody>
 </table>
 <br>
