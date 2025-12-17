@@ -1361,12 +1361,6 @@
 <td>Vulnerability intelligence and management solution</td>
 </tr>
 
-<tr>
-<td><img src="assets/vulnerability-identification/SynapsInt.jpg"></td>
-<td><b>SynapsInt</b></td>
-<td><a href="https://synapsint.com/">Website</a></td>
-<td>The unified OSINT research tool</td>
-</tr>
 
 <tr>
 <td><img src="assets/vulnerability-identification/aqua.png"></td>
@@ -1671,13 +1665,6 @@
 <td><b>osv-scanner</b></td>
 <td><a href="https://github.com/google/osv-scanner">GitHub</a></td>
 <td>(Web): Vulnerability scanner written in Go which uses the data provided by.</td>
-</tr>
-
-<tr>
-<td><img src="assets/exploitation/commix.png"></td>
-<td><b>commix</b></td>
-<td><a href="https://github.com/commixproject/commix">GitHub</a></td>
-<td>(Web): Automated All-in-One OS Command Injection Exploitation Tool.</td>
 </tr>
 
 <tr>
@@ -8610,13 +8597,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>Decrypt MD5, SHA1, MySQL, NTLM, SHA256, MD5 Email, SHA256 Email, SHA512 hashes</td>
 </tr>
 
-<tr>
-<td><img src="assets/default_logo.png"></td>
-<td><b>Crackingstation</b></td>
-<td>Password Cracking</td>
-<td><a href="https://crackstation.net/">Website</a></td>
-<td>CrackStation uses massive pre-computed lookup tables to crack password hashes. </td>
-</tr>
+ 
 
 </tbody>
 </table>
