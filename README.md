@@ -3357,13 +3357,6 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
 </tr>
 
 
-<tr>
-<td><img src="assets/certificates/Crt.png"></td>
-<td><b>certs.io</b></td>
-<td><a href="https://certs.io/">Website</a></td>
-<td>Search TLS certificates across the internet</td>
-</tr>
-
 </tbody>
 </table>
 
