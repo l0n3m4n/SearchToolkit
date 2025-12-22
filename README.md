@@ -7287,7 +7287,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/lateral-movement/MSSQLand.png"></td>
 <td>mssqlclient-ng</td>
 <td><a href="https://github.com/n3rada/mssqlclient-ng">Github</a></td>
-<td>Python3 MS SQL client for external access from Unix. Supports Kerberos authentication, NT/LM hashes, and ticket-based access. The  MSSQLand for Unix-based operations.</td>
+<td>Python3 MS SQL client for external access from Unix. Supports Kerberos authentication, NT/LM hashes, and ticket-based access. The Unix-based counterpart to MSSQLand.</td>
 </tr>
 
 <tr>
