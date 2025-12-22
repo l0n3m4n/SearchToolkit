@@ -1829,6 +1829,13 @@
 </tr> 
 
 <tr>
+<td><img src="assets/exploitation/toboggan.png"></td>
+<td><b>toboggan</b></td>
+<td><a href="https://github.com/n3rada/toboggan">Github</a></td>
+<td>(Post-Exploitation): Universal RCE-to-shell framework supporting web shells (PHP/ASP/JSP), command injection, blind RCE, and SQL injection. Automatically adapts to any Linux target (BusyBox, AS/400, custom binaries) and creates interactive forward shells (mkfifo) with built-in obfuscation, file transfers, and proxy support. Your ultimate companion when reverse shells fail</td>
+</tr>
+
+<tr>
 <td><img src="assets/exploitation/GTFOArgs.png"></td>
 <td><b>GTFOArgs</b></td>
 <td><a href="https://gtfoargs.github.io/">Github</a></td>
@@ -7267,6 +7274,20 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td>SQLRecon</td>
 <td><a href="https://github.com/skahwah/SQLRecon">Github</a></td>
 <td>A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.</td>
+</tr>
+
+<tr>
+<td><img src="assets/lateral-movement/MSSQLand.png"></td>
+<td>MSSQLand</td>
+<td><a href="https://github.com/n3rada/MSSQLand">Github</a></td>
+<td>Built for interacting with MS SQL Server DBMS during red team activities. Designed for constrained environments using assembly execution, allowing operations through beacons, traversing linked servers, and impersonating users across multiple hops.</td>
+</tr>
+
+<tr>
+<td><img src="assets/lateral-movement/MSSQLand.png"></td>
+<td>mssqlclient-ng</td>
+<td><a href="https://github.com/n3rada/mssqlclient-ng">Github</a></td>
+<td>Python3 MS SQL client for external access from Unix. Supports Kerberos authentication, NT/LM hashes, and ticket-based access. The Unix-based counterpart to MSSQLand.</td>
 </tr>
 
 <tr>
