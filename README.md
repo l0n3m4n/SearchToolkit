@@ -1832,7 +1832,7 @@
 <td><img src="assets/exploitation/toboggan.png"></td>
 <td><b>toboggan</b></td>
 <td><a href="https://github.com/n3rada/toboggan">Github</a></td>
-<td>(Post-Exploitation): Universal RCE-to-shell framework supporting web shells (PHP/ASP/JSP), command injection, blind RCE, and SQL injection. Automatically adapts to any Linux target (BusyBox, AS/400, custom binaries) and creates interactive forward shells (mkfifo) with built-in obfuscation, file transfers, and proxy support. Your ultimate companion when reverse shells fail</td>
+<td>(Post-Exploitation): Universal RCE-to-shell framework supporting web shells (PHP/ASP/JSP), command injection, blind RCE, and SQL injection.</td>
 </tr>
 
 <tr>
