@@ -7280,7 +7280,7 @@ It's currently focused on OSINT, but any use related with Google is possible.
 <td><img src="assets/lateral-movement/MSSQLand.png"></td>
 <td>MSSQLand</td>
 <td><a href="https://github.com/n3rada/MSSQLand">Github</a></td>
-<td>Built for interacting with MS SQL Server DBMS during red team activities. Designed for constrained environments using assembly execution, allowing operations through beacons, traversing linked servers, and impersonating users across multiple hops.</td>
+<td>Designed to interact with MS SQL Server during red team ops enabling beacon-based actions, linked server traversal, and multi-hop user impersonation.</td>
 </tr>
 
 <tr>
