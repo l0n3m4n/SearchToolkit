@@ -1144,6 +1144,23 @@
 <td>This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet. </td>
 </tr>
 
+
+<tr>
+<td><img src="assets/devices-services/odin.jpg"></td>
+<td><b>getodin</b></td>
+<td><a href="https://getodin.com/">Website</a></td>
+<td>advanced search engines specifically
+designed for scanning and cataloging internet assets.</td>
+</tr>
+
+<tr>
+<td><img src="assets/devices-services/magnify.jpg"></td>
+<td><b>magnify modat</b></td>
+<td><a href="https://magnify.modat.io/">Website</a></td>
+<td>Modat Magnify gives you access to the largest internet device DNA dataset available Fast and Smart</td>
+</tr>
+
+
 </tbody>
 </table>
 <br>
@@ -1460,6 +1477,20 @@
 <td>CVE vulnerability & Threat Intelligence Hub</td>
 </tr>
 
+
+<tr>
+<td><img src="assets/vulnerability-identification/cvedb_shodan.png"></td>
+<td><b>CVEDB shodan</b></td>
+<td><a href="https://cvedb.shodan.io/">Website</a></td>
+<td>The CVEDB API offers a quick way to check information about vulnerabilities in a service.</td>
+</tr>
+
+tr>
+<td><img src="assets/vulnerability-identification/opencryptography.jpg"></td>
+<td><b>Opencryptography</b></td>
+<td><a href="https://opencryptography.com/">Website</a></td>
+<td>Explore our free public database of 214.8k unique Docker image scans for hidden cryptographic assets and critical implementation flaws</td>
+</tr>
 
 </tbody>
 </table>
@@ -5430,7 +5461,7 @@ of image- and audio-files</td>
 <p align="center">
   <a href="#tools"><b>Tools</b></a> 
   <a href="#phone-numbers"><b>Phone Numbers</b></a> |
-  <a href="#images"><b>Reverse Images</b></a> | 
+  <a href="#reverse-images"><b>Reverse Images</b></a> | 
   <a href="#mail-address"><b>Mail Address</b></a> | 
   <a href="#url"><b>URL</b></a> |
   <a href="#hidden-services"><b>Hidden Services</b></a> | 
@@ -5656,7 +5687,7 @@ of image- and audio-files</td>
 </table>
 <br>
 
-
+[⬆️ Back to OSINT](#OSINT)
 
 ## Reverse Images 
 
@@ -5675,6 +5706,12 @@ of image- and audio-files</td>
       <td><b>TinEye</b></td>
       <td><a href="https://tineye.com">Website</a></td>
       <td> TinEye is an image search and recognition company. We are experts in computer vision, pattern recognition, neural networks, and machine learning.</td>
+    </tr>
+      <tr>
+      <td><img src="assets/reverse-images/facecheck.png"></td>
+      <td><b>facecheck</b></td>
+      <td><a href="https://facecheck.id/">Website</a></td>
+      <td>Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.</td>
     </tr>
   </tbody>
 </table>
