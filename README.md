@@ -1499,6 +1499,22 @@ designed for scanning and cataloging internet assets.</td>
 <td>Automatically detect vulnerabilities, manage open source license risks, and meet legal obligations</td>
 </tr>
 
+<tr>
+<td><img src="assets/vulnerability-identification/lambdawatchdog.jpg"></td>
+<td><b>lambdawatchdog</b></td>
+<td><a href="https://lambdawatchdog.com/">Website</a></td>
+<td>Lambda Watchdog publishes daily security reports tracking AWS Lambda-related CVEs.</td>
+</tr>
+
+<tr>
+<td><img src="assets/vulnerability-identification/variotdbs.jpg"></td>
+<td><b>variotdbs</b></td>
+<td><a href="https://www.variotdbs.pl/vulns/">Website</a></td>
+<td>This web page is a frontend for a database covering vulnerabilities and exploits related to IoT devices</td>
+</tr>
+  
+
+
 
 </tbody>
 </table>
