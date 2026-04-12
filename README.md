@@ -1485,12 +1485,20 @@ designed for scanning and cataloging internet assets.</td>
 <td>The CVEDB API offers a quick way to check information about vulnerabilities in a service.</td>
 </tr>
 
-tr>
+<tr>
 <td><img src="assets/vulnerability-identification/opencryptography.jpg"></td>
 <td><b>Opencryptography</b></td>
 <td><a href="https://opencryptography.com/">Website</a></td>
 <td>Explore our free public database of 214.8k unique Docker image scans for hidden cryptographic assets and critical implementation flaws</td>
 </tr>
+
+<tr>
+<td><img src="assets/vulnerability-identification/vulert.png"></td>
+<td><b>vulert</b></td>
+<td><a href="https://vulert.com/vuln-db">Website</a></td>
+<td>Automatically detect vulnerabilities, manage open source license risks, and meet legal obligations</td>
+</tr>
+
 
 </tbody>
 </table>
@@ -5300,15 +5308,29 @@ of image- and audio-files</td>
 <tr>
 <td><img src="assets/resources/anonymousplanet.png"></td>
 <td><b>Anonymousplanet</b></td>
-<td><a href="https://anonymousplanet.org/ ">Website</a>
+<td><a href="https://anonymousplanet.org/">Website</a>
 <td>(Anonymity): The comprehensive guide for online anonymity and OpSec.</td>
 </tr>
 
 <tr>
 <td><img src="assets/resources/infocon.jpg"></td>
 <td><b>InfoCon</b></td>
-<td><a href="https://infocon.org/cons/ ">Website</a>
+<td><a href="https://infocon.org/cons/">Website</a>
 <td>(Conference): InfoCon is an archive of hacking and security conference videos from around the world.</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/thn.jpg"></td>
+<td><b>Thehackernews</b></td>
+<td><a href="https://thehackernews.com/">Website</a>
+<td>(Media): THN top and reliable source for the latest updates in cybersecurity</td>
+</tr>
+
+<tr>
+<td><img src="assets/resources/bleepingcomputers.png"></td>
+<td><b>bleepingcomputers</b></td>
+<td><a href="https://www.bleepingcomputer.com/">Website</a>
+<td>(Media): Bleeping Computer® is an information security and technology news publication</td>
 </tr>
 
 </tbody>
