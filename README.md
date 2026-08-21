@@ -1054,6 +1054,13 @@
 <td>(wordlists): This website provides you with wordlists that are up to date and effective against the most popular technologies on the internet.</td>
 </tr>
 
+<tr>
+<td><img src="assets/default_logo.png"></td>
+<td><b>Wordlists</b></td>
+<td><a href="https://github.com/kkrypt0nn/wordlistsk">Github</a></td>
+<td>(wordlists): Yet another collection of wordlists.</td>
+</tr>
+
 </tbody>
 </table>
 <br>
