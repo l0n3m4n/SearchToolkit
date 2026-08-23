@@ -1056,6 +1056,14 @@
 
 <tr>
 <td><img src="assets/default_logo.png"></td>
+<td><b>API-Wordlist</b></td>
+<td><a href="https://github.com/z5jt/API-documentation-Wordlist/tree/main">Github</a></td>
+<td>(wordlists): A wordlist of API documentation endpoint used for fuzzing web application APIs.</td>
+</tr>
+
+
+<tr>
+<td><img src="assets/default_logo.png"></td>
 <td><b>Wordlists</b></td>
 <td><a href="https://github.com/kkrypt0nn/wordlistsk">Github</a></td>
 <td>(wordlists): Yet another collection of wordlists.</td>
