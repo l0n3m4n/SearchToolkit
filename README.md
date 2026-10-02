@@ -5580,6 +5580,12 @@ of image- and audio-files</td>
       <td><a href="https://github.com/initstring/linkedin2username">Github</a></td>
       <td>(OSINT): Generate username lists for companies on LinkedIn</td>
     </tr>
+    <tr>
+      <td><img src="assets/"></td>
+      <td><b>opengridworks</b></td>
+      <td><a href="https://opengridworks.com/">Website</a></td>
+        <td>(OSINT): Live prices, power plants, and interconnection queues across the world and beyond.</td>
+    </tr>
      </tbody>
 </table>
 <br>
