@@ -4085,8 +4085,8 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
     </tr>
      <tr>
       <td><img src="assets/browser-extensions/hackbarv2.png"></td>
-      <td><b>HackBar v2</b></td>
-      <td><a href="https://addons.mozilla.org/en-US/firefox/addon/hackbar-free/">Firefox</a>
+      <td><b>HackBar</b></td>
+      <td><a href="https://chromewebstore.google.com/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc?hl=nl">Chrome</a>
       <td>A HackBar for google chrome/firefox browser. Small tool for pentesting websercurity.Load, split, execute url from address bar and etc.</td>
     </tr>
      <tr>
@@ -4147,7 +4147,14 @@ In the top 1 million sites there are 590 [lastview: 07-15-24] sites ending with 
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">Firefox</a>
       <a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en">Chrome</a></td>
       <td>Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.</td>
-    </tr><tr>
+    </tr>
+    <tr>
+      <td><img src="assets/browser-extensions/"></td>
+      <td><b>ProtonVPN</b></td>
+      <a href="https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa?">Chrome</a></td>
+      <td>Proton VPN is the world's only free VPN app that is safe to use and respects your privacy </td>
+    </tr>
+    <tr>
       <td><img src="assets/browser-extensions/Beautifer.png"></td>
       <td><b>Code Beautifer/Minifier</b></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/addon/js-beautify-css-html/">Firefox</a>
