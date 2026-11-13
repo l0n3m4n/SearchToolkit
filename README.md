@@ -1139,6 +1139,13 @@
 </tr>
 
 <tr>
+<td><img src="assets/devices-services/Whatoblock.png"></td>
+<td><b>Whatoblock</b></td>
+<td><a href="https://whatoblock.com/">Website</a></td>
+<td>Honeypot-observed scanner, botnet, proxy and Tor exit IP activity, with the ports and services each IP targets.</td>
+</tr>
+
+<tr>
 <td><img src="assets/devices-services/Netlas.png"></td>
 <td><b>Netlas</b></td>
 <td><a href="https://netlas.io/">Website</a></td>
